@@ -1,15 +1,28 @@
 // src/screens/LearnScreen.tsx
 import React, { useState, useEffect } from 'react';
-import { StyleSheet, Text, View, TouchableOpacity, SafeAreaView } from 'react-native';
+import {
+  StyleSheet,
+  Text,
+  View,
+  TouchableOpacity,
+  SafeAreaView,
+  ScrollView,
+} from 'react-native';
 import { COLORS, SPACING, FONT_SIZE } from '../constants/theme';
-import { MOCK_CARDS } from '../data/mockData';
+import { MOCK_CARDS, CATEGORIES } from '../data/mockData';
 import { FlipCard } from '../components/FlipCard';
 import { getUserProfile, addXP } from '../services/storageService';
-import { UserProfile } from '../types';
+import { UserProfile, Category } from '../types';
 
 export const LearnScreen = ({ navigation }: any) => {
+  const [selectedCategory, setSelectedCategory] = useState<Category | 'all'>('all');
   const [currentIndex, setCurrentIndex] = useState(0);
   const [userProfile, setUserProfile] = useState<UserProfile | null>(null);
+
+  // Kategoriye göre filtrelenmiş kartlar
+  const filteredCards = MOCK_CARDS.filter((card) =>
+    selectedCategory === 'all' ? true : card.categoryId === selectedCategory
+  );
 
   const loadProfile = async () => {
     const profile = await getUserProfile();
@@ -19,6 +32,12 @@ export const LearnScreen = ({ navigation }: any) => {
   useEffect(() => {
     loadProfile();
   }, []);
+
+  // Kategori değiştiğinde indeksi sıfırla
+  const handleCategorySelect = (catId: Category | 'all') => {
+    setSelectedCategory(catId);
+    setCurrentIndex(0);
+  };
 
   const handleLearned = async () => {
     const updated = await addXP(10);
@@ -31,15 +50,14 @@ export const LearnScreen = ({ navigation }: any) => {
   };
 
   const nextCard = () => {
-    if (currentIndex < MOCK_CARDS.length - 1) {
+    if (currentIndex < filteredCards.length - 1) {
       setCurrentIndex((prev) => prev + 1);
     } else {
-      // Tüm kartlar bittiğinde ilk karta dön veya tamamlama göster
       setCurrentIndex(0);
     }
   };
 
-  const currentCard = MOCK_CARDS[currentIndex];
+  const currentCard = filteredCards[currentIndex];
 
   return (
     <SafeAreaView style={styles.container}>
@@ -52,7 +70,9 @@ export const LearnScreen = ({ navigation }: any) => {
 
         <View style={styles.progressBox}>
           <Text style={styles.cardCounter}>
-            Kart {currentIndex + 1} / {MOCK_CARDS.length}
+            {filteredCards.length > 0
+              ? `Kart ${currentIndex + 1} / ${filteredCards.length}`
+              : 'Kart Yok'}
           </Text>
         </View>
 
@@ -62,14 +82,41 @@ export const LearnScreen = ({ navigation }: any) => {
         </View>
       </View>
 
+      {/* Kategori Seçim Çipleri (Horizontal Scroll) */}
+      <View style={styles.categoryBar}>
+        <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.categoryScroll}>
+          {CATEGORIES.map((cat) => {
+            const isSelected = selectedCategory === cat.id;
+            return (
+              <TouchableOpacity
+                key={cat.id}
+                style={[styles.categoryChip, isSelected && styles.selectedCategoryChip]}
+                onPress={() => handleCategorySelect(cat.id)}
+              >
+                <Text style={styles.categoryIcon}>{cat.icon}</Text>
+                <Text style={[styles.categoryText, isSelected && styles.selectedCategoryText]}>
+                  {cat.name}
+                </Text>
+              </TouchableOpacity>
+            );
+          })}
+        </ScrollView>
+      </View>
+
       {/* 3D Flip Kart Alanı */}
       <View style={styles.cardArea}>
-        <FlipCard
-          key={currentCard.id}
-          card={currentCard}
-          onLearned={handleLearned}
-          onRepeat={handleRepeat}
-        />
+        {currentCard ? (
+          <FlipCard
+            key={currentCard.id}
+            card={currentCard}
+            onLearned={handleLearned}
+            onRepeat={handleRepeat}
+          />
+        ) : (
+          <View style={styles.emptyContainer}>
+            <Text style={styles.emptyText}>Bu kategoride henüz kart bulunmuyor.</Text>
+          </View>
+        )}
       </View>
 
       {/* Alt Gezinme Butonları */}
@@ -95,12 +142,12 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     alignItems: 'center',
     paddingHorizontal: SPACING.md,
-    paddingTop: SPACING.md,
-    marginBottom: SPACING.sm,
+    paddingTop: SPACING.sm,
+    marginBottom: SPACING.xs,
   },
   statBox: {
     backgroundColor: '#FFFFFF',
-    paddingHorizontal: SPACING.md,
+    paddingHorizontal: SPACING.sm + 4,
     paddingVertical: SPACING.xs,
     borderRadius: 12,
     alignItems: 'center',
@@ -126,10 +173,52 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: COLORS.textSecondary,
   },
+  categoryBar: {
+    marginVertical: SPACING.xs,
+  },
+  categoryScroll: {
+    paddingHorizontal: SPACING.md,
+    gap: 8,
+  },
+  categoryChip: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#FFFFFF',
+    borderWidth: 1,
+    borderColor: COLORS.border,
+    paddingHorizontal: 12,
+    paddingVertical: 8,
+    borderRadius: 20,
+  },
+  selectedCategoryChip: {
+    backgroundColor: COLORS.primary,
+    borderColor: COLORS.primary,
+  },
+  categoryIcon: {
+    fontSize: 14,
+    marginRight: 6,
+  },
+  categoryText: {
+    fontSize: FONT_SIZE.xs,
+    fontWeight: '600',
+    color: COLORS.textSecondary,
+  },
+  selectedCategoryText: {
+    color: '#FFFFFF',
+    fontWeight: 'bold',
+  },
   cardArea: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+  },
+  emptyContainer: {
+    padding: SPACING.xl,
+    alignItems: 'center',
+  },
+  emptyText: {
+    fontSize: FONT_SIZE.md,
+    color: COLORS.textSecondary,
   },
   footer: {
     padding: SPACING.md,

@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "art_1",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Mona Lisa",
+      "frontText": "Mona Lisa tablosu kime aittir ve nerede sergilenir?",
+      "backText": "Leonardo da Vinci tarafından yapılmıştır ve Paris'teki Louvre Müzesi'nde sergilenir."
+    },
+    "quiz": {
+      "questionText": "Dünyaca ünlü Mona Lisa tablosu hangi müzede sergilenmektedir?",
+      "options": [
+        { "id": "o1", "text": "British Museum", "isCorrect": false },
+        { "id": "o2", "text": "Louvre Müzesi", "isCorrect": true },
+        { "id": "o3", "text": "Prado Müzesi", "isCorrect": false },
+        { "id": "o4", "text": "Vatikan Müzesi", "isCorrect": false }
+      ],
+      "explanation": "Mona Lisa, Fransa'nın Paris kentindeki Louvre Müzesi'nde korunmaktadır."
+    }
+  },
+  {
+    "id": "art_2",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Yıldızlı Gece",
+      "frontText": "'Yıldızlı Gece' (The Starry Night) tablosunun ressamı kimdir?",
+      "backText": "Hollandalı post-empresyonist ressam Vincent van Gogh."
+    },
+    "quiz": {
+      "questionText": "'Yıldızlı Gece' (The Starry Night) eserinin yaratıcısı olan ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Pablo Picasso", "isCorrect": false },
+        { "id": "o2", "text": "Vincent van Gogh", "isCorrect": true },
+        { "id": "o3", "text": "Claude Monet", "isCorrect": false },
+        { "id": "o4", "text": "Salvador Dalí", "isCorrect": false }
+      ],
+      "explanation": "Yıldızlı Gece, Van Gogh'un 1889 yılında akıl hastanesindeki odasından gördüğü Saint-Rémy-de-Provence manzarasını resmettiği tablosudur."
+    }
+  },
+  {
+    "id": "art_3",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Son Akşam Yemeği",
+      "frontText": "'Son Akşam Yemeği' (The Last Supper) freski kime aittir?",
+      "backText": "Leonardo da Vinci'nin Milano'daki Santa Maria delle Grazie manastırının duvarına yaptığı eserdir."
+    },
+    "quiz": {
+      "questionText": "İsa ve havarilerinin son yemeğini konu alan ikonik 'Son Akşam Yemeği' eserinin sanatçısı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Leonardo da Vinci", "isCorrect": true },
+        { "id": "o2", "text": "Michelangelo", "isCorrect": false },
+        { "id": "o3", "text": "Raphael", "isCorrect": false },
+        { "id": "o4", "text": "Sandro Botticelli", "isCorrect": false }
+      ],
+      "explanation": "Leonardo da Vinci, bu duvar resmini 15. yüzyıl sonlarında Milano'da tamamlamıştır."
+    }
+  },
+  {
+    "id": "art_4",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Guernica",
+      "frontText": "'Guernica' tablosunun yaratıcısı kimdir?",
+      "backText": "İspanyol ressam Pablo Picasso. Kübik tarzda yapılmış savaş karşıtı bir başyapıttır."
+    },
+    "quiz": {
+      "questionText": "İspanya İç Savaşı sırasında Guernica şehrinin bombalanmasını anlatan kübik tablo kimin eseridir?",
+      "options": [
+        { "id": "o1", "text": "Pablo Picasso", "isCorrect": true },
+        { "id": "o2", "text": "Salvador Dalí", "isCorrect": false },
+        { "id": "o3", "text": "Joan Miró", "isCorrect": false },
+        { "id": "o4", "text": "Francisco Goya", "isCorrect": false }
+      ],
+      "explanation": "Picasso'nun Guernica tablosu, savaşın trajedisini ve insan acısını simgeleyen en ünlü sanat eserlerindendir."
+    }
+  },
+  {
+    "id": "art_5",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Belleğin Azmi",
+      "frontText": "'Eriyen Saatler' olarak da bilinen 'Belleğin Azmi' tablosu kime aittir?",
+      "backText": "Sürrealizmin öncülerinden İspanyol ressam Salvador Dalí."
+    },
+    "quiz": {
+      "questionText": "Eriyen cepler ve saat figürleriyle tanınan Sürrealist 'Belleğin Azmi' tablosunun ressamı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Salvador Dalí", "isCorrect": true },
+        { "id": "o2", "text": "René Magritte", "isCorrect": false },
+        { "id": "o3", "text": "Max Ernst", "isCorrect": false },
+        { "id": "o4", "text": "Frida Kahlo", "isCorrect": false }
+      ],
+      "explanation": "Salvador Dalí, 1931 yapımı bu eserinde katı ve esnek zaman kavramlarını sorgulamıştır."
+    }
+  },
+  {
+    "id": "art_6",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Çığlık",
+      "frontText": "'Çığlık' (The Scream) tablosu kime aittir?",
+      "backText": "Norveçli dışavurumcu (ekspresyonist) ressam Edvard Munch."
+    },
+    "quiz": {
+      "questionText": "Modern insanın varoluşsal kaygısını ifade eden ünlü 'Çığlık' tablosunun ressamı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Edvard Munch", "isCorrect": true },
+        { "id": "o2", "text": "Gustav Klimt", "isCorrect": false },
+        { "id": "o3", "text": "Egon Schiele", "isCorrect": false },
+        { "id": "o4", "text": "Wassily Kandinsky", "isCorrect": false }
+      ],
+      "explanation": "Edvard Munch, 1893 tarihli bu tablosunda doğanın ve insanın içsel çığlığını tuvale yansıtmıştır."
+    }
+  },
+  {
+    "id": "art_7",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - İnci Küpeli Kız",
+      "frontText": "'İnci Küpeli Kız' tablosu kime aittir?",
+      "backText": "Hollandalı Barok ressam Johannes Vermeer (Kuzeyin Mona Lisa'sı olarak anılır)."
+    },
+    "quiz": {
+      "questionText": "'Kuzeyin Mona Lisa'sı' olarak da adlandırılan 'İnci Küpeli Kız' tablosunu kim çizmiştir?",
+      "options": [
+        { "id": "o1", "text": "Johannes Vermeer", "isCorrect": true },
+        { "id": "o2", "text": "Rembrandt", "isCorrect": false },
+        { "id": "o3", "text": "Peter Paul Rubens", "isCorrect": false },
+        { "id": "o4", "text": "Anthony van Dyck", "isCorrect": false }
+      ],
+      "explanation": "Johannes Vermeer, 1665 civarında tamamladığı bu eserde ışık ve gölge ustalığını sergilemiştir."
+    }
+  },
+  {
+    "id": "art_8",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Venüs'ün Doğuşu",
+      "frontText": "'Venüs'ün Doğuşu' (The Birth of Venus) tablosu kime aittir?",
+      "backText": "İtalyan Rönesans ressamı Sandro Botticelli."
+    },
+    "quiz": {
+      "questionText": "Deniz köpüklerinden doğan Venüs'ü bir deniz kabuğu üzerinde tasvir eden rönesans tablosu kimin eseridir?",
+      "options": [
+        { "id": "o1", "text": "Sandro Botticelli", "isCorrect": true },
+        { "id": "o2", "text": "Titiano", "isCorrect": false },
+        { "id": "o3", "text": "Caravaggio", "isCorrect": false },
+        { "id": "o4", "text": "Giotto", "isCorrect": false }
+      ],
+      "explanation": "Botticelli'nin bu eseri İtalya Floransa'daki Uffizi Galerisi'nde sergilenmektedir."
+    }
+  },
+  {
+    "id": "art_9",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Kaplumbağa Terbiyecisi",
+      "frontText": "'Kaplumbağa Terbiyecisi' tablosu kime aittir?",
+      "backText": "Türk ressam Osman Hamdi Bey (Pera Müzesi'nde sergilenmektedir)."
+    },
+    "quiz": {
+      "questionText": "Osmanlı aydınlanmasını ve sabırlı eğitimi simgeleyen 'Kaplumbağa Terbiyecisi' eseri kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Osman Hamdi Bey", "isCorrect": true },
+        { "id": "o2", "text": "Şeker Ahmet Paşa", "isCorrect": false },
+        { "id": "o3", "text": "Hoca Ali Rıza", "isCorrect": false },
+        { "id": "o4", "text": "İbrahim Çallı", "isCorrect": false }
+      ],
+      "explanation": "Osman Hamdi Bey'in 1906 yapımı bu ünlü tablosu İstanbul Pera Müzesi'nde yer alır."
+    }
+  },
+  {
+    "id": "art_10",
+    "categoryId": "art",
+    "card": {
+      "title": "Heykel - Davut (David)",
+      "frontText": "Rönesans'ın simgesi sayılan mermer 'Davut' heykeli kime aittir?",
+      "backText": "İtalyan heykeltıraş ve ressam Michelangelo."
+    },
+    "quiz": {
+      "questionText": "Floransa'da sergilenen dünyaca ünlü 'Davut' (David) heykeli hangi sanatçının eseridir?",
+      "options": [
+        { "id": "o1", "text": "Michelangelo", "isCorrect": true },
+        { "id": "o2", "text": "Donatello", "isCorrect": false },
+        { "id": "o3", "text": "Bernini", "isCorrect": false },
+        { "id": "o4", "text": "Auguste Rodin", "isCorrect": false }
+      ],
+      "explanation": "Michelangelo bu heykeli 1501-1504 yılları arasında tek bir blok mermeri işleyerek yapmıştır."
+    }
+  },
+  {
+    "id": "art_11",
+    "categoryId": "art",
+    "card": {
+      "title": "Heykel - Düşünen Adam",
+      "frontText": "'Düşünen Adam' (The Thinker) heykeli kime aittir?",
+      "backText": "Fransız heykeltıraş Auguste Rodin."
+    },
+    "quiz": {
+      "questionText": "Felsefi düşünceyi ve insan zihnini simgeleyen 'Düşünen Adam' heykeli kimin eseridir?",
+      "options": [
+        { "id": "o1", "text": "Auguste Rodin", "isCorrect": true },
+        { "id": "o2", "text": "Alberto Giacometti", "isCorrect": false },
+        { "id": "o3", "text": "Henry Moore", "isCorrect": false },
+        { "id": "o4", "text": "Constantin Brâncuși", "isCorrect": false }
+      ],
+      "explanation": "Auguste Rodin bu eseri Cehennemin Kapıları adlı dev projesinin bir parçası olarak tasarlamıştır."
+    }
+  },
+  {
+    "id": "art_12",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Öpücük (The Kiss)",
+      "frontText": "Altın varak işlemeli 'Öpücük' (The Kiss) tablosu kime aittir?",
+      "backText": "Avusturyalı sembolist ressam Gustav Klimt."
+    },
+    "quiz": {
+      "questionText": "Altın yapraklar ve geometrik desenlerle süslenmiş ünlü 'Öpücük' tablosunun ressamı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Gustav Klimt", "isCorrect": true },
+        { "id": "o2", "text": "Alphonse Mucha", "isCorrect": false },
+        { "id": "o3", "text": "Egon Schiele", "isCorrect": false },
+        { "id": "o4", "text": "Paul Klee", "isCorrect": false }
+      ],
+      "explanation": "Gustav Klimt, 'Altın Dönemi'nin en parlak örneği olan bu eseri Viyana'da tamamlamıştır."
+    }
+  },
+  {
+    "id": "art_13",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Adem'in Yaratılışı",
+      "frontText": "Sistine Şapeli tavanındaki 'Adem'in Yaratılışı' freski kime aittir?",
+      "backText": "Michelangelo (Vatikan'daki Sistine Şapeli'ndedir)."
+    },
+    "quiz": {
+      "questionText": "Tanrı ile Adem'in parmaklarının birbirine değdiği anı tasvir eden ikonik tavan freski kimin eseridir?",
+      "options": [
+        { "id": "o1", "text": "Michelangelo", "isCorrect": true },
+        { "id": "o2", "text": "Leonardo da Vinci", "isCorrect": false },
+        { "id": "o3", "text": "Rafael", "isCorrect": false },
+        { "id": "o4", "text": "Botticelli", "isCorrect": false }
+      ],
+      "explanation": "Michelangelo, Vatikan'daki Sistine Şapeli'nin tavanına bu devasa fresk serisini çizmiştir."
+    }
+  },
+  {
+    "id": "art_14",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Atina Okulu",
+      "frontText": "'Atina Okulu' (The School of Athens) freski kime aittir?",
+      "backText": "İtalyan Rönesans ressamı Rafael (Raffaello Sanzio)."
+    },
+    "quiz": {
+      "questionText": "Platon ve Aristoteles gibi antik filozofları bir arada gösteren 'Atina Okulu' eseri kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Rafael", "isCorrect": true },
+        { "id": "o2", "text": "Michelangelo", "isCorrect": false },
+        { "id": "o3", "text": "Leonardo da Vinci", "isCorrect": false },
+        { "id": "o4", "text": "Donatello", "isCorrect": false }
+      ],
+      "explanation": "Rafael, Vatikan Sarayı'ndaki Stanza della Segnatura odasının duvarına bu şaheseri çizmiştir."
+    }
+  },
+  {
+    "id": "art_15",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Gece Devriyesi",
+      "frontText": "'Gece Devriyesi' (The Night Watch) tablosu kime aittir?",
+      "backText": "Hollandalı Barok usta Rembrandt van Rijn."
+    },
+    "quiz": {
+      "questionText": "Amsterdam Rijksmuseum'da sergilenen devasa 'Gece Devriyesi' tablosu hangi ressama aittir?",
+      "options": [
+        { "id": "o1", "text": "Rembrandt", "isCorrect": true },
+        { "id": "o2", "text": "Vermeer", "isCorrect": false },
+        { "id": "o3", "text": "Frans Hals", "isCorrect": false },
+        { "id": "o4", "text": "Hieronymus Bosch", "isCorrect": false }
+      ],
+      "explanation": "Rembrandt'ın bu eseri, ışık ve gölge kullanımı ile grup portreciliğinde bir devrim kabul edilir."
+    }
+  },
+  {
+    "id": "art_16",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Halka Yol Gösteren Özgürlük",
+      "frontText": "'Halka Yol Gösteren Özgürlük' tablosu kime aittir?",
+      "backText": "Fransız Romantik ressam Eugène Delacroix (1830 Fransız Devrimi'ni anlatır)."
+    },
+    "quiz": {
+      "questionText": "Elinde Fransız bayrağı tutan kadın figürüyle Fransız Devrimi'ni sembolize eden tablo kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Eugène Delacroix", "isCorrect": true },
+        { "id": "o2", "text": "Théodore Géricault", "isCorrect": false },
+        { "id": "o3", "text": "Jacques-Louis David", "isCorrect": false },
+        { "id": "o4", "text": "Jean-Auguste-Dominique Ingres", "isCorrect": false }
+      ],
+      "explanation": "Delacroix bu tablosunda romantizm akımının coşkusunu ve özgürlük arayışını tuvale dökmüştür."
+    }
+  },
+  {
+    "id": "art_17",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Nilüferler (Nymphéas)",
+      "frontText": "Yüzlerce 'Nilüferler' tablosundan oluşan serinin ressamı kimdir?",
+      "backText": "İzlenimcilik (Empresyonizm) akımının kurucularından Claude Monet."
+    },
+    "quiz": {
+      "questionText": "Giverny'deki bahçesindeki havuzda yetişen nilüferleri farklı ışık saatlerinde resmeden ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Claude Monet", "isCorrect": true },
+        { "id": "o2", "text": "Pierre-Auguste Renoir", "isCorrect": false },
+        { "id": "o3", "text": "Édouard Manet", "isCorrect": false },
+        { "id": "o4", "text": "Edgar Degas", "isCorrect": false }
+      ],
+      "explanation": "Monet, hayatının son 30 yılında ışık etkilerini incelemek için 250'den fazla Nilüfer tablosu yapmıştır."
+    }
+  },
+  {
+    "id": "art_18",
+    "categoryId": "art",
+    "card": {
+      "title": "Sanat Akımları - İzlenimcilik (Empresyonizm)",
+      "frontText": "Empresyonizm akımına adını veren 'İzlenim: Doğan Güneş' tablosu kime aittir?",
+      "backText": "Claude Monet (1872 yapımı eseriyle akımın adını koymuştur)."
+    },
+    "quiz": {
+      "questionText": "'Empresyonizm' (İzlenimcilik) teriminin doğmasına yol açan 'İzlenim: Doğan Güneş' tablosunun ressamı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Claude Monet", "isCorrect": true },
+        { "id": "o2", "text": "Paul Cézanne", "isCorrect": false },
+        { "id": "o3", "text": "Camille Pissarro", "isCorrect": false },
+        { "id": "o4", "text": "Paul Gauguin", "isCorrect": false }
+      ],
+      "explanation": "Monet'nin bu eseri sergilendiğinde eleştirmenlerin 'sadece bir izlenim' demesiyle akımın adı doğmuştur."
+    }
+  },
+  {
+    "id": "art_19",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Dünyevi Zevkler Bahçesi",
+      "frontText": "'Dünyevi Zevkler Bahçesi' triptiği kime aittir?",
+      "backText": "Erken Hollanda resminin fantastik ve karmaşık eserleriyle ünlü ressamı Hieronymus Bosch."
+    },
+    "quiz": {
+      "questionText": "Cennet, dünya ve cehennem tasvirlerini içeren üç kanatlı 'Dünyevi Zevkler Bahçesi' tablosu kimin eseridir?",
+      "options": [
+        { "id": "o1", "text": "Hieronymus Bosch", "isCorrect": true },
+        { "id": "o2", "text": "Pieter Bruegel", "isCorrect": false },
+        { "id": "o3", "text": "Jan van Eyck", "isCorrect": false },
+        { "id": "o4", "text": "Albrecht Dürer", "isCorrect": false }
+      ],
+      "explanation": "Bosch'un bu eseri Madrid Prado Müzesi'nde sergilenmekte olup sembolik ve gizemli detaylarla doludur."
+    }
+  },
+  {
+    "id": "art_20",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Las Meninas (Nedimeler)",
+      "frontText": "'Las Meninas' (Nedimeler) tablosu kime aittir?",
+      "backText": "İspanyol Barok ressam Diego Velázquez."
+    },
+    "quiz": {
+      "questionText": "İspanyol Kraliyet ailesini ve kendisini resim yaparken gösteren karmaşık perspektifli 'Las Meninas' eseri kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Diego Velázquez", "isCorrect": true },
+        { "id": "o2", "text": "El Greco", "isCorrect": false },
+        { "id": "o3", "text": "Bartolomé Esteban Murillo", "isCorrect": false },
+        { "id": "o4", "text": "Francisco de Zurbarán", "isCorrect": false }
+      ],
+      "explanation": "Velázquez'in bu eseri, sanat tarihinde izleyici ve ressam arasındaki ilişkiyi sorgulatan en önemli tablolardandır."
+    }
+  },
+  {
+    "id": "art_21",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - 3 Mayıs 1808",
+      "frontText": "'3 Mayıs 1808' (The Third of May 1808) tablosu kime aittir?",
+      "backText": "İspanyol ressam Francisco Goya. Napolyon askerlerinin İspanyol direnişçileri kurşuna dizmesini anlatır."
+    },
+    "quiz": {
+      "questionText": "Savaşın dehşetini kollarını açmış beyaz gömlekli bir adam figürüyle ölümsüzleştiren '3 Mayıs 1808' eseri kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Francisco Goya", "isCorrect": true },
+        { "id": "o2", "text": "Diego Velázquez", "isCorrect": false },
+        { "id": "o3", "text": "Pablo Picasso", "isCorrect": false },
+        { "id": "o4", "text": "Salvador Dalí", "isCorrect": false }
+      ],
+      "explanation": "Goya bu eserinde Fransız işgaline karşı duran halkın dramını sert bir gerçekçilikle tuvale aktarmıştır."
+    }
+  },
+  {
+    "id": "art_22",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Avignonlu Kızlar",
+      "frontText": "Kübizm akımının öncüsü kabul edilen 'Avignonlu Kızlar' tablosu kime aittir?",
+      "backText": "Pablo Picasso (1907 yapımı eseriyle kübizm dönemini başlatmıştır)."
+    },
+    "quiz": {
+      "questionText": "Geometrik formlar ve Afrika maskelerinden esinlenerek Kübizmin temellerini atan 'Avignonlu Kızlar' kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Pablo Picasso", "isCorrect": true },
+        { "id": "o2", "text": "Georges Braque", "isCorrect": false },
+        { "id": "o3", "text": "Juan Gris", "isCorrect": false },
+        { "id": "o4", "text": "Fernand Léger", "isCorrect": false }
+      ],
+      "explanation": "Picasso'nun 1907 yapımı bu tablosu, Batı resim sanatında geleneksel perspektifi yıkan dönüm noktasıdır."
+    }
+  },
+  {
+    "id": "art_23",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Otoportreler ve Kahlo",
+      "frontText": "Çarpıcı ve acı dolu oto-portreleriyle tanınan Meksikalı kadın ressam kimdir?",
+      "backText": "Frida Kahlo."
+    },
+    "quiz": {
+      "questionText": "Geçirdiği ağır kaza ve yaşadığı acıları kendi oto-portrelerine yansıtan dünyaca ünlü Meksikalı ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Frida Kahlo", "isCorrect": true },
+        { "id": "o2", "text": "Georgia O'Keeffe", "isCorrect": false },
+        { "id": "o3", "text": "Tamara de Lempicka", "isCorrect": false },
+        { "id": "o4", "text": "Mary Cassatt", "isCorrect": false }
+      ],
+      "explanation": "Frida Kahlo, kendi yaşamını ve Meksika kültürünü Sürrealist ögelerle birleştirerek eserler üretmiştir."
+    }
+  },
+  {
+    "id": "art_24",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Arnolfini'nin Evlenmesi",
+      "frontText": "'Arnolfini'nin Evlenmesi' tablosundaki ayna detaylarıyla ünlü Erken Flaman ressam kimdir?",
+      "backText": "Jan van Eyck (Yağlı boya tekniğini mükemmelleştiren ustalardandır)."
+    },
+    "quiz": {
+      "questionText": "Arkadaki bükey aynada kendisini de yansıtan detaylı 'Arnolfini'nin Evlenmesi' tablosu kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Jan van Eyck", "isCorrect": true },
+        { "id": "o2", "text": "Rogier van der Weyden", "isCorrect": false },
+        { "id": "o3", "text": "Hans Memling", "isCorrect": false },
+        { "id": "o4", "text": "Albrecht Dürer", "isCorrect": false }
+      ],
+      "explanation": "Jan van Eyck, 1434 yapımı bu tablosunda sembolizm ve optik detaylarda çığır açmıştır."
+    }
+  },
+  {
+    "id": "art_25",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Babil Kulesi",
+      "frontText": "'Babil Kulesi' tablosunu çizen Hollandalı Rönesans ressamı kimdir?",
+      "backText": "Pieter Bruegel (Kıdemli Bruegel)."
+    },
+    "quiz": {
+      "questionText": "İncil'deki Babil Kulesi hikayesini görkemli ve detaylı mimariyle tuvale aktaran ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Pieter Bruegel", "isCorrect": true },
+        { "id": "o2", "text": "Hieronymus Bosch", "isCorrect": false },
+        { "id": "o3", "text": "Albrecht Dürer", "isCorrect": false },
+        { "id": "o4", "text": "Lucas Cranach", "isCorrect": false }
+      ],
+      "explanation": "Pieter Bruegel köylü yaşamı ve dini temaları harmanladığı detaylı tablolarıyla bilinir."
+    }
+  },
+  {
+    "id": "art_26",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Medusa'nın Salı",
+      "frontText": "'Medusa'nın Salı' (The Raft of the Medusa) tablosu kime aittir?",
+      "backText": "Fransız Romantik ressam Théodore Géricault."
+    },
+    "quiz": {
+      "questionText": "Bir deniz kazası sonrası hayatta kalmaya çalışan insanların dramını anlatan Romantik tablo kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Théodore Géricault", "isCorrect": true },
+        { "id": "o2", "text": "Eugène Delacroix", "isCorrect": false },
+        { "id": "o3", "text": "J.M.W. Turner", "isCorrect": false },
+        { "id": "o4", "text": "John Constable", "isCorrect": false }
+      ],
+      "explanation": "Géricault bu tabloyu yaparken insan anatomisini ve deniz kazasını gerçek insan modelleriyle incelemiştir."
+    }
+  },
+  {
+    "id": "art_27",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - İncili Çavuş ve Türk Resminde Nü",
+      "frontText": "Türk resminde ilk defa nü (çıplak) eserler veren usta ressam kimdir?",
+      "backText": "Osman Hamdi Bey veya Süleyman Seyyid'in yanı sıra ilk nü sergileyenlerden biri İbrahim Çallı'dır."
+    },
+    "quiz": {
+      "questionText": "Çallı Kuşağı liderlerinden olan ve Türk resminde nü ve manzara konularında çığır açan ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "İbrahim Çallı", "isCorrect": true },
+        { "id": "o2", "text": "Hikmet Onat", "isCorrect": false },
+        { "id": "o3", "text": "Feyhaman Duran", "isCorrect": false },
+        { "id": "o4", "text": "Namık İsmail", "isCorrect": false }
+      ],
+      "explanation": "İbrahim Çallı, 1914 Kuşağı ressamlarının başında gelir ve Türk resminde özgür figürleri işlemiştir."
+    }
+  },
+  {
+    "id": "art_28",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Silah Taciri ve Doğu Temaları",
+      "frontText": "Oryantalizm akımına Türk gözüyle yanıt veren ünlü ressam ve müzeci kimdir?",
+      "backText": "Osman Hamdi Bey (Arkeoloji Müzesi'nin de kurucusudur)."
+    },
+    "quiz": {
+      "questionText": "İstanbul Arkeoloji Müzesi'nin kurucusu ve 'Mihrap', 'Silah Taciri' tablolarının sahibi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Osman Hamdi Bey", "isCorrect": true },
+        { "id": "o2", "text": "Halil Paşa", "isCorrect": false },
+        { "id": "o3", "text": "Şeker Ahmet Paşa", "isCorrect": false },
+        { "id": "o4", "text": "Hoca Ali Rıza", "isCorrect": false }
+      ],
+      "explanation": "Osman Hamdi Bey hem Sanayi-i Nafise Mektebi'ni kurmuş hem de Türk müzeciliğini başlatmıştır."
+    }
+  },
+  {
+    "id": "art_29",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Manzaralarıyla Ünlü Türk Ressam",
+      "frontText": "Üsküdar ve İstanbul manzaralarıyla tanınan 'Yeşil ressam' unvanlı Türk sanatçı kimdir?",
+      "backText": "Hoca Ali Rıza."
+    },
+    "quiz": {
+      "questionText": "İstanbul sokaklarını ve doğasını suluboya ve karakalem peyzajlarıyla ölümsüzleştiren ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Hoca Ali Rıza", "isCorrect": true },
+        { "id": "o2", "text": "Şeker Ahmet Paşa", "isCorrect": false },
+        { "id": "o3", "text": "Hüseyin Zekai Paşa", "isCorrect": false },
+        { "id": "o4", "text": "Süleyman Seyyid", "isCorrect": false }
+      ],
+      "explanation": "Hoca Ali Rıza, asker ressamlar kuşağından olup İstanbul peyzajlarının en büyük ustasıdır."
+    }
+  },
+  {
+    "id": "art_30",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Orman ve Natürmort Ustası",
+      "frontText": "Paris'te sergi açan ilk Türk ressamı olup orman manzaralarıyla ünlü asker ressam kimdir?",
+      "backText": "Şeker Ahmet Paşa."
+    },
+    "quiz": {
+      "questionText": "Orman manzaraları ve natürmort tablolarıyla tanınan, Louvre'da eseri sergilenen ilk Türk ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Şeker Ahmet Paşa", "isCorrect": true },
+        { "id": "o2", "text": "Osman Hamdi Bey", "isCorrect": false },
+        { "id": "o3", "text": "Süleyman Seyyid", "isCorrect": false },
+        { "id": "o4", "text": "Ömer Adil", "isCorrect": false }
+      ],
+      "explanation": "Şeker Ahmet Paşa, doğa sevgisini oryantalist bir gerçekçilikle tuvallerine taşımıştır."
+    }
+  },
+  {
+    "id": "art_31",
+    "categoryId": "art",
+    "card": {
+      "title": "Heykel - Pieta",
+      "frontText": "Meryem'in kucağında İsa'nın bedenini gösteren ünlü 'Pietà' heykeli kime aittir?",
+      "backText": "Michelangelo (Vatikan'daki Aziz Petros Bazilikası'ndadır)."
+    },
+    "quiz": {
+      "questionText": "Vatikan'da sergilenen ve Michelangelo'nun imzasını attığı tek eser olan ünlü heykel hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Pietà", "isCorrect": true },
+        { "id": "o2", "text": "Davut", "isCorrect": false },
+        { "id": "o3", "text": "Musa", "isCorrect": false },
+        { "id": "o4", "text": "Kutsal Aile", "isCorrect": false }
+      ],
+      "explanation": "Michelangelo Pietà heykelini 24 yaşındayken tamamlamış ve üzerine adını kazımıştır."
+    }
+  },
+  {
+    "id": "art_32",
+    "categoryId": "art",
+    "card": {
+      "title": "Heykel - Musa'nın Hükmü",
+      "frontText": "Boynuzlu tasvir edilen ünlü 'Musa' (Moses) heykeli kime aittir?",
+      "backText": "Michelangelo (Roma'daki San Pietro in Vincoli kilisesindedir)."
+    },
+    "quiz": {
+      "questionText": "Papa II. Julius'un mezarı için tasarlanan devasa 'Musa' heykeli hangi sanatçıya aittir?",
+      "options": [
+        { "id": "o1", "text": "Michelangelo", "isCorrect": true },
+        { "id": "o2", "text": "Donatello", "isCorrect": false },
+        { "id": "o3", "text": "Gian Lorenzo Bernini", "isCorrect": false },
+        { "id": "o4", "text": "Verrocchio", "isCorrect": false }
+      ],
+      "explanation": "Michelangelo'nun bu heykeldeki detay ustalığı karşısında heykele 'Konuş!' dediği efsaneleşmiştir."
+    }
+  },
+  {
+    "id": "art_33",
+    "categoryId": "art",
+    "card": {
+      "title": "Heykel - Proserpina'nın Kaçırılışı",
+      "frontText": "Mermeri et gibi yumuşak işleyen Barok heykel ustası kimdir?",
+      "backText": "Gian Lorenzo Bernini."
+    },
+    "quiz": {
+      "questionText": "Mermer üzerinde parmakların tene batışını inanılmaz detayla işleyen Barok heykeltıraş kimdir?",
+      "options": [
+        { "id": "o1", "text": "Gian Lorenzo Bernini", "isCorrect": true },
+        { "id": "o2", "text": "Michelangelo", "isCorrect": false },
+        { "id": "o3", "text": "Antonio Canova", "isCorrect": false },
+        { "id": "o4", "text": "Auguste Rodin", "isCorrect": false }
+      ],
+      "explanation": "Bernini, Barok dönemin en dramatik ve teknik açıdan kusursuz heykeltıraşıdır."
+    }
+  },
+  {
+    "id": "art_34",
+    "categoryId": "art",
+    "card": {
+      "title": "Heykel - Semadirek Kanatlı Zaferi",
+      "frontText": "Louvre Müzesi'nin merdivenlerinde sergilenen başsız 'Kanatlı Zafer' (Nike) heykeli hangi döneme aittir?",
+      "backText": "Antik Yunan / Hellenistik Dönem."
+    },
+    "quiz": {
+      "questionText": "Fransa Louvre Müzesi'nin simgelerinden biri olan 'Semadirek Kanatlı Zaferi' (Nike) heykeli hangi döneme aittir?",
+      "options": [
+        { "id": "o1", "text": "Hellenistik Dönem", "isCorrect": true },
+        { "id": "o2", "text": "Roma Dönemi", "isCorrect": false },
+        { "id": "o3", "text": "Rönesans Dönemi", "isCorrect": false },
+        { "id": "o4", "text": "Mısır Uygarlığı", "isCorrect": false }
+      ],
+      "explanation": "MÖ 2. yüzyıldan kalan bu mermer Nike heykeli, rüzgar ve hareket hissini mükemmel yansıtır."
+    }
+  },
+  {
+    "id": "art_35",
+    "categoryId": "art",
+    "card": {
+      "title": "Heykel - Milo Venüsü",
+      "frontText": "Kolları eksik olan ünlü 'Milo Venüsü' (Venus de Milo) heykeli nerede sergilenmektedir?",
+      "backText": "Paris Louvre Müzesi'nde."
+    },
+    "quiz": {
+      "questionText": "Antik Yunan heykeltıraşlığının zarafet simgesi kabul edilen kolları kırık Milo Venüsü hangi müzededir?",
+      "options": [
+        { "id": "o1", "text": "Louvre Müzesi", "isCorrect": true },
+        { "id": "o2", "text": "Vatikan Müzesi", "isCorrect": false },
+        { "id": "o3", "text": "British Museum", "isCorrect": false },
+        { "id": "o4", "text": "Pergamon Müzesi", "isCorrect": false }
+      ],
+      "explanation": "MÖ 100 civarına tarihlenen Milo Venüsü, Aphrodite'i tasvir eden mermer bir başyapıttır."
+    }
+  },
+  {
+    "id": "art_36",
+    "categoryId": "art",
+    "card": {
+      "title": "Mimari - Mimar Sinan'ın Çıraklık Eseri",
+      "frontText": "Mimar Sinan'ın 'Çıraklık eserim' dediği yapı hangisidir?",
+      "backText": "Şehzade Camii (İstanbul)."
+    },
+    "quiz": {
+      "questionText": "Mimar Sinan'ın İstanbul'da inşa ettiği ve kendisinin 'Çıraklık Eserim' olarak adlandırdığı cami hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Şehzade Camii", "isCorrect": true },
+        { "id": "o2", "text": "Süleymaniye Camii", "isCorrect": false },
+        { "id": "o3", "text": "Selimiye Camii", "isCorrect": false },
+        { "id": "o4", "text": "Rüstempasa Camii", "isCorrect": false }
+      ],
+      "explanation": "Sinan, Şehzade Camiini çıraklık, Süleymaniye'yi kalfalık, Selimiye'yi ustalık eseri kabul etmiştir."
+    }
+  },
+  {
+    "id": "art_37",
+    "categoryId": "art",
+    "card": {
+      "title": "Mimari - Mimar Sinan'ın Kalfalık Eseri",
+      "frontText": "Mimar Sinan'ın 'Kalfalık eserim' dediği yapı hangisidir?",
+      "backText": "Süleymaniye Camii (İstanbul)."
+    },
+    "quiz": {
+      "questionText": "İstanbul'un silüetini oluşturan ve Mimar Sinan'ın 'Kalfalık Eserim' dediği muazzam külliye yapısı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Süleymaniye Camii", "isCorrect": true },
+        { "id": "o2", "text": "Selimiye Camii", "isCorrect": false },
+        { "id": "o3", "text": "Mihrimah Sultan Camii", "isCorrect": false },
+        { "id": "o4", "text": "Kılıç Ali Paşa Camii", "isCorrect": false }
+      ],
+      "explanation": "Kanuni Sultan Süleyman adına yaptırılan Süleymaniye Camii, akustik ve mimari dahi örneğidir."
+    }
+  },
+  {
+    "id": "art_38",
+    "categoryId": "art",
+    "card": {
+      "title": "Mimari - Sagrada Familia",
+      "frontText": "Baroslona'daki henüz tamamlanamamış 'Sagrada Familia' bazilikasının mimarı kimdir?",
+      "backText": "Katalan mimar Antoni Gaudí."
+    },
+    "quiz": {
+      "questionText": "Organik mimari anlayışıyla tasarladığı Sagrada Família kilisesiyle tanınan İspanyol mimar kimdir?",
+      "options": [
+        { "id": "o1", "text": "Antoni Gaudí", "isCorrect": true },
+        { "id": "o2", "text": "Santiago Calatrava", "isCorrect": false },
+        { "id": "o3", "text": "Mies van der Rohe", "isCorrect": false },
+        { "id": "o4", "text": "Le Corbusier", "isCorrect": false }
+      ],
+      "explanation": "Antoni Gaudí hayatını bu esere adamış; Art Nouveau ve doğa formlarını mimariye entegre etmiştir."
+    }
+  },
+  {
+    "id": "art_39",
+    "categoryId": "art",
+    "card": {
+      "title": "Mimari - Taj Mahal",
+      "frontText": "Hindistan'daki Tac Mahal'i eşi Mümtaz Mahal adına yaptıran Babür imparatoru kimdir?",
+      "backText": "Şah Cihan (Mimarları arasında Mimar Sinan'ın öğrencileri de yer almıştır)."
+    },
+    "quiz": {
+      "questionText": "Dünyanın 7 harikasından biri olan beyaz mermer anıt mezar Tac Mahal kimin emriyle yaptırılmıştır?",
+      "options": [
+        { "id": "o1", "text": "Şah Cihan", "isCorrect": true },
+        { "id": "o2", "text": "Babür Şah", "isCorrect": false },
+        { "id": "o3", "text": "Ekber Şah", "isCorrect": false },
+        { "id": "o4", "text": "Evrenzeb", "isCorrect": false }
+      ],
+      "explanation": "Şah Cihan, çok sevdiği eşi Mümtaz Mahal'in vefatı üzerine Agra kentinde bu anıtı inşa ettirmiştir."
+    }
+  },
+  {
+    "id": "art_40",
+    "categoryId": "art",
+    "card": {
+      "title": "Mimari - Sultanahmet Camii",
+      "frontText": "Mavi İznik çinileri nedeniyle Avrupalıların 'Mavi Cami' (Blue Mosque) dediği yapının mimarı kimdir?",
+      "backText": "Sedefkar Mehmed Ağa."
+    },
+    "quiz": {
+      "questionText": "6 minaresi ve mavi çinileriyle ünlü Sultanahmet Camiini inşa eden Osmanlı mimarı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Sedefkar Mehmed Ağa", "isCorrect": true },
+        { "id": "o2", "text": "Mimar Davud Ağa", "isCorrect": false },
+        { "id": "o3", "text": "Mimar Hayreddin", "isCorrect": false },
+        { "id": "o4", "text": "Mimar Kemaleddin", "isCorrect": false }
+      ],
+      "explanation": "I. Ahmed döneminde Sedefkar Mehmed Ağa tarafından yapılan cami Türk-İslam mimarisinin zirvelerindendir."
+    }
+  },
+  {
+    "id": "art_41",
+    "categoryId": "art",
+    "card": {
+      "title": "Mimari - Notre-Dame Katedrali",
+      "frontText": "Gotik mimarinin başyapıtı sayılan Notre-Dame Katedrali hangi şehirdedir?",
+      "backText": "Fransa'nın başkenti Paris'te (Seine Nehri üzerindeki Cité Adası'ndadır)."
+    },
+    "quiz": {
+      "questionText": "Victor Hugo'nun romanına da konu olan Gotik tarzlı ünlü Notre-Dame Katedrali hangi şehirdedir?",
+      "options": [
+        { "id": "o1", "text": "Paris", "isCorrect": true },
+        { "id": "o2", "text": "Chartres", "isCorrect": false },
+        { "id": "o3", "text": "Reims", "isCorrect": false },
+        { "id": "o4", "text": "Strazburg", "isCorrect": false }
+      ],
+      "explanation": "12. yüzyılda yapımına başlanan katedral, Sivri kemerleri ve gül pencereleriyle Gotik sanatın simgesidir."
+    }
+  },
+  {
+    "id": "art_42",
+    "categoryId": "art",
+    "card": {
+      "title": "Mimari - Parthenon",
+      "frontText": "Atina Akropolü'nde yer alan Tanrıça Athena tapınağının adı nedir?",
+      "backText": "Parthenon (Doric düzenin en mükemmel örneği kabul edilir)."
+    },
+    "quiz": {
+      "questionText": "Yunan mimarisinin doruk noktası sayılan ve Atina Akropolü üzerine inşa edilen Klasik tapınak hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Parthenon", "isCorrect": true },
+        { "id": "o2", "text": "Erekhtheion", "isCorrect": false },
+        { "id": "o3", "text": "Zeus Tapınağı", "isCorrect": false },
+        { "id": "o4", "text": "Artemis Tapınağı", "isCorrect": false }
+      ],
+      "explanation": "MÖ 5. yüzyılda Perikles döneminde inşa edilen Parthenon Antik Yunan mimarisinin sembolüdür."
+    }
+  },
+  {
+    "id": "art_43",
+    "categoryId": "art",
+    "card": {
+      "title": "Mimari - Kolezyum (Flavianus Amfitiyatrosu)",
+      "frontText": "Roma'da yer alan antik gladyatör arenası Kolezyum ne zaman inşa edilmiştir?",
+      "backText": "MS 1. yüzyılda Flavianus Hanedanlığı döneminde yapılmıştır."
+    },
+    "quiz": {
+      "questionText": "Roma İmparatorluğu döneminde gladyatör dövüşleri ve tiyatro gösterileri için kullanılan dev amfitiyatro nedir?",
+      "options": [
+        { "id": "o1", "text": "Kolezyum", "isCorrect": true },
+        { "id": "o2", "text": "Pantheon", "isCorrect": false },
+        { "id": "o3", "text": "Forum Romanum", "isCorrect": false },
+        { "id": "o4", "text": "Caracalla Banyoları", "isCorrect": false }
+      ],
+      "explanation": "50.000 seyirci kapasiteli Kolezyum Roma mimarlık ve mühendislik harikasıdır."
+    }
+  },
+  {
+    "id": "art_44",
+    "categoryId": "art",
+    "card": {
+      "title": "Müzik - 4 Mevsim Senfonisi",
+      "frontText": "'Dört Mevsim' (The Four Seasons) keman konçertosu kime aittir?",
+      "backText": "İtalyan Barok besteci Antonio Vivaldi."
+    },
+    "quiz": {
+      "questionText": "İlkbahar, Yaz, Sonbahar ve Kış bölümlerinden oluşan 'Dört Mevsim' keman konçertosu kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Antonio Vivaldi", "isCorrect": true },
+        { "id": "o2", "text": "J.S. Bach", "isCorrect": false },
+        { "id": "o3", "text": "G.F. Händel", "isCorrect": false },
+        { "id": "o4", "text": "Claudio Monteverdi", "isCorrect": false }
+      ],
+      "explanation": "Vivaldi 1723'te bestelediği bu eserle programlı müziğin ilk ve en popüler örneklerini sunmuştur."
+    }
+  },
+  {
+    "id": "art_45",
+    "categoryId": "art",
+    "card": {
+      "title": "Müzik - Sihirli Flüt ve Figaro'nun Düğünü",
+      "frontText": "'Sihirli Flüt' ve 'Figaro'nin Düğünü' operalarının dahi bestecisi kimdir?",
+      "backText": "Wolfgang Amadeus Mozart."
+    },
+    "quiz": {
+      "questionText": "Çocuk dahi olarak müzik tarihine geçen ve 'Sihirli Flüt' operasını besteleyen Klasik dönem ustası kimdir?",
+      "options": [
+        { "id": "o1", "text": "Wolfgang Amadeus Mozart", "isCorrect": true },
+        { "id": "o2", "text": "Ludwig van Beethoven", "isCorrect": false },
+        { "id": "o3", "text": "Joseph Haydn", "isCorrect": false },
+        { "id": "o4", "text": "Franz Schubert", "isCorrect": false }
+      ],
+      "explanation": "Mozart kısa ömrüne 600'den fazla ölümsüz senfoni, opera ve konçerto sığdırmıştır."
+    }
+  },
+  {
+    "id": "art_46",
+    "categoryId": "art",
+    "card": {
+      "title": "Müzik - 9. Senfoni",
+      "frontText": "İşitme duyusunu kaybetmesine rağmen 9. Senfoni'yi besteleyen kimdir?",
+      "backText": "Ludwig van Beethoven."
+    },
+    "quiz": {
+      "questionText": "Son yıllarında tamamen sağır olmasına rağmen insanlığın marşı sayılan 9. Senfoni'yi oluşturan besteci kimdir?",
+      "options": [
+        { "id": "o1", "text": "Ludwig van Beethoven", "isCorrect": true },
+        { "id": "o2", "text": "Mozart", "isCorrect": false },
+        { "id": "o3", "text": "Johannes Brahms", "isCorrect": false },
+        { "id": "o4", "text": "Richard Wagner", "isCorrect": false }
+      ],
+      "explanation": "Beethoven Klasik dönemden Romantik döneme geçişin en büyük müzik figurüdür."
+    }
+  },
+  {
+    "id": "art_47",
+    "categoryId": "art",
+    "card": {
+      "title": "Müzik - Piyanonun Şairi",
+      "frontText": "'Piyanonun Şairi' olarak anılan Polonyalı Romantik besteci kimdir?",
+      "backText": "Frédéric Chopin."
+    },
+    "quiz": {
+      "questionText": "Nocturne, Noktürn ve Polonez tarzı piyano eserleriyle tanınan 'Piyanonun Şairi' kimdir?",
+      "options": [
+        { "id": "o1", "text": "Frédéric Chopin", "isCorrect": true },
+        { "id": "o2", "text": "Franz Liszt", "isCorrect": false },
+        { "id": "o3", "text": "Robert Schumann", "isCorrect": false },
+        { "id": "o4", "text": "Felix Mendelssohn", "isCorrect": false }
+      ],
+      "explanation": "Chopin eserlerinin hemen hemen tamamında piyanoyu merkezde tutmuş duygu dolu bir Romantiktir."
+    }
+  },
+  {
+    "id": "art_48",
+    "categoryId": "art",
+    "card": {
+      "title": "Müzik - Kuğu Gölü ve Fındıkkıran",
+      "frontText": "'Kuğu Gölü' ve 'Fındıkkıran' balelerinin Rus bestecisi kimdir?",
+      "backText": "Pyotr İlyiç Çaykovski."
+    },
+    "quiz": {
+      "questionText": "Kuğu Gölü, Fındıkkıran ve Uyuyan Güzel balelerinin müziklerini besteleyen Rus sanatçı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Pyotr İlyiç Çaykovski", "isCorrect": true },
+        { "id": "o2", "text": "Sergey Rahmaninov", "isCorrect": false },
+        { "id": "o3", "text": "Igor Stravinsky", "isCorrect": false },
+        { "id": "o4", "text": "Modest Musorgski", "isCorrect": false }
+      ],
+      "explanation": "Çaykovski melodik zenginliğiyle klasik bale müziğinde dünya standartlarını belirlemiştir."
+    }
+  },
+  {
+    "id": "art_49",
+    "categoryId": "art",
+    "card": {
+      "title": "Müzik - Türk Beşleri",
+      "frontText": "Cumhuriyet döneminin ilk klasik müzik bestecileri olan grubu ne ad verilir?",
+      "backText": "Türk Beşleri (Cemal Reşit Rey, Ulvi Cemal Erkin, Hasan Ferid Alnar, Ahmet Adnan Saygun, Necil Kazım Akses)."
+    },
+    "quiz": {
+      "questionText": "Ahmet Adnan Saygun ve Cemal Reşit Rey'in de aralarında olduğu çağdaş Türk müziği kurucularına ne denir?",
+      "options": [
+        { "id": "o1", "text": "Türk Beşleri", "isCorrect": true },
+        { "id": "o2", "text": "Milli Besteciler", "isCorrect": false },
+        { "id": "o3", "text": "Anadolu Beşlisi", "isCorrect": false },
+        { "id": "o4", "text": "Klasik Türk Grubu", "isCorrect": false }
+      ],
+      "explanation": "Türk Beşleri, Türk halk müziği motiflerini batı formuyla birleştiren öncü kuşaktır."
+    }
+  },
+  {
+    "id": "art_50",
+    "categoryId": "art",
+    "card": {
+      "title": "Müzik - İlk Türk Operası",
+      "frontText": "Ahmet Adnan Saygun'un bestelediği ilk Türk operası hangisidir?",
+      "backText": "Özsoy Operası (1934 yılında Atatürk'ün isteğiyle bestelenmiştir)."
+    },
+    "quiz": {
+      "questionText": "1934'te İran Şahı'nın ziyareti için Atatürk emriyle Ahmet Adnan Saygun tarafından bestelenen ilk Türk operası nedir?",
+      "options": [
+        { "id": "o1", "text": "Özsoy Operası", "isCorrect": true },
+        { "id": "o2", "text": "Lüküs Hayat", "isCorrect": false },
+        { "id": "o3", "text": "Kerem ile Aslı", "isCorrect": false },
+        { "id": "o4", "text": "Köroğlu", "isCorrect": false }
+      ],
+      "explanation": "Özsoy Operası, Cumhuriyet döneminde sahnelenen ilk ulusal opera kabul edilir."
+    }
+  },
+  {
+    "id": "art_51",
+    "categoryId": "art",
+    "card": {
+      "title": "Tiyatro - İlk Türkçe Tiyatro Oyunu",
+      "frontText": "Şinasi tarafından yazılan ve sahnelenen ilk Türkçe tiyatro eseri hangisidir?",
+      "backText": "Şair Evlenmesi (1860 yılında yazılan görücü usulü evliliği eleştiren komedidir)."
+    },
+    "quiz": {
+      "questionText": "İbrahim Şinasi'nin kaleme aldığı batılı anlamda yazılan ilk Türkçe tiyatro piyesi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Şair Evlenmesi", "isCorrect": true },
+        { "id": "o2", "text": "Vatan yahut Silistre", "isCorrect": false },
+        { "id": "o3", "text": "Aleyhissalam", "isCorrect": false },
+        { "id": "o4", "text": "Cimri", "isCorrect": false }
+      ],
+      "explanation": "Şair Evlenmesi, Tanzimat döneminde geleneksel tiyatrodan modern tiyatroya geçiş ilk metnidir."
+    }
+  },
+  {
+    "id": "art_52",
+    "categoryId": "art",
+    "card": {
+      "title": "Tiyatro - Sahnelenen İlk Oyun",
+      "frontText": "Namık Kemal'in yazdığı ve sahnelendiğinde halkı coşturan ilk Türk tiyatro oyunu hangisidir?",
+      "backText": "Vatan yahut Silistre (1873)."
+    },
+    "quiz": {
+      "questionText": "Türk tiyatro tarihinde sahnede oynanan ilk oyun olma özelliğini taşıyan Vatan yahut Silistre kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Namık Kemal", "isCorrect": true },
+        { "id": "o2", "text": "Şinasi", "isCorrect": false },
+        { "id": "o3", "text": "Ahmet Vefik Paşa", "isCorrect": false },
+        { "id": "o4", "text": "Recaizade Mahmud Ekrem", "isCorrect": false }
+      ],
+      "explanation": "Vatan yahut Silistre oyunu sahnelendikten sonra izleyiciler vatanseverlik gösterileri yapmıştır."
+    }
+  },
+  {
+    "id": "art_53",
+    "categoryId": "art",
+    "card": {
+      "title": "Tiyatro - İlk Kadın Tiyatro Oyuncusu",
+      "frontText": "Sahneye çıkan ilk Müslüman Türk kadın tiyatro oyuncusu kimdir?",
+      "backText": "Afife Jale (1920 yılında 'Yamalar' oyunuyla sahneye çıkmıştır)."
+    },
+    "quiz": {
+      "questionText": "Tüm zorluklara rağmen sahneye çıkan ilk Türk kadın tiyatro sanatçımız kimdir?",
+      "options": [
+        { "id": "o1", "text": "Afife Jale", "isCorrect": true },
+        { "id": "o2", "text": "Bedia Muvahhit", "isCorrect": false },
+        { "id": "o3", "text": "Cahide Sonku", "isCorrect": false },
+        { "id": "o4", "text": "Neyyire Neyir", "isCorrect": false }
+      ],
+      "explanation": "Afife Jale 13 Nisan 1920'de Kadıköy Apollon Sineması'nda Hüseyin Suat'ın oyunuyla sahne almıştır."
+    }
+  },
+  {
+    "id": "art_54",
+    "categoryId": "art",
+    "card": {
+      "title": "Tiyatro - Epik Tiyatro ve Haldun Taner",
+      "frontText": "Türk tiyatrosunda ilk epik tiyatro örneği olan 'Keşanlı Ali Destanı' kimin eseridir?",
+      "backText": "Haldun Taner."
+    },
+    "quiz": {
+      "questionText": "Türk tiyatrosunun ilk yerli epik örneği 'Keşanlı Ali Destanı' oyununun yazarı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Haldun Taner", "isCorrect": true },
+        { "id": "o2", "text": "Turgut Özakman", "isCorrect": false },
+        { "id": "o3", "text": "Orhan Asena", "isCorrect": false },
+        { "id": "o4", "text": "Güngör Dilmen", "isCorrect": false }
+      ],
+      "explanation": "Haldun Taner Kabare tiyatrosu ve Epik tiyatro konularında Türk tiyatrosunun öncüsüdür."
+    }
+  },
+  {
+    "id": "art_55",
+    "categoryId": "art",
+    "card": {
+      "title": "Tiyatro - Antik Yunan Tragedya Ustası",
+      "frontText": "'Kral Oedipus' ve 'Antigone' tragedya oyunlarının antik yazarı kimdir?",
+      "backText": "Sophokles."
+    },
+    "quiz": {
+      "questionText": "Kader kavramını derinlemesine işleyen Kral Oedipus tragedyasını yazan Antik Yunan oyun yazarı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Sophokles", "isCorrect": true },
+        { "id": "o2", "text": "Aiskhylos", "isCorrect": false },
+        { "id": "o3", "text": "Euripides", "isCorrect": false },
+        { "id": "o4", "text": "Aristophanes", "isCorrect": false }
+      ],
+      "explanation": "Sophokles Antik Yunan tiyatrosunda üçüncü oyuncuyu sahneye sokarak dramatik yapıyı geliştirmiştir."
+    }
+  },
+  {
+    "id": "art_56",
+    "categoryId": "art",
+    "card": {
+      "title": "Tiyatro - Fransız Komedya Ustası",
+      "frontText": "'Cimri' (L'Avare) ve 'Kibarlaşma Budalası' oyunlarının yazarı kimdir?",
+      "backText": "Molière (Jean-Baptiste Poquelin)."
+    },
+    "quiz": {
+      "questionText": "Harpagon karakteri üzerinden paragözlüğü eleştiren ünlü 'Cimri' oyununun Fransız yazarı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Molière", "isCorrect": true },
+        { "id": "o2", "text": "Racine", "isCorrect": false },
+        { "id": "o3", "text": "Corneille", "isCorrect": false },
+        { "id": "o4", "text": "Beaumarchais", "isCorrect": false }
+      ],
+      "explanation": "Molière insan karakterlerinin zayıf yönlerini yerici komedileriyle tiyatroya taşımıştır."
+    }
+  },
+  {
+    "id": "art_57",
+    "categoryId": "art",
+    "card": {
+      "title": "Tiyatro - İnsan Tipleri ve Shakespeare",
+      "frontText": "'Romeo ve Juliet', 'Macbeth', 'Othello' ve 'King Lear' tragedyalarının yazarı kimdir?",
+      "backText": "William Shakespeare."
+    },
+    "quiz": {
+      "questionText": "Aşkı, hırsı ve kıskançlığı evrensel boyutta işleyen Romeo ve Juliet ile Macbeth'in yazarı kimdir?",
+      "options": [
+        { "id": "o1", "text": "William Shakespeare", "isCorrect": true },
+        { "id": "o2", "text": "Christopher Marlowe", "isCorrect": false },
+        { "id": "o3", "text": "Ben Jonson", "isCorrect": false },
+        { "id": "o4", "text": "George Bernard Shaw", "isCorrect": false }
+      ],
+      "explanation": "Shakespeare İngiliz Rönesans döneminin ve tüm zamanların en büyük oyun yazarıdır."
+    }
+  },
+  {
+    "id": "art_58",
+    "categoryId": "art",
+    "card": {
+      "title": "Sinema - Dünyada İlk Sinema Gösterimi",
+      "frontText": "Sinematograf cihazını icat edip ilk halka açık film gösterimini yapan kardeşler kimdir?",
+      "backText": "Lumière Kardeşler (Auguste ve Louis Lumière - 1895)."
+    },
+    "quiz": {
+      "questionText": "1895'te Paris'te 'Trenin Gara Girişi' filmini izleterek sinema çağını başlatan kardeşler kimdir?",
+      "options": [
+        { "id": "o1", "text": "Lumière Kardeşler", "isCorrect": true },
+        { "id": "o2", "text": "Coen Kardeşler", "isCorrect": false },
+        { "id": "o3", "text": "Wachowski Kardeşler", "isCorrect": false },
+        { "id": "o4", "text": "Warner Kardeşler", "isCorrect": false }
+      ],
+      "explanation": "Lumière Kardeşler 28 Aralık 1895'te gerçekleştirdikleri gösterimle modern sinemayı doğurmuştur."
+    }
+  },
+  {
+    "id": "art_59",
+    "categoryId": "art",
+    "card": {
+      "title": "Sinema - Şarlo İkonu",
+      "frontText": "'Şarlo' (The Tramp) karakterini yaratan sessiz sinema ikonu kimdir?",
+      "backText": "Charlie Chaplin."
+    },
+    "quiz": {
+      "questionText": "Bastonlu, bol pantolonlu ve bastonlu 'Serseri' tiplemesiyle bilinen sinema dehası kimdir?",
+      "options": [
+        { "id": "o1", "text": "Charlie Chaplin", "isCorrect": true },
+        { "id": "o2", "text": "Buster Keaton", "isCorrect": false },
+        { "id": "o3", "text": "Harold Lloyd", "isCorrect": false },
+        { "id": "o4", "text": "Stan Laurel", "isCorrect": false }
+      ],
+      "explanation": "Chaplin, 'Modern Zamanlar' ve 'Büyük Diktatör' gibi filmlerle eleştirel mizahın zirvesini kurmuştur."
+    }
+  },
+  {
+    "id": "art_60",
+    "categoryId": "art",
+    "card": {
+      "title": "Sinema - Yurttaş Kane",
+      "frontText": "Sinema tarihinin en iyi filmlerinden sayılan 'Yurttaş Kane' (Citizen Kane) kimin eseridir?",
+      "backText": "Orson Welles (25 yaşındayken yönetip oynamıştır)."
+    },
+    "quiz": {
+      "questionText": "'Rosebud' kelimesi etrafında gelişen ve sinemadaki kurgu diliyle devrim yapan Yurttaş Kane yönetmeni kimdir?",
+      "options": [
+        { "id": "o1", "text": "Orson Welles", "isCorrect": true },
+        { "id": "o2", "text": "Alfred Hitchcock", "isCorrect": false },
+        { "id": "o3", "text": "Stanley Kubrick", "isCorrect": false },
+        { "id": "o4", "text": "John Ford", "isCorrect": false }
+      ],
+      "explanation": "Orson Welles 1941 yapımı Yurttaş Kane'de kamera kullanımı ve ışık açılarıyla sinema estetiğini değiştirmiştir."
+    }
+  },
+  {
+    "id": "art_61",
+    "categoryId": "art",
+    "card": {
+      "title": "Sinema - Gerilim Ustası",
+      "frontText": "'Psycho' (Sapık) ve 'Rear Window' filmleriyle 'Gerilim Ustası' ünvanını alan yönetmen kimdir?",
+      "backText": "Alfred Hitchcock."
+    },
+    "quiz": {
+      "questionText": "Duş sahnesiyle meşhur 'Psycho' ve 'Kuşlar' filmlerinin efsanevi İngiliz yönetmeni kimdir?",
+      "options": [
+        { "id": "o1", "text": "Alfred Hitchcock", "isCorrect": true },
+        { "id": "o2", "text": "Martin Scorsese", "isCorrect": false },
+        { "id": "o3", "text": "Roman Polanski", "isCorrect": false },
+        { "id": "o4", "text": "Francis Ford Coppola", "isCorrect": false }
+      ],
+      "explanation": "Hitchcock, seyirciyi psikolojik gerilim altında tutma teknikleriyle sinema tarihinin ustası olmuştur."
+    }
+  },
+  {
+    "id": "art_62",
+    "categoryId": "art",
+    "card": {
+      "title": "Sinema - Türk Sinemasında Altın Portakal",
+      "frontText": "Türkiye'nin en köklü sinema festivali hangisidir?",
+      "backText": "Antalya Altın Portakal Film Festivali (1964'ten beri düzenlenir)."
+    },
+    "quiz": {
+      "questionText": "1964 yılından bu yana düzenlenen Türkiye'nin ilk ve en prestijli film festivali hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Antalya Altın Portakal Film Festivali", "isCorrect": true },
+        { "id": "o2", "text": "Adana Altın Koza Film Festivali", "isCorrect": false },
+        { "id": "o3", "text": "İstanbul Film Festivali", "isCorrect": false },
+        { "id": "o4", "text": "Ankara Film Festivali", "isCorrect": false }
+      ],
+      "explanation": "Antalya Altın Portakal Film Festivali, Türk sinemasının meşalesi kabul edilir."
+    }
+  },
+  {
+    "id": "art_63",
+    "categoryId": "art",
+    "card": {
+      "title": "Sinema - Palme d'Or (Altın Palmiye) Kazanan Türk Yönetmenler",
+      "frontText": "Cannes Film Festivali'nde Altın Palmiye ödülü kazanan Türk yönetmenler kimlerdir?",
+      "backText": "Yılmaz Güney ('Yol' - 1982) ve Nuri Bilge Ceylan ('Kış Uykusu' - 2014)."
+    },
+    "quiz": {
+      "questionText": "2014 yılında 'Kış Uykusu' filmiyle Cannes Film Festivali'nde Altın Palmiye kazanan yönetmenimiz kimdir?",
+      "options": [
+        { "id": "o1", "text": "Nuri Bilge Ceylan", "isCorrect": true },
+        { "id": "o2", "text": "Zeki Demirkubuz", "isCorrect": false },
+        { "id": "o3", "text": "Semih Kaplanoğlu", "isCorrect": false },
+        { "id": "o4", "text": "Fatih Akın", "isCorrect": false }
+      ],
+      "explanation": "Nuri Bilge Ceylan, Yılmaz Güney'den sonra bu büyük uluslararası ödülü kazanan ikinci yönetmenimizdir."
+    }
+  },
+  {
+    "id": "art_64",
+    "categoryId": "art",
+    "card": {
+      "title": "Sanat Akımları - Kübizm",
+      "frontText": "Formları geometrik parçalara bölerek birden fazla açıdan aynı anda gösteren sanat akımı nedir?",
+      "backText": "Kübizm (Picasso ve Georges Braque öncüleridir)."
+    },
+    "quiz": {
+      "questionText": "Nesneleri küp ve geometrik şekillere ayırarak tuvale aktaran 20. yüzyıl başı sanat akımı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Kübizm", "isCorrect": true },
+        { "id": "o2", "text": "Fovizm", "isCorrect": false },
+        { "id": "o3", "text": "Futurizm", "isCorrect": false },
+        { "id": "o4", "text": "Dadaizm", "isCorrect": false }
+      ],
+      "explanation": "Kübizm geleneksel tek açılı perspektifi reddedip nesnenin tüm yönlerini tek düzlemde sunar."
+    }
+  },
+  {
+    "id": "art_65",
+    "categoryId": "art",
+    "card": {
+      "title": "Sanat Akımları - Sürrealizm (Gerçeküstücülük)",
+      "frontText": "Bilinçaltı, rüyalar ve mantık dışı dünyayı sanata taşıyan akım hangisidir?",
+      "backText": "Sürrealizm (Salvador Dalí, René Magritte, André Breton)."
+    },
+    "quiz": {
+      "questionText": "Sigmund Freud'un psikanaliz teorilerinden etkilenerek rüya ve bilinçaltını işleyen akım nedir?",
+      "options": [
+        { "id": "o1", "text": "Sürrealizm", "isCorrect": true },
+        { "id": "o2", "text": "Ekspresyonizm", "isCorrect": false },
+        { "id": "o3", "text": "Realizm", "isCorrect": false },
+        { "id": "o4", "text": "Klasisizm", "isCorrect": false }
+      ],
+      "explanation": "Sürrealizm mantık süzgecini bir kenara bırakarak bilinçaltının serbest akışını sanata yansıtır."
+    }
+  },
+  {
+    "id": "art_66",
+    "categoryId": "art",
+    "card": {
+      "title": "Sanat Akımları - Fovizm (Çılgın Ceylanlar)",
+      "frontText": "Çiğ ve tüpten çıktığı gibi bağıran canlı renklerin kullanıldığı sanat akımı hangisidir?",
+      "backText": "Fovizm (Henri Matisse öncülüğündedir)."
+    },
+    "quiz": {
+      "questionText": "Saf ve tüpten çıktığı gibi canlı renkleri cesurca kullanan, Henri Matisse ile özdeşleşen akım nedir?",
+      "options": [
+        { "id": "o1", "text": "Fovizm", "isCorrect": true },
+        { "id": "o2", "text": "Empresyonizm", "isCorrect": false },
+        { "id": "o3", "text": "Puantilizm", "isCorrect": false },
+        { "id": "o4", "text": "Romantizm", "isCorrect": false }
+      ],
+      "explanation": "Eleştirmenlerin 'vahşi hayvanlar' (Les Fauves) benzetmesiyle Fovizm adı doğmuştur."
+    }
+  },
+  {
+    "id": "art_67",
+    "categoryId": "art",
+    "card": {
+      "title": "Sanat Akımları - Pop Art",
+      "frontText": "Popüler kültür ögelerini, reklamları ve çizgi romanları sanata taşıyan akım nedir?",
+      "backText": "Pop Art (Andy Warhol, Roy Lichtenstein)."
+    },
+    "quiz": {
+      "questionText": "Marilyn Monroe portreleri ve Campbell çorba konserveleriyle Pop Art akımını kuran ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Andy Warhol", "isCorrect": true },
+        { "id": "o2", "text": "Roy Lichtenstein", "isCorrect": false },
+        { "id": "o3", "text": "Keith Haring", "isCorrect": false },
+        { "id": "o4", "text": "Jasper Johns", "isCorrect": false }
+      ],
+      "explanation": "Andy Warhol seri üretim metotlarını kullanarak popüler tüketim nesnelerini sanat eserine dönüştürmüştür."
+    }
+  },
+  {
+    "id": "art_68",
+    "categoryId": "art",
+    "card": {
+      "title": "Sanat Akımları - Noktacılık (Puantilizm)",
+      "frontText": "Küçük renk noktalarını yan yana koyarak resim yapma tekniği nedir?",
+      "backText": "Puantilizm (Noktacılık - Georges Seurat)."
+    },
+    "quiz": {
+      "questionText": "'La Grande Jatte Adası'nda Bir Pazar Öğleden Sonrası' eseriyle Puantilizmin öncüsü sayılan ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Georges Seurat", "isCorrect": true },
+        { "id": "o2", "text": "Paul Signac", "isCorrect": false },
+        { "id": "o3", "text": "Paul Gauguin", "isCorrect": false },
+        { "id": "o4", "text": "Vincent van Gogh", "isCorrect": false }
+      ],
+      "explanation": "Puantilizmde renkler Palette karıştırılmaz; yan yana konan noktalar gözde birleşerek rengi oluşturur."
+    }
+  },
+  {
+    "id": "art_69",
+    "categoryId": "art",
+    "card": {
+      "title": "Sanat Akımları - Dadaizm",
+      "frontText": "1. Dünya Savaşı'nın yıkımına tepki olarak kuralsızlığı ve mantıksızlığı savunan akım nedir?",
+      "backText": "Dadaizm (Marcel Duchamp, Tristan Tzara)."
+    },
+    "quiz": {
+      "questionText": "Sıradan bir pisuvarı 'Çeşme' adı altında sergileyerek 'Hazır-Nesne' (Readymade) sanatını başlatan sanatçı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Marcel Duchamp", "isCorrect": true },
+        { "id": "o2", "text": "Man Ray", "isCorrect": false },
+        { "id": "o3", "text": "Francis Picabia", "isCorrect": false },
+        { "id": "o4", "text": "Max Ernst", "isCorrect": false }
+      ],
+      "explanation": "Marcel Duchamp 1917'de sergilediği bu eylemle nesnenin değil, fikrin sanat olduğunu iddia etmiştir."
+    }
+  },
+  {
+    "id": "art_70",
+    "categoryId": "art",
+    "card": {
+      "title": "Geleneksel Sanatlar - Ebru Sanatı",
+      "frontText": "Kıvamlı su üzerine özel fırçalarla boya damlatılıp kağıda geçirilmesiyle yapılan sanat nedir?",
+      "backText": "Ebru Sanatı (Kitre ve öd maddeleri kullanılır)."
+    },
+    "quiz": {
+      "questionText": "Suyun yüzeyinde yüzdürülen boyaların kağıda aktarılmasıyla yapılan Türk-İslam süsleme sanatı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Ebru", "isCorrect": true },
+        { "id": "o2", "text": "Tezhip", "isCorrect": false },
+        { "id": "o3", "text": "Minyatür", "isCorrect": false },
+        { "id": "o4", "text": "Hat", "isCorrect": false }
+      ],
+      "explanation": "Ebru sanatıUNESCO Somut Olmayan Kültürel Miras listesinde yer alan geleneksel sanatımızdır."
+    }
+  },
+  {
+    "id": "art_71",
+    "categoryId": "art",
+    "card": {
+      "title": "Geleneksel Sanatlar - Hat Sanatı",
+      "frontText": "Arap harfleriyle estetik ve ölçülü yazı yazma sanatına ne verilir?",
+      "backText": "Hüsn-i Hat (Hat Sanatı). Bu sanatla uğraşanlara Hattat denir."
+    },
+    "quiz": {
+      "questionText": "Sülüs, Nesih, Ta'lik gibi türleri olan güzel yazı yazma sanatına ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Hat (Hüsn-i Hat)", "isCorrect": true },
+        { "id": "o2", "text": "Tezhip", "isCorrect": false },
+        { "id": "o3", "text": "Ciltçilik", "isCorrect": false },
+        { "id": "o4", "text": "Kat'ı", "isCorrect": false }
+      ],
+      "explanation": "Hat sanatı kamış kalem ve is mürekkebi kullanılarak yapılan estetik yazı sanatıdır."
+    }
+  },
+  {
+    "id": "art_72",
+    "categoryId": "art",
+    "card": {
+      "title": "Geleneksel Sanatlar - Hattatların Kıblesi",
+      "frontText": "Hat sanatında 'Kıbletül-Hattatîn' (Hattatların Kıblesi) unvanıyla tanınan usta kimdir?",
+      "backText": "Amasyalı Şeyh Hamdullah."
+    },
+    "quiz": {
+      "questionText": "Osmanlı hat sanatının kurucusu sayılan ve 'Hattatların Kıblesi' olarak anılan dev isim kimdir?",
+      "options": [
+        { "id": "o1", "text": "Şeyh Hamdullah", "isCorrect": true },
+        { "id": "o2", "text": "Hafız Osman", "isCorrect": false },
+        { "id": "o3", "text": "Mustafa Rakım Efendi", "isCorrect": false },
+        { "id": "o4", "text": "Sami Efendi", "isCorrect": false }
+      ],
+      "explanation": "Şeyh Hamdullah, Yakut el-Müsta'sımi üslubunu geliştirerek Osmanlı hat okulunu kurmuştur."
+    }
+  },
+  {
+    "id": "art_73",
+    "categoryId": "art",
+    "card": {
+      "title": "Geleneksel Sanatlar - Tezhip Sanatı",
+      "frontText": "Yazma kitapların veya levhaların etrafını altın tozu ve boyalarla süsleme sanatına ne denir?",
+      "backText": "Tezhip (Yapan kişiye Müzehhib veya Müzehhibe denir)."
+    },
+    "quiz": {
+      "questionText": "Arapça 'altınlama' anlamına gelen ve el yazması eserleri altın süslemelerle bezediğimiz sanat nedir?",
+      "options": [
+        { "id": "o1", "text": "Tezhip", "isCorrect": true },
+        { "id": "o2", "text": "Ebru", "isCorrect": false },
+        { "id": "o3", "text": "Naht", "isCorrect": false },
+        { "id": "o4", "text": "Kakmacılık", "isCorrect": false }
+      ],
+      "explanation": "Tezhip sanatı özellikle Kur'an-ı Kerim sayfaları ve kıymetli el yazmalarında uygulanır."
+    }
+  },
+  {
+    "id": "art_74",
+    "categoryId": "art",
+    "card": {
+      "title": "Geleneksel Sanatlar - Minyatür Sanatı",
+      "frontText": "Gölge ve derinlik kullanılmadan, önemli kişilerin büyük çizildiği doğu resim sanatı nedir?",
+      "backText": "Minyatür (Tasvir sanatı). Yapanlara Nakkaş denir."
+    },
+    "quiz": {
+      "questionText": "Osmanlı'da Matrakçı Nasuh ve Levni gibi ustaların eser verdiği, derinliği olmayan küçük boyutlu resim sanatı nedir?",
+      "options": [
+        { "id": "o1", "text": "Minyatür", "isCorrect": true },
+        { "id": "o2", "text": "Fresk", "isCorrect": false },
+        { "id": "o3", "text": "Gravür", "isCorrect": false },
+        { "id": "o4", "text": "Mozaik", "isCorrect": false }
+      ],
+      "explanation": "Minyatür sanatında mekân perspektif kurallarına göre değil, hiyerarşik önem sırasına göre çizilir."
+    }
+  },
+  {
+    "id": "art_75",
+    "categoryId": "art",
+    "card": {
+      "title": "Geleneksel Sanatlar - Çini Sanatı",
+      "frontText": "Toprağın pişirilip üzerinin sırlanmasıyla oluşan geleneksel Türk seramik sanatı nedir?",
+      "backText": "Çini Sanatı (İznik ve Kütahya en önemli merkezleridir)."
+    },
+    "quiz": {
+      "questionText": "İznik ve Kütahya ile özdeşleşen, mimari yapıları ve kapları süsleyen sırlı seramik sanatı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Çini", "isCorrect": true },
+        { "id": "o2", "text": "Vitray", "isCorrect": false },
+        { "id": "o3", "text": "Sedefçilik", "isCorrect": false },
+        { "id": "o4", "text": "Mermercilik", "isCorrect": false }
+      ],
+      "explanation": "İznik çinileri kırmızı hamuru ve mercan kırmızısı rengiyle Osmanlı mimarisinin mücevheridir."
+    }
+  },
+  {
+    "id": "art_76",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - İnci Küpeli Kız Müzesi",
+      "frontText": "Vermeer'in 'İnci Küpeli Kız' tablosu hangi şehirde sergilenmektedir?",
+      "backText": "Lahey (Lahey Mauritshuis Kraliyet Resim Galerisi, Hollanda)."
+    },
+    "quiz": {
+      "questionText": "'İnci Küpeli Kız' tablosunu yerinde görmek isteyen bir sanatsever Hollanda'nın hangi şehrindeki Mauritshuis Müzesi'ne gitmelidir?",
+      "options": [
+        { "id": "o1", "text": "Lahey (The Hague)", "isCorrect": true },
+        { "id": "o2", "text": "Amsterdam", "isCorrect": false },
+        { "id": "o3", "text": "Rotterdam", "isCorrect": false },
+        { "id": "o4", "text": "Utrecht", "isCorrect": false }
+      ],
+      "explanation": "Eser Hollanda Lahey'deki Mauritshuis Müzesi'nin kalbidir."
+    }
+  },
+  {
+    "id": "art_77",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Van Gogh Müzesi",
+      "frontText": "Van Gogh'un 'Ayçiçekleri' ve 'Sarı Ev' gibi yüzlerce eserinin sergilendiği ana müze nerededir?",
+      "backText": "Amsterdam, Hollanda (Van Gogh Müzesi)."
+    },
+    "quiz": {
+      "questionText": "Vincent van Gogh'un eserlerinin büyük çoğunluğunu barındıran resmi Van Gogh Müzesi nerededir?",
+      "options": [
+        { "id": "o1", "text": "Amsterdam", "isCorrect": true },
+        { "id": "o2", "text": "Paris", "isCorrect": false },
+        { "id": "o3", "text": "Londra", "isCorrect": false },
+        { "id": "o4", "text": "Brüksel", "isCorrect": false }
+      ],
+      "explanation": "Amsterdam'daki Van Gogh Müzesi sanatçının mektuplarını ve çizimlerini de sergiler."
+    }
+  },
+  {
+    "id": "art_78",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Prado Müzesi",
+      "frontText": "Velázquez, Goya ve El Greco'nun başyapıtlarına ev sahipliği yapan Prado Müzesi nerededir?",
+      "backText": "Madrid, İspanya."
+    },
+    "quiz": {
+      "questionText": "'Las Meninas' ve '3 Mayıs 1808' gibi dünya klasikleri hangi ünlü müzede sergilenir?",
+      "options": [
+        { "id": "o1", "text": "Prado Müzesi (Madrid)", "isCorrect": true },
+        { "id": "o2", "text": "Louvre Müzesi (Paris)", "isCorrect": false },
+        { "id": "o3", "text": "Uffizi Müzesi (Floransa)", "isCorrect": false },
+        { "id": "o4", "text": "Ermitaj Müzesi (St. Petersburg)", "isCorrect": false }
+      ],
+      "explanation": "Prado Müzesi İspanyol Kraliyet koleksiyonlarına dayanan İspanya'nın en büyük ulusal müzesidir."
+    }
+  },
+  {
+    "id": "art_79",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Hermitage (Ermitaj) Müzesi",
+      "frontText": "Dünyanın en çok tablo koleksiyonuna sahip devasa Ermitaj Müzesi nerededir?",
+      "backText": "St. Petersburg, Rusya."
+    },
+    "quiz": {
+      "questionText": "Çarlık Rusyası'nın Kışlık Sarayı'nda yer alan ve 3 milyondan fazla esere sahip Ermitaj Müzesi hangi şehirdedir?",
+      "options": [
+        { "id": "o1", "text": "St. Petersburg", "isCorrect": true },
+        { "id": "o2", "text": "Moskova", "isCorrect": false },
+        { "id": "o3", "text": "Kazan", "isCorrect": false },
+        { "id": "o4", "text": "Minsk", "isCorrect": false }
+      ],
+      "explanation": "Ermitaj Müzesi Büyük Katerina tarafından kurulmuş olup dünyanın en büyük müzelerindendir."
+    }
+  },
+  {
+    "id": "art_80",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Floransa Uffizi Galerisi",
+      "frontText": "Botticelli'nin 'Venüs'ün Doğuşu' tablosunun da yer aldığı İtalya'nın en ünlü resim galerisi nedir?",
+      "backText": "Uffizi Galerisi (Floransa)."
+    },
+    "quiz": {
+      "questionText": "Rönesans sanatının doğduğu kent olan Floransa'da yer alan dünyaca ünlü müze hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Uffizi Galerisi", "isCorrect": true },
+        { "id": "o2", "text": "Borghese Galerisi", "isCorrect": false },
+        { "id": "o3", "text": "Pinacoteca di Brera", "isCorrect": false },
+        { "id": "o4", "text": "Accademia Galerisi", "isCorrect": false }
+      ],
+      "explanation": "Uffizi Galerisi Medici ailesinin paha biçilmez sanatsal mirasından oluşmuştur."
+    }
+  },
+  {
+    "id": "art_81",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Yağlı Boyayı Mükemmelleştiren Sanatçı",
+      "frontText": "Geleneksel olarak Yağlı Boya tekniğinin mucidi sayılan Erken Dönem Flaman ressam kimdir?",
+      "backText": "Jan van Eyck."
+    },
+    "quiz": {
+      "questionText": "Yağ bazlı bağlayıcılar kullanarak pigmentlerin kuruma süresini uzatan ve detay ressamlığını başlatan usta kimdir?",
+      "options": [
+        { "id": "o1", "text": "Jan van Eyck", "isCorrect": true },
+        { "id": "o2", "text": "Giotto", "isCorrect": false },
+        { "id": "o3", "text": "Masaccio", "isCorrect": false },
+        { "id": "o4", "text": "Cimabue", "isCorrect": false }
+      ],
+      "explanation": "Jan van Eyck yağlı boyanın renk parlaklığını ve kalıcılığını üst seviyeye taşımıştır."
+    }
+  },
+  {
+    "id": "art_82",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Sfumato Tekniği",
+      "frontText": "Leonardo da Vinci'nin geliştirdiği, tonlar arası yumuşak geçiş sağlayan dumanlı resim tekniği nedir?",
+      "backText": "Sfumato (İtalyanca 'duman gibi buharlaşmak' demektir)."
+    },
+    "quiz": {
+      "questionText": "Mona Lisa'nın gizemli tebessümünü veren, sert çizgileri ortadan kaldıran renk geçiş tekniği nedir?",
+      "options": [
+        { "id": "o1", "text": "Sfumato", "isCorrect": true },
+        { "id": "o2", "text": "Chiaroscuro", "isCorrect": false },
+        { "id": "o3", "text": "Impasto", "isCorrect": false },
+        { "id": "o4", "text": "Fresco", "isCorrect": false }
+      ],
+      "explanation": "Sfumato tekniği sayesinde katmanlar belirsizleşir ve gözün gördüğü doğal derinlik hissi yakalanır."
+    }
+  },
+  {
+    "id": "art_83",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Chiaroscuro (Işık-Gölge)",
+      "frontText": "Resimde kuvvetli ışık ve derin karanlık kontrastı yaratan Chiaroscuro tekniğinin Barok ustası kimdir?",
+      "backText": "Caravaggio (Michelangelo Merisi da Caravaggio)."
+    },
+    "quiz": {
+      "questionText": "Karanlık arka planlar ve tek kaynaktan gelen sert ışık kullanımıyla (Chiaroscuro) ünlü İtalyan ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Caravaggio", "isCorrect": true },
+        { "id": "o2", "text": "Artemisia Gentileschi", "isCorrect": false },
+        { "id": "o3", "text": "Tintoretto", "isCorrect": false },
+        { "id": "o4", "text": "Veronese", "isCorrect": false }
+      ],
+      "explanation": "Caravaggio dramatik sahneleri bir tiyatro sahnesi gibi ışıklandırarak Barok akıma damga vurmuştur."
+    }
+  },
+  {
+    "id": "art_84",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Tenebrizm",
+      "frontText": "Chiaroscuro'nun daha karanlık ve aşırı kontrastlı haline ne denir?",
+      "backText": "Tenebrizm (Karanlıkçılık - Karanlık arka planın figürleri patlatması)."
+    },
+    "quiz": {
+      "questionText": "Resimde siyah ve karanlık alanların hakim olduğu ve figürlerin sahne ışığında gibi parladığı üslup nedir?",
+      "options": [
+        { "id": "o1", "text": "Tenebrizm", "isCorrect": true },
+        { "id": "o2", "text": "Maniyerizm", "isCorrect": false },
+        { "id": "o3", "text": "Pointilizm", "isCorrect": false },
+        { "id": "o4", "text": "Luminizm", "isCorrect": false }
+      ],
+      "explanation": "Tenebrizm kelimesi İtalyanca 'tenebroso' (karanlık, kasvetli) kelimesinden türetilmiştir."
+    }
+  },
+  {
+    "id": "art_85",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Perspektifin Babası",
+      "frontText": "Rönesans'ta tek kaçışlı matematiksel doğrusal perspektifi bulan mimar/sanatçı kimdir?",
+      "backText": "Filippo Brunelleschi."
+    },
+    "quiz": {
+      "questionText": "Floransa Kubbesi'nin mimarı olup sanatta çizimsel doğrusal perspektif kurallarını keşfeden mimar kimdir?",
+      "options": [
+        { "id": "o1", "text": "Filippo Brunelleschi", "isCorrect": true },
+        { "id": "o2", "text": "Leon Battista Alberti", "isCorrect": false },
+        { "id": "o3", "text": "Donatello", "isCorrect": false },
+        { "id": "o4", "text": "Bramante", "isCorrect": false }
+      ],
+      "explanation": "Brunelleschi, optik deneyi ile düzlem üzerine 3 boyutlu derinlik kazandırma geometrisini formüle etmiştir."
+    }
+  },
+  {
+    "id": "art_86",
+    "categoryId": "art",
+    "card": {
+      "title": "Tarih - Lascaux Mağarası",
+      "frontText": "İnsanlığın ilk resim örnekleri kabul edilen boğa çizimlerinin yer aldığı mağara hangisidir?",
+      "backText": "Lascaux Mağarası (Fransa)."
+    },
+    "quiz": {
+      "questionText": "Üst Paleolitik döneme ait duvar resimleriyle ünlü Lascaux Mağarası hangi ülkededir?",
+      "options": [
+        { "id": "o1", "text": "Fransa", "isCorrect": true },
+        { "id": "o2", "text": "İspanya", "isCorrect": false },
+        { "id": "o3", "text": "İtalya", "isCorrect": false },
+        { "id": "o4", "text": "Almanya", "isCorrect": false }
+      ],
+      "explanation": "Lascaux Mağarası yaklaşık 17.000 yıl önce çizilmiş hayvan figürleriyle insanlık sanatının ilk adımıdır."
+    }
+  },
+  {
+    "id": "art_87",
+    "categoryId": "art",
+    "card": {
+      "title": "Tarih - Altamira Mağarası",
+      "frontText": "İspanya'da bulunan ve ilk keşfedilen Paleolitik mağara resmi alanı hangisidir?",
+      "backText": "Altamira Mağarası."
+    },
+    "quiz": {
+      "questionText": "Kırmızı ve siyah pigmentlerle çizilmiş bizon resimleriyle meşhur Altamira Mağarası nerededir?",
+      "options": [
+        { "id": "o1", "text": "İspanya", "isCorrect": true },
+        { "id": "o2", "text": "Fransa", "isCorrect": false },
+        { "id": "o3", "text": "Portekiz", "isCorrect": false },
+        { "id": "o4", "text": "Yunanistan", "isCorrect": false }
+      ],
+      "explanation": "Altamira Mağarası, Taş Çağı insanının kömür ve toprak boyalarıyla yaptığı başyapıtları barındırır."
+    }
+  },
+  {
+    "id": "art_88",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Ağlayan Kadın (Weeping Woman)",
+      "frontText": "'Ağlayan Kadın' (Weeping Woman) tablosu kime aittir?",
+      "backText": "Pablo Picasso (Guernica tablosunun devamı niteliğindedir)."
+    },
+    "quiz": {
+      "questionText": "Savaşın acısını bir kadının mendilini ısırması üzerinden gösteren 'Ağlayan Kadın' kimin eseridir?",
+      "options": [
+        { "id": "o1", "text": "Pablo Picasso", "isCorrect": true },
+        { "id": "o2", "text": "Henri Matisse", "isCorrect": false },
+        { "id": "o3", "text": "Marc Chagall", "isCorrect": false },
+        { "id": "o4", "text": "Amedeo Modigliani", "isCorrect": false }
+      ],
+      "explanation": "Picasso 1937'de Dora Maar'ı model alarak savaşın evrensel acısını bu tabloyla resmetmiştir."
+    }
+  },
+  {
+    "id": "art_89",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - İnci Küpeli Kız Tekniği",
+      "frontText": "Vermeer'in ışığı ve odağ yapısını kusursuz çizmek için kullandığı mercekli kutu sisteminin adı nedir?",
+      "backText": "Kamera Obskura (Camera Obscura)."
+    },
+    "quiz": {
+      "questionText": "Rönesans ve Barok sanatçıların gerçekçi oran elde etmek için başvurduğu 'Karanlık Kutı' düzeneği nedir?",
+      "options": [
+        { "id": "o1", "text": "Kamera Obskura", "isCorrect": true },
+        { "id": "o2", "text": "Pantograf", "isCorrect": false },
+        { "id": "o3", "text": "Stetoskop", "isCorrect": false },
+        { "id": "o4", "text": "Minyatür Masası", "isCorrect": false }
+      ],
+      "explanation": "Kamera Obskura, iğne deliğinden yansıyan görüntüyü yüzeye düşürerek hassas çizim imkânı veren araçtır."
+    }
+  },
+  {
+    "id": "art_90",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Son Yargı (The Last Judgment)",
+      "frontText": "Sistine Şapeli'nin mihrap duvarındaki devasa 'Son Yargı' freski kime aittir?",
+      "backText": "Michelangelo."
+    },
+    "quiz": {
+      "questionText": "Kıyamet gününü ve ruhların yükselişini tasvir eden devasa 'Son Yargı' freski kimin eseridir?",
+      "options": [
+        { "id": "o1", "text": "Michelangelo", "isCorrect": true },
+        { "id": "o2", "text": "Rafael", "isCorrect": false },
+        { "id": "o3", "text": "Tiziano", "isCorrect": false },
+        { "id": "o4", "text": "Ghirlandaio", "isCorrect": false }
+      ],
+      "explanation": "Michelangelo bu duvar freskini Sistine Şapeli tavanını bitirdikten yıllar sonra yaşlılık döneminde yapmıştır."
+    }
+  },
+  {
+    "id": "art_91",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Paris Sıkıntısı ve Bohem Hayat",
+      "frontText": "Montmartre ve Moulin Rouge kabare hayatını afişleriyle resmeden ressam kimdir?",
+      "backText": "Henri de Toulouse-Lautrec."
+    },
+    "quiz": {
+      "questionText": "19. yüzyıl sonu Paris gece hayatını ve Moulin Rouge dansçılarını renkli afiş sanatıyla ölümsüzleştiren ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Henri de Toulouse-Lautrec", "isCorrect": true },
+        { "id": "o2", "text": "Edgar Degas", "isCorrect": false },
+        { "id": "o3", "text": "Édouard Manet", "isCorrect": false },
+        { "id": "o4", "text": "Paul Gauguin", "isCorrect": false }
+      ],
+      "explanation": "Toulouse-Lautrec, grafik sanatının ve taşbaskı afiş kültürünün öncüsü kabul edilir."
+    }
+  },
+  {
+    "id": "art_92",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Dansözler Ressamı",
+      "frontText": "Balerin tasvirleri ve sahne arkası çizimleriyle meşhur Empresyonist usta kimdir?",
+      "backText": "Edgar Degas."
+    },
+    "quiz": {
+      "questionText": "Balerinlerin egzersizlerini ve sahne gösterilerini açısal kadrajlarla resmeden ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Edgar Degas", "isCorrect": true },
+        { "id": "o2", "text": "Auguste Renoir", "isCorrect": false },
+        { "id": "o3", "text": "Mary Cassatt", "isCorrect": false },
+        { "id": "o4", "text": "Camille Pissarro", "isCorrect": false }
+      ],
+      "explanation": "Edgar Degas kendisini empresyonistlerden ziyade bir bağımsız figür ressamı olarak nitelendirmiştir."
+    }
+  },
+  {
+    "id": "art_93",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Kırda Öğle Yemeği",
+      "frontText": "'Kırda Öğle Yemeği' (Le Déjeuner sur l'herbe) sergilendiğinde skandal yaratan ressam kimdir?",
+      "backText": "Édouard Manet (1863 Reddilenler Salonu'nda sergilenmiştir)."
+    },
+    "quiz": {
+      "questionText": "Giyinik erkeklerin yanında çıplak bir kadını doğal ortamda resmederek dönem Paris'inde olay yaratan tablo kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Édouard Manet", "isCorrect": true },
+        { "id": "o2", "text": "Claude Monet", "isCorrect": false },
+        { "id": "o3", "text": "Gustave Courbet", "isCorrect": false },
+        { "id": "o4", "text": "Paul Cézanne", "isCorrect": false }
+      ],
+      "explanation": "Manet bu eseriyle klasik mitolojik çıplaklık kuralını bozup çağdaş gerçekçiliği tetiklemiştir."
+    }
+  },
+  {
+    "id": "art_94",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Tahiti Kadınları",
+      "frontText": "Avrupa medeniyetini terk edip Tahiti'ye yerleşen ve oradaki yerli kadınları resmeden Post-Empresyonist kimdir?",
+      "backText": "Paul Gauguin."
+    },
+    "quiz": {
+      "questionText": "Fransa'yı terk ederek Pasifik'teki Tahiti adasına yerleşen ve egzotik renkli tablolar üreten ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Paul Gauguin", "isCorrect": true },
+        { "id": "o2", "text": "Vincent van Gogh", "isCorrect": false },
+        { "id": "o3", "text": "Paul Cézanne", "isCorrect": false },
+        { "id": "o4", "text": "Henri Rousseau", "isCorrect": false }
+      ],
+      "explanation": "Gauguin, İlkelcilik (Primitivizm) ve Sembolizm fikirlerini Pasifik adalarındaki canlı yaşamla birleştirmiştir."
+    }
+  },
+  {
+    "id": "art_95",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Modern Sanatın Babası",
+      "frontText": "Sainte-Victoire Dağı manzaralarıyla ve hacimsel yaklaşımıyla Kübizme ilham olan 'Modern Sanatın Babası' kimdir?",
+      "backText": "Paul Cézanne."
+    },
+    "quiz": {
+      "questionText": "'Doğayı silindir, küre ve konilerle ele alınız' diyerek Kübizm akımının kapısını açan Fransız ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Paul Cézanne", "isCorrect": true },
+        { "id": "o2", "text": "Claude Monet", "isCorrect": false },
+        { "id": "o3", "text": "Vincent van Gogh", "isCorrect": false },
+        { "id": "o4", "text": "Camille Corot", "isCorrect": false }
+      ],
+      "explanation": "Hem Matisse hem de Picasso kendilerini yetiştiren güç olarak Cézanne'ı göstermişlerdir."
+    }
+  },
+  {
+    "id": "art_96",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Mavi ve Pembe Dönem",
+      "frontText": "Mavi ve Pembe sanat dönemleriyle hüzün ile sirk dünyasını resmeden kimdir?",
+      "backText": "Pablo Picasso."
+    },
+    "quiz": {
+      "questionText": "Kariyerinin başında geçirdiği bunalım sonrası hüzünlü monokrom eserler verdiği 'Mavi Dönem' hangi ressama aittir?",
+      "options": [
+        { "id": "o1", "text": "Pablo Picasso", "isCorrect": true },
+        { "id": "o2", "text": "Amedeo Modigliani", "isCorrect": false },
+        { "id": "o3", "text": "Joan Miró", "isCorrect": false },
+        { "id": "o4", "text": "Marc Chagall", "isCorrect": false }
+      ],
+      "explanation": "Picasso 1901-1904 arası yakın dostunun intiharı sonrası kasvetli mavi renklerin hakim olduğu dönem yaşamıştır."
+    }
+  },
+  {
+    "id": "art_97",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Uzun Boyunlu Portreler",
+      "frontText": "Uzun boyunlu, badem gözlü ve yüz hatları maskeyi andıran İtalyan ressam kimdir?",
+      "backText": "Amedeo Modigliani."
+    },
+    "quiz": {
+      "questionText": "Uzatılmış yüzler ve ifadesiz, pupilasız badem göz portreleriyle tanınan trajik hayatlı Paris ressamı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Amedeo Modigliani", "isCorrect": true },
+        { "id": "o2", "text": "Chaim Soutine", "isCorrect": false },
+        { "id": "o3", "text": "Moïse Kisling", "isCorrect": false },
+        { "id": "o4", "text": "Giorgio de Chirico", "isCorrect": false }
+      ],
+      "explanation": "Modigliani, Afrika heykelleri ve Rönesans estetiğini birleştirdiği özgün kadın portreleriyle tanınır."
+    }
+  },
+  {
+    "id": "art_98",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - İnsan Oğlu (The Son of Man)",
+      "frontText": "Yüzü yeşil bir elmayla kapanmış fötr şapkalı adam tablosu kime aittir?",
+      "backText": "Belçikalı Sürrealist ressam René Magritte."
+    },
+    "quiz": {
+      "questionText": "Yüzü yeşil bir elmayla gizlenmiş takım elbiseli adamı gösteren ikonik Sürrealist 'İnsan Oğlu' tablosu kime aittir?",
+      "options": [
+        { "id": "o1", "text": "René Magritte", "isCorrect": true },
+        { "id": "o2", "text": "Salvador Dalí", "isCorrect": false },
+        { "id": "o3", "text": "Max Ernst", "isCorrect": false },
+        { "id": "o4", "text": "Giorgio de Chirico", "isCorrect": false }
+      ],
+      "explanation": "Magritte bu eserinde saklanan ve görünür olan nesneler arasındaki merak ilişkisini vurgulamıştır."
+    }
+  },
+  {
+    "id": "art_99",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - İmgelerin İhaneti (Ceci n'est pas une pipe)",
+      "frontText": "'Bu Bir Pipo Değildir' (Ceci n'est pas une pipe) yazan ünlü Sürrealist tablo kime aittir?",
+      "backText": "René Magritte."
+    },
+    "quiz": {
+      "questionText": "Altında 'Bu bir pipo değildir' yazan ve temsil ile gerçeklik farkını vurgulayan tablo kimin eseridir?",
+      "options": [
+        { "id": "o1", "text": "René Magritte", "isCorrect": true },
+        { "id": "o2", "text": "Marcel Duchamp", "isCorrect": false },
+        { "id": "o3", "text": "Paul Delvaux", "isCorrect": false },
+        { "id": "o4", "text": "Yves Tanguy", "isCorrect": false }
+      ],
+      "explanation": "Magritte, 'Bu bir pipo resmidir, piponun kendisi değildir' diyerek dil ve imge yanılsamasını açıklar."
+    }
+  },
+  {
+    "id": "art_100",
+    "categoryId": "art",
+    "card": {
+      "title": "Resim - Aksiyon Resmi ve Damlatma Tekniği",
+      "frontText": "Tuvali yere serip boyayı üzerine damlatıp fırlatarak (Drip Painting) eser üreten ressam kimdir?",
+      "backText": "Jackson Pollock (Soyut Dışavurumculuk akımı)."
+    },
+    "quiz": {
+      "questionText": "'Jack the Dripper' takma adıyla bilinen ve tuvale fırçayı sürmeden boya damlatarak soyut eserler veren sanatçı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Jackson Pollock", "isCorrect": true },
+        { "id": "o2", "text": "Willem de Kooning", "isCorrect": false },
+        { "id": "o3", "text": "Mark Rothko", "isCorrect": false },
+        { "id": "o4", "text": "Franz Kline", "isCorrect": false }
+      ],
+      "explanation": "Jackson Pollock, tuval üzerindeki hareketin kendisini sanata dönüştüren Aksiyon Resminin kurucusudur."
+    }
+  }
+]

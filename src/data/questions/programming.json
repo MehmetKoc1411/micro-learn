@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "prog_1",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - State vs Props",
+      "frontText": "State ve Props arasındaki temel fark nedir?",
+      "backText": "State, bileşenin kendi içinde yönettiği dinamik veridir. Props ise üst bileşenden aktarılan read-only veridir."
+    },
+    "quiz": {
+      "questionText": "React Native'de hangisi bileşenin kendi içinde yönettiği dinamik veriyi temsil eder?",
+      "options": [
+        { "id": "o1", "text": "useState (State)", "isCorrect": true },
+        { "id": "o2", "text": "Props", "isCorrect": false },
+        { "id": "o3", "text": "useRef", "isCorrect": false },
+        { "id": "o4", "text": "Styles", "isCorrect": false }
+      ],
+      "explanation": "State, bileşenin iç durumunu temsil eder ve güncellendiğinde ekran yeniden çizilir."
+    }
+  },
+  {
+    "id": "prog_2",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Interface",
+      "frontText": "Interface ne işe yarar?",
+      "backText": "Nesnelerin (object) şablonunu ve veri tiplerini tanımlayarak kodun tip güvenliğini sağlar."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te nesnelerin (object) tip şablonunu belirlemek için ne kullanılır?",
+      "options": [
+        { "id": "o1", "text": "Interface", "isCorrect": true },
+        { "id": "o2", "text": "Bundle", "isCorrect": false },
+        { "id": "o3", "text": "Package", "isCorrect": false },
+        { "id": "o4", "text": "Component", "isCorrect": false }
+      ],
+      "explanation": "Interface, nesnelerin sahip olacağı alanları ve tipleri zorunlu kılmak için kullanılır."
+    }
+  },
+  {
+    "id": "prog_3",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Async/Await",
+      "frontText": "Async/Await yapısının amacı nedir?",
+      "backText": "Asenkron (Promise dayalı) kodları senkronmuş gibi daha okunabilir ve yönetilebilir yazmamızı sağlar."
+    },
+    "quiz": {
+      "questionText": "Promise yapısına dayalı asenkron işlemleri senkron tarzda yazmayı sağlayan sözdizimi nedir?",
+      "options": [
+        { "id": "o1", "text": "async / await", "isCorrect": true },
+        { "id": "o2", "text": "try / catch", "isCorrect": false },
+        { "id": "o3", "text": "import / export", "isCorrect": false },
+        { "id": "o4", "text": "for / in", "isCorrect": false }
+      ],
+      "explanation": "async/await, Promise işlemlerini basitleştiren syntactic sugar yapısıdır."
+    }
+  },
+  {
+    "id": "prog_4",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Variables",
+      "frontText": "const anahtar kelimesi ne işe yarar?",
+      "backText": "Değişken tanımı yapıldıktan sonra değerinin yeniden atanmasını (re-assignment) engeller."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te bir değişkenin değerinin sonradan değiştirilmesini engellemek için hangisi kullanılır?",
+      "options": [
+        { "id": "o1", "text": "const", "isCorrect": true },
+        { "id": "o2", "text": "let", "isCorrect": false },
+        { "id": "o3", "text": "var", "isCorrect": false },
+        { "id": "o4", "text": "any", "isCorrect": false }
+      ],
+      "explanation": "const ile tanımlanan referansa yeni bir değer atanamaz."
+    }
+  },
+  {
+    "id": "prog_5",
+    "categoryId": "programming",
+    "card": {
+      "title": "React - useEffect Hook",
+      "frontText": "useEffect ne zaman tetiklenir?",
+      "backText": "Bileşen mount olduğunda, unmount olduğunda veya bağımlılık dizisindeki (dependency array) değerler değiştiğinde çalışır."
+    },
+    "quiz": {
+      "questionText": "React'te yan etkileri (side-effects) yönetmek ve yaşam döngüsünü takip etmek için hangi hook kullanılır?",
+      "options": [
+        { "id": "o1", "text": "useEffect", "isCorrect": true },
+        { "id": "o2", "text": "useState", "isCorrect": false },
+        { "id": "o3", "text": "useContext", "isCorrect": false },
+        { "id": "o4", "text": "useReducer", "isCorrect": false }
+      ],
+      "explanation": "useEffect, veritabanı istekleri, zamanlayıcılar ve DOM güncellemeleri gibi yan etkileri yürütür."
+    }
+  },
+  {
+    "id": "prog_6",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Array Push",
+      "frontText": "push() metodunun görevi nedir?",
+      "backText": "Dizinin sonuna bir veya birden fazla yeni eleman ekler ve dizinin yeni uzunluğunu döndürür."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te bir dizinin sonuna eleman eklemek için kullanılan metod hangisidir?",
+      "options": [
+        { "id": "o1", "text": "push()", "isCorrect": true },
+        { "id": "o2", "text": "pop()", "isCorrect": false },
+        { "id": "o3", "text": "shift()", "isCorrect": false },
+        { "id": "o4", "text": "unshift()", "isCorrect": false }
+      ],
+      "explanation": "push() fonksiyonu verilen elemanı dizinin en son indeksine ekler."
+    }
+  },
+  {
+    "id": "prog_7",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - FlatList",
+      "frontText": "FlatList neden ScrollView'dan daha performanslıdır?",
+      "backText": "FlatList lazy-loading yapar; sadece ekranda görünen elemanları render eder, ScrollView ise hepsini aynı anda render eder."
+    },
+    "quiz": {
+      "questionText": "React Native'de uzun listeleri bellek dostu ve performanslı şekilde sunmak için ne tercih edilmelidir?",
+      "options": [
+        { "id": "o1", "text": "FlatList", "isCorrect": true },
+        { "id": "o2", "text": "ScrollView", "isCorrect": false },
+        { "id": "o3", "text": "View", "isCorrect": false },
+        { "id": "o4", "text": "SafeAreaView", "isCorrect": false }
+      ],
+      "explanation": "FlatList ekran dışındaki elemanları bellekten düşürerek performansı yüksek tutar."
+    }
+  },
+  {
+    "id": "prog_8",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Void Type",
+      "frontText": "void tipi neyi ifade eder?",
+      "backText": "Fonksiyonun geriye herhangi bir değer döndürmediğini (return etmediğini) belirtir."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te bir fonksiyon geri dönüş değeri vermiyorsa dönüş tipi ne olmalıdır?",
+      "options": [
+        { "id": "o1", "text": "void", "isCorrect": true },
+        { "id": "o2", "text": "never", "isCorrect": false },
+        { "id": "o3", "text": "null", "isCorrect": false },
+        { "id": "o4", "text": "unknown", "isCorrect": false }
+      ],
+      "explanation": "void tipi, fonksiyonun boş bir dönüşe sahip olduğunu simgeler."
+    }
+  },
+  {
+    "id": "prog_9",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Equality Operators",
+      "frontText": "=== ile == arasındaki fark nedir?",
+      "backText": "=== (sıkı eşitlik) hem değeri hem de veri tipini kontrol eder; == ise otomatik tip dönüşümü yapar."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te hem tip hem de değer kontrolü yapan karşılaştırma operatörü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "===", "isCorrect": true },
+        { "id": "o2", "text": "==", "isCorrect": false },
+        { "id": "o3", "text": "=", "isCorrect": false },
+        { "id": "o4", "text": "!==", "isCorrect": false }
+      ],
+      "explanation": "=== operatöründe tipler uyuşmuyorsa sonuç doğrudan false döner."
+    }
+  },
+  {
+    "id": "prog_10",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Text Component",
+      "frontText": "Text bileşeni neden zorunludur?",
+      "backText": "React Native'de ham metinler doğrudan View içine yazılamaz, mutlaka Text bileşeniyle sarmalanmalıdır."
+    },
+    "quiz": {
+      "questionText": "React Native'de metinsel ifadeleri ekrana basmak için kullanılan temel bileşen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Text", "isCorrect": true },
+        { "id": "o2", "text": "Label", "isCorrect": false },
+        { "id": "o3", "text": "Span", "isCorrect": false },
+        { "id": "o4", "text": "Paragraph", "isCorrect": false }
+      ],
+      "explanation": "Tüm metin içerikleri Text bileşeni kapsayıcısında tutulmak zorundadır."
+    }
+  },
+  {
+    "id": "prog_11",
+    "categoryId": "programming",
+    "card": {
+      "title": "Redux Toolkit - Actions",
+      "frontText": "Action nedir?",
+      "backText": "Redux store'unda ne tür bir değişiklik yapılacağını belirten, 'type' ve opsiyonel 'payload' içeren nesnedir."
+    },
+    "quiz": {
+      "questionText": "Redux'ta durumu (state) güncellemek amacıyla dispatch edilen nesneye ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Action", "isCorrect": true },
+        { "id": "o2", "text": "Reducer", "isCorrect": false },
+        { "id": "o3", "text": "Selector", "isCorrect": false },
+        { "id": "o4", "text": "Slice", "isCorrect": false }
+      ],
+      "explanation": "Action'lar uygulamanızdan store'a veri taşıyan bilgi paketleridir."
+    }
+  },
+  {
+    "id": "prog_12",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - TouchableOpacity",
+      "frontText": "TouchableOpacity ne sağlar?",
+      "backText": "Tıklandığında opaklığı (transparanlığı) geçici olarak düşürerek kullanıcıya dokunma geri bildirimi verir."
+    },
+    "quiz": {
+      "questionText": "React Native'de basıldığında opaklaşarak görsel geri bildirim sunan kapsayıcı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "TouchableOpacity", "isCorrect": true },
+        { "id": "o2", "text": "TouchableWithoutFeedback", "isCorrect": false },
+        { "id": "o3", "text": "View", "isCorrect": false },
+        { "id": "o4", "text": "Image", "isCorrect": false }
+      ],
+      "explanation": "TouchableOpacity, tıklama anında opacity değerini düşürür."
+    }
+  },
+  {
+    "id": "prog_13",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Array Map",
+      "frontText": "map() metodu ne döner?",
+      "backText": "Orijinal dizinin her elemanını verilen fonksiyondan geçirerek yeni bir dizi oluşturur ve döner."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te bir dizinin her elemanını dönüştürüp yeni bir dizi oluşturan metod hangisidir?",
+      "options": [
+        { "id": "o1", "text": "map()", "isCorrect": true },
+        { "id": "o2", "text": "forEach()", "isCorrect": false },
+        { "id": "o3", "text": "filter()", "isCorrect": false },
+        { "id": "o4", "text": "reduce()", "isCorrect": false }
+      ],
+      "explanation": "map() fonksiyonu orijinal diziyi değiştirmeden yeni bir dönüştürülmüş dizi üretir."
+    }
+  },
+  {
+    "id": "prog_14",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Union Types",
+      "frontText": "Union Types (|) nasıl kullanılır?",
+      "backText": "Bir değişkenin veya parametrenin birden fazla tipten biri olabileceğini belirtmek için '|' kullanılır."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te bir değişkenin 'string VEYA number' olabileceğini ifade eden sembol hangisidir?",
+      "options": [
+        { "id": "o1", "text": "|", "isCorrect": true },
+        { "id": "o2", "text": "&", "isCorrect": false },
+        { "id": "o3", "text": "&&", "isCorrect": false },
+        { "id": "o4", "text": "?", "isCorrect": false }
+      ],
+      "explanation": "Union tipi birleştirmek için '|' dikey çizgi karakteri kullanılır."
+    }
+  },
+  {
+    "id": "prog_15",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Flex Direction",
+      "frontText": "React Native'de varsayılan flexDirection nedir?",
+      "backText": "Web'de varsayılan yön 'row' iken, React Native'de mobil ekran düzenine uygun olarak 'column'dır."
+    },
+    "quiz": {
+      "questionText": "React Native'de esnek kutu düzeninin (Flexbox) varsayılan akış yönü nedir?",
+      "options": [
+        { "id": "o1", "text": "column", "isCorrect": true },
+        { "id": "o2", "text": "row", "isCorrect": false },
+        { "id": "o3", "text": "row-reverse", "isCorrect": false },
+        { "id": "o4", "text": "column-reverse", "isCorrect": false }
+      ],
+      "explanation": "React Native elemanları varsayılan olarak dikey (column) hizada sıralar."
+    }
+  },
+  {
+    "id": "prog_16",
+    "categoryId": "programming",
+    "card": {
+      "title": "React - useMemo",
+      "frontText": "useMemo ne zaman kullanılır?",
+      "backText": "Hesaplanması yüksek maliyetli (expensive) işlemleri önbelleğe alıp (memoize) her render'da tekrar çalışmasını önlemek için."
+    },
+    "quiz": {
+      "questionText": "React'te ağır hesaplama sonuçlarını bellekte saklayarak re-render optimizasyonu sağlayan hook hangisidir?",
+      "options": [
+        { "id": "o1", "text": "useMemo", "isCorrect": true },
+        { "id": "o2", "text": "useCallback", "isCorrect": false },
+        { "id": "o3", "text": "useRef", "isCorrect": false },
+        { "id": "o4", "text": "useEffect", "isCorrect": false }
+      ],
+      "explanation": "useMemo, bağımlılıkları değişmediği sürece hesaplanan değeri hafızadan getirir."
+    }
+  },
+  {
+    "id": "prog_17",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Deep Copy",
+      "frontText": "structuredClone() ne işe yarar?",
+      "backText": "Karmaşık nesnelerin ve dizilerin bellek referanslarını kopararak tam bir derin kopyasını (deep copy) oluşturur."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te iç içe nesnelerin tam bir derin kopyasını yapmak için kullanılan yerel metod hangisidir?",
+      "options": [
+        { "id": "o1", "text": "structuredClone()", "isCorrect": true },
+        { "id": "o2", "text": "Object.assign()", "isCorrect": false },
+        { "id": "o3", "text": "Spread Operator (...)", "isCorrect": false },
+        { "id": "o4", "text": "JSON.stringify()", "isCorrect": false }
+      ],
+      "explanation": "structuredClone(), modern JS'te kopyalama mantığını en doğru şekilde yürüten fonksiyondur."
+    }
+  },
+  {
+    "id": "prog_18",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - SafeAreaView",
+      "frontText": "SafeAreaView ne sağlar?",
+      "backText": "Cihazın çentik (notch), kamera kesimleri ve alt gezinme çubukları ile içeriğin çakışmasını engeller."
+    },
+    "quiz": {
+      "questionText": "React Native'de ekran çentiği ve sistem alanlarıyla içerik çakışmasını engelleyen bileşen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "SafeAreaView", "isCorrect": true },
+        { "id": "o2", "text": "View", "isCorrect": false },
+        { "id": "o3", "text": "KeyboardAvoidingView", "isCorrect": false },
+        { "id": "o4", "text": "Modal", "isCorrect": false }
+      ],
+      "explanation": "SafeAreaView güvenli padding değerlerini otomatik uygular."
+    }
+  },
+  {
+    "id": "prog_19",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Optional Properties",
+      "frontText": "Opsiyonel alanlar nasıl tanımlanır?",
+      "backText": "Interface veya type tanımlarında alan adının sonuna '?' eklenerek alan zorunlu olmaktan çıkarılır."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te bir alanın tanımsız (undefined) bırakılabileceğini göstermek için hangisi kullanılır?",
+      "options": [
+        { "id": "o1", "text": "?", "isCorrect": true },
+        { "id": "o2", "text": "!", "isCorrect": false },
+        { "id": "o3", "text": "*", "isCorrect": false },
+        { "id": "o4", "text": ":", "isCorrect": false }
+      ],
+      "explanation": "Örn: `age?: number` ifadesi age alanının opsiyonel olduğunu gösterir."
+    }
+  },
+  {
+    "id": "prog_20",
+    "categoryId": "programming",
+    "card": {
+      "title": "CSS / Flexbox - Main Axis Alignment",
+      "frontText": "justifyContent neyi ayarlar?",
+      "backText": "Flexbox'ta ana eksendeki (main axis) elemanların dağılımını ve hizalanmasını kontrol eder."
+    },
+    "quiz": {
+      "questionText": "Flexbox düzeninde ana eksen (main axis) üzerindeki hizalamayı sağlayan CSS mülkü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "justifyContent", "isCorrect": true },
+        { "id": "o2", "text": "alignItems", "isCorrect": false },
+        { "id": "o3", "text": "alignSelf", "isCorrect": false },
+        { "id": "o4", "text": "flexWrap", "isCorrect": false }
+      ],
+      "explanation": "justifyContent; center, space-between, flex-start gibi değerlerle ana ekseni hizalar."
+    }
+  },
+  {
+    "id": "prog_21",
+    "categoryId": "programming",
+    "card": {
+      "title": "React - useRef Hook",
+      "frontText": "useRef ne için tercih edilir?",
+      "backText": "DOM/Yerel elemanlara direkt erişmek ya da re-render tetiklemeden değer saklamak için."
+    },
+    "quiz": {
+      "questionText": "React'te güncellendiğinde bileşenin yeniden render olmasına sebep OLMUYAN değer saklama hook'u hangisidir?",
+      "options": [
+        { "id": "o1", "text": "useRef", "isCorrect": true },
+        { "id": "o2", "text": "useState", "isCorrect": false },
+        { "id": "o3", "text": "useReducer", "isCorrect": false },
+        { "id": "o4", "text": "useContext", "isCorrect": false }
+      ],
+      "explanation": "useRef .current mülkü değiştiğinde render süreci tetiklenmez."
+    }
+  },
+  {
+    "id": "prog_22",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Undefined vs Null",
+      "frontText": "undefined ne anlama gelir?",
+      "backText": "Bir değişkenin deklare edildiğini ancak henüz kendisine hiçbir değer atanmadığını gösterir."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te tanımlanmış ancak henüz değer atanmamış bir değişkenin varsayılan değeri nedir?",
+      "options": [
+        { "id": "o1", "text": "undefined", "isCorrect": true },
+        { "id": "o2", "text": "null", "isCorrect": false },
+        { "id": "o3", "text": "NaN", "isCorrect": false },
+        { "id": "o4", "text": "0", "isCorrect": false }
+      ],
+      "explanation": "Atama yapılmamış tüm değişkenler ilk aşamada undefined değerini taşır."
+    }
+  },
+  {
+    "id": "prog_23",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - StyleSheet",
+      "frontText": "StyleSheet.create() avantajı nedir?",
+      "backText": "Stil nesnelerini ID'lere dönüştürerek köprüden (bridge) tekrar tekrar geçmesini önler ve performansı artırır."
+    },
+    "quiz": {
+      "questionText": "React Native'de stilleri optimize şekilde tanımlamak için kullanılan dahili modül hangisidir?",
+      "options": [
+        { "id": "o1", "text": "StyleSheet", "isCorrect": true },
+        { "id": "o2", "text": "CSSStyle", "isCorrect": false },
+        { "id": "o3", "text": "StyledComponents", "isCorrect": false },
+        { "id": "o4", "text": "CreateStyle", "isCorrect": false }
+      ],
+      "explanation": "StyleSheet.create nesneleri dondurur ve performans kazanımı sağlar."
+    }
+  },
+  {
+    "id": "prog_24",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Any Type",
+      "frontText": "any tipi neden kaçınılmalıdır?",
+      "backText": "Derleyicinin tüm statik kontrol denetimlerini kapatır ve TypeScript kullanmanın sağladığı tip güvenliğini yok eder."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te tüm statik tip kontrollerini tamamen devre dışı bırakan tip hangisidir?",
+      "options": [
+        { "id": "o1", "text": "any", "isCorrect": true },
+        { "id": "o2", "text": "unknown", "isCorrect": false },
+        { "id": "o3", "text": "never", "isCorrect": false },
+        { "id": "o4", "text": "object", "isCorrect": false }
+      ],
+      "explanation": "any tipi her türlü işleme izin vererek tip güvenliğini ortadan kaldırır."
+    }
+  },
+  {
+    "id": "prog_25",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Array Filter",
+      "frontText": "filter() metodu nasıl çalışır?",
+      "backText": "Verilen test fonksiyonundan geçen (true dönen) tüm elemanları alarak yeni bir dizi oluşturur."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te bir diziden sadece belirli şartı sağlayan elemanları seçmek için ne kullanılır?",
+      "options": [
+        { "id": "o1", "text": "filter()", "isCorrect": true },
+        { "id": "o2", "text": "find()", "isCorrect": false },
+        { "id": "o3", "text": "includes()", "isCorrect": false },
+        { "id": "o4", "text": "some()", "isCorrect": false }
+      ],
+      "explanation": "filter() metodu şartı karşılayan tüm elemanları yeni bir dizide toplar."
+    }
+  },
+  {
+    "id": "prog_26",
+    "categoryId": "programming",
+    "card": {
+      "title": "React - Context API",
+      "frontText": "Prop Drilling nedir, Context bunu nasıl çözer?",
+      "backText": "Prop drilling, veriyi en alt bileşene aktarmak için aradaki tüm bileşenlerden geçirme sorunudur. Context doğrudan erişim sağlar."
+    },
+    "quiz": {
+      "questionText": "Aradaki bileşenlere manuel prop geçme zorunluluğunu (Prop Drilling) ortadan kaldıran React özelliği nedir?",
+      "options": [
+        { "id": "o1", "text": "Context API", "isCorrect": true },
+        { "id": "o2", "text": "Redux Thunk", "isCorrect": false },
+        { "id": "o3", "text": "Props Manager", "isCorrect": false },
+        { "id": "o4", "text": "State Listener", "isCorrect": false }
+      ],
+      "explanation": "Context API, ağaçtaki her bileşenin veriye doğrudan erişmesini sağlar."
+    }
+  },
+  {
+    "id": "prog_27",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - TextInput",
+      "frontText": "TextInput bileşeni ne yapar?",
+      "backText": "Kullanıcının klavye aracılığıyla uygulamaya metin girmesini sağlayan temel bileşendir."
+    },
+    "quiz": {
+      "questionText": "React Native uygulamalarında kullanıcıdan yazı veya şifre girdisi almak için hangi bileşen kullanılır?",
+      "options": [
+        { "id": "o1", "text": "TextInput", "isCorrect": true },
+        { "id": "o2", "text": "InputField", "isCorrect": false },
+        { "id": "o3", "text": "TextField", "isCorrect": false },
+        { "id": "o4", "text": "EditBox", "isCorrect": false }
+      ],
+      "explanation": "TextInput bileşeni kullanıcı klavye girdilerini yönetir."
+    }
+  },
+  {
+    "id": "prog_28",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Unknown Type",
+      "frontText": "unknown ile any arasındaki fark nedir?",
+      "backText": "unknown güvenli 'any'dir. Üzerinde işlem yapmadan önce tip daraltması (type narrowing/checking) yapılması zorunludur."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te her değeri kabul eden fakat kullanılmadan önce tip denetimi yapmayı zorunlu kılan tip hangisidir?",
+      "options": [
+        { "id": "o1", "text": "unknown", "isCorrect": true },
+        { "id": "o2", "text": "any", "isCorrect": false },
+        { "id": "o3", "text": "void", "isCorrect": false },
+        { "id": "o4", "text": "never", "isCorrect": false }
+      ],
+      "explanation": "unknown, tip doğrulaması yapılmadan üzerinde metot çağrılmasına izin vermez."
+    }
+  },
+  {
+    "id": "prog_29",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Promise.all",
+      "frontText": "Promise.all() ne zaman reddedilir (reject olur)?",
+      "backText": "Dizideki asenkron işlemlerden HERHANGİ BİRİ hata verirse, Promise.all anında o hatayla reddedilir."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te birden fazla Promise'i paralel çalıştıran Promise.all() yapısı ne zaman başarılı sonuç döner?",
+      "options": [
+        { "id": "o1", "text": "İçindeki tüm Promise'ler başarıyla çözümlendiğinde", "isCorrect": true },
+        { "id": "o2", "text": "İçindeki en az bir Promise tamamlandığında", "isCorrect": false },
+        { "id": "o3", "text": "İlk işlem başladığında", "isCorrect": false },
+        { "id": "o4", "text": "Zaman aşımı süresi dolduğunda", "isCorrect": false }
+      ],
+      "explanation": "Promise.all 'ya hepsi ya hiç' mantığıyla çalışır."
+    }
+  },
+  {
+    "id": "prog_30",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Image Component",
+      "frontText": "Uzaktan resim yüklerken neye dikkat edilmelidir?",
+      "backText": "Ağ üzerindeki (URI) görselleri gösterirken 'source={{ uri: \"...\" }}' biçiminde ve genişlik/yükseklik verilerek tanımlanmalıdır."
+    },
+    "quiz": {
+      "questionText": "React Native'de lokal veya uzak sunucudaki görselleri ekrana basmak için hangi bileşen kullanılır?",
+      "options": [
+        { "id": "o1", "text": "Image", "isCorrect": true },
+        { "id": "o2", "text": "Img", "isCorrect": false },
+        { "id": "o3", "text": "Picture", "isCorrect": false },
+        { "id": "o4", "text": "Media", "isCorrect": false }
+      ],
+      "explanation": "Image bileşeni yerel (require) veya uzak (uri) görselleri işler."
+    }
+  },
+  {
+    "id": "prog_31",
+    "categoryId": "programming",
+    "card": {
+      "title": "React - useCallback Hook",
+      "frontText": "useCallback neyi hafızada tutar?",
+      "backText": "Fonksiyon tanımını (referansını) hafızada tutarak alt bileşenlerin gereksiz yere re-render olmasını önler."
+    },
+    "quiz": {
+      "questionText": "React'te her render sırasında fonksiyonların yeniden oluşturulmasını önlemek için referansı sabitleyen hook hangisidir?",
+      "options": [
+        { "id": "o1", "text": "useCallback", "isCorrect": true },
+        { "id": "o2", "text": "useMemo", "isCorrect": false },
+        { "id": "o3", "text": "useEffect", "isCorrect": false },
+        { "id": "o4", "text": "useRef", "isCorrect": false }
+      ],
+      "explanation": "useCallback, fonksiyon referansını bellekte dondurur."
+    }
+  },
+  {
+    "id": "prog_32",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Enum",
+      "frontText": "Enum yapısı neden kullanılır?",
+      "backText": "İlişkili sabit değerler kümesini (örneğin sipariş durumları: PENDING, COMPLETED) isimlendirerek okunabilirliği artırmak için."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te isimlendirilmiş sabitler kümesi oluşturmayı sağlayan veri yapısı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "enum", "isCorrect": true },
+        { "id": "o2", "text": "struct", "isCorrect": false },
+        { "id": "o3", "text": "tuple", "isCorrect": false },
+        { "id": "o4", "text": "set", "isCorrect": false }
+      ],
+      "explanation": "enum ile kod içinde anlamlı sabit grupları oluşturulur."
+    }
+  },
+  {
+    "id": "prog_33",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Object Keys",
+      "frontText": "Object.keys() ne döndürür?",
+      "backText": "Verilen bir nesnenin kendi sahip olduğu string türündeki anahtar (key) isimlerinin bir dizisini döndürür."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te bir nesnenin tüm anahtar isimlerini string dizisi olarak almak için ne kullanılır?",
+      "options": [
+        { "id": "o1", "text": "Object.keys()", "isCorrect": true },
+        { "id": "o2", "text": "Object.values()", "isCorrect": false },
+        { "id": "o3", "text": "Object.entries()", "isCorrect": false },
+        { "id": "o4", "text": "Object.get()", "isCorrect": false }
+      ],
+      "explanation": "Object.keys(obj) nesnedeki anahtarları döküm olarak dizi yapar."
+    }
+  },
+  {
+    "id": "prog_34",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Expo Framework",
+      "frontText": "Expo kullanmanın temel avantajı nedir?",
+      "backText": "Xcode veya Android Studio kurmaya gerek kalmadan, hazır modüllerle hızlıca yerel uygulama geliştirmeyi ve test etmeyi sağlar."
+    },
+    "quiz": {
+      "questionText": "React Native uygulamalarını hızlıca geliştirmek, derlemek ve test etmek için kullanılan popüler ekosistem hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Expo", "isCorrect": true },
+        { "id": "o2", "text": "Next.js", "isCorrect": false },
+        { "id": "o3", "text": "Vite", "isCorrect": false },
+        { "id": "o4", "text": "Gatsby", "isCorrect": false }
+      ],
+      "explanation": "Expo, React Native geliştirme sürecini ciddi oranda kolaylaştırır."
+    }
+  },
+  {
+    "id": "prog_35",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Readonly Utility",
+      "frontText": "Readonly<T> tipi ne sağlar?",
+      "backText": "T tipindeki nesnenin tüm mülklerini salt-okunur yapar; nesne oluşturulduktan sonra mülkleri değiştirilemez."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te bir nesnenin hiçbir alanının sonradan değiştirilememesini sağlayan Utility Type hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Readonly<T>", "isCorrect": true },
+        { "id": "o2", "text": "Partial<T>", "isCorrect": false },
+        { "id": "o3", "text": "Required<T>", "isCorrect": false },
+        { "id": "o4", "text": "Frozen<T>", "isCorrect": false }
+      ],
+      "explanation": "Readonly tipindeki alanlara atama yapılmaya çalışılırsa derleyici hata verir."
+    }
+  },
+  {
+    "id": "prog_36",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Typeof Null",
+      "frontText": "typeof null neden 'object' döner?",
+      "backText": "JavaScript'in ilk versiyonlarından beri var olan ve geriye dönük uyumluluk nedeniyle düzeltilmeyen bir hatadır."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te 'typeof null' ifadesinin çalıştırılması sonucu alınan çıktı nedir?",
+      "options": [
+        { "id": "o1", "text": "object", "isCorrect": true },
+        { "id": "o2", "text": "null", "isCorrect": false },
+        { "id": "o3", "text": "undefined", "isCorrect": false },
+        { "id": "o4", "text": "boolean", "isCorrect": false }
+      ],
+      "explanation": "Tarihsel bir dil hatası sebebiyle typeof null nesne (object) tipi döner."
+    }
+  },
+  {
+    "id": "prog_37",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - React Navigation",
+      "frontText": "Stack Navigator ne işe yarar?",
+      "backText": "Sayfaları üst üste bir kart yığını gibi yerleştirerek ekranlar arası ileri ve geri gezinmeyi sağlar."
+    },
+    "quiz": {
+      "questionText": "React Native'de ekranlar arası geçişleri (Navigation) yönetmek için endüstri standardı kütüphane hangisidir?",
+      "options": [
+        { "id": "o1", "text": "React Navigation", "isCorrect": true },
+        { "id": "o2", "text": "React Router DOM", "isCorrect": false },
+        { "id": "o3", "text": "Native Router", "isCorrect": false },
+        { "id": "o4", "text": "Expo Link", "isCorrect": false }
+      ],
+      "explanation": "React Navigation, mobil sekme ve yığın geçişlerini sağlayan standart çözümdür."
+    }
+  },
+  {
+    "id": "prog_38",
+    "categoryId": "programming",
+    "card": {
+      "title": "React - Key Prop",
+      "frontText": "Dizilerde 'key' kullanımı neden önemlidir?",
+      "backText": "React Virtual DOM'un hangi elemanların eklendiğini, silindiğini veya güncellendiğini benzersiz şekilde takip etmesi için zorunludur."
+    },
+    "quiz": {
+      "questionText": "React'te bir listeyi map ederken elemanlara benzersiz 'key' prop'u verilmesinin temel amacı nedir?",
+      "options": [
+        { "id": "o1", "text": "Virtual DOM'un eleman değişikliklerini performanslı takip etmesi", "isCorrect": true },
+        { "id": "o2", "text": "Elemanın stilini otomatik belirlemek", "isCorrect": false },
+        { "id": "o3", "text": "Elemana tıklama olayı bağlamak", "isCorrect": false },
+        { "id": "o4", "text": "Verinin veri tipini doğrulamak", "isCorrect": false }
+      ],
+      "explanation": "Key prop'u React'in performans optimizasyonundaki en kritik ögelerden biridir."
+    }
+  },
+  {
+    "id": "prog_39",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Pick Utility",
+      "frontText": "Pick<T, K> ne yapar?",
+      "backText": "Mevcut bir T tipinden sadece seçtiğimiz K anahtarlarını (keys) alarak yeni bir daraltılmış tip oluşturur."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te var olan bir tipten sadece belirli alanları seçerek yeni bir tip türeten yapı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Pick<T, K>", "isCorrect": true },
+        { "id": "o2", "text": "Omit<T, K>", "isCorrect": false },
+        { "id": "o3", "text": "Extract<T, U>", "isCorrect": false },
+        { "id": "o4", "text": "Exclude<T, U>", "isCorrect": false }
+      ],
+      "explanation": "Pick metodu seçilen özellikleri ayrıştırıp yeni tip tanımı elde eder."
+    }
+  },
+  {
+    "id": "prog_40",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Array Find",
+      "frontText": "find() ile filter() arasındaki fark nedir?",
+      "backText": "find() koşula uyan ilk elemanın kendisini döndürür; filter() ise koşula uyan tüm elemanlardan bir dizi döndürür."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te bir dizide teste uyan İLK elemanı bulup getiren fonksiyon hangisidir?",
+      "options": [
+        { "id": "o1", "text": "find()", "isCorrect": true },
+        { "id": "o2", "text": "filter()", "isCorrect": false },
+        { "id": "o3", "text": "search()", "isCorrect": false },
+        { "id": "o4", "text": "indexOf()", "isCorrect": false }
+      ],
+      "explanation": "find() aradığı ilk ögeyi bulduğu an aramayı durdurur ve elemanı döner."
+    }
+  },
+  {
+    "id": "prog_41",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Dimensions API",
+      "frontText": "Dimensions API ne amaçla kullanılır?",
+      "backText": "Cihazın ekran genişlik (width) ve yükseklik (height) değerlerini alıp dinamik tasarımlar oluşturmak için."
+    },
+    "quiz": {
+      "questionText": "React Native'de cihazın ekran piksellerine/boyutlarına erişmek için kullanılan API hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Dimensions", "isCorrect": true },
+        { "id": "o2", "text": "ScreenSize", "isCorrect": false },
+        { "id": "o3", "text": "Platform", "isCorrect": false },
+        { "id": "o4", "text": "PixelRatio", "isCorrect": false }
+      ],
+      "explanation": "Dimensions.get('window') veya 'screen' ile boyut bilgileri çekilir."
+    }
+  },
+  {
+    "id": "prog_42",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Partial Utility",
+      "frontText": "Partial<T> ne yapar?",
+      "backText": "T tipinin içindeki tüm mülkleri isteğe bağlı (optional / ?) hale getirir."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te bir tipin TÜM alanlarını opsiyonel yapmak için hangi Utility Type kullanılır?",
+      "options": [
+        { "id": "o1", "text": "Partial<T>", "isCorrect": true },
+        { "id": "o2", "text": "Required<T>", "isCorrect": false },
+        { "id": "o3", "text": "Readonly<T>", "isCorrect": false },
+        { "id": "o4", "text": "Record<K, T>", "isCorrect": false }
+      ],
+      "explanation": "Partial<User> ifadesi User tipindeki tüm alanlara '?' işaretini eklemiş sayılır."
+    }
+  },
+  {
+    "id": "prog_43",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Logical AND Operator",
+      "frontText": "&& operatörü koşullu render'da nasıl kullanılır?",
+      "backText": "React'te `kosul && <Bilesen />` şeklinde yazılarak koşul true ise sağdaki bileşenin render olması sağlanır."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te her iki koşulun da doğru olması durumunda true üreten mantıksal operatör hangisidir?",
+      "options": [
+        { "id": "o1", "text": "&&", "isCorrect": true },
+        { "id": "o2", "text": "||", "isCorrect": false },
+        { "id": "o3", "text": "??", "isCorrect": false },
+        { "id": "o4", "text": "!", "isCorrect": false }
+      ],
+      "explanation": "&& (VE) operatörü her iki tarafın doğruluğunu şart koşar."
+    }
+  },
+  {
+    "id": "prog_44",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - StatusBar",
+      "frontText": "StatusBar bileşeni neyi kontrol eder?",
+      "backText": "Ekranın en üstünde yer alan saat, pil, bildirim simgelerinin bulunduğu çubuğun stilini ve görünürlüğünü ayarlar."
+    },
+    "quiz": {
+      "questionText": "React Native'de durum çubuğunun (saat, pil simgesi olan üst alan) rengini ve temasını yöneten bileşen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "StatusBar", "isCorrect": true },
+        { "id": "o2", "text": "TopBar", "isCorrect": false },
+        { "id": "o3", "text": "Header", "isCorrect": false },
+        { "id": "o4", "text": "NavigationBar", "isCorrect": false }
+      ],
+      "explanation": "StatusBar bileşeni ile durum çubuğu rengi veya yazı stili (light/dark) özelleştirilir."
+    }
+  },
+  {
+    "id": "prog_45",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Intersection Types",
+      "frontText": "Intersection Types (&) nasıl çalışır?",
+      "backText": "Birden fazla tipi birleştirerek tüm bu tiplerin özelliklerine aynı anda sahip yeni bir tip oluşturur."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te iki farklı tip tanımını birleştirip tüm özelliklerini içeren tek tip yapmak için ne kullanılır?",
+      "options": [
+        { "id": "o1", "text": "&", "isCorrect": true },
+        { "id": "o2", "text": "|", "isCorrect": false },
+        { "id": "o3", "text": "+", "isCorrect": false },
+        { "id": "o4", "text": "&&", "isCorrect": false }
+      ],
+      "explanation": "Intersection (&) işlemi iki türün birleşimini zorunlu kılar."
+    }
+  },
+  {
+    "id": "prog_46",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Array Reduce",
+      "frontText": "reduce() metodunun kullanım amacı nedir?",
+      "backText": "Dizideki her elemanı bir biriktiriciye (accumulator) tabi tutarak diziyi tek bir sonuca (sayı, nesne vb.) indirgemek."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te bir dizideki değerlerin toplamını veya tek bir nesneye indirgenmesini sağlayan metod hangisidir?",
+      "options": [
+        { "id": "o1", "text": "reduce()", "isCorrect": true },
+        { "id": "o2", "text": "map()", "isCorrect": false },
+        { "id": "o3", "text": "collect()", "isCorrect": false },
+        { "id": "o4", "text": "concat()", "isCorrect": false }
+      ],
+      "explanation": "reduce() bir biriktirici fonksiyon yardımıyla diziyi tek değere dökümler."
+    }
+  },
+  {
+    "id": "prog_47",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Pressable",
+      "frontText": "Pressable bileşeni neden eklenmiştir?",
+      "backText": "Eski Touchable bileşenlerine kıyasla daha gelişmiş basılı tutma, basmayı bırakma gibi dokunma evresi kontrolleri sağlar."
+    },
+    "quiz": {
+      "questionText": "React Native'de dokunma etkileşimlerinin tüm evrelerini (pressIn, pressOut, longPress vb.) esnekçe yöneten modern bileşen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Pressable", "isCorrect": true },
+        { "id": "o2", "text": "Button", "isCorrect": false },
+        { "id": "o3", "text": "Clickable", "isCorrect": false },
+        { "id": "o4", "text": "TouchArea", "isCorrect": false }
+      ],
+      "explanation": "Pressable, dokunma olayları için güncel ve en esnek çekirdek bileşendir."
+    }
+  },
+  {
+    "id": "prog_48",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Tuple",
+      "frontText": "Tuple tipi nedir?",
+      "backText": "Eleman sayısı sabit olan ve her indeksindeki veri tipi önceden belirlenmiş özel bir dizidir."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te boyutu ve elemanlarının tiplerinin sırası sabitlenmiş dizi yapısına ne denir?",
+      "options": [
+        { "id": "o1", "text": "Tuple", "isCorrect": true },
+        { "id": "o2", "text": "Enum", "isCorrect": false },
+        { "id": "o3", "text": "Interface", "isCorrect": false },
+        { "id": "o4", "text": "Record", "isCorrect": false }
+      ],
+      "explanation": "Örn: `[string, number]` yapısı ilk elemanı metin, ikincisi sayı olan sabit bir Tuple'dır."
+    }
+  },
+  {
+    "id": "prog_49",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Nullish Coalescing",
+      "frontText": "Nullish Coalescing (??) ile Logical OR (||) farkı nedir?",
+      "backText": "|| operatörü 0, false, '' değerlerini de 'falsy' sayıp sağa geçer; ?? ise SADECE null veya undefined olunca sağa geçer."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te Nullish Coalescing (`??`) operatörü sol taraf hangi değerleri aldığında sağındaki değeri döner?",
+      "options": [
+        { "id": "o1", "text": "Sadece null veya undefined olduğunda", "isCorrect": true },
+        { "id": "o2", "text": "0, false veya boş string olduğunda", "isCorrect": false },
+        { "id": "o3", "text": "Herhangi bir falsy değer aldığında", "isCorrect": false },
+        { "id": "o4", "text": "Sadece NaN olduğunda", "isCorrect": false }
+      ],
+      "explanation": "?? operatörü 0 ve boş metin gibi geçerli değerleri koruyarak sadece null/undefined durumunda varsayılan değere geçer."
+    }
+  },
+  {
+    "id": "prog_50",
+    "categoryId": "programming",
+    "card": {
+      "title": "React - useReducer Hook",
+      "frontText": "useReducer ne zaman useState yerine tercih edilir?",
+      "backText": "Birbiriyle bağlantılı karmaşık durumlar ve birden fazla alt aksiyona sahip kompleks state mantıklarında."
+    },
+    "quiz": {
+      "questionText": "React'te Redux benzeri action-reducer deseniyle karmaşık durumları yönetmeyi sağlayan yerel hook hangisidir?",
+      "options": [
+        { "id": "o1", "text": "useReducer", "isCorrect": true },
+        { "id": "o2", "text": "useState", "isCorrect": false },
+        { "id": "o3", "text": "useContext", "isCorrect": false },
+        { "id": "o4", "text": "useImperativeHandle", "isCorrect": false }
+      ],
+      "explanation": "useReducer, karmaşık durum mantıklarını tek bir yerde reducer fonksiyonu ile toplamayı sağlar."
+    }
+  },
+  {
+    "id": "prog_51",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - ActivityIndicator",
+      "frontText": "ActivityIndicator bileşeni ne amaçla kullanılır?",
+      "backText": "Veri yüklenirken veya bir işlem sürerken kullanıcıya dairesel bir yükleniyor (loading) animasyonu göstermek için kullanılır."
+    },
+    "quiz": {
+      "questionText": "React Native'de dairesel yükleniyor animasyonu göstermek için hangi yerel bileşen kullanılır?",
+      "options": [
+        { "id": "o1", "text": "ActivityIndicator", "isCorrect": true },
+        { "id": "o2", "text": "LoadingSpinner", "isCorrect": false },
+        { "id": "o3", "text": "ProgressBar", "isCorrect": false },
+        { "id": "o4", "text": "ProgressCircle", "isCorrect": false }
+      ],
+      "explanation": "ActivityIndicator, platforma özgü dairesel yüklenme simgesini ekrana basar."
+    }
+  },
+  {
+    "id": "prog_52",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Type vs Interface",
+      "frontText": "Type ve Interface arasındaki en belirgin farklardan biri nedir?",
+      "backText": "Interface'ler aynı isimle tekrar tanımlanıp birleştirilebilir (declaration merging), Type alias'lar ise sonradan genişletilemez veya tekrar tanımlanamaz."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te hangisi 'declaration merging' (aynı isimli tanımları otomatik birleştirme) özelliğini destekler?",
+      "options": [
+        { "id": "o1", "text": "Interface", "isCorrect": true },
+        { "id": "o2", "text": "Type", "isCorrect": false },
+        { "id": "o3", "text": "Enum", "isCorrect": false },
+        { "id": "o4", "text": "Class", "isCorrect": false }
+      ],
+      "explanation": "Aynı isimde iki interface tanımlandığında TypeScript bunların alanlarını otomatik olarak birleştirir."
+    }
+  },
+  {
+    "id": "prog_53",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Arrow Functions",
+      "frontText": "Arrow function'ların (=>) geleneksel fonksiyonlardan 'this' bağlamı farkı nedir?",
+      "backText": "Arrow fonksiyonların kendi 'this' bağlamı yoktur; 'this' değerini kendisini çevreleyen kapsama (lexical scope) göre alırlar."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te kendi 'this' bağlamını (binding) oluşturmayan fonksiyon türü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Arrow Function", "isCorrect": true },
+        { "id": "o2", "text": "Anonymous Function", "isCorrect": false },
+        { "id": "o3", "text": "Generator Function", "isCorrect": false },
+        { "id": "o4", "text": "Constructor Function", "isCorrect": false }
+      ],
+      "explanation": "Arrow fonksiyonlar lexical 'this' kullandığı için içlerinde bulunduğu dış kapsamın 'this' değerine erişirler."
+    }
+  },
+  {
+    "id": "prog_54",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Modal Component",
+      "frontText": "Modal bileşeni ne işe yarar?",
+      "backText": "Mevcut ekranın üzerine açılan, altındaki içeriği örten diyalog veya bildirim pencereleri oluşturmak için kullanılır."
+    },
+    "quiz": {
+      "questionText": "React Native'de ekranın üzerinde açılır pencereler (popup) göstermek için kullanılan temel bileşen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Modal", "isCorrect": true },
+        { "id": "o2", "text": "Overlay", "isCorrect": false },
+        { "id": "o3", "text": "DialogView", "isCorrect": false },
+        { "id": "o4", "text": "PopupWindow", "isCorrect": false }
+      ],
+      "explanation": "Modal bileşeni, ana ekranın üzerinde geçici bir pencere katmanı sunar."
+    }
+  },
+  {
+    "id": "prog_55",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Destructuring",
+      "frontText": "Destructuring (Yapı Yıkımı) nedir?",
+      "backText": "Dizi veya nesne içerisindeki elemanları hızlıca tekil değişkenlere çıkartıp atamamızı sağlayan kısa sözdizimidir."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te `const { name, age } = user;` sözdizimi hangi özelliği temsil eder?",
+      "options": [
+        { "id": "o1", "text": "Object Destructuring", "isCorrect": true },
+        { "id": "o2", "text": "Object Restructuring", "isCorrect": false },
+        { "id": "o3", "text": "Spread Assignment", "isCorrect": false },
+        { "id": "o4", "text": "Optional Chaining", "isCorrect": false }
+      ],
+      "explanation": "Destructuring ile nesne mülkleri tek adımda değişkenlere çekilebilir."
+    }
+  },
+  {
+    "id": "prog_56",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - KeyboardAvoidingView",
+      "frontText": "KeyboardAvoidingView neden kullanılır?",
+      "backText": "Ekran klavyesi açıldığında girdi alanlarının (TextInput) klavyenin altında kalıp gizlenmesini önlemek için."
+    },
+    "quiz": {
+      "questionText": "Sanal klavye açıldığında form elemanlarının kapanmaması için içeriği yukarı kaydıran React Native bileşeni hangisidir?",
+      "options": [
+        { "id": "o1", "text": "KeyboardAvoidingView", "isCorrect": true },
+        { "id": "o2", "text": "ScrollView", "isCorrect": false },
+        { "id": "o3", "text": "SafeAreaView", "isCorrect": false },
+        { "id": "o4", "text": "InputContainer", "isCorrect": false }
+      ],
+      "explanation": "KeyboardAvoidingView klavye yüksekliğine göre kendi yüksekliğini veya padding'ini otomatik ayarlar."
+    }
+  },
+  {
+    "id": "prog_57",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Non-Null Assertion",
+      "frontText": "Non-null assertion operator (!) ne işe yarar?",
+      "backText": "Derleyiciye bir ifadenin null veya undefined olmayacağını garanti etmek ('bana güven, bu değer kesin var') için kullanılır."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te bir ifadenin sonuna eklenen '!' sembolü derleyiciye ne bildirir?",
+      "options": [
+        { "id": "o1", "text": "Değerin kesinlikle null veya undefined olmadığını", "isCorrect": true },
+        { "id": "o2", "text": "Değişkenin opsiyonel olduğunu", "isCorrect": false },
+        { "id": "o3", "text": "Değişkenin mantıksal DEĞİL (NOT) işlemine tabi tutulduğunu", "isCorrect": false },
+        { "id": "o4", "text": "Tipin 'any' yapıldığını", "isCorrect": false }
+      ],
+      "explanation": "Non-null assertion (`value!`), derleyicinin null/undefined uyarılarını bastırır."
+    }
+  },
+  {
+    "id": "prog_58",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Optional Chaining",
+      "frontText": "Optional Chaining (?.) ne sağlar?",
+      "backText": "Derindeki bir mülke erişirken ara mülk null/undefined olsa dahi hata ('Cannot read properties of undefined') atmadan undefined dönmesini sağlar."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te `user?.address?.city` ifadesindeki '?.' operatörünün adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Optional Chaining", "isCorrect": true },
+        { "id": "o2", "text": "Nullish Coalescing", "isCorrect": false },
+        { "id": "o3", "text": "Ternary Operator", "isCorrect": false },
+        { "id": "o4", "text": "Safe Accessor", "isCorrect": false }
+      ],
+      "explanation": "Optional Chaining, zincirdeki bir değer yoksa çökme yaşanmasını engeller."
+    }
+  },
+  {
+    "id": "prog_59",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - RefreshControl",
+      "frontText": "RefreshControl ne işe yarar?",
+      "backText": "ScrollView veya FlatList içerisinde 'yukarıdan aşağıya çekerek yenile' (pull-to-refresh) işlevselliği sağlamak için."
+    },
+    "quiz": {
+      "questionText": "React Native'de listeyi aşağı doğru çekerek verileri yenileme (pull-to-refresh) özelliği sağlayan bileşen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "RefreshControl", "isCorrect": true },
+        { "id": "o2", "text": "PullToRefresh", "isCorrect": false },
+        { "id": "o3", "text": "ListRefresher", "isCorrect": false },
+        { "id": "o4", "text": "SwipeRefresh", "isCorrect": false }
+      ],
+      "explanation": "RefreshControl prop'u kaydırılabilir bileşenlere atanarak yenileme mantığını yönetir."
+    }
+  },
+  {
+    "id": "prog_60",
+    "categoryId": "programming",
+    "card": {
+      "title": "React - React.memo",
+      "frontText": "React.memo fonksiyonunun amacı nedir?",
+      "backText": "Bir bileşenin aldığı prop'lar değişmediği sürece bileşenin tekrar render edilmesini engelleyen bir HOC'dir (Higher Order Component)."
+    },
+    "quiz": {
+      "questionText": "React'te bir fonksiyonel bileşenin aldığı prop'lar değişmedikçe re-render olmasını önleyen yapı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "React.memo", "isCorrect": true },
+        { "id": "o2", "text": "useMemo", "isCorrect": false },
+        { "id": "o3", "text": "useCallback", "isCorrect": false },
+        { "id": "o4", "text": "React.PureComponent", "isCorrect": false }
+      ],
+      "explanation": "React.memo, bileşeni sararak propların sığ karşılaştırmasını (shallow comparison) yapar."
+    }
+  },
+  {
+    "id": "prog_61",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Record Utility",
+      "frontText": "Record<K, T> tipi ne oluşturur?",
+      "backText": "Anahtar (key) tipleri K, değer (value) tipleri T olan nesne tipleri tanımlamak için kullanılır."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te `Record<string, number>` ifadesi ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Anahtarları metin, değerleri sayı olan bir nesne", "isCorrect": true },
+        { "id": "o2", "text": "Metin ve sayılardan oluşan sabit bir tuple dizisi", "isCorrect": false },
+        { "id": "o3", "text": "Metinleri sayılara dönüştüren bir fonksiyon", "isCorrect": false },
+        { "id": "o4", "text": "Sadece string barındıran bir veri kaydı", "isCorrect": false }
+      ],
+      "explanation": "Record<K, T>, anahtar-değer eşleşmeli harita (map) benzeri nesne tipleri tanımlar."
+    }
+  },
+  {
+    "id": "prog_62",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Array Includes",
+      "frontText": "includes() metodu ne döner?",
+      "backText": "Bir dizinin belirli bir elemanı içerip içermediğine bakar ve geriye true veya false döner."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te bir dizinin içinde bir değerin bulunup bulunmadığını boolean olarak kontrol eden metod hangisidir?",
+      "options": [
+        { "id": "o1", "text": "includes()", "isCorrect": true },
+        { "id": "o2", "text": "contains()", "isCorrect": false },
+        { "id": "o3", "text": "has()", "isCorrect": false },
+        { "id": "o4", "text": "exists()", "isCorrect": false }
+      ],
+      "explanation": "includes() aranan değer dizide varsa true, yoksa false döndürür."
+    }
+  },
+  {
+    "id": "prog_63",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - SectionList",
+      "frontText": "SectionList bileşeninin FlatList'ten farkı nedir?",
+      "backText": "Gruplanmış / bölümlere ayrılmış (başlıklı) liste verilerini (örn: Harf harf ayrılmış kişiler listesi) göstermek için tasarlanmıştır."
+    },
+    "quiz": {
+      "questionText": "React Native'de başlıklar halinde kategorize edilmiş (sectioned) verileri listelemek için hangisi kullanılır?",
+      "options": [
+        { "id": "o1", "text": "SectionList", "isCorrect": true },
+        { "id": "o2", "text": "FlatList", "isCorrect": false },
+        { "id": "o3", "text": "GroupedView", "isCorrect": false },
+        { "id": "o4", "text": "CategoryList", "isCorrect": false }
+      ],
+      "explanation": "SectionList, veriyi bölümlere (sections) ayırarak her bölüme özel başlık ekleme imkanı verir."
+    }
+  },
+  {
+    "id": "prog_64",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Spread Operator",
+      "frontText": "Spread operatörü (...) ne işe yarar?",
+      "backText": "Bir dizinin veya nesnenin elemanlarını tek tek yayarak/açarak yeni dizi veya nesnelere kopyalamayı/eklemeyi sağlar."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te `const newArr = [...oldArr, 5];` satırındaki '...' ne olarak adlandırılır?",
+      "options": [
+        { "id": "o1", "text": "Spread Operator", "isCorrect": true },
+        { "id": "o2", "text": "Rest Parameter", "isCorrect": false },
+        { "id": "o3", "text": "Expansion Point", "isCorrect": false },
+        { "id": "o4", "text": "Destructuring Dots", "isCorrect": false }
+      ],
+      "explanation": "Spread operatörü var olan elemanları yeni bir kapsayıcı içine saçar."
+    }
+  },
+  {
+    "id": "prog_65",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Omit Utility",
+      "frontText": "Omit<T, K> ne yapar?",
+      "backText": "Mevcut T tipinden K ile belirtilen alanları çıkararak (hariç tutarak) geri kalan alanlardan yeni bir tip türetir."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te bir tipten 'password' alanını çıkartıp geri kalan alanlardan yeni tip üretmek için ne kullanılır?",
+      "options": [
+        { "id": "o1", "text": "Omit<T, K>", "isCorrect": true },
+        { "id": "o2", "text": "Pick<T, K>", "isCorrect": false },
+        { "id": "o3", "text": "Exclude<T, U>", "isCorrect": false },
+        { "id": "o4", "text": "Extract<T, U>", "isCorrect": false }
+      ],
+      "explanation": "Omit metodu istenmeyen özellikleri orijinal tipten eler."
+    }
+  },
+  {
+    "id": "prog_66",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Switch Component",
+      "frontText": "Switch bileşeni ne amaçla kullanılır?",
+      "backText": "Kullanıcıya iki durumlu (Açık/Kapalı - True/False) bir ayar anahtarı sunmak için kullanılır."
+    },
+    "quiz": {
+      "questionText": "React Native'de Açık/Kapalı (toggle) durumlarını değiştirmek için hangi yerel bileşen tercih edilir?",
+      "options": [
+        { "id": "o1", "text": "Switch", "isCorrect": true },
+        { "id": "o2", "text": "Checkbox", "isCorrect": false },
+        { "id": "o3", "text": "ToggleButton", "isCorrect": false },
+        { "id": "o4", "text": "RadioButton", "isCorrect": false }
+      ],
+      "explanation": "Switch, yerel mobil deneyime uygun Açık/Kapalı kaydırma düğmesidir."
+    }
+  },
+  {
+    "id": "prog_67",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Array Some",
+      "frontText": "some() metodu nasıl çalışır?",
+      "backText": "Dizideki elemanlardan EN AZ BİRİSİ verilen şartı sağlıyorsa true, hiçbir eleman sağlamıyorsa false döner."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te bir dizide en az bir elemanın verilen testi geçip geçmediğini kontrol eden metod hangisidir?",
+      "options": [
+        { "id": "o1", "text": "some()", "isCorrect": true },
+        { "id": "o2", "text": "every()", "isCorrect": false },
+        { "id": "o3", "text": "filter()", "isCorrect": false },
+        { "id": "o4", "text": "find()", "isCorrect": false }
+      ],
+      "explanation": "some() metodu tek bir eşleşme bulduğu an true dönerek döngüyü sonlandırır."
+    }
+  },
+  {
+    "id": "prog_68",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - FastImage",
+      "frontText": "FastImage kütüphanesi standart Image bileşenine kıyasla ne sağlar?",
+      "backText": "Görselleri bellek ve disk seviyesinde agresif bir şekilde önbelleğe (cache) alarak performanslı gösterim sunar."
+    },
+    "quiz": {
+      "questionText": "React Native projelerinde gelişmiş görsel önbellekleme (caching) ve yüksek performans için sıklıkla tercih edilen harici kütüphane hangisidir?",
+      "options": [
+        { "id": "o1", "text": "react-native-fast-image", "isCorrect": true },
+        { "id": "o2", "text": "react-native-cached-picture", "isCorrect": false },
+        { "id": "o3", "text": "expo-image-loader", "isCorrect": false },
+        { "id": "o4", "text": "react-native-media-cache", "isCorrect": false }
+      ],
+      "explanation": "FastImage kütüphanesi resim yükleme ve önbellekleme performansını artırır."
+    }
+  },
+  {
+    "id": "prog_69",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Array Every",
+      "frontText": "every() metodu ne şart arar?",
+      "backText": "Dizideki TÜM elemanların verilen şartı karşılamasını şart koşar; bir eleman bile bozsa false döner."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te bir dizideki İSTİSNASIZ TÜM elemanların bir testi geçip geçmediğini doğrulamak için ne kullanılır?",
+      "options": [
+        { "id": "o1", "text": "every()", "isCorrect": true },
+        { "id": "o2", "text": "some()", "isCorrect": false },
+        { "id": "o3", "text": "all()", "isCorrect": false },
+        { "id": "o4", "text": "matchAll()", "isCorrect": false }
+      ],
+      "explanation": "every() metodu ancak her öge testten true aldığında true değerini üretir."
+    }
+  },
+  {
+    "id": "prog_70",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Animated API",
+      "frontText": "Animated API ne amaçla kullanılır?",
+      "backText": "60 FPS akıcılıkta, deklaratif ve performanslı arayüz animasyonları (opaklık, konum, ölçek değişimi) oluşturmak için."
+    },
+    "quiz": {
+      "questionText": "React Native'in çekirdeğinde yer alan ve akıcı kullanıcı arayüzü animasyonları yapmayı sağlayan modül hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Animated", "isCorrect": true },
+        { "id": "o2", "text": "FramerMotion", "isCorrect": false },
+        { "id": "o3", "text": "ReanimatedView", "isCorrect": false },
+        { "id": "o4", "text": "TransitionManager", "isCorrect": false }
+      ],
+      "explanation": "Animated API, React Native'in dahili animasyon motorudur."
+    }
+  },
+  {
+    "id": "prog_71",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Generic Types",
+      "frontText": "Generic (Genel) tiplerin temel avantajı nedir?",
+      "backText": "Bileşen veya fonksiyonların tek bir tipe bağımlı kalmadan, çağrıldığı andaki tiple esnek ama tip güvenliğini koruyarak çalışmasını sağlar."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te `function identity<T>(arg: T): T` ifadesindeki `<T>` neyi simgeler?",
+      "options": [
+        { "id": "o1", "text": "Generic Type Parameter", "isCorrect": true },
+        { "id": "o2", "text": "Tuple Definition", "isCorrect": false },
+        { "id": "o3", "text": "Type Casting", "isCorrect": false },
+        { "id": "o4", "text": "JSX Element", "isCorrect": false }
+      ],
+      "explanation": "Generics (`<T>`), tip bilgisini bir parametre gibi fonksiyona veya sınıfa aktarmayı sağlar."
+    }
+  },
+  {
+    "id": "prog_72",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Template Literals",
+      "frontText": "Template Literals (Ters Tırnak ``) ne sağlar?",
+      "backText": "Çok satırlı metinler yazmayı ve `${deger}` sözdizimi ile metin içine dinamik değişkenler (string interpolation) yerleştirmeyi sağlar."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te metin içinde değişkenleri `${}` biçiminde doğrudan kullanmaya ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Template Literals", "isCorrect": true },
+        { "id": "o2", "text": "String Concatenation", "isCorrect": false },
+        { "id": "o3", "text": "Text Formatting", "isCorrect": false },
+        { "id": "o4", "text": "Dynamic Strings", "isCorrect": false }
+      ],
+      "explanation": "Ters tırnak (backtick) ile oluşturulan Template Literals dize birleştirmeyi son derece kolaylaştırır."
+    }
+  },
+  {
+    "id": "prog_73",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Platform API",
+      "frontText": "Platform API ne işe yarar?",
+      "backText": "Uygulamanın Android mi yoksa iOS mu üzerinde çalıştığını tespit edip işletim sistemine özel kod yazmayı sağlar."
+    },
+    "quiz": {
+      "questionText": "React Native'de `Platform.OS === 'ios'` kontrolünü sağlayan yerel modül hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Platform", "isCorrect": true },
+        { "id": "o2", "text": "DeviceInfo", "isCorrect": false },
+        { "id": "o3", "text": "System", "isCorrect": false },
+        { "id": "o4", "text": "OSManager", "isCorrect": false }
+      ],
+      "explanation": "Platform modülü işletim sistemi türünü ve versiyonunu tespit eder."
+    }
+  },
+  {
+    "id": "prog_74",
+    "categoryId": "programming",
+    "card": {
+      "title": "React - Custom Hooks",
+      "frontText": "Custom Hook nedir?",
+      "backText": "İsmi 'use' ile başlayan, içerisinde diğer React hook'larını kullanabilen ve tekrar eden durum mantıklarını soyutlayan fonksiyonlardır."
+    },
+    "quiz": {
+      "questionText": "React'te tekrar eden bileşen mantıklarını (logic) ayırıp yeniden kullanılabilir kılmak için yazılan yapılara ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Custom Hook", "isCorrect": true },
+        { "id": "o2", "text": "Helper Function", "isCorrect": false },
+        { "id": "o3", "text": "Higher Order Component", "isCorrect": false },
+        { "id": "o4", "text": "Middleware", "isCorrect": false }
+      ],
+      "explanation": "Custom Hook'lar durumsel mantıkları bileşen dışına taşıyarak kod tekrarını önler."
+    }
+  },
+  {
+    "id": "prog_75",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - LocalStorage vs AsyncStorage",
+      "frontText": "React Native'de web'deki LocalStorage yerine ne kullanılır?",
+      "backText": "Web'deki senkron LocalStorage mobilde bulunmaz; yerine asenkron çalışan `@react-native-async-storage/async-storage` kullanılır."
+    },
+    "quiz": {
+      "questionText": "React Native uygulamalarında anahtar-değer (key-value) çiftiyle kalıcı yerel veri saklamak için ne tercih edilir?",
+      "options": [
+        { "id": "o1", "text": "AsyncStorage", "isCorrect": true },
+        { "id": "o2", "text": "LocalStorage", "isCorrect": false },
+        { "id": "o3", "text": "SessionStorage", "isCorrect": false },
+        { "id": "o4", "text": "WebSQL", "isCorrect": false }
+      ],
+      "explanation": "AsyncStorage, mobilde asenkron ve kalıcı basit depolama imkanı sunar."
+    }
+  },
+  {
+    "id": "prog_76",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Type Assertion",
+      "frontText": "Type Assertion ('as' anahtarı) ne yapar?",
+      "backText": "Derleyicinin otomatik çıkarım yapamadığı durumlarda yazılımcının tipin ne olduğunu açıkça belirtmesini (`value as string`) sağlar."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te `const len = (someValue as string).length;` ifadesindeki 'as' ne amaçla kullanılır?",
+      "options": [
+        { "id": "o1", "text": "Type Assertion (Tip Dönüşüm Bildirimi)", "isCorrect": true },
+        { "id": "o2", "text": "Type Casting (Çalışma Zamanı Dönüşümü)", "isCorrect": false },
+        { "id": "o3", "text": "Variable Alias", "isCorrect": false },
+        { "id": "o4", "text": "Inheritance", "isCorrect": false }
+      ],
+      "explanation": "'as' anahtar kelimesi derleyiciye belirtilen tipe güvenmesi gerektiğini söyler."
+    }
+  },
+  {
+    "id": "prog_77",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - AlignItems",
+      "frontText": "alignItems mülkü Flexbox'ta neyi kontrol eder?",
+      "backText": "Çapraz eksendeki (cross axis) elemanların hizalanmasını düzenler."
+    },
+    "quiz": {
+      "questionText": "flexDirection 'column' olan bir React Native kapsayıcısında elemanları yatayda (çapraz eksen) ortalamak için ne kullanılır?",
+      "options": [
+        { "id": "o1", "text": "alignItems: 'center'", "isCorrect": true },
+        { "id": "o2", "text": "justifyContent: 'center'", "isCorrect": false },
+        { "id": "o3", "text": "textAlign: 'center'", "isCorrect": false },
+        { "id": "o4", "text": "alignSelf: 'center'", "isCorrect": false }
+      ],
+      "explanation": "alignItems çapraz eksendeki (cross axis) hizalamayı üstlenir."
+    }
+  },
+  {
+    "id": "prog_78",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Object.entries",
+      "frontText": "Object.entries() ne döndürür?",
+      "backText": "Bir nesnenin key-value (anahtar-değer) çiftlerinden oluşan ikili diziler dizisi `[[key1, val1], [key2, val2]]` döndürür."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te bir nesneyi `[key, value]` çiftlerinden oluşan bir diziye dönüştüren metod hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Object.entries()", "isCorrect": true },
+        { "id": "o2", "text": "Object.values()", "isCorrect": false },
+        { "id": "o3", "text": "Object.keys()", "isCorrect": false },
+        { "id": "o4", "text": "Object.toMap()", "isCorrect": false }
+      ],
+      "explanation": "Object.entries() nesneler üzerinde döngü kurmayı kolaylaştıracak çiftler üretir."
+    }
+  },
+  {
+    "id": "prog_79",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Hermes Engine",
+      "frontText": "Hermes JavaScript motorunun avantajı nedir?",
+      "backText": "Meta tarafından geliştirilen, uygulamanın açılış süresini (TTI) hızlandıran, bellek kullanımını ve APK boyutunu küçülten optimize JS motorudur."
+    },
+    "quiz": {
+      "questionText": "React Native uygulamalarının açılış performansını artırmak ve bellek tüketimini azaltmak için kullanılan varsayılan JS motoru hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Hermes", "isCorrect": true },
+        { "id": "o2", "text": "V8", "isCorrect": false },
+        { "id": "o3", "text": "SpiderMonkey", "isCorrect": false },
+        { "id": "o4", "text": "JavaScriptCore", "isCorrect": false }
+      ],
+      "explanation": "Hermes, mobil cihazlar için özel olarak optimize edilmiş hafif bir JavaScript motorudur."
+    }
+  },
+  {
+    "id": "prog_80",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Never Type",
+      "frontText": "never tipi neyi temsil eder?",
+      "backText": "Hiçbir zaman gerçekleşmeyecek değerlerin tipidir (örn: Sürekli hata fırlatan veya sonsuz döngüye giren fonksiyonların dönüş tipi)."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te istisna fırlatan (throw error) ve asla sonlanmayan fonksiyonların dönüş tipi nedir?",
+      "options": [
+        { "id": "o1", "text": "never", "isCorrect": true },
+        { "id": "o2", "text": "void", "isCorrect": false },
+        { "id": "o3", "text": "null", "isCorrect": false },
+        { "id": "o4", "text": "unknown", "isCorrect": false }
+      ],
+      "explanation": "never tipi, hiçbir zaman bir değer üretemeyecek durumları ifade eder."
+    }
+  },
+  {
+    "id": "prog_81",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Array Flat",
+      "frontText": "flat() metodu ne işe yarar?",
+      "backText": "İç içe geçmiş dizileri (nested arrays) belirten derinliğe göre tek bir düz dizi haline getirir."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te `[1, [2, [3]]]` şeklindeki iç içe dizileri düzleştirmek (flatten) için hangi metod kullanılır?",
+      "options": [
+        { "id": "o1", "text": "flat()", "isCorrect": true },
+        { "id": "o2", "text": "merge()", "isCorrect": false },
+        { "id": "o3", "text": "concat()", "isCorrect": false },
+        { "id": "o4", "text": "join()", "isCorrect": false }
+      ],
+      "explanation": "flat() yöntemi alt dizileri derinlik değerine göre ana diziyle birleştirir."
+    }
+  },
+  {
+    "id": "prog_82",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Linking API",
+      "frontText": "Linking API ne amaçla kullanılır?",
+      "backText": "Dış web bağlantılarını (URL) açmak, harici uygulamaları tetiklemek veya deep-link bağlantılarını yönetmek için."
+    },
+    "quiz": {
+      "questionText": "React Native'de `https://` veya `tel:` gibi bağlantıları cihazın varsayılan tarayıcı veya arama uygulamasında açmak için ne kullanılır?",
+      "options": [
+        { "id": "o1", "text": "Linking", "isCorrect": true },
+        { "id": "o2", "text": "URLHandler", "isCorrect": false },
+        { "id": "o3", "text": "WebOpener", "isCorrect": false },
+        { "id": "o4", "text": "ExternalApp", "isCorrect": false }
+      ],
+      "explanation": "Linking.openURL() harici bağlantıları işletim sistemine iletir."
+    }
+  },
+  {
+    "id": "prog_83",
+    "categoryId": "programming",
+    "card": {
+      "title": "React - StrictMode",
+      "frontText": "React.StrictMode ne işe yarar?",
+      "backText": "Geliştirme aşamasında olası hataları, yan etkileri ve güvensiz yaşam döngülerini tespit etmek için ek denetimler yapan yardımcı bileşendir."
+    },
+    "quiz": {
+      "questionText": "React'te geliştirme modunda (development) hataları erkenden yakalamak amacıyla efektleri iki kez tetikleyen yapı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "React.StrictMode", "isCorrect": true },
+        { "id": "o2", "text": "React.Debugger", "isCorrect": false },
+        { "id": "o3", "text": "React.ErrorBoundary", "isCorrect": false },
+        { "id": "o4", "text": "React.Checker", "isCorrect": false }
+      ],
+      "explanation": "StrictMode, geliştirme esnasında uyarıları ve potansiyel problemleri öne çıkarır."
+    }
+  },
+  {
+    "id": "prog_84",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Closure",
+      "frontText": "Closure (Kapsam Kapanması) nedir?",
+      "backText": "Bir fonksiyonun, kendi dışındaki bir üst fonksiyonun değişkenlerine, üst fonksiyon çalışmasını bitirse dahi erişebilmesidir."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te bir fonksiyonun tanımlandığı lexical kapsamdaki değişkenleri hatırlaması durumuna ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Closure", "isCorrect": true },
+        { "id": "o2", "text": "Hoisting", "isCorrect": false },
+        { "id": "o3", "text": "Recursion", "isCorrect": false },
+        { "id": "o4", "text": "Currying", "isCorrect": false }
+      ],
+      "explanation": "Closure sayesinde içteki fonksiyon, dıştaki fonksiyonun değişken alanını canlı tutar."
+    }
+  },
+  {
+    "id": "prog_85",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - BackHandler",
+      "frontText": "BackHandler API (Android) ne işe yarar?",
+      "backText": "Android cihazlardaki fiziksel veya yazılımsal geri tuşuna basılma olaylarını dinlemek ve özelleştirmek için kullanılır."
+    },
+    "quiz": {
+      "questionText": "React Native'de Android platformuna özgü geri tuşuna basıldığında özel işlem yaptırmak için hangisi kullanılır?",
+      "options": [
+        { "id": "o1", "text": "BackHandler", "isCorrect": true },
+        { "id": "o2", "text": "HardwareButtons", "isCorrect": false },
+        { "id": "o3", "text": "AndroidBackButton", "isCorrect": false },
+        { "id": "o4", "text": "BackButtonListener", "isCorrect": false }
+      ],
+      "explanation": "BackHandler.addEventListener ile Android geri tuşu eylemleri kontrol edilir."
+    }
+  },
+  {
+    "id": "prog_86",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Keyof Operator",
+      "frontText": "keyof operatörü ne üretir?",
+      "backText": "Bir nesne tipinin tüm anahtar (key) isimlerini alıp bir Union tipi olarak döndürür."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te `interface User { id: number; name: string; }` için `keyof User` neye karşılık gelir?",
+      "options": [
+        { "id": "o1", "text": "'id' | 'name'", "isCorrect": true },
+        { "id": "o2", "text": "number | string", "isCorrect": false },
+        { "id": "o3", "text": "[id, name]", "isCorrect": false },
+        { "id": "o4", "text": "User.keys()", "isCorrect": false }
+      ],
+      "explanation": "keyof operatörü nesne tipinin anahtarlarının birlik (union) tipini sunar."
+    }
+  },
+  {
+    "id": "prog_87",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Hoisting",
+      "frontText": "Hoisting (Yukarı Çekme) nedir?",
+      "backText": "JavaScript'in kod çalıştırılmadan önce değişken ve fonksiyon bildirimlerini bulundukları kapsamın en üstüne taşıması durumudur."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te `var` ile tanımlanan değişkenlerin bildirimin yapıldığı satırdan önce erişilebilir (undefined olarak) olmasına ne denir?",
+      "options": [
+        { "id": "o1", "text": "Hoisting", "isCorrect": true },
+        { "id": "o2", "text": "Scoping", "isCorrect": false },
+        { "id": "o3", "text": "Binding", "isCorrect": false },
+        { "id": "o4", "text": "Lifting", "isCorrect": false }
+      ],
+      "explanation": "Hoisting, tanımın kapsamın tepesine çekilmesi mekanizmasıdır."
+    }
+  },
+  {
+    "id": "prog_88",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Reanimated (V2/V3)",
+      "frontText": "React Native Reanimated kütüphanesinin en büyük avantajı nedir?",
+      "backText": "Animasyon hesaplamalarını ana JS iş parçacığından (thread) alıp doğrudan UI iş parçacığında (UI Thread / Worklets) çalıştırarak donmayı önler."
+    },
+    "quiz": {
+      "questionText": "React Native'de karmaşık ve 60/120 FPS akıcı animasyonları doğrudan UI Thread üzerinde koşturan kütüphane hangisidir?",
+      "options": [
+        { "id": "o1", "text": "react-native-reanimated", "isCorrect": true },
+        { "id": "o2", "text": "react-native-animatable", "isCorrect": false },
+        { "id": "o3", "text": "lottie-react-native", "isCorrect": false },
+        { "id": "o4", "text": "react-native-gesture-handler", "isCorrect": false }
+      ],
+      "explanation": "Reanimated, worklet mimarisi sayesinde doğrudan UI thread üzerinde performanslı animasyonlar sunar."
+    }
+  },
+  {
+    "id": "prog_89",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - Required Utility",
+      "frontText": "Required<T> ne işe yarar?",
+      "backText": "Partial<T> yapısının tam tersidir; T tipindeki tüm opsiyonel (?) olan alanları zorunlu hale getirir."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te bir tipin opsiyonel olarak işaretlenmiş tüm mülklerini zorunlu hale getiren Utility Type hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Required<T>", "isCorrect": true },
+        { "id": "o2", "text": "Partial<T>", "isCorrect": false },
+        { "id": "o3", "text": "Mandatory<T>", "isCorrect": false },
+        { "id": "o4", "text": "NonNullable<T>", "isCorrect": false }
+      ],
+      "explanation": "Required, nesne tipindeki tüm '?' işaretlerini kaldırır."
+    }
+  },
+  {
+    "id": "prog_90",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Array FindIndex",
+      "frontText": "findIndex() metodu şart sağlandığında ne döndürür?",
+      "backText": "Şartı karşılayan ilk elemanın dizideki indeks (konum) numarasını; hiçbir eleman karşılamazsa -1 döndürür."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te koşulu sağlayan ilk elemanın indeksini (sırasını) almak için hangi metod kullanılır?",
+      "options": [
+        { "id": "o1", "text": "findIndex()", "isCorrect": true },
+        { "id": "o2", "text": "indexOf()", "isCorrect": false },
+        { "id": "o3", "text": "searchIndex()", "isCorrect": false },
+        { "id": "o4", "text": "positionOf()", "isCorrect": false }
+      ],
+      "explanation": "findIndex() özel bir test fonksiyonu çalıştırarak eşleşen ilk ögenin sıra numarasını verir."
+    }
+  },
+  {
+    "id": "prog_91",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Gesture Handler",
+      "frontText": "React Native Gesture Handler ne işe yarar?",
+      "backText": "Sürükleme, kaydırma, çimdikleme (pinch) gibi karmaşık dokunmatik hareketleri platformun yerel dokunma motoru üzerinden performanslıca yönetir."
+    },
+    "quiz": {
+      "questionText": "React Native'de dokunma ve kaydırma jestlerini yerel (native) seviyede pürüzsüz yönetmek için standart kabul edilen kütüphane hangisidir?",
+      "options": [
+        { "id": "o1", "text": "react-native-gesture-handler", "isCorrect": true },
+        { "id": "o2", "text": "react-native-touch-events", "isCorrect": false },
+        { "id": "o3", "text": "react-native-swipe-system", "isCorrect": false },
+        { "id": "o4", "text": "expo-touch-gestures", "isCorrect": false }
+      ],
+      "explanation": "Gesture Handler kütüphanesi dokunmatik eylemleri yerel seviyede optimize eder."
+    }
+  },
+  {
+    "id": "prog_92",
+    "categoryId": "programming",
+    "card": {
+      "title": "React - Error Boundary",
+      "frontText": "Error Boundary bileşenleri ne yapar?",
+      "backText": "Altındaki bileşen ağacında meydana gelen JavaScript çalışma zamanı hatalarını yakalayarak uygulamanın komple çökmesini engeller ve yedek bir arayüz gösterir."
+    },
+    "quiz": {
+      "questionText": "React'te alt bileşenlerde oluşan runtime hatalarını yakalayıp uygulamanın çökmesini önleyen özel bileşen türü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Error Boundary", "isCorrect": true },
+        { "id": "o2", "text": "CatchBoundary", "isCorrect": false },
+        { "id": "o3", "text": "ExceptionManager", "isCorrect": false },
+        { "id": "o4", "text": "SafeComponent", "isCorrect": false }
+      ],
+      "explanation": "Error Boundary bileşenleri varsayılan olarak `componentDidCatch` yaşam döngüsünü kullanır."
+    }
+  },
+  {
+    "id": "prog_93",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - NaN (Not a Number)",
+      "frontText": "isNaN() ile Number.isNaN() arasındaki temel fark nedir?",
+      "backText": "isNaN() önce değeri sayıya dönüştürmeye çalışır; Number.isNaN() ise sadece değerin tipi gerçekten NaN ise true döner (dönüştürme yapmaz)."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te bir değerin tipi sayı olmasına rağmen geçerli bir sayı olmadığını temsil eden değer hangisidir?",
+      "options": [
+        { "id": "o1", "text": "NaN", "isCorrect": true },
+        { "id": "o2", "text": "null", "isCorrect": false },
+        { "id": "o3", "text": "undefined", "isCorrect": false },
+        { "id": "o4", "text": "Infinity", "isCorrect": false }
+      ],
+      "explanation": "NaN, sayısal olarak ifade edilemeyen geçersiz matematiksel işlemlerin sonucudur."
+    }
+  },
+  {
+    "id": "prog_94",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - PixelRatio API",
+      "frontText": "PixelRatio API ne bilgi verir?",
+      "backText": "Cihazın piksel yoğunluğunu (dp/px oranı) alıp yüksek çözünürlüklü ekranlara özel görsel veya çizgi kalınlığı ayarlamayı sağlar."
+    },
+    "quiz": {
+      "questionText": "React Native'de ekranın fiziksel piksel yoğunluk oranını öğrenmek için hangi API kullanılır?",
+      "options": [
+        { "id": "o1", "text": "PixelRatio", "isCorrect": true },
+        { "id": "o2", "text": "ScreenScale", "isCorrect": false },
+        { "id": "o3", "text": "DensityInfo", "isCorrect": false },
+        { "id": "o4", "text": "DisplayMetrics", "isCorrect": false }
+      ],
+      "explanation": "PixelRatio.get() değeri cihazın ppi derecesine göre yoğunluk kat sayısını döner."
+    }
+  },
+  {
+    "id": "prog_95",
+    "categoryId": "programming",
+    "card": {
+      "title": "TypeScript - NonNullable Utility",
+      "frontText": "NonNullable<T> ne işe yarar?",
+      "backText": "T tipinin içerisinden null ve undefined tiplerini ayıklayarak temiz bir tip elde etmemizi sağlar."
+    },
+    "quiz": {
+      "questionText": "TypeScript'te `string | null | undefined` tipinden null ve undefined olanları silen Utility Type hangisidir?",
+      "options": [
+        { "id": "o1", "text": "NonNullable<T>", "isCorrect": true },
+        { "id": "o2", "text": "NotNull<T>", "isCorrect": false },
+        { "id": "o3", "text": "Clean<T>", "isCorrect": false },
+        { "id": "o4", "text": "Required<T>", "isCorrect": false }
+      ],
+      "explanation": "NonNullable tipi boş değer ihtimallerini tip kümesinden atar."
+    }
+  },
+  {
+    "id": "prog_96",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Set Data Structure",
+      "frontText": "Set veri yapısının belirgin özelliği nedir?",
+      "backText": "İçerisinde tekrar eden (duplicate) değer tutmaz; her bir elemandan sadece bir adet bulunabilir."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te benzersiz (tekrarsız) değerler kümesi saklamak için hangi veri yapısı kullanılır?",
+      "options": [
+        { "id": "o1", "text": "Set", "isCorrect": true },
+        { "id": "o2", "text": "Map", "isCorrect": false },
+        { "id": "o3", "text": "WeakMap", "isCorrect": false },
+        { "id": "o4", "text": "Array", "isCorrect": false }
+      ],
+      "explanation": "Set veri yapısına aynı değer iki kez eklenemez."
+    }
+  },
+  {
+    "id": "prog_97",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - Lottie Animations",
+      "frontText": "Lottie mimarisi ne işe yarar?",
+      "backText": "Adobe After Effects ile hazırlanan vektörel animasyonların JSON formatında dışa aktarılarak mobil cihazlarda kayıpsız ve hafif gösterilmesini sağlar."
+    },
+    "quiz": {
+      "questionText": "React Native'de After Effects animasyonlarını JSON formatında yükleyip oynatmayı sağlayan popüler mimari/kütüphane hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Lottie", "isCorrect": true },
+        { "id": "o2", "text": "GIFPlayer", "isCorrect": false },
+        { "id": "o3", "text": "SVGAnimator", "isCorrect": false },
+        { "id": "o4", "text": "CanvasMotion", "isCorrect": false }
+      ],
+      "explanation": "Lottie, JSON tabanlı vektörel animasyonları pürüzsüz oynatır."
+    }
+  },
+  {
+    "id": "prog_98",
+    "categoryId": "programming",
+    "card": {
+      "title": "JavaScript - Map Data Structure",
+      "frontText": "Map yapısının standart nesnelerden (Object) temel farkı nedir?",
+      "backText": "Standart nesnelerde anahtar (key) sadece string/symbol olabilirken, Map yapısında fonksiyonlar, nesneler dahil her türlü veri tipi anahtar olabilir."
+    },
+    "quiz": {
+      "questionText": "JavaScript'te nesneleri veya fonksiyonları dahi 'anahtar' (key) olarak kullanmaya izin veren anahtar-değer koleksiyonu hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Map", "isCorrect": true },
+        { "id": "o2", "text": "Object", "isCorrect": false },
+        { "id": "o3", "text": "Set", "isCorrect": false },
+        { "id": "o4", "text": "Dictionary", "isCorrect": false }
+      ],
+      "explanation": "Map veri yapısında istenen her tip anahtar (key) olarak atanabilir."
+    }
+  },
+  {
+    "id": "prog_99",
+    "categoryId": "programming",
+    "card": {
+      "title": "React Native - AppState API",
+      "frontText": "AppState API neyi takip eder?",
+      "backText": "Uygulamanın o anda ön planda mı (active), arka planda mı (background) yoksa kapalı/geçiş durumunda mı (inactive) olduğunu bildirir."
+    },
+    "quiz": {
+      "questionText": "React Native'de uygulamanın kullanıcı tarafından arka plana atıldığını veya ön plana alındığını anlamak için hangi API kullanılır?",
+      "options": [
+        { "id": "o1", "text": "AppState", "isCorrect": true },
+        { "id": "o2", "text": "AppLifeCycle", "isCorrect": false },
+        { "id": "o3", "text": "ApplicationStatus", "isCorrect": false },
+        { "id": "o4", "text": "ProcessState", "isCorrect": false }
+      ],
+      "explanation": "AppState.currentState değeri uygulamanın aktiflik durumunu bildirir."
+    }
+  },
+  {
+    "id": "prog_100",
+    "categoryId": "programming",
+    "card": {
+      "title": "React - Concurrent Mode & useTransition",
+      "frontText": "useTransition hook'unun temel amacı nedir?",
+      "backText": "Ekrana hemen yansıması gerekmeyen ağır durum güncellemelerini 'düşük öncelikli' olarak işaretleyerek arayüzün takılmasını/donmasını önlemek."
+    },
+    "quiz": {
+      "questionText": "React 18 ile gelen ve acil olmayan durum güncellemelerini düşük öncelikli işaretleyerek UI donmalarını engelleyen hook hangisidir?",
+      "options": [
+        { "id": "o1", "text": "useTransition", "isCorrect": true },
+        { "id": "o2", "text": "useDeferredValue", "isCorrect": false },
+        { "id": "o3", "text": "useId", "isCorrect": false },
+        { "id": "o4", "text": "useInsertionEffect", "isCorrect": false }
+      ],
+      "explanation": "useTransition, acil olmayan güncellemeleri arka plana atıp arayüzün akıcılığını korur."
+    }
+  }
+]

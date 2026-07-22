@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "sci_1",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - En Sıcak Gezegen",
+      "frontText": "Güneş Sistemimizdeki en sıcak gezegen hangisidir?",
+      "backText": "Venüs. Güneş'e en yakın gezegen Merkür olsa da, Venüs yoğun seragazı atmosferi nedeniyle 465°C ile en sıcaktır."
+    },
+    "quiz": {
+      "questionText": "Güneş Sistemimizdeki en sıcak gezegen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Merkür", "isCorrect": false },
+        { "id": "o2", "text": "Venüs", "isCorrect": true },
+        { "id": "o3", "text": "Mars", "isCorrect": false },
+        { "id": "o4", "text": "Jüpiter", "isCorrect": false }
+      ],
+      "explanation": "Venüs, atmosferindeki yoğun karbondioksitin yarattığı sera etkisi sebebiyle Güneş sisteminin en sıcak gezegenidir."
+    }
+  },
+  {
+    "id": "sci_2",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Işık Hızı",
+      "frontText": "Işığın boşluktaki hızı yaklaşık ne kadardır?",
+      "backText": "Saniyede yaklaşık 300.000 kilometre (299.792.458 m/s)."
+    },
+    "quiz": {
+      "questionText": "Işığın boşluktaki saniyelik hızı yaklaşık kaç kilometredir?",
+      "options": [
+        { "id": "o1", "text": "150.000 km/s", "isCorrect": false },
+        { "id": "o2", "text": "300.000 km/s", "isCorrect": true },
+        { "id": "o3", "text": "500.000 km/s", "isCorrect": false },
+        { "id": "o4", "text": "1.000.000 km/s", "isCorrect": false }
+      ],
+      "explanation": "Işık hızı evrendeki hız sınırıdır ve boşlukta yaklaşık 300.000 km/s ile hareket eder."
+    }
+  },
+  {
+    "id": "sci_3",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Hücrenin Santrali",
+      "frontText": "Hücrede enerji (ATP) üretiminden sorumlu organel hangisidir?",
+      "backText": "Mitokondri. Oksijenli solunumla hücrenin kullanabileceği enerji formunu sentezler."
+    },
+    "quiz": {
+      "questionText": "Ökaryot hücrelerde 'hücrenin enerji santrali' olarak bilinen organel hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Mitokondri", "isCorrect": true },
+        { "id": "o2", "text": "Ribozom", "isCorrect": false },
+        { "id": "o3", "text": "Lizozom", "isCorrect": false },
+        { "id": "o4", "text": "Golgi Cisimciği", "isCorrect": false }
+      ],
+      "explanation": "Mitokondri, hücresel solunum yoluyla ATP enerjisi üreterek hücrenin yaşamını sürdürmesini sağlar."
+    }
+  },
+  {
+    "id": "sci_4",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Suyun Moleküler Yapısı",
+      "frontText": "Suyun kimyasal formülü nedir?",
+      "backText": "H₂O. İki hidrojen ve bir oksijen atomunun kovalent bağlanmasıyla oluşur."
+    },
+    "quiz": {
+      "questionText": "Suyun molekül formülü aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "H2O", "isCorrect": true },
+        { "id": "o2", "text": "CO2", "isCorrect": false },
+        { "id": "o3", "text": "HO2", "isCorrect": false },
+        { "id": "o4", "text": "H2O2", "isCorrect": false }
+      ],
+      "explanation": "Saf su, 2 adet Hidrojen ve 1 adet Oksijen atomunun birleşmesiyle meydana gelir."
+    }
+  },
+  {
+    "id": "sci_5",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Suyun Yoğunluk Anomalisi",
+      "frontText": "Saf su hangi sıcaklıkta en yüksek yoğunluğa ulaşır?",
+      "backText": "+4 °C. Bu sıcaklıktan sonra genleşmeye başlar; bu sayede buz tabakası suyun üstünde yüzer."
+    },
+    "quiz": {
+      "questionText": "Saf suyun yoğunluğunun maksimum (en yüksek) olduğu sıcaklık değeri kaçtır?",
+      "options": [
+        { "id": "o1", "text": "+4 °C", "isCorrect": true },
+        { "id": "o2", "text": "0 °C", "isCorrect": false },
+        { "id": "o3", "text": "-4 °C", "isCorrect": false },
+        { "id": "o4", "text": "+10 °C", "isCorrect": false }
+      ],
+      "explanation": "Su +4 °C'de en yoğun halindedir. Bu durum kışın göllerin tabandan değil üstten donmasını sağlar."
+    }
+  },
+  {
+    "id": "sci_6",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Genetik Bilgi Deposu",
+      "frontText": "DNA'nın tam açılımı nedir?",
+      "backText": "Deoksiribonükleik Asit. Hücredeki genetik talimatları taşıyan çift sarmallı moleküldür."
+    },
+    "quiz": {
+      "questionText": "Genetik materyalimiz olan DNA kısaltmasının açık hali nedir?",
+      "options": [
+        { "id": "o1", "text": "Deoksiribonükleik Asit", "isCorrect": true },
+        { "id": "o2", "text": "Ribonükleik Asit", "isCorrect": false },
+        { "id": "o3", "text": "Dihidrojen Nükleik Asit", "isCorrect": false },
+        { "id": "o4", "text": "Deoksiribozik Nitrat", "isCorrect": false }
+      ],
+      "explanation": "DNA, Deoksiribonükleik Asit ifadesinin kısaltmasıdır ve kalıtsal bilgileri barındırır."
+    }
+  },
+  {
+    "id": "sci_7",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Kırmızı Gezegen",
+      "frontText": "Hangi gezegen 'Kızıl Gezegen' olarak adlandırılır?",
+      "backText": "Mars. Yüzeyinde bolca bulunan demir oksit (pas) nedeniyle kırmızımsı görünür."
+    },
+    "quiz": {
+      "questionText": "Yüzeyindeki pas ve demir oksit tabakası sebebiyle 'Kızıl Gezegen' olarak bilinen gök cismi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Mars", "isCorrect": true },
+        { "id": "o2", "text": "Jüpiter", "isCorrect": false },
+        { "id": "o3", "text": "Merkür", "isCorrect": false },
+        { "id": "o4", "text": "Satürn", "isCorrect": false }
+      ],
+      "explanation": "Mars yüzey kayalarındaki demir oksit bileşikleri gezegene karakteristik kırmızılığı verir."
+    }
+  },
+  {
+    "id": "sci_8",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Periyodik Tabloda En Hafif Element",
+      "frontText": "Evrende en bol bulunan ve en hafif element hangisidir?",
+      "backText": "Hidrojen (H). Atom numarası 1'dir ve tek bir protona sahiptir."
+    },
+    "quiz": {
+      "questionText": "Periyodik cetvelin ilk sırasında yer alan ve en hafif kabul edilen element hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Hidrojen", "isCorrect": true },
+        { "id": "o2", "text": "Helyum", "isCorrect": false },
+        { "id": "o3", "text": "Lityum", "isCorrect": false },
+        { "id": "o4", "text": "Karbon", "isCorrect": false }
+      ],
+      "explanation": "Hidrojen (H), atom numarası 1 olan en basit ve en hafif kimyasal elementtir."
+    }
+  },
+  {
+    "id": "sci_9",
+    "categoryId": "science",
+    "card": {
+      "title": "Jeoloji - Yer Kabuğunun Katmanları",
+      "frontText": "Dünyanın merkezinde yer alan sıcak ve katı katman hangisidir?",
+      "backText": "İç Çekirdek. Muazzam basınç nedeniyle demir-nikel alaşımı katı haldedir."
+    },
+    "quiz": {
+      "questionText": "Yüksek basınç sebebiyle aşırı sıcaklığa rağmen katı halde bulunan Dünya katmanı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "İç Çekirdek", "isCorrect": true },
+        { "id": "o2", "text": "Manto", "isCorrect": false },
+        { "id": "o3", "text": "Dış Çekirdek", "isCorrect": false },
+        { "id": "o4", "text": "Litosfer", "isCorrect": false }
+      ],
+      "explanation": "İç çekirdek merkezdeki devasa basınç yüzünden erimeden katı fazda kalır."
+    }
+  },
+  {
+    "id": "sci_10",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Kütleçekim Kanunu",
+      "frontText": "Evrensel kütleçekim kanununu formüle eden bilim insanı kimdir?",
+      "backText": "Sir Isaac Newton. Cisimlerin birbirini kütleleriyle orantılı çektiğini ispatlamıştır."
+    },
+    "quiz": {
+      "questionText": "1687 yılında Principia eserinde kütleçekim yasasını açıklayan bilim insanı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Isaac Newton", "isCorrect": true },
+        { "id": "o2", "text": "Albert Einstein", "isCorrect": false },
+        { "id": "o3", "text": "Galileo Galilei", "isCorrect": false },
+        { "id": "o4", "text": "Niels Bohr", "isCorrect": false }
+      ],
+      "explanation": "Isaac Newton evrensel kütleçekim kanununu yazarak klasik fiziğin temelini atmıştır."
+    }
+  },
+  {
+    "id": "sci_11",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Bitkilerde Fotosentez",
+      "frontText": "Bitkilerin yeşil renkli olmasını sağlayan ve fotosentez yapan pigment nedir?",
+      "backText": "Klorofil. Güneş ışığını yakalayarak kimyasal enerjiye çevirir."
+    },
+    "quiz": {
+      "questionText": "Bitki hücrelerinde ışığı emerek fotosentez gerçekleştiren yeşil pigment hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Klorofil", "isCorrect": true },
+        { "id": "o2", "text": "Karoten", "isCorrect": false },
+        { "id": "o3", "text": "Ksantofil", "isCorrect": false },
+        { "id": "o4", "text": "Hemoglobin", "isCorrect": false }
+      ],
+      "explanation": "Klorofil, ışık enerjisini emip besin üretilmesini sağlayan kloroplast icindeki pigmenttir."
+    }
+  },
+  {
+    "id": "sci_12",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Asit ve Baz Göstergesi",
+      "frontText": "Nötr çözeltilerin pH değeri kaçtır?",
+      "backText": "7. 7'den küçük değerler asidik, 7'den büyük değerler baziktir."
+    },
+    "quiz": {
+      "questionText": "Saf su gibi nötr (ne asit ne baz) maddelerin pH değeri kaçtır?",
+      "options": [
+        { "id": "o1", "text": "7", "isCorrect": true },
+        { "id": "o2", "text": "0", "isCorrect": false },
+        { "id": "o3", "text": "14", "isCorrect": false },
+        { "id": "o4", "text": "1", "isCorrect": false }
+      ],
+      "explanation": "pH ölçeğinde 0-7 arası asit, 7 nötr, 7-14 arası baz olarak derecelendirilir."
+    }
+  },
+  {
+    "id": "sci_13",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - En Büyük Gezegen",
+      "frontText": "Güneş Sistemi'ndeki en büyük gezegen hangisidir?",
+      "backText": "Jüpiter. Gaz devi olup kütlesi diğer tüm gezegenlerin toplamının iki katından fazladır."
+    },
+    "quiz": {
+      "questionText": "Güneş Sistemi'nin hacim ve kütle bakımından en devasa gezegeni hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Jüpiter", "isCorrect": true },
+        { "id": "o2", "text": "Satürn", "isCorrect": false },
+        { "id": "o3", "text": "Neptün", "isCorrect": false },
+        { "id": "o4", "text": "Uranüs", "isCorrect": false }
+      ],
+      "explanation": "Jüpiter devasa gaz yapısıyla Güneş Sistemi'nin en büyük gezegenidir."
+    }
+  },
+  {
+    "id": "sci_14",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Ses Hızı",
+      "frontText": "Ses oda sıcaklığında (20°C) havadaki hızı yaklaşık kaç m/s'dir?",
+      "backText": "Yaklaşık 343 m/s (1235 km/saat)."
+    },
+    "quiz": {
+      "questionText": "Deniz seviyesinde ve oda sıcaklığında sesin havadaki hızı yaklaşık kaç metre/saniyedir?",
+      "options": [
+        { "id": "o1", "text": "343 m/s", "isCorrect": true },
+        { "id": "o2", "text": "1000 m/s", "isCorrect": false },
+        { "id": "o3", "text": "150 m/s", "isCorrect": false },
+        { "id": "o4", "text": "3000 m/s", "isCorrect": false }
+      ],
+      "explanation": "Ses dalgaları normal oda sıcaklığı ve basıncında havada yaklaşık 343 m/s ile ilerler."
+    }
+  },
+  {
+    "id": "sci_15",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Kan Hücreleri",
+      "frontText": "Oksijen taşımakla görevli alyuvarlarda bulunan kırmızı protein nedir?",
+      "backText": "Hemoglobin. Yapısındaki demir sayesinde oksijeni bağlar ve kana kırmızı rengini verir."
+    },
+    "quiz": {
+      "questionText": "Kırmızı kan hücrelerinde oksijen ve karbondioksit taşıyan demir zengini protein hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Hemoglobin", "isCorrect": true },
+        { "id": "o2", "text": "Miyoglobin", "isCorrect": false },
+        { "id": "o3", "text": "Müsin", "isCorrect": false },
+        { "id": "o4", "text": "Kollajen", "isCorrect": false }
+      ],
+      "explanation": "Hemoglobin proteininin merkezindeki demir atomu oksijene bağlanarak akciğerlerden dokulara taşır."
+    }
+  },
+  {
+    "id": "sci_16",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Asil Gazlar",
+      "frontText": "Hangi grup elementleri 'Soygazlar (Asil Gazlar)' olarak adlandırılır?",
+      "backText": "8A Grubu. Kararlı elektron dizilimleri nedeniyle tepkimeye girmeye isteksizdirler."
+    },
+    "quiz": {
+      "questionText": "Helyum, Neon ve Argon gibi tepkimeye girmeyen kararlı gazlar hangi grupta yer alır?",
+      "options": [
+        { "id": "o1", "text": "Soygazlar (8A)", "isCorrect": true },
+        { "id": "o2", "text": "Halojenler (7A)", "isCorrect": false },
+        { "id": "o3", "text": "Alkali Metaller (1A)", "isCorrect": false },
+        { "id": "o4", "text": "Toprak Alkali Metaller (2A)", "isCorrect": false }
+      ],
+      "explanation": "Soygazların dış yörüngeleri tam dolu olduğu için kimyasal tepkimelere karşı çok inerttirler."
+    }
+  },
+  {
+    "id": "sci_17",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Güneş'e En Yakın Gezegen",
+      "frontText": "Güneş'e yörünge olarak en yakın gezegen hangisidir?",
+      "backText": "Merkür. Güneş etrafındaki turunu 88 günde tamamlar."
+    },
+    "quiz": {
+      "questionText": "Güneş'e en yakın mesafede bulunan gezegen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Merkür", "isCorrect": true },
+        { "id": "o2", "text": "Venüs", "isCorrect": false },
+        { "id": "o3", "text": "Dünya", "isCorrect": false },
+        { "id": "o4", "text": "Mars", "isCorrect": false }
+      ],
+      "explanation": "Merkür, Güneş Sistemimizin en içte kalan gezegenidir."
+    }
+  },
+  {
+    "id": "sci_18",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Görelilik Teorisi",
+      "frontText": "Genel ve Özel Görelilik teorilerini geliştiren dahi bilim insanı kimdir?",
+      "backText": "Albert Einstein. E=mc² denklemi ile kütle ve enerjinin eşdeğerliğini göstermiştir."
+    },
+    "quiz": {
+      "questionText": "E=mc² formülünü fizığe kazandıran ve İzafiyet Teorisini kuran bilim insanı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Albert Einstein", "isCorrect": true },
+        { "id": "o2", "text": "Max Planck", "isCorrect": false },
+        { "id": "o3", "text": "Niels Bohr", "isCorrect": false },
+        { "id": "o4", "text": "Erwin Schrödinger", "isCorrect": false }
+      ],
+      "explanation": "Albert Einstein 1905 ve 1915'te yayımladığı makalelerle uzay, zaman ve kütle anlayışını değiştirmiştir."
+    }
+  },
+  {
+    "id": "sci_19",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Hücre Bölünmesi",
+      "frontText": "Vücut hücrelerinde gerçekleşen ve kromozom sayısını sabit tutan bölünme türü nedir?",
+      "backText": "Mitoz Bölünme. 1 hücreden aynı genetik yapıda 2 yeni hücre üretir."
+    },
+    "quiz": {
+      "questionText": "Büyüme, gelişme ve yaraların onarımını sağlayan; kromozom sayısını değiştirmeyen hücre bölünmesi nedir?",
+      "options": [
+        { "id": "o1", "text": "Mitoz", "isCorrect": true },
+        { "id": "o2", "text": "Mayoz", "isCorrect": false },
+        { "id": "o3", "text": "Mitojen", "isCorrect": false },
+        { "id": "o4", "text": "Partenogenez", "isCorrect": false }
+      ],
+      "explanation": "Mitoz bölünme vücut (somatik) hücrelerinde görülür ve kromozom sayısı sabit kalır."
+    }
+  },
+  {
+    "id": "sci_20",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Kimyasal Bağlar",
+      "frontText": "Ametal atomları arasında elektron paylaşımı ile kurulan bağ türü nedir?",
+      "backText": "Kovalent Bağ. Elektronların ortaklaşa kullanılmasıyla oluşur."
+    },
+    "quiz": {
+      "questionText": "Elektronların ortak kullanılması esasına dayanan bağ türü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Kovalent Bağ", "isCorrect": true },
+        { "id": "o2", "text": "İyonik Bağ", "isCorrect": false },
+        { "id": "o3", "text": "Metalik Bağ", "isCorrect": false },
+        { "id": "o4", "text": "Hidrojen Bağı", "isCorrect": false }
+      ],
+      "explanation": "Ametaller kendi aralarında elektron alışverişi yerine elektron paylaşarak kovalent bağ kurarlar."
+    }
+  },
+  {
+    "id": "sci_21",
+    "categoryId": "science",
+    "card": {
+      "title": "Jeoloji - Deprem Ölçeği",
+      "frontText": "Depremlerin açığa çıkardığı enerjiyi (büyüklüğünü) ölçen ölçek hangisidir?",
+      "backText": "Richter Ölçeği. Logaritmik bir ölçektir; her 1 birim artış 32 kat enerji artışına denk gelir."
+    },
+    "quiz": {
+      "questionText": "Depremin sismograf ile kaydedilen büyüklüğünü (moment büyüklüğü bağıntısıyla) ifade eden ölçek nedir?",
+      "options": [
+        { "id": "o1", "text": "Richter Ölçeği", "isCorrect": true },
+        { "id": "o2", "text": "Mercalli Ölçeği", "isCorrect": false },
+        { "id": "o3", "text": "Kelvin Ölçeği", "isCorrect": false },
+        { "id": "o4", "text": "Desibel Ölçeği", "isCorrect": false }
+      ],
+      "explanation": "Richter ölçeği depremin odağında ortaya çıkan enerjinin miktarını sayısal olarak ifade eder."
+    }
+  },
+  {
+    "id": "sci_22",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Genetiğin Babası",
+      "frontText": "Kalıtım ilkelerini bezelyeler üzerinde yaptığı deneylerle keşfeden bilim insanı kimdir?",
+      "backText": "Gregor Mendel. Modern genetik biliminin kurucusu kabul edilir."
+    },
+    "quiz": {
+      "questionText": "Bezelye bitkileriyle yaptığı çaprazlamalarla genetik yasalarını açıklayan bilim insanı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Gregor Mendel", "isCorrect": true },
+        { "id": "o2", "text": "Charles Darwin", "isCorrect": false },
+        { "id": "o3", "text": "Louis Pasteur", "isCorrect": false },
+        { "id": "o4", "text": "Alexander Fleming", "isCorrect": false }
+      ],
+      "explanation": "Mendel'in ortaya koyduğu baskınlık ve çekiniklik ilkeleri genetiğin temelini oluşturmuştur."
+    }
+  },
+  {
+    "id": "sci_23",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Mutlak Sıfır",
+      "frontText": "Termodinamikte moleküler hareketin teorik olarak durduğu Mutlak Sıfır noktası kaç °C'dir?",
+      "backText": "-273.15 °C (veya 0 Kelvin)."
+    },
+    "quiz": {
+      "questionText": "Teorik olarak maddelerdeki termal hareketin tamamen sonlandığı mutlak sıfır noktası kaç santigrat derecedir?",
+      "options": [
+        { "id": "o1", "text": "-273.15 °C", "isCorrect": true },
+        { "id": "o2", "text": "-100 °C", "isCorrect": false },
+        { "id": "o3", "text": "-500 °C", "isCorrect": false },
+        { "id": "o4", "text": "0 °C", "isCorrect": false }
+      ],
+      "explanation": "0 Kelvin (-273.15 °C), evrende ulaşılabilecek en düşük teorik sıcaklıktır."
+    }
+  },
+  {
+    "id": "sci_24",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Cüce Gezegen",
+      "frontText": "2006 yılında gezegen statüsünden çıkarılıp 'Cüce Gezegen' ilan edilen gök cismi hangisidir?",
+      "backText": "Plüton. Yörüngesindeki komşu cisimleri temizleyemediği için Uluslararası Astronomi Birliği tarafından statüsü değiştirilmiştir."
+    },
+    "quiz": {
+      "questionText": "2006 yılında alınan kararla Güneş Sistemi'nin 9. gezegeni olmaktan çıkarılan gök cismi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Plüton", "isCorrect": true },
+        { "id": "o2", "text": "Eris", "isCorrect": false },
+        { "id": "o3", "text": "Ceres", "isCorrect": false },
+        { "id": "o4", "text": "Makemake", "isCorrect": false }
+      ],
+      "explanation": "Plüton gezegen olma şartlarından birini sağlayamadığı için cüce gezegen sınıfına alınmıştır."
+    }
+  },
+  {
+    "id": "sci_25",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Suyun Sıvı Metal Hali",
+      "frontText": "Oda sıcaklığında (25°C) sıvı halde bulunan tek metal element hangisidir?",
+      "backText": "Cıva (Hg). Metal olmasına rağmen erime noktası -38.8 °C'dir."
+    },
+    "quiz": {
+      "questionText": "Oda koşullarında sıvı halde bulunan yegane metal aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Cıva", "isCorrect": true },
+        { "id": "o2", "text": "Kurşun", "isCorrect": false },
+        { "id": "o3", "text": "Bakır", "isCorrect": false },
+        { "id": "o4", "text": "Gümüş", "isCorrect": false }
+      ],
+      "explanation": "Cıva (Hg) simgesiyle bilinen, oda sıcaklığında sıvı haldeki tek metalik elementtir."
+    }
+  },
+  {
+    "id": "sci_26",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - İnsan Vücudundaki Kemik Sayısı",
+      "frontText": "Yetişkin bir insan vücudunda ortalama kaç adet kemik bulunur?",
+      "backText": "206 kemik. Bebeklerde bu sayı 300 civarındadır ancak zamanla birleşirler."
+    },
+    "quiz": {
+      "questionText": "Yetişkin bir insanın iskelet sisteminde toplam kaç adet kemik yer alır?",
+      "options": [
+        { "id": "o1", "text": "206", "isCorrect": true },
+        { "id": "o2", "text": "300", "isCorrect": false },
+        { "id": "o3", "text": "150", "isCorrect": false },
+        { "id": "o4", "text": "500", "isCorrect": false }
+      ],
+      "explanation": "Bebeklikten yetişkinliğe kemiklerin kaynaşmasıyla yetişkin insan iskeleti 206 kemikten oluşur."
+    }
+  },
+  {
+    "id": "sci_27",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Enerjinin Korunumu",
+      "frontText": "Termodinamiğin 1. Yasası neyi söyler?",
+      "backText": "Enerji yoktan var edilemez, var olan enerji yok edilemez; sadece bir formdan diğerine dönüşür."
+    },
+    "quiz": {
+      "questionText": "'Enerji varken yok edilemez, yokken var edilemez' ilkesi hangi fizik kanunudur?",
+      "options": [
+        { "id": "o1", "text": "Enerjinin Korunumu Yasası", "isCorrect": true },
+        { "id": "o2", "text": "Entropi Yasası", "isCorrect": false },
+        { "id": "o3", "text": "Ohm Yasası", "isCorrect": false },
+        { "id": "o4", "text": "Kepler Yasası", "isCorrect": false }
+      ],
+      "explanation": "Enerjinin korunumu ilkesi korunan toplam enerjinin form değiştirdiğini ifade eder."
+    }
+  },
+  {
+    "id": "sci_28",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Kızıl Leke",
+      "frontText": "Jüpiter üzerindeki asırlardır devam eden dev kasırganın adı nedir?",
+      "backText": "Büyük Kırmızı Leke. İçine Dünya'nın sığabileceği büyüklükte devasa bir fırtınadır."
+    },
+    "quiz": {
+      "questionText": "Jüpiter'in atmosferinde yer alan ve devasa bir fırtına olan yapıya ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Büyük Kırmızı Leke", "isCorrect": true },
+        { "id": "o2", "text": "Karanlık Bölge", "isCorrect": false },
+        { "id": "o3", "text": "Güneş Lekesi", "isCorrect": false },
+        { "id": "o4", "text": "Cassini Yarığı", "isCorrect": false }
+      ],
+      "explanation": "Büyük Kırmızı Leke, Jüpiter'de en az 300 yıldır devam ettiği bilinen bir yüksek basınç fırtınasıdır."
+    }
+  },
+  {
+    "id": "sci_29",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Elmas ve Grafik",
+      "frontText": "Elmas ve grafik hangi elementin allotroplarıdır?",
+      "backText": "Karbon (C). Atomların farklı dizilim göstermesi tamamen farklı sertlik ve özellik kazandırır."
+    },
+    "quiz": {
+      "questionText": "Hem kurşun kalem ucundaki grafiti hem de doğadaki en sert maden olan elması oluşturan element hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Karbon", "isCorrect": true },
+        { "id": "o2", "text": "Silisyum", "isCorrect": false },
+        { "id": "o3", "text": "Kükürt", "isCorrect": false },
+        { "id": "o4", "text": "Fosfor", "isCorrect": false }
+      ],
+      "explanation": "Karbon atomlarının farklı kristal yapılarda bağlanması elmas ve grafik gibi allotropları oluşturur."
+    }
+  },
+  {
+    "id": "sci_30",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Kan Grupları",
+      "frontText": "Hangi kan grubu 'Genel Verici' olarak kabul edilir?",
+      "backText": "0 RH Negatif. Üzerinde A, B veya Rh antijeni barındırmadığı için tüm gruplara uyum sağlayabilir."
+    },
+    "quiz": {
+      "questionText": "Alyuvar yüzeyinde A, B ve Rh antijenlerinin hiçbiri bulunmayan genel verici kan grubu hangisidir?",
+      "options": [
+        { "id": "o1", "text": "0 Rh Negatif", "isCorrect": true },
+        { "id": "o2", "text": "AB Rh Pozitif", "isCorrect": false },
+        { "id": "o3", "text": "A Rh Negatif", "isCorrect": false },
+        { "id": "o4", "text": "0 Rh Pozitif", "isCorrect": false }
+      ],
+      "explanation": "0 Rh negatif kan grubu antijen taşımadığı için acil durumlarda genel verici olarak adlandırılır."
+    }
+  },
+  {
+    "id": "sci_31",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Elektrik Akımı Birimi",
+      "frontText": "SI birim sisteminde elektrik akım şiddetinin birimi nedir?",
+      "backText": "Amper (A). İletkenden kesit başına birim zamanda geçen yük miktarını ölçer."
+    },
+    "quiz": {
+      "questionText": "Fizikte elektrik akım şiddetini ölçmede kullanılan temel SI birimi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Amper", "isCorrect": true },
+        { "id": "o2", "text": "Volt", "isCorrect": false },
+        { "id": "o3", "text": "Ohm", "isCorrect": false },
+        { "id": "o4", "text": "Watt", "isCorrect": false }
+      ],
+      "explanation": "Akım şiddetinin ölçü birimi Fransız fizikçi André-Marie Ampère'e ithafen Amper'dir."
+    }
+  },
+  {
+    "id": "sci_32",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Ay'ın Evreleri",
+      "frontText": "Ay'ın Güneş ile Dünya arasında kaldığı ve Dünya'dan görünmediği evre hangisidir?",
+      "backText": "Yeniay evresi."
+    },
+    "quiz": {
+      "questionText": "Ay'ın karanlık yüzünün Dünya'ya baktığı ve gökyüzünde seçilemediği ilk evresi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Yeniay", "isCorrect": true },
+        { "id": "o2", "text": "Dolunay", "isCorrect": false },
+        { "id": "o3", "text": "İlk Dördün", "isCorrect": false },
+        { "id": "o4", "text": "Son Dördün", "isCorrect": false }
+      ],
+      "explanation": "Yeniay evresinde Ay, Güneş ile Dünya arasındadır; aydınlık yüzü Dünya'ya dönük değildir."
+    }
+  },
+  {
+    "id": "sci_33",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Beynin Bölümleri",
+      "frontText": "Vücuttaki kas koordinasyonu ve dengeden sorumlu beyin bölümü hangisidir?",
+      "backText": "Beyincik (Cerebellum). İstemli kas hareketlerinin uyumunu ve dengeyi ayarlar."
+    },
+    "quiz": {
+      "questionText": "İnsan vücudunda duruşu, dengeyi ve kasların uyumlu çalışmasını denetleyen merkezi sinir sistemi organı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Beyincik", "isCorrect": true },
+        { "id": "o2", "text": "Omurilik Soğanı", "isCorrect": false },
+        { "id": "o3", "text": "Hipotalamus", "isCorrect": false },
+        { "id": "o4", "text": "Talamus", "isCorrect": false }
+      ],
+      "explanation": "Beyincik, kulaktaki yarım daire kanallarıyla birlikte vücudun dengesini sağlar."
+    }
+  },
+  {
+    "id": "sci_34",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Havadaki En Bol Gaz",
+      "frontText": "Dünya atmosferinde hacimce en yüksek oranda bulunan gaz hangisidir?",
+      "backText": "Azot (N₂). Atmosferin yaklaşık %78'ini oluşturur."
+    },
+    "quiz": {
+      "questionText": "Soluduğumuz atmosfer havasının yaklaşık %78'ini oluşturan ana gaz hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Azot (Nitrojen)", "isCorrect": true },
+        { "id": "o2", "text": "Oksijen", "isCorrect": false },
+        { "id": "o3", "text": "Karbondioksit", "isCorrect": false },
+        { "id": "o4", "text": "Argon", "isCorrect": false }
+      ],
+      "explanation": "Atmosferin %78'i Azot, %21'i Oksijen, %1'i ise argon, karbondioksit ve diğer gazlardır."
+    }
+  },
+  {
+    "id": "sci_35",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Basınç Birimi",
+      "frontText": "SI birim sisteminde basınç birimi nedir?",
+      "backText": "Pascal (Pa). Birim yüzeye (m²) dik etki eden 1 Newtonluk kuvvettir (N/m²)."
+    },
+    "quiz": {
+      "questionText": "Fizikte birim yüzeye uygulanan dik kuvveti ifade eden basıncın SI birimi nedir?",
+      "options": [
+        { "id": "o1", "text": "Pascal", "isCorrect": true },
+        { "id": "o2", "text": "Joule", "isCorrect": false },
+        { "id": "o3", "text": "Newton", "isCorrect": false },
+        { "id": "o4", "text": "Watt", "isCorrect": false }
+      ],
+      "explanation": "Basınç birimi Blaise Pascal'ın anısına Pascal (N/m²) olarak kabul edilmiştir."
+    }
+  },
+  {
+    "id": "sci_36",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Halkalı Gezegen",
+      "frontText": "Büyük ve belirgin halka sistemiyle tanınan gezegen hangisidir?",
+      "backText": "Satürn. Buz ve kaya parçalarından oluşan muazzam halkalara sahiptir."
+    },
+    "quiz": {
+      "questionText": "Güneş Sistemi'nde muazzam genişlikteki buz ve kaya halkalarıyla meşhur olan gezegen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Satürn", "isCorrect": true },
+        { "id": "o2", "text": "Mars", "isCorrect": false },
+        { "id": "o3", "text": "Merkür", "isCorrect": false },
+        { "id": "o4", "text": "Venüs", "isCorrect": false }
+      ],
+      "explanation": "Diğer gaz devlerinde de halka olsa da Satürn'ün halkaları teleskopla belirgin görünen tek sistemdir."
+    }
+  },
+  {
+    "id": "sci_37",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Sindirim Organı",
+      "frontText": "Besinlerin emiliminin büyük kısmının gerçekleştiği organ hangisidir?",
+      "backText": "İnce Bağırsak. Kıvrımlı yapısı ve villusları sayesinde emilim yüzeyini artırır."
+    },
+    "quiz": {
+      "questionText": "Sindirilmiş besin maddelerinin kana geçtiği (emildiği) ana organ hangisidir?",
+      "options": [
+        { "id": "o1", "text": "İnce Bağırsak", "isCorrect": true },
+        { "id": "o2", "text": "Mide", "isCorrect": false },
+        { "id": "o3", "text": "Kalın Bağırsak", "isCorrect": false },
+        { "id": "o4", "text": "Yutak", "isCorrect": false }
+      ],
+      "explanation": "İnce bağırsak villus adı verilen uzantılarıyla kimyasal sindirimin bittiği ve emilimin yapıldığı yerdir."
+    }
+  },
+  {
+    "id": "sci_38",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Paslanma Kimyası",
+      "frontText": "Demirin paslanması hangi tür bir kimyasal tepkimedir?",
+      "backText": "Oksitlenme (Yavaş Yanma). Demirin oksijen ve nem ile tepkimeye girmesidir."
+    },
+    "quiz": {
+      "questionText": "Demir metalinin nemli ortamda hava oksijeniyle birleşerek pas oluşturması ne tür bir reaksiyondur?",
+      "options": [
+        { "id": "o1", "text": "Oksitlenme (Yavaş Yanma)", "isCorrect": true },
+        { "id": "o2", "text": "Nötralleşme", "isCorrect": false },
+        { "id": "o3", "text": "Polimerleşme", "isCorrect": false },
+        { "id": "o4", "text": "Esterleşme", "isCorrect": false }
+      ],
+      "explanation": "Paslanma, maddenin oksijenle yavaşça tepkimeye girdiği bir yükseltgenme/oksitlenme sürecidir."
+    }
+  },
+  {
+    "id": "sci_39",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Isı Transfer Türleri",
+      "frontText": "Güneş enerjisinin Dünya'ya ulaşmasını sağlayan ısı yayılma yolu nedir?",
+      "backText": "Işıma (Radyasyon). Madde ortamına ihtiyaç duymadan elektromanyetik dalgalarla gerçekleşir."
+    },
+    "quiz": {
+      "questionText": "Isının uzay boşluğundan geçerek Dünya'mıza ulaşmasını sağlayan transfer mekanizması nedir?",
+      "options": [
+        { "id": "o1", "text": "Işıma (Radyasyon)", "isCorrect": true },
+        { "id": "o2", "text": "İletim (Kondüksiyon)", "isCorrect": false },
+        { "id": "o3", "text": "Taşınım (Konveksiyon)", "isCorrect": false },
+        { "id": "o4", "text": "Sürtünme", "isCorrect": false }
+      ],
+      "explanation": "Boşlukta tanecik olmadığı için ısı enerjisi ışıma (fotonlar/radyasyon) yoluyla yayılır."
+    }
+  },
+  {
+    "id": "sci_40",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Işık Yılı",
+      "frontText": "Işık yılı neyin ölçü birimidir?",
+      "backText": "Mesafe (Uzaklık). Işığın boşlukta 1 yılda katettiği mesafeyi (yaklaşık 9.46 trilyon km) ifade eder."
+    },
+    "quiz": {
+      "questionText": "Adında 'yıl' kelimesi geçmesine rağmen 'Işık Yılı' fizikte neyi ölçmek için kullanılır?",
+      "options": [
+        { "id": "o1", "text": "Mesafe / Uzaklık", "isCorrect": true },
+        { "id": "o2", "text": "Zaman", "isCorrect": false },
+        { "id": "o3", "text": "Işık Şiddeti", "isCorrect": false },
+        { "id": "o4", "text": "Hız", "isCorrect": false }
+      ],
+      "explanation": "Işık yılı zaman birimi değildir; gök cisimleri arasındaki muazzam uzaklıkları ölçen bir mesafe birimidir."
+    }
+  },
+  {
+    "id": "sci_41",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Virüslerin Yapısı",
+      "frontText": "Virüsler neden canlı hücre dışında çoğalamaz?",
+      "backText": "Hücresel organelleri ve enzimatik sistemleri olmadığı için 'Zorunlu Hücre İçi Paraziti'dirler."
+    },
+    "quiz": {
+      "questionText": "Kendi metabolizması olmayıp çoğalmak için mutlaka canlı bir konak hücreye ihtiyaç duyan yapılar hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Virüsler", "isCorrect": true },
+        { "id": "o2", "text": "Bakteriler", "isCorrect": false },
+        { "id": "o3", "text": "Mantarlar", "isCorrect": false },
+        { "id": "o4", "text": "Amcontext", "isCorrect": false }
+      ],
+      "explanation": "Virüsler hücre dışındayken kristal yapıdadır ve canlılık faaliyeti göstermezler."
+    }
+  },
+  {
+    "id": "sci_42",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Tuzun Formülü",
+      "frontText": "Sofra tuzunun kimyasal adı ve formülü nedir?",
+      "backText": "Sodyum Klorür (NaCl). Na+ ve Cl- iyonlarının iyonik bağıyla oluşur."
+    },
+    "quiz": {
+      "questionText": "Günlük hayatta kullandığımız yemek tuzunun kimyasal formülü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "NaCl", "isCorrect": true },
+        { "id": "o2", "text": "KCl", "isCorrect": false },
+        { "id": "o3", "text": "NaOH", "isCorrect": false },
+        { "id": "o4", "text": "HCl", "isCorrect": false }
+      ],
+      "explanation": "Sofra tuzu Sodyum (Na) ve Klor (Cl) elementlerinden oluşan Sodyum Klorür bileşiğidir."
+    }
+  },
+  {
+    "id": "sci_43",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Serbest Düşme İvmesi",
+      "frontText": "Dünya yüzeyindeki ortalama yerçekimi ivmesi (g) yaklaşık ne kadardır?",
+      "backText": "9.81 m/s² (Hesaplamalarda genelde 10 m/s² alınır)."
+    },
+    "quiz": {
+      "questionText": "Dünya'nın standart kabul edilen yerçekimi ivmesi değeri yaklaşık kaçtır?",
+      "options": [
+        { "id": "o1", "text": "9.81 m/s²", "isCorrect": true },
+        { "id": "o2", "text": "5.5 m/s²", "isCorrect": false },
+        { "id": "o3", "text": "12.3 m/s²", "isCorrect": false },
+        { "id": "o4", "text": "1.62 m/s²", "isCorrect": false }
+      ],
+      "explanation": "Dünya yüzeyinde serbest düşen bir cisim hızını her saniye yaklaşık 9.81 m/s artırır."
+    }
+  },
+  {
+    "id": "sci_44",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Protein Sentezi",
+      "frontText": "Hücrede protein sentezinin yapıldığı organel hangisidir?",
+      "backText": "Ribozom. Tüm canlı hücrelerde ortak bulunan zarsız organeldir."
+    },
+    "quiz": {
+      "questionText": "Tüm canlı hücrelerde bulunan ve amino asitlerden protein sentezleyen organel hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Ribozom", "isCorrect": true },
+        { "id": "o2", "text": "Sentrozom", "isCorrect": false },
+        { "id": "o3", "text": "Koful", "isCorrect": false },
+        { "id": "o4", "text": "Peroksizom", "isCorrect": false }
+      ],
+      "explanation": "Ribozom, mRNA'daki şifreye göre amino asitleri birleştirerek protein üretir."
+    }
+  },
+  {
+    "id": "sci_45",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - En Yakın Yıldız",
+      "frontText": "Güneş'ten sonra Dünya'ya en yakın yıldız hangisidir?",
+      "backText": "Proxima Centauri. Yaklaşık 4.24 ışık yılı uzaklıktadır."
+    },
+    "quiz": {
+      "questionText": "Güneş Sistemi'ne en yakın komşu yıldız hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Proxima Centauri", "isCorrect": true },
+        { "id": "o2", "text": "Sirius", "isCorrect": false },
+        { "id": "o3", "text": "Betelgeuse", "isCorrect": false },
+        { "id": "o4", "text": "Polaris", "isCorrect": false }
+      ],
+      "explanation": "Proxima Centauri, Alpha Centauri sisteminin bir üyesi olup bize 4.24 ışık yılı mesafededir."
+    }
+  },
+  {
+    "id": "sci_46",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Katalizörler",
+      "frontText": "Kimyasal tepkimelerin hızını artıran ama kendisi harcanmayan maddelere ne denir?",
+      "backText": "Katalizör (Biyolojideki karşılığı Enzimdir)."
+    },
+    "quiz": {
+      "questionText": "Tepkime aktivasyon enerjisini düşürerek reaksiyonu hızlandıran ve değişmeden çıkan maddelere ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Katalizör", "isCorrect": true },
+        { "id": "o2", "text": "İnhibitör", "isCorrect": false },
+        { "id": "o3", "text": "Çözücü", "isCorrect": false },
+        { "id": "o4", "text": "Reaktant", "isCorrect": false }
+      ],
+      "explanation": "Katalizörler kimyasal tepkimenin izlediği yolu değiştirerek reaksiyonu hızlandırır."
+    }
+  },
+  {
+    "id": "sci_47",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Güç Birimi",
+      "frontText": "Birim zamanda yapılan iş veya harcanan enerjiye ne denir ve birimi nedir?",
+      "backText": "Güç denir. SI birimi Watt (W) veya Joule/saniye'dir."
+    },
+    "quiz": {
+      "questionText": "Saniyede 1 Joule iş yapan bir sistemin gücü kaç birimdir?",
+      "options": [
+        { "id": "o1", "text": "1 Watt", "isCorrect": true },
+        { "id": "o2", "text": "1 Volt", "isCorrect": false },
+        { "id": "o3", "text": "1 Newton", "isCorrect": false },
+        { "id": "o4", "text": "1 Beygir Gücü", "isCorrect": false }
+      ],
+      "explanation": "Güç = İş / Zaman (P=W/t) bağıntısıyla bulunur; birimi Watt'tır."
+    }
+  },
+  {
+    "id": "sci_48",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Solunum Pigmneti",
+      "frontText": "Akyuvarların ana görevi nedir?",
+      "backText": "Vücut Savunması (Bağışıklık). Patojen mikroorganizmalarla savaşır."
+    },
+    "quiz": {
+      "questionText": "İnsan kanında vücudu enfeksiyonlara ve mikroplara karşı koruyan hücre grubu hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Akyuvarlar (Lökositler)", "isCorrect": true },
+        { "id": "o2", "text": "Alyuvarlar (Eritrositler)", "isCorrect": false },
+        { "id": "o3", "text": "Kan Pulcukları (Trombositler)", "isCorrect": false },
+        { "id": "o4", "text": "Plazma Hücreleri", "isCorrect": false }
+      ],
+      "explanation": "Akyuvarlar antikor üreterek veya fagositoz yaparak vücudu hastalıklara karşı korur."
+    }
+  },
+  {
+    "id": "sci_49",
+    "categoryId": "science",
+    "card": {
+      "title": "Jeoloji - Taş Türleri",
+      "frontText": "Magmanın soğuyup katılaşmasıyla oluşan kayaç türü nedir?",
+      "backText": "Püskürük (Magmatik / İğneus) Kayaçlar. Örn: Granit, Basalt, Obsidyen."
+    },
+    "quiz": {
+      "questionText": "Erimiş katı magma kütlelerinin soğuması sonucu oluşan kayaç sınıfı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Magmatik (Püskürük) Kayaçlar", "isCorrect": true },
+        { "id": "o2", "text": "Tortul (Sedimantolojik) Kayaçlar", "isCorrect": false },
+        { "id": "o3", "text": "Başkalaşım (Metamorfik) Kayaçlar", "isCorrect": false },
+        { "id": "o4", "text": "Organik Kayaçlar", "isCorrect": false }
+      ],
+      "explanation": "Magmanın yer altında veya yer yüzeyinde soğumasıyla magmatik kayaçlar meydana gelir."
+    }
+  },
+  {
+    "id": "sci_50",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - En Soğuk Gezegen",
+      "frontText": "Güneş Sistemi'nin atmosfer olarak ölçülmüş en soğuk gezegeni hangisidir?",
+      "backText": "Uranüs. Atmosfer sıcaklığı -224 °C'ye kadar düşmektedir."
+    },
+    "quiz": {
+      "questionText": "Güneş'e en uzak gezegen Neptün olmasına rağmen atmosfer sıcaklığı -224 °C ile en düşük ölçülen gezegen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Uranüs", "isCorrect": true },
+        { "id": "o2", "text": "Neptün", "isCorrect": false },
+        { "id": "o3", "text": "Satürn", "isCorrect": false },
+        { "id": "o4", "text": "Plüton", "isCorrect": false }
+      ],
+      "explanation": "Uranüs iç ısı kaynağını kaybettiği için atmosferik olarak en soğuk derecelere ulaşır."
+    }
+  },
+  {
+    "id": "sci_51",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Bitki Hücre Duvarı",
+      "frontText": "Bitki hücrelerine sertlik veren hücre duvarı hangi polisakkaritten oluşur?",
+      "backText": "Selüloz. İnsanlar tarafından sindirilemeyen structural bir lif türüdür."
+    },
+    "quiz": {
+      "questionText": "Bitki hücrelerinin etrafını sararak yapısal destek sağlayan hücre çeperinin ana maddesi nedir?",
+      "options": [
+        { "id": "o1", "text": "Selüloz", "isCorrect": true },
+        { "id": "o2", "text": "Kitin", "isCorrect": false },
+        { "id": "o3", "text": "Glikojen", "isCorrect": false },
+        { "id": "o4", "text": "Nişasta", "isCorrect": false }
+      ],
+      "explanation": "Selüloz, bitki hücre çeperinin temel yapı taşı olan dayanıklı bir karbonhidrattır."
+    }
+  },
+  {
+    "id": "sci_52",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Suyun Sertliği",
+      "frontText": "Suda sertliğe neden olan başlıca iyonlar hangileridir?",
+      "backText": "Kalsiyum (Ca²⁺) ve Magnezyum (Mg²⁺) iyonları."
+    },
+    "quiz": {
+      "questionText": "Suların 'sert su' olarak adlandırılmasına yol açan çözünmüş mineral iyonları hangileridir?",
+      "options": [
+        { "id": "o1", "text": "Kalsiyum ve Magnezyum", "isCorrect": true },
+        { "id": "o2", "text": "Sodyum ve Potasyum", "isCorrect": false },
+        { "id": "o3", "text": "Demir ve Çinko", "isCorrect": false },
+        { "id": "o4", "text": "Bakır ve Kurşun", "isCorrect": false }
+      ],
+      "explanation": "Sudaki Ca2+ ve Mg2+ iyonlarının yüksek miktarı sabunun köpürmesini engeller ve sertlik oluşturur."
+    }
+  },
+  {
+    "id": "sci_53",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Suyun Kaldırma Kuvveti",
+      "frontText": "Sıvıların kaldırma kuvveti ilkesini (Arşimet Prensibi) kim bulmuştur?",
+      "backText": "Syracuse'lu Arşimet. "
+    },
+    "quiz": {
+      "questionText": "'Banyodan çıkıp Eureka! (Buldum!) diye bağırdığı efsaneleşen ve sıvıların kaldırma kuvvetini tanımlayan bilim insanı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Arşimet", "isCorrect": true },
+        { "id": "o2", "text": "Pascal", "isCorrect": false },
+        { "id": "o3", "text": "Bernoulli", "isCorrect": false },
+        { "id": "o4", "text": "Galileo", "isCorrect": false }
+      ],
+      "explanation": "Arşimet prensibine göre cisme etki eden kaldırma kuvveti, cismin taşırdığı sıvının ağırlığına eşittir."
+    }
+  },
+  {
+    "id": "sci_54",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Mayoz Bölünme",
+      "frontText": "Eşey ana hücrelerinde gerçekleşen ve kromozom sayısını yarıya indiren bölünme nedir?",
+      "backText": "Mayoz Bölünme. 2n kromozomlu hücreden n kromozomlu 4 üreme hücresi üretir."
+    },
+    "quiz": {
+      "questionText": "Sperm ve yumurta gibi üreme hücrelerinin (gamet) oluşmasını sağlayan özel bölünme türü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Mayoz", "isCorrect": true },
+        { "id": "o2", "text": "Mitoz", "isCorrect": false },
+        { "id": "o3", "text": "Tomurcuklanma", "isCorrect": false },
+        { "id": "o4", "text": "Rejenerasyon", "isCorrect": false }
+      ],
+      "explanation": "Mayoz bölünme kromozom sayısını yarıya indirerek tür içi kromozom sayısının sabit kalmasını sağlar."
+    }
+  },
+  {
+    "id": "sci_55",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Kepler Yasaları",
+      "frontText": "Gezegenlerin Güneş etrafında dairesel değil eliptik yörüngelerde döndüğünü keşfeden kimdir?",
+      "backText": "Johannes Kepler."
+    },
+    "quiz": {
+      "questionText": "Gezegenlerin yörünge hareketlerini açıklayan üç temel kanunu ortaya koyan astronom kimdir?",
+      "options": [
+        { "id": "o1", "text": "Johannes Kepler", "isCorrect": true },
+        { "id": "o2", "text": "Nicolaus Copernicus", "isCorrect": false },
+        { "id": "o3", "text": "Tycho Brahe", "isCorrect": false },
+        { "id": "o4", "text": "Edwin Hubble", "isCorrect": false }
+      ],
+      "explanation": "Kepler, gezegenlerin odak noktalarından birinde Güneş bulunan elipsler çizdiğini kanıtlamıştır."
+    }
+  },
+  {
+    "id": "sci_56",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Suyun Kaynama ve Donma Derecesi",
+      "frontText": "Fahrenheit ölçeğinde su kaç °F'de donar ve kaç °F'de kaynar?",
+      "backText": "32 °F'de donar, 212 °F'de kaynar."
+    },
+    "quiz": {
+      "questionText": "Fahrenheit termometresinde saf suyun donma sıcaklığı kaç derece olarak kabul edilir?",
+      "options": [
+        { "id": "o1", "text": "32 °F", "isCorrect": true },
+        { "id": "o2", "text": "0 °F", "isCorrect": false },
+        { "id": "o3", "text": "100 °F", "isCorrect": false },
+        { "id": "o4", "text": "212 °F", "isCorrect": false }
+      ],
+      "explanation": "Fahrenheit skalasında donma noktası 32, kaynama noktası ise 212 °F olarak tanımlanır."
+    }
+  },
+  {
+    "id": "sci_57",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Sesin Duyulma Sınırı",
+      "frontText": "İnsan kulağının işitebildiği ses frekans aralığı nedir?",
+      "backText": "20 Hz ile 20.000 Hz (20 kHz) arası."
+    },
+    "quiz": {
+      "questionText": "Sağlıklı bir insan kulağının algılayabildiği frekans aralığı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "20 Hz - 20.000 Hz", "isCorrect": true },
+        { "id": "o2", "text": "0 Hz - 100 Hz", "isCorrect": false },
+        { "id": "o3", "text": "100.000 Hz üzeri", "isCorrect": false },
+        { "id": "o4", "text": "5 Hz - 50 Hz", "isCorrect": false }
+      ],
+      "explanation": "20 Hz altındaki seslere infrases, 20.000 Hz üzerindeki seslere ise ultrason denir ve insan duyamaz."
+    }
+  },
+  {
+    "id": "sci_58",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Enzimler",
+      "frontText": "Enzimlerin etki ettiği maddeye ne ad verilir?",
+      "backText": "Substrat. Enzim ile substrat arasında 'Anahtar-Kilit' uyumu vardır."
+    },
+    "quiz": {
+      "questionText": "Biyolojik katalizörler olan enzimlerin özgü olarak bağlandığı ve dönüştürdüğü tepkime maddesine ne denir?",
+      "options": [
+        { "id": "o1", "text": "Substrat", "isCorrect": true },
+        { "id": "o2", "text": "Ürün", "isCorrect": false },
+        { "id": "o3", "text": "Koenzim", "isCorrect": false },
+        { "id": "o4", "text": "Apoenzim", "isCorrect": false }
+      ],
+      "explanation": "Enzimler aktif merkezleri vasıtasıyla sadece kendilerine özgü substratlara bağlanırlar."
+    }
+  },
+  {
+    "id": "sci_59",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Samanyolu Gökadası",
+      "frontText": "Güneş Sistemi'mizin içinde bulunduğu gökadanın (galaksinin) türü nedir?",
+      "backText": "Çubuklu Sarmal Galaksi. Biz Çatallı (Avcı) kolunda yer alırız."
+    },
+    "quiz": {
+      "questionText": "Dünyamızın ait olduğu Samanyolu Galaksisi biçimsel olarak hangi galaksi türüne girer?",
+      "options": [
+        { "id": "o1", "text": "Sarmal (Çubuklu Sarmal)", "isCorrect": true },
+        { "id": "o2", "text": "Eliptik", "isCorrect": false },
+        { "id": "o3", "text": "Düzensiz", "isCorrect": false },
+        { "id": "o4", "text": "Merceksi", "isCorrect": false }
+      ],
+      "explanation": "Samanyolu, merkezinde çubuk şeklinde yıldız yoğunluğu bulunan bir çubuklu sarmal galaksidir."
+    }
+  },
+  {
+    "id": "sci_60",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Maddenin 4. Hali",
+      "frontText": "Katı, sıvı ve gaz dışındaki, iyonize olmuş gaz haline ne ad verilir?",
+      "backText": "Plazma. Şimşek, kutup ışıkları ve Güneş plazma haline örnektir."
+    },
+    "quiz": {
+      "questionText": "Serbest elektronlar ve pozitif yüklü iyonların oluşturduğu nötr gaz karışımı olan 4. madde hali nedir?",
+      "options": [
+        { "id": "o1", "text": "Plazma", "isCorrect": true },
+        { "id": "o2", "text": "Sıvı Kristal", "isCorrect": false },
+        { "id": "o3", "text": "Süperakışkan", "isCorrect": false },
+        { "id": "o4", "text": "Bose-Einstein Yoğuşması", "isCorrect": false }
+      ],
+      "explanation": "Yüksek sıcaklık ve enerjide elektronların atomdan kopmasıyla oluşan yapıya plazma denir."
+    }
+  },
+  {
+    "id": "sci_61",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Kırılma İndisi",
+      "frontText": "Işığın bir ortamdan başka ortama geçerken doğrultu değiştirmesine ne denir?",
+      "backText": "Işığın Kırılması (Refraksiyon)."
+    },
+    "quiz": {
+      "questionText": "Su dolu bardağa bakıldığında kaşığın kırılmış gibi görünmesine yol açan optik olay nedir?",
+      "options": [
+        { "id": "o1", "text": "Işığın Kırılması", "isCorrect": true },
+        { "id": "o2", "text": "Işığın Yansıması", "isCorrect": false },
+        { "id": "o3", "text": "Işığın Eşzamanlılığı", "isCorrect": false },
+        { "id": "o4", "text": "Gölge Oluşumu", "isCorrect": false }
+      ],
+      "explanation": "Işık farklı yoğunluktaki ortamlara geçerken hızı değişir ve doğrultusu saparak kırılır."
+    }
+  },
+  {
+    "id": "sci_62",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Hormon Sergileyici Gland",
+      "frontText": "Vücudun 'Usta Bezi' sayılan ve diğer iç salgı bezlerini denetleyen bez hangisidir?",
+      "backText": "Hipofiz Bezi. Beyin tabanında yer alır."
+    },
+    "quiz": {
+      "questionText": "Büyüme hormonu (STH) dahil birçok hormonu salgılayarak diğer bezleri orkestra gibi yöneten bez hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Hipofiz Bezi", "isCorrect": true },
+        { "id": "o2", "text": "Tiroit Bezi", "isCorrect": false },
+        { "id": "o3", "text": "Pankreas", "isCorrect": false },
+        { "id": "o4", "text": "Böbrek Üstü Bezi", "isCorrect": false }
+      ],
+      "explanation": "Hipofiz bezi, hipotalamusun kontrolünde hormonal sistemin orkestra şefidir."
+    }
+  },
+  {
+    "id": "sci_63",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - En Büyük Uydu",
+      "frontText": "Güneş Sistemi'ndeki en büyük doğal uydu hangisidir?",
+      "backText": "Ganymede. Jüpiter'in uydusu olup Merkür gezegeninden bile büyüktür."
+    },
+    "quiz": {
+      "questionText": "Merkür gezegeninden daha büyük çapıyla Güneş Sistemi'nin en devasa uydusu hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Ganymede (Jüpiter)", "isCorrect": true },
+        { "id": "o2", "text": "Titan (Satürn)", "isCorrect": false },
+        { "id": "o3", "text": "Ay (Dünya)", "isCorrect": false },
+        { "id": "o4", "text": "Europa (Jüpiter)", "isCorrect": false }
+      ],
+      "explanation": "Jüpiter'in uydusu Ganymede, 5268 km çapıyla en büyük uydudur."
+    }
+  },
+  {
+    "id": "sci_64",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Nötrleşme Reaksiyonu",
+      "frontText": "Bir asit ile bazın tepkimeye girmesi sonucu ne oluşur?",
+      "backText": "Tuz ve Su (Nötralleşme tepkimesi)."
+    },
+    "quiz": {
+      "questionText": "Asit ve baz çözeltileri karıştırıldığında gerçekleşen nötralleşme tepkimesinde hangi ürünler elde edilir?",
+      "options": [
+        { "id": "o1", "text": "Tuz ve Su", "isCorrect": true },
+        { "id": "o2", "text": "Sadece Gaz", "isCorrect": false },
+        { "id": "o3", "text": "Alkol ve Şeker", "isCorrect": false },
+        { "id": "o4", "text": "Metal ve Oksijen", "isCorrect": false }
+      ],
+      "explanation": "Asitten gelen H+ ve bazdan gelen OH- iyonları suyu, kalan iyonlar tuzu oluşturur."
+    }
+  },
+  {
+    "id": "sci_65",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Ohm Kanunu",
+      "frontText": "Bir iletkenin uçları arasındaki potansiyel farkının akıma oranını veren kanun nedir?",
+      "backText": "Ohm Kanunu (V = I * R)."
+    },
+    "quiz": {
+      "questionText": "Elektrik devrelerindeki Gerilim (V), Akım (I) ve Direnç (R) ilişkisini kuran V = I x R formülünün adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Ohm Kanunu", "isCorrect": true },
+        { "id": "o2", "text": "Coulomb Kanunu", "isCorrect": false },
+        { "id": "o3", "text": "Faraday Kanunu", "isCorrect": false },
+        { "id": "o4", "text": "Lenz Kanunu", "isCorrect": false }
+      ],
+      "explanation": "Georg Simon Ohm tarafından bulunan bu kural temel elektrik analizinin temelidir."
+    }
+  },
+  {
+    "id": "sci_66",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - RNA Türleri",
+      "frontText": "Genetik şifreyi Çekirdekten alıp Ribozoma taşıyan RNA türü nedir?",
+      "backText": "mRNA (Mesajcı RNA)."
+    },
+    "quiz": {
+      "questionText": "DNA'daki genetik koda uygun olarak protein sentez şifresini ribozomlara ileten RNA hangisidir?",
+      "options": [
+        { "id": "o1", "text": "mRNA (Mesajcı RNA)", "isCorrect": true },
+        { "id": "o2", "text": "tRNA (Taşıyıcı RNA)", "isCorrect": false },
+        { "id": "o3", "text": "rRNA (Ribozomal RNA)", "isCorrect": false },
+        { "id": "o4", "text": "snRNA", "isCorrect": false }
+      ],
+      "explanation": "mRNA (Messenger RNA) şifreyi çekirdekten ribozoma taşıyan elçidir."
+    }
+  },
+  {
+    "id": "sci_67",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Kuyruklu Yıldızlar",
+      "frontText": "Kuyruklu yıldızların çekirdeği temel olarak neyden oluşur?",
+      "backText": "Kirli Kartopu. Donmuş gazlar, su buzu ve toz parçacıkları."
+    },
+    "quiz": {
+      "questionText": "Popüler tanımıyla 'kirli kartopu' olarak adlandırılan ve Güneş'e yaklaştıkça gaz kuyruğu oluşan gök cismi nedir?",
+      "options": [
+        { "id": "o1", "text": "Kuyruklu Yıldız", "isCorrect": true },
+        { "id": "o2", "text": "Meteorit", "isCorrect": false },
+        { "id": "o3", "text": "Asteroit", "isCorrect": false },
+        { "id": "o4", "text": "Beyaz Cüce", "isCorrect": false }
+      ],
+      "explanation": "Kuyruklu yıldızlar yıldız değil; donmuş gaz, buz ve toz karışımı gök cisimleridir."
+    }
+  },
+  {
+    "id": "sci_68",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Suyun İyonlaşması",
+      "frontText": "Asitler suda çözündüğünde ortama hangi iyonu verirler?",
+      "backText": "Hidrojen (H⁺) veya Hidronyum (H₃O⁺) iyonu."
+    },
+    "quiz": {
+      "questionText": "Arrhenius asit-baz tanımına göre sulu çözeltisine H+ (hidrojen) iyonu bırakan maddeler nelerdir?",
+      "options": [
+        { "id": "o1", "text": "Asitler", "isCorrect": true },
+        { "id": "o2", "text": "Bazlar", "isCorrect": false },
+        { "id": "o3", "text": "Tuzlar", "isCorrect": false },
+        { "id": "o4", "text": "Alkaliler", "isCorrect": false }
+      ],
+      "explanation": "Suda çözündüğünde ortama H+ iyonu veren maddeler asidiktir (OH- verenler ise bazdır)."
+    }
+  },
+  {
+    "id": "sci_69",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Yerçekimi Potansiyel Enerjisi",
+      "frontText": "Kütlesi m, yüksekliği h olan cismin yerçekimi potansiyel enerjisi nasıl hesaplanır?",
+      "backText": "Ep = m * g * h."
+    },
+    "quiz": {
+      "questionText": "Bir cismin kütlesine, yerçekimi ivmesine ve yüksekliğine bağlı sahip olduğu enerji türü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Potansiyel Enerji", "isCorrect": true },
+        { "id": "o2", "text": "Kinetik Enerji", "isCorrect": false },
+        { "id": "o3", "text": "Termal Enerji", "isCorrect": false },
+        { "id": "o4", "text": "Nükleer Enerji", "isCorrect": false }
+      ],
+      "explanation": "Yükseklikten dolayı depolanan enerjiye çekim potansiyel enerjisi denir."
+    }
+  },
+  {
+    "id": "sci_70",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Kan Şekeri Düzenleyici",
+      "frontText": "Kandaki glikoz seviyesi yükseldiğinde pankreastan salgılanan hormon hangisidir?",
+      "backText": "İnsülin. Şekeri düşürür (Glukagon ise şekeri artırır)."
+    },
+    "quiz": {
+      "questionText": "Yemeklerden sonra kan şekerini düşürerek hücrelere girmesini sağlayan pankreas hormonu hangisidir?",
+      "options": [
+        { "id": "o1", "text": "İnsülin", "isCorrect": true },
+        { "id": "o2", "text": "Glukagon", "isCorrect": false },
+        { "id": "o3", "text": "Adrenalin", "isCorrect": false },
+        { "id": "o4", "text": "Kortizol", "isCorrect": false }
+      ],
+      "explanation": "İnsülin hormonu kan şekerini normallere indirir; eksikliğinde Diyabet görülür."
+    }
+  },
+  {
+    "id": "sci_71",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - En Çok Uydulu Gezegen",
+      "frontText": "Güneş Sistemi'nde resmi olarak en çok onaylanmış uydusu olan gezegen hangisidir?",
+      "backText": "Satürn (140'tan fazla uydusu keşfedilmiştir)."
+    },
+    "quiz": {
+      "questionText": "Keşfedilen yeni uydularıyla Jüpiter'i geride bırakarak en çok uyduya sahip gezegen unvanını alan hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Satürn", "isCorrect": true },
+        { "id": "o2", "text": "Jüpiter", "isCorrect": false },
+        { "id": "o3", "text": "Uranüs", "isCorrect": false },
+        { "id": "o4", "text": "Neptün", "isCorrect": false }
+      ],
+      "explanation": "Satürn 140'ı aşan onaylı uydusuyla Güneş Sistemi'nin en çok uydu barındıran gezegenidir."
+    }
+  },
+  {
+    "id": "sci_72",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Hal Değişimleri",
+      "frontText": "Bir maddenin katı halden doğrudan gaz haline geçmesine ne denir?",
+      "backText": "Süblimleşme. Örn: Kuru buz (katı CO₂) ve naftalin."
+    },
+    "quiz": {
+      "questionText": "Naftalin ve kuru buzda görülen, katının sıvılaşmadan direkt gaz fazına geçmesi olayına ne verilir?",
+      "options": [
+        { "id": "o1", "text": "Süblimleşme", "isCorrect": true },
+        { "id": "o2", "text": "Kırağılaşma", "isCorrect": false },
+        { "id": "o3", "text": "Buharlaşma", "isCorrect": false },
+        { "id": "o4", "text": "Yoğuşma", "isCorrect": false }
+      ],
+      "explanation": "Katı faza ısı verildiğinde sıvılaşmadan gaz olması süblimleşmedir."
+    }
+  },
+  {
+    "id": "sci_73",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Kinetik Enerji",
+      "frontText": "Bir cismin hareketinden dolayı sahip olduğu enerji türü nedir?",
+      "backText": "Kinetik Enerji (Ek = 1/2 * m * v²)."
+    },
+    "quiz": {
+      "questionText": "Hareket halindeki bir arabanın veya koşan bir insanın sahip olduğu enerji türü nedir?",
+      "options": [
+        { "id": "o1", "text": "Kinetik Enerji", "isCorrect": true },
+        { "id": "o2", "text": "Durgun Enerji", "isCorrect": false },
+        { "id": "o3", "text": "Potansiyel Enerji", "isCorrect": false },
+        { "id": "o4", "text": "Nükleer Enerji", "isCorrect": false }
+      ],
+      "explanation": "Kinetik enerji cismin kütlesine ve hızının karesine bağlı hareket enerjisidir."
+    }
+  },
+  {
+    "id": "sci_74",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Boşaltım Birimi",
+      "frontText": "Böbreklerde kanı süzen en küçük yapısal ve işlevsel birim nedir?",
+      "backText": "Nefron. Her böbrekte yaklaşık 1 milyon nefron bulunur."
+    },
+    "quiz": {
+      "questionText": "Böbreklerimizde kanın süzülmesini ve idrar oluşumunu sağlayan süzme birimlerine ne denir?",
+      "options": [
+        { "id": "o1", "text": "Nefron", "isCorrect": true },
+        { "id": "o2", "text": "Nöron", "isCorrect": false },
+        { "id": "o3", "text": "Alveol", "isCorrect": false },
+        { "id": "o4", "text": "Villus", "isCorrect": false }
+      ],
+      "explanation": "Nefronlar kanı üre ve fazla tuzlardan arındıran işlevsel böbrek birimleridir."
+    }
+  },
+  {
+    "id": "sci_75",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Okyanus Dünyası Europa",
+      "frontText": "Buz kabuğunun altında devasa bir sıvı okyanus barındırdığı bilinen Jüpiter uydusu hangisidir?",
+      "backText": "Europa. Dünya dışı yaşam araştırmalarında önceliklidir."
+    },
+    "quiz": {
+      "questionText": "Pürüzsüz buz kaplı yüzeyinin altında Dünya'dan daha fazla su barındıran Jüpiter uydusu hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Europa", "isCorrect": true },
+        { "id": "o2", "text": "Io", "isCorrect": false },
+        { "id": "o3", "text": "Callisto", "isCorrect": false },
+        { "id": "o4", "text": "Phobos", "isCorrect": false }
+      ],
+      "explanation": "Europa'nın buz kabuğu altındaki okyanusu astrobiyologların odak noktasıdır."
+    }
+  },
+  {
+    "id": "sci_76",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Kimyanın Anası / Simya",
+      "frontText": "Değersiz madenleri altına çevirme ve ölümsüzlük iksirini bulma uğraşına ne denir?",
+      "backText": "Simya (Alşemi). Bilimsel yöntem içermediği için bilim sayılmaz."
+    },
+    "quiz": {
+      "questionText": "Deneme-yanılmaya dayanan, Felsefe Taşını bulmayı hedefleyen ve modern kimyanın öncülü sayılan uğraş nedir?",
+      "options": [
+        { "id": "o1", "text": "Simya (Alşemi)", "isCorrect": true },
+        { "id": "o2", "text": "Astroloji", "isCorrect": false },
+        { "id": "o3", "text": "Arkeoloji", "isCorrect": false },
+        { "id": "o4", "text": "Biyokimya", "isCorrect": false }
+      ],
+      "explanation": "Simya teorik temellere dayanmadığı için bir bilim dalı değil, öncül çalışmadır."
+    }
+  },
+  {
+    "id": "sci_77",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Beyaz Işığın Tayfı",
+      "frontText": "Beyaz ışık bir prizmadan geçirildiğinde kırılan ilk ve en az kırılan renk hangisidir?",
+      "backText": "Kırmızı (En az kırılır). En çok kırılan ise Mor renktir."
+    },
+    "quiz": {
+      "questionText": "Güneş ışığı bir cam prizmaya yollandığında en az sapan/kırılan renk rengi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Kırmızı", "isCorrect": true },
+        { "id": "o2", "text": "Mor", "isCorrect": false },
+        { "id": "o3", "text": "Mavi", "isCorrect": false },
+        { "id": "o4", "text": "Yeşil", "isCorrect": false }
+      ],
+      "explanation": "Uzun dalga boylu kırmızı ışık en az kırılırken, kısa dalga boylu mor ışık en fazla kırılır."
+    }
+  },
+  {
+    "id": "sci_78",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Sinir Hücresi",
+      "frontText": "Sinir sisteminin temel yapısal ve işlevsel birimi olan hücreye ne denir?",
+      "backText": "Nöron. Gövde, dendrit ve aksondan oluşur."
+    },
+    "quiz": {
+      "questionText": "Elektrokimyasal sinyallerle bilgi iletimini sağlayan sinir hücresine ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Nöron", "isCorrect": true },
+        { "id": "o2", "text": "Nefron", "isCorrect": false },
+        { "id": "o3", "text": "Glia", "isCorrect": false },
+        { "id": "o4", "text": "Osteosit", "isCorrect": false }
+      ],
+      "explanation": "Nöronlar vücudun iletişim ağını kuran uzmanlaşmış sinir hücreleridir."
+    }
+  },
+  {
+    "id": "sci_79",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Astronomik Birim (AU)",
+      "frontText": "1 Astronomik Birim (AU) neye eşittir?",
+      "backText": "Dünya ile Güneş arasındaki ortalama mesafeye (yaklaşık 149.6 milyon km)."
+    },
+    "quiz": {
+      "questionText": "Güneş Sistemi içi mesafelerde kullanılan 1 AU (Astronomik Birim) neyi temsil eder?",
+      "options": [
+        { "id": "o1", "text": "Dünya ile Güneş arası ortalama mesafeyi", "isCorrect": true },
+        { "id": "o2", "text": "Dünya ile Ay arası mesafeyi", "isCorrect": false },
+        { "id": "o3", "text": "Güneş ile Jüpiter arası mesafeyi", "isCorrect": false },
+        { "id": "o4", "text": "Işığın 1 saniyelik yolunu", "isCorrect": false }
+      ],
+      "explanation": "1 AU ≈ 150 milyon km olup Dünya'nın Güneş'e ortalama uzaklığıdır."
+    }
+  },
+  {
+    "id": "sci_80",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Suyun Elektrolizi",
+      "frontText": "Suyun elektrik akımıyla bileşenlerine ayrılması işlemine ne denir?",
+      "backText": "Elektroliz. Anotta Oksijen, katotta Hidrojen gazı toplanır."
+    },
+    "quiz": {
+      "questionText": "Elektrik enerjisi kullanılarak suyun Hidrojen ve Oksijen gazlarına ayrıştırılması işlemine ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Elektroliz", "isCorrect": true },
+        { "id": "o2", "text": "Hidroliz", "isCorrect": false },
+        { "id": "o3", "text": "Diyaliz", "isCorrect": false },
+        { "id": "o4", "text": "Destilasyon", "isCorrect": false }
+      ],
+      "explanation": "Elektroliz, bileşikleri elektrik enerjisi yardımıyla elementlerine ayırma yöntemidir."
+    }
+  },
+  {
+    "id": "sci_81",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Yüzey Gerilimi",
+      "frontText": "Bazı böceklerin su üstünde batmadan yürüyebilmesini sağlayan fiziksel olay nedir?",
+      "backText": "Yüzey Gerilimi. Sıvı moleküllerinin kohezyon kuvvetiyle üstte esnek zarafet oluşturmasıdır."
+    },
+    "quiz": {
+      "questionText": "Sıvı yüzeyindeki moleküllerin birbirini çekmesiyle bir zar gibi davranması olayına ne denir?",
+      "options": [
+        { "id": "o1", "text": "Yüzey Gerilimi", "isCorrect": true },
+        { "id": "o2", "text": "Kılcallık", "isCorrect": false },
+        { "id": "o3", "text": "Viskozite", "isCorrect": false },
+        { "id": "o4", "text": "Özkütle", "isCorrect": false }
+      ],
+      "explanation": "Kohezyon kuvvetleri nedeniyle sıvıların en üst katmanı gergin bir zar tabakası oluşturur."
+    }
+  },
+  {
+    "id": "sci_82",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Akciğer Havalanma Birimi",
+      "frontText": "Akciğerlerde gaz alışverişinin yapıldığı kılcal damarlarla sarılı hava kesecikleri nedir?",
+      "backText": "Alveoller. Oksijen ve karbondioksit difüzyonu burada olur."
+    },
+    "quiz": {
+      "questionText": "Solunum sistemimizde O2 ve CO2 değişiminin gerçekleştiği tek katlı yassı epitelden oluşan kesecikler hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Alveol", "isCorrect": true },
+        { "id": "o2", "text": "Bronş", "isCorrect": false },
+        { "id": "o3", "text": "Bronşiol", "isCorrect": false },
+        { "id": "o4", "text": "Diyafram", "isCorrect": false }
+      ],
+      "explanation": "Akciğerlerde yüzlerce milyon alveol bulunarak geniş bir gaz değişim alanı yaratılır."
+    }
+  },
+  {
+    "id": "sci_83",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Nötron Yıldızı",
+      "frontText": "Süpernova patlamasından sonra çöken dev yıldızların oluşturduğu son derece yoğun kalıntıya ne denir?",
+      "backText": "Nötron Yıldızı (Pulsar). Bir çay kaşığı kadarı milyarlarca ton ağırlığa ulaşabilir."
+    },
+    "quiz": {
+      "questionText": "Büyük kütleli yıldızların patlamasıyla oluşan ve atom çekirdeği yoğunluğundaki gök cismi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Nötron Yıldızı", "isCorrect": true },
+        { "id": "o2", "text": "Kızıl Dev", "isCorrect": false },
+        { "id": "o3", "text": "Sarı Cüce", "isCorrect": false },
+        { "id": "o4", "text": "Nebula", "isCorrect": false }
+      ],
+      "explanation": "Nötron yıldızları karadeliklerden hemen önceki en yoğun madde formudur."
+    }
+  },
+  {
+    "id": "sci_84",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Akışkanlık Direnci",
+      "frontText": "Sıvıların akmaya karşı gösterdiği iç dirence ne denir?",
+      "backText": "Viskozite. Balın viskozitesi yüksek, suyun viskozitesi düşüktür."
+    },
+    "quiz": {
+      "questionText": "Akmaya karşı dirençli olma durumunu ifade eden ve sıcaklık arttıkça azalan sıvı özelliği nedir?",
+      "options": [
+        { "id": "o1", "text": "Viskozite", "isCorrect": true },
+        { "id": "o2", "text": "Akışkanlık", "isCorrect": false },
+        { "id": "o3", "text": "Yoğunluk", "isCorrect": false },
+        { "id": "o4", "text": "Çözünürlük", "isCorrect": false }
+      ],
+      "explanation": "Viskozite sıvıların akıcılığının tersidir; viskozitesi yüksek sıvılar yavaş akar."
+    }
+  },
+  {
+    "id": "sci_85",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Transformatörler",
+      "frontText": "Alternatif akımın (AC) gerilimini yükseltmeye veya düşürmeye yarayan araç nedir?",
+      "backText": "Transformatör (Trafo). İndüksiyon prensibiyle çalışır."
+    },
+    "quiz": {
+      "questionText": "Elektrik iletim hatlarında gerilimi değiştirmek için kullanılan elektromanyetik aygıt hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Transformatör", "isCorrect": true },
+        { "id": "o2", "text": "Jeneratör", "isCorrect": false },
+        { "id": "o3", "text": "Elektromotor", "isCorrect": false },
+        { "id": "o4", "text": "Kondansatör", "isCorrect": false }
+      ],
+      "explanation": "Transformatörler AC voltajını değiştirerek elektriğin uzaklara kayıpsız iletilmesini sağlar."
+    }
+  },
+  {
+    "id": "sci_86",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Karaciğerin Görevi",
+      "frontText": "Karaciğerin yağların mekanik sindirimi için ürettiği sıvı hangisidir?",
+      "backText": "Safra (Safranın içinde enzim bulunmaz, yağları damlacıklara ayırır)."
+    },
+    "quiz": {
+      "questionText": "Karaciğer tarafından üretilip safra kesesinde depolanan ve yağları fiziksel sindiren sıvı nedir?",
+      "options": [
+        { "id": "o1", "text": "Safra", "isCorrect": true },
+        { "id": "o2", "text": "Mide Özsuyu", "isCorrect": false },
+        { "id": "o3", "text": "Pankreas Özsuyu", "isCorrect": false },
+        { "id": "o4", "text": "Tükürük", "isCorrect": false }
+      ],
+      "explanation": "Safra sıvısı yağların yüzeyini genişleterek enzimlerin etkisini kolaylaştırır."
+    }
+  },
+  {
+    "id": "sci_87",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Bulutsu (Nebula)",
+      "frontText": "Uzayda yıldızların doğduğu devasa gaz ve toz bulutlarına ne denir?",
+      "backText": "Bulutsu (Nebula). Örn: Orion Bulutsusu."
+    },
+    "quiz": {
+      "questionText": "Yıldızların 'doğum yeri' olarak kabul edilen uzaydaki gaz ve toz yığınlarına ne verilir?",
+      "options": [
+        { "id": "o1", "text": "Bulutsu (Nebula)", "isCorrect": true },
+        { "id": "o2", "text": "Karadelik", "isCorrect": false },
+        { "id": "o3", "text": "Kuyruklu Yıldız", "isCorrect": false },
+        { "id": "o4", "text": "Galaksi Kümeleri", "isCorrect": false }
+      ],
+      "explanation": "Nebulalar kütleçekim etkisiyle büzüşerek yeni yıldızların oluşmasını sağlar."
+    }
+  },
+  {
+    "id": "sci_88",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Organik Kimya",
+      "frontText": "Organik kimyanın temelini oluşturan ana element hangisidir?",
+      "backText": "Karbon (C). 4 bağ yapabilme yeteneği sayesinde milyonlarca bileşik oluşturabilir."
+    },
+    "quiz": {
+      "questionText": "Canlılığın yapı taşı olan ve Organik Kimya biliminin temel maddesini oluşturan element hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Karbon", "isCorrect": true },
+        { "id": "o2", "text": "Oksijen", "isCorrect": false },
+        { "id": "o3", "text": "Azot", "isCorrect": false },
+        { "id": "o4", "text": "Silisyum", "isCorrect": false }
+      ],
+      "explanation": "Karbon elementinin çoklu bağ esnekliği organik molekül çeşitliliğinin temelidir."
+    }
+  },
+  {
+    "id": "sci_89",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Donma Noktası Depresyonu",
+      "frontText": "Kışın yollara tuz dökülmesinin temel fiziko-kimyasal sebebi nedir?",
+      "backText": "Suyun donma noktasını düşürmek (Suyun 0 °C yerine -10 °C gibi sıcaklıklarda donmasını sağlamak)."
+    },
+    "quiz": {
+      "questionText": "Kışın buzlanan yollara tuz atılması hangi ilke doğrultusunda gerçekleşir?",
+      "options": [
+        { "id": "o1", "text": "Suyun Donma Noktasını Düşürmek", "isCorrect": true },
+        { "id": "o2", "text": "Buzun Sıcaklığını Artırmak", "isCorrect": false },
+        { "id": "o3", "text": "Sürtünmeyi Yok Etmek", "isCorrect": false },
+        { "id": "o4", "text": "Su Püskürtmek", "isCorrect": false }
+      ],
+      "explanation": "Çözeltide çözünen madde sayısı arttıkça donma noktası düşer (Koligatif özellik)."
+    }
+  },
+  {
+    "id": "sci_90",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Bakterilerin Hücre Tipi",
+      "frontText": "Çekirdeği ve zarlı organelleri bulunmayan ilkel hücre tipine ne denir?",
+      "backText": "Prokaryot Hücre. Bakteriler ve Arkeler bu gruptadır."
+    },
+    "quiz": {
+      "questionText": "Belirgin bir çekirdek zarı ve organelleri olmayan ilkel yapıdaki hücre tipi nedir?",
+      "options": [
+        { "id": "o1", "text": "Prokaryot", "isCorrect": true },
+        { "id": "o2", "text": "Ökaryot", "isCorrect": false },
+        { "id": "o3", "text": "Akarit", "isCorrect": false },
+        { "id": "o4", "text": "Sitolitik", "isCorrect": false }
+      ],
+      "explanation": "Prokaryotlarda DNA sitoplazmada serbest bulunur (Ökaryotlarda ise çekirdek içindedir)."
+    }
+  },
+  {
+    "id": "sci_91",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Gün Öte ve Gün Beri",
+      "frontText": "Dünya'nın Güneş'e en yakın olduğu yörünge konumuna ne denir?",
+      "backText": "Günberi (Perihel). Yaklaşık 3 Ocak tarihinde gerçekleşir."
+    },
+    "quiz": {
+      "questionText": "Dünya'nın Güneş etrafında dönerken Güneş'e en yakın mesafeye geldiği kavrama ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Günberi (Perihel)", "isCorrect": true },
+        { "id": "o2", "text": "Günöte (Afel)", "isCorrect": false },
+        { "id": "o3", "text": "Ekinoks", "isCorrect": false },
+        { "id": "o4", "text": "Gündönümü", "isCorrect": false }
+      ],
+      "explanation": "Dünya 3 Ocak civarında Güneş'e en yakın konumu olan Perihel (Günberi) noktasına ulaşır."
+    }
+  },
+  {
+    "id": "sci_92",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Asit Yağmurları",
+      "frontText": "Asit yağmurlarına en çok neden olan endüstriyel gazlar hangileridir?",
+      "backText": "Kükürtdioksit (SO₂) ve Azotoksitler (NOₓ)."
+    },
+    "quiz": {
+      "questionText": "Fosil yakıtların yanmasıyla atmosfere salınan ve asit yağmuru oluşturan başlıca gaz nedir?",
+      "options": [
+        { "id": "o1", "text": "Kükürtdioksit (SO2)", "isCorrect": true },
+        { "id": "o2", "text": "Ozon (O3)", "isCorrect": false },
+        { "id": "o3", "text": "Metan (CH4)", "isCorrect": false },
+        { "id": "o4", "text": "Helyum (He)", "isCorrect": false }
+      ],
+      "explanation": "SO2 ve NOx gazları havadaki su buharı ile tepkimeye girerek sülfürik ve nitrik asit oluşturur."
+    }
+  },
+  {
+    "id": "sci_93",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Bernoulli Prensibi",
+      "frontText": "Akışkanların hızı arttıkça basıncının düşmesini açıklayan ilke nedir?",
+      "backText": "Bernoulli Prensibi. Uçak kanatlarının kaldırma kuvveti bu ilkeyle açıklanır."
+    },
+    "quiz": {
+      "questionText": "Uçakların havada kalmasını sağlayan, akışkan hızının arttığı yerde basıncın azalacağını belirten prensip nedir?",
+      "options": [
+        { "id": "o1", "text": "Bernoulli Prensibi", "isCorrect": true },
+        { "id": "o2", "text": "Pascal Prensibi", "isCorrect": false },
+        { "id": "o3", "text": "Arşimet Prensibi", "isCorrect": false },
+        { "id": "o4", "text": "Torricelli Prensibi", "isCorrect": false }
+      ],
+      "explanation": "Uçak kanadının üstünden geçen hava daha hızlı aktığı için üst basınç düşer ve kaldırma kuvveti doğar."
+    }
+  },
+  {
+    "id": "sci_94",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Tat Tomurcukları",
+      "frontText": "Tatlı, tuzlu, ekşi ve acı dışında kabul edilen 5. temel tat hangisidir?",
+      "backText": "Umami. Japonca 'lezzetli tat' anlamına gelir ve glutamat algısıyla oluşur."
+    },
+    "quiz": {
+      "questionText": "Et, peynir ve domatesteki L-glutamat maddesiyle algılanan ve tanımlanan 5. temel tat nedir?",
+      "options": [
+        { "id": "o1", "text": "Umami", "isCorrect": true },
+        { "id": "o2", "text": "Aromatik", "isCorrect": false },
+        { "id": "o3", "text": "Baharatlı", "isCorrect": false },
+        { "id": "o4", "text": "Yahsı", "isCorrect": false }
+      ],
+      "explanation": "Umami, dilimizdeki protein odaklı reseptörlerle algılanan 5. temel tat kategorisidir."
+    }
+  },
+  {
+    "id": "sci_95",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Güneş Rüzgarları ve Auroralar",
+      "frontText": "Kutup bölgelerinde görülen büyüleyici gökyüzü ışımalarına (Kutup Işıkları) ne denir?",
+      "backText": "Aurora (Aurora Borealis / Aurora Australis). Güneş rüzgarlarının manyetik alanla etkileşimidir."
+    },
+    "quiz": {
+      "questionText": "Güneş'ten gelen yüklü parçacıkların Dünya manyetik alanı ile karşılaşması sonucu kutuplarda oluşan ışımalara ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Aurora (Kutup Işıkları)", "isCorrect": true },
+        { "id": "o2", "text": "Süpernova", "isCorrect": false },
+        { "id": "o3", "text": "Gökkuşağı", "isCorrect": false },
+        { "id": "o4", "text": "Zodyak Işığı", "isCorrect": false }
+      ],
+      "explanation": "Manyetosfer tarafından kutuplara yönlendirilen parçacıklar atmosferdeki gazları uyararak renkli aurora ışıklarını oluşturur."
+    }
+  },
+  {
+    "id": "sci_96",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Avogadro Sayısı",
+      "frontText": "1 mol maddenin içerdiği tanecik sayısını veren Avogadro Sayısı kaçtır?",
+      "backText": "6.022 * 10²³."
+    },
+    "quiz": {
+      "questionText": "Kimyada 1 mol miktarındaki tanecik sayısına denk gelen Avogadro Sayısının değeri nedir?",
+      "options": [
+        { "id": "o1", "text": "6.022 x 10²³", "isCorrect": true },
+        { "id": "o2", "text": "3.14 x 10¹⁰", "isCorrect": false },
+        { "id": "o3", "text": "9.81 x 10⁵", "isCorrect": false },
+        { "id": "o4", "text": "1.6 x 10⁻¹⁹", "isCorrect": false }
+      ],
+      "explanation": "6.02214076×10²³ sabiti kimyadaki 1 mol standart tanecik sayısıdır."
+    }
+  },
+  {
+    "id": "sci_97",
+    "categoryId": "science",
+    "card": {
+      "title": "Fizik - Dönme Dolap / Merkezcil Kuvvet",
+      "frontText": "Dairesel yörüngede dönen bir cisme merkeze doğru etki eden kuvvete ne denir?",
+      "backText": "Merkezcil Kuvvet (Fm = m * v² / r)."
+    },
+    "quiz": {
+      "questionText": "Dairesel hareket yapan bir cismik yörüngede tutan ve daima merkeze yönelen kuvvete ne denir?",
+      "options": [
+        { "id": "o1", "text": "Merkezcil Kuvvet", "isCorrect": true },
+        { "id": "o2", "text": "Merkezkaç Kuvveti", "isCorrect": false },
+        { "id": "o3", "text": "Yerçekimi Kuvveti", "isCorrect": false },
+        { "id": "o4", "text": "Sürtünme Kuvveti", "isCorrect": false }
+      ],
+      "explanation": "Merkezcil kuvvet cisme ivmeli dairesel hareket yaptıran net kuvvettir."
+    }
+  },
+  {
+    "id": "sci_98",
+    "categoryId": "science",
+    "card": {
+      "title": "Biyoloji - Bitkilerde Su Taşıması",
+      "frontText": "Bitkilerde topraktan alınan su ve mineralleri yapraklara taşıyan odun borularına ne denir?",
+      "backText": "Ksilem (Odun Borusu). Soymuk boruları (Floem) ise besin taşır."
+    },
+    "quiz": {
+      "questionText": "Bitkilerde köklerden yapraklara doğru tek yönlü su ve inorganik madde taşıyan iletim dokusu hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Ksilem (Odun Borusu)", "isCorrect": true },
+        { "id": "o2", "text": "Floem (Soymuk Borusu)", "isCorrect": false },
+        { "id": "o3", "text": "Kambiyum", "isCorrect": false },
+        { "id": "o4", "text": "Parankima", "isCorrect": false }
+      ],
+      "explanation": "Ksilem cansız hücrelerden oluşur ve suyu terleme-çekim kuvvetiyle yukarı taşır."
+    }
+  },
+  {
+    "id": "sci_99",
+    "categoryId": "science",
+    "card": {
+      "title": "Astronomi - Kara Deliklerin Sınırı",
+      "frontText": "Bir kara deliğin ışığın bile kaçamadığı geri dönüşü olmayan sınırına ne verilir?",
+      "backText": "Olay Ufku (Event Horizon)."
+    },
+    "quiz": {
+      "questionText": "Kara deliklerin etrafında kaçış hızının ışık hızına eşit olduğu ve geriye dönüşün imkansızlaştığı sınıra ne denir?",
+      "options": [
+        { "id": "o1", "text": "Olay Ufku", "isCorrect": true },
+        { "id": "o2", "text": "Tekillik", "isCorrect": false },
+        { "id": "o3", "text": "Akkresyon Diski", "isCorrect": false },
+        { "id": "o4", "text": "Schwarzschild Yarıçapı", "isCorrect": false }
+      ],
+      "explanation": "Olay ufku, kütleçekiminin ışığı bile tutacak kadar şiddetlendiği hayali küresel sınırdır."
+    }
+  },
+  {
+    "id": "sci_100",
+    "categoryId": "science",
+    "card": {
+      "title": "Kimya - Asitlerin Metal Reaksiyonu",
+      "frontText": "Asitler aktif metallerle (örn: Çinko, Magnezyum) tepkimeye girdiğinde hangi gaz açığa çıkar?",
+      "backText": "Hidrojen Gazı (H₂)."
+    },
+    "quiz": {
+      "questionText": "Hidroklorik asit (HCl) içerisine çinko metali atıldığında açığa çıkan yanıcı gaz hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Hidrojen (H2)", "isCorrect": true },
+        { "id": "o2", "text": "Oksijen (O2)", "isCorrect": false },
+        { "id": "o3", "text": "Karbondioksit (CO2)", "isCorrect": false },
+        { "id": "o4", "text": "Klor (Cl2)", "isCorrect": false }
+      ],
+      "explanation": "Aktif metaller asitlerdeki H+ iyonlarını indirgeyerek Hidrojen gazı (H2) çıkışına sebep olurlar."
+    }
+  }
+]

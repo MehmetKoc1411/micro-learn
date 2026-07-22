@@ -1,0 +1,1904 @@
+[
+  {
+    "id": "gen_1",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Dünyanın En Derin Noktası",
+      "frontText": "Dünyanın bilinen en derin noktası neresidir?",
+      "backText": "Mariana Çukuru (Yaklaşık 10.994 metre derinliktedir ve Pasifik Okyanusu'nda yer alır)."
+    },
+    "quiz": {
+      "questionText": "Dünyanın en derin noktası olan Mariana Çukuru hangi okyanusta yer alır?",
+      "options": [
+        { "id": "o1", "text": "Büyük Okyanus (Pasifik)", "isCorrect": true },
+        { "id": "o2", "text": "Atlas Okyanusu", "isCorrect": false },
+        { "id": "o3", "text": "Hint Okyanusu", "isCorrect": false },
+        { "id": "o4", "text": "Arktik Okyanusu", "isCorrect": false }
+      ],
+      "explanation": "Mariana Çukuru, Pasifik Okyanusu'nun batısında yer alan dünyanın en derin noktasıdır."
+    }
+  },
+  {
+    "id": "gen_2",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Dünya Başkentleri - Avustralya",
+      "frontText": "Avustralya'nın resmi başkenti neresidir?",
+      "backText": "Kanberra (Canberra). Sıklıkla Sydney veya Melbourne ile karıştırılır."
+    },
+    "quiz": {
+      "questionText": "Avustralya'nın resmi başkenti hangi şehirdir?",
+      "options": [
+        { "id": "o1", "text": "Sydney", "isCorrect": false },
+        { "id": "o2", "text": "Melbourne", "isCorrect": false },
+        { "id": "o3", "text": "Canberra", "isCorrect": true },
+        { "id": "o4", "text": "Brisbane", "isCorrect": false }
+      ],
+      "explanation": "Sydney ve Melbourne rekabetinden dolayı başkent olarak Canberra seçilmiştir."
+    }
+  },
+  {
+    "id": "gen_3",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Anıtkabir Mimarları",
+      "frontText": "Anıtkabir'in mimarları kimlerdir?",
+      "backText": "Prof. Emin Onat ve Doç. Orhan Arda tarafından tasarlanmıştır."
+    },
+    "quiz": {
+      "questionText": "Ankara'da yer alan Anıtkabir'in mimarları kimlerdir?",
+      "options": [
+        { "id": "o1", "text": "Emin Onat - Orhan Arda", "isCorrect": true },
+        { "id": "o2", "text": "Mimar Sinan - Sedefkar Mehmed Ağa", "isCorrect": false },
+        { "id": "o3", "text": "Vedat Tek - Mimar Kemalettin", "isCorrect": false },
+        { "id": "o4", "text": "Balyan Kardeşler", "isCorrect": false }
+      ],
+      "explanation": "Anıtkabir projesi için düzenlenen yarışmayı Prof. Emin Onat ve Doç. Orhan Arda'nın ortak projesi kazanmıştır."
+    }
+  },
+  {
+    "id": "gen_4",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Dünyanın En Uzun Nehri",
+      "frontText": "Dünyanın en uzun nehri hangisidir?",
+      "backText": "Nil Nehri (Yaklaşık 6.650 km uzunluğuyla Afrika kıtasında yer alır)."
+    },
+    "quiz": {
+      "questionText": "Afrika kıtasını kateden dünyanın en uzun nehri hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Nil Nehri", "isCorrect": true },
+        { "id": "o2", "text": "Amazon Nehri", "isCorrect": false },
+        { "id": "o3", "text": "Kongo Nehri", "isCorrect": false },
+        { "id": "o4", "text": "Tuna Nehri", "isCorrect": false }
+      ],
+      "explanation": "Nil Nehri dünyanın en uzun nehri kabul edilirken, Amazon Nehri su debisi bakımından ilk sıradadır."
+    }
+  },
+  {
+    "id": "gen_5",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - İstiklal Marşı'nın İthafı",
+      "frontText": "Mehmet Akif Ersoy İstiklal Marşı'nı kime ithaf etmiştir?",
+      "backText": "Kahraman Türk Ordusu'na ithaf etmiştir."
+    },
+    "quiz": {
+      "questionText": "Mehmet Akif Ersoy, yazmış olduğu İstiklal Marşı'nı kime ithaf etmiştir?",
+      "options": [
+        { "id": "o1", "text": "Kahraman Türk Ordusuna", "isCorrect": true },
+        { "id": "o2", "text": "Türk Gençliğine", "isCorrect": false },
+        { "id": "o3", "text": "TBMM Üyelerine", "isCorrect": false },
+        { "id": "o4", "text": "Anadolu Kadınlarına", "isCorrect": false }
+      ],
+      "explanation": "Mehmet Akif Ersoy, marşın başında 'Kahraman Ordu'muza' ifadesine yer vererek eseri ordumuza armağan etmiştir."
+    }
+  },
+  {
+    "id": "gen_6",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Astronomi - Kızıl Gezegen",
+      "frontText": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+      "backText": "Mars (Yüzeyindeki yoğun demir oksit oranından dolayı kırmızımsı görünür)."
+    },
+    "quiz": {
+      "questionText": "Güneş Sisteminde yüzey yapısından dolayı 'Kızıl Gezegen' olarak adlandırılan gezegen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Mars", "isCorrect": true },
+        { "id": "o2", "text": "Venüs", "isCorrect": false },
+        { "id": "o3", "text": "Jüpiter", "isCorrect": false },
+        { "id": "o4", "text": "Merkür", "isCorrect": false }
+      ],
+      "explanation": "Mars yüzeyindeki pas/demir oksit tabakası ona karakteristik kırmızı rengini verir."
+    }
+  },
+  {
+    "id": "gen_7",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Sanat - Mona Lisa Tablosu",
+      "frontText": "Mona Lisa tablosu kime aittir ve nerede sergilenmektedir?",
+      "backText": "Leonardo da Vinci'ye aittir ve Fransa'daki Louvre Müzesi'nde sergilenir."
+    },
+    "quiz": {
+      "questionText": "Leonardo da Vinci'nin dünyaca ünlü 'Mona Lisa' tablosu hangi müzede sergilenmektedir?",
+      "options": [
+        { "id": "o1", "text": "Louvre Müzesi (Paris)", "isCorrect": true },
+        { "id": "o2", "text": "British Museum (Londra)", "isCorrect": false },
+        { "id": "o3", "text": "Prado Müzesi (Madrid)", "isCorrect": false },
+        { "id": "o4", "text": "Uffizi Galerisi (Floransa)", "isCorrect": false }
+      ],
+      "explanation": "Mona Lisa eseri Fransa'nın Paris şehrinde yer alan Louvre Müzesi'nde muhafaza edilmektedir."
+    }
+  },
+  {
+    "id": "gen_8",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Türkiye'nin En Büyük Gölü",
+      "frontText": "Türkiye'nin yüzölçümü bakımından en büyük gölü hangisidir?",
+      "backText": "Van Gölü (3.713 km² yüzölçümüyle volkanik set gölü özelliğindedir)."
+    },
+    "quiz": {
+      "questionText": "Türkiye'nin alan bakımından en büyük gölü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Van Gölü", "isCorrect": true },
+        { "id": "o2", "text": "Tuz Gölü", "isCorrect": false },
+        { "id": "o3", "text": "Beyşehir Gölü", "isCorrect": false },
+        { "id": "o4", "text": "Eğirdir Gölü", "isCorrect": false }
+      ],
+      "explanation": "Van Gölü sodalı suyu ve 3.713 km²lik yüzölçümü ile Türkiye'nin en büyük gölüdür."
+    }
+  },
+  {
+    "id": "gen_9",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Türkiye Cumhuriyeti'nin İlanı",
+      "frontText": "Cumhuriyet ne zaman ilan edilmiştir?",
+      "backText": "29 Ekim 1923 tarihinde TBMM'de kabul edilmiştir."
+    },
+    "quiz": {
+      "questionText": "Türkiye Cumhuriyeti resmen hangi tarihte ilan edilmiştir?",
+      "options": [
+        { "id": "o1", "text": "29 Ekim 1923", "isCorrect": true },
+        { "id": "o2", "text": "23 Nisan 1920", "isCorrect": false },
+        { "id": "o3", "text": "19 Mayıs 1919", "isCorrect": false },
+        { "id": "o4", "text": "30 Ağustos 1922", "isCorrect": false }
+      ],
+      "explanation": "29 Ekim 1923'te Anayasa değişikliği yapılarak devletin yönetim şekli Cumhuriyet olarak belirlenmiştir."
+    }
+  },
+  {
+    "id": "gen_10",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Biyoloji - İnsan Vücudunun En Büyük Organı",
+      "frontText": "İnsan vücudundaki en büyük organ hangisidir?",
+      "backText": "Deri (Hem yüzey alanı hem de ağırlık açısından en büyük organımızdır)."
+    },
+    "quiz": {
+      "questionText": "Yüzey alanı ve ağırlık bakımından insan vücudunun en büyük organı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Deri", "isCorrect": true },
+        { "id": "o2", "text": "Karaciğer", "isCorrect": false },
+        { "id": "o3", "text": "Akciğer", "isCorrect": false },
+        { "id": "o4", "text": "Beyin", "isCorrect": false }
+      ],
+      "explanation": "Vücudun dış yüzeyini tamamen kaplayan deri, en geniş ve en ağır organımızdır."
+    }
+  },
+  {
+    "id": "gen_11",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - İlk Yazılı Antlaşma",
+      "frontText": "Tarihte bilinen ilk yazılı barış antlaşması hangisidir?",
+      "backText": "Kadeş Antlaşması (MÖ 1259'da Mısırlılar ile Hititler arasında imzalanmıştır)."
+    },
+    "quiz": {
+      "questionText": "Tarihte bilinen ilk yazılı antlaşma olan Kadeş Antlaşması hangi iki devlet arasında yapılmıştır?",
+      "options": [
+        { "id": "o1", "text": "Mısır - Hitit", "isCorrect": true },
+        { "id": "o2", "text": "Sümer - Akat", "isCorrect": false },
+        { "id": "o3", "text": "Pers - Yunan", "isCorrect": false },
+        { "id": "o4", "text": "Babil - Asur", "isCorrect": false }
+      ],
+      "explanation": "Kadeş Antlaşması II. Ramses ile III. Hattuşili arasında imzalanmış ilk uluslararası barış metnidir."
+    }
+  },
+  {
+    "id": "gen_12",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Fizik - Suyun Kaynama Noktası",
+      "frontText": "Deniz seviyesinde su kaç derecede kaynar?",
+      "backText": "100°C (1 atmosfer standart basınç altında)."
+    },
+    "quiz": {
+      "questionText": "Standart atmosfer basıncında ve deniz seviyesinde saf suyun kaynama sıcaklığı kaç °C'dir?",
+      "options": [
+        { "id": "o1", "text": "100°C", "isCorrect": true },
+        { "id": "o2", "text": "90°C", "isCorrect": false },
+        { "id": "o3", "text": "120°C", "isCorrect": false },
+        { "id": "o4", "text": "80°C", "isCorrect": false }
+      ],
+      "explanation": "Deniz seviyesindeki 1 atm basınçta su 100 santigrat derecede gaz fazına geçer."
+    }
+  },
+  {
+    "id": "gen_13",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - İlk Türk Matbaası",
+      "frontText": "Osmanlı'da ilk Türk matbaasını kim kurmuştur?",
+      "backText": "İbrahim Müteferrika (1727 yılında Lale Devri'nde kurulmuştur)."
+    },
+    "quiz": {
+      "questionText": "Osmanlı Devleti'nde Türkçe eser basmak üzere ilk matbaayı kuran kişi kimdir?",
+      "options": [
+        { "id": "o1", "text": "İbrahim Müteferrika", "isCorrect": true },
+        { "id": "o2", "text": "Katip Çelebi", "isCorrect": false },
+        { "id": "o3", "text": "Evliya Çelebi", "isCorrect": false },
+        { "id": "o4", "text": "Yirmisekiz Çelebi Mehmed", "isCorrect": false }
+      ],
+      "explanation": "İbrahim Müteferrika, Said Efendi ile birlikte 1727'de ilk resmi matbaayı faaliyete geçirmiştir."
+    }
+  },
+  {
+    "id": "gen_14",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Yüzölçümü En Büyük Ülke",
+      "frontText": "Dünyanın yüzölçümü bakımından en büyük ülkesi hangisidir?",
+      "backText": "Rusya (Yaklaşık 17.1 milyon km² yüzölçümüne sahiptir)."
+    },
+    "quiz": {
+      "questionText": "Toprak büyüklüğü açısından dünyanın en geniş ülkesi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Rusya", "isCorrect": true },
+        { "id": "o2", "text": "Kanada", "isCorrect": false },
+        { "id": "o3", "text": "Çin", "isCorrect": false },
+        { "id": "o4", "text": "ABD", "isCorrect": false }
+      ],
+      "explanation": "Rusya Federasyonu, 17 milyon kilometrekareyi aşan alanıyla dünyada ilk sıradadır."
+    }
+  },
+  {
+    "id": "gen_15",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Edebiyat - Nobel Ödüllü İlk Türk",
+      "frontText": "Nobel Ödülü kazanan ilk Türk vatandaşı kimdir?",
+      "backText": "Orhan Pamuk (2006 yılında Nobel Edebiyat Ödülü'nü almıştır)."
+    },
+    "quiz": {
+      "questionText": "2006 yılında Nobel Edebiyat Ödülü'nü alarak Nobel kazanan ilk Türk kim olmuştur?",
+      "options": [
+        { "id": "o1", "text": "Orhan Pamuk", "isCorrect": true },
+        { "id": "o2", "text": "Aziz Sancar", "isCorrect": false },
+        { "id": "o3", "text": "Yaşar Kemal", "isCorrect": false },
+        { "id": "o4", "text": "Kemal Tahir", "isCorrect": false }
+      ],
+      "explanation": "Orhan Pamuk 2006'da Edebiyat alanında bu ödülü kazanan ilk Türk vatandaşıdır."
+    }
+  },
+  {
+    "id": "gen_16",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Müzik - İstiklal Marşı Bestecisi",
+      "frontText": "İstiklal Marşı'nın günümüzde kullanılan bestesi kime aittir?",
+      "backText": "Osman Zeki Üngör (1930 yılından itibaren geçerli olan bestedir)."
+    },
+    "quiz": {
+      "questionText": "İstiklal Marşı'mızın mevcut resmi bestesini yapan müzisyen kimdir?",
+      "options": [
+        { "id": "o1", "text": "Osman Zeki Üngör", "isCorrect": true },
+        { "id": "o2", "text": "Ali Rıfat Çağatay", "isCorrect": false },
+        { "id": "o3", "text": "Itri", "isCorrect": false },
+        { "id": "o4", "text": "Hacı Arif Bey", "isCorrect": false }
+      ],
+      "explanation": "Marşın ilk bestesi Ali Rıfat Çağatay'a aitken, 1930'dan sonra Osman Zeki Üngör'ün bestesi benimsenmiştir."
+    }
+  },
+  {
+    "id": "gen_17",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Sanat - Düşünen Adam Heykeli",
+      "frontText": "'Düşünen Adam' heykeli hangi heykeltıraşa aittir?",
+      "backText": "Auguste Rodin (Fransız heykeltıraşın en bilinen bronz eseridir)."
+    },
+    "quiz": {
+      "questionText": "Dünyaca bilinen 'Düşünen Adam' heykeli hangi heykeltıraşın eseridir?",
+      "options": [
+        { "id": "o1", "text": "Auguste Rodin", "isCorrect": true },
+        { "id": "o2", "text": "Michelangelo", "isCorrect": false },
+        { "id": "o3", "text": "Donatello", "isCorrect": false },
+        { "id": "o4", "text": "Bernini", "isCorrect": false }
+      ],
+      "explanation": "Auguste Rodin tarafından yapılan heykel, felsefi düşünceyi simgeleyen küresel bir ikondur."
+    }
+  },
+  {
+    "id": "gen_18",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - İstanbul'un Fethi",
+      "frontText": "İstanbul ne zaman ve kim tarafından fethedilmiştir?",
+      "backText": "29 Mayıs 1453 tarihinde Fatih Sultan Mehmed (II. Mehmed) tarafından."
+    },
+    "quiz": {
+      "questionText": "İstanbul'un fethiyle Orta Çağ'ı kapatıp Yeni Çağ'ı başlatan Osmanlı padişahı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Fatih Sultan Mehmed (II. Mehmed)", "isCorrect": true },
+        { "id": "o2", "text": "Kanuni Sultan Süleyman", "isCorrect": false },
+        { "id": "o3", "text": "Yavuz Sultan Selim", "isCorrect": false },
+        { "id": "o4", "text": "Yıldırım Bayezid", "isCorrect": false }
+      ],
+      "explanation": "29 Mayıs 1453'te II. Mehmed İstanbul'u fethederek 'Fatih' unvanını almıştır."
+    }
+  },
+  {
+    "id": "gen_19",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Kimya - Suyun Kimyasal Formülü",
+      "frontText": "Suyun moleküler formülü nedir?",
+      "backText": "H₂O (2 Hidrojen ve 1 Oksijen atomundan oluşur)."
+    },
+    "quiz": {
+      "questionText": "Kimyada suyun moleküler gösterimi aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "H2O", "isCorrect": true },
+        { "id": "o2", "text": "CO2", "isCorrect": false },
+        { "id": "o3", "text": "NaCl", "isCorrect": false },
+        { "id": "o4", "text": "H2SO4", "isCorrect": false }
+      ],
+      "explanation": "Su molekülü iki adet hidrojen ile bir adet oksijen atomunun kovalent bağıyla meydana gelir."
+    }
+  },
+  {
+    "id": "gen_20",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Mimar Sinan'ın Ustalık Eseri",
+      "frontText": "Mimar Sinan'ın 'Ustalık eserim' dediği yapı hangisidir?",
+      "backText": "Selimiye Camii (Edirne'de yer almaktadır)."
+    },
+    "quiz": {
+      "questionText": "Mimar Sinan'ın Edirne'de inşa ettiği ve 'Ustalık Eserim' olarak tanımladığı cami hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Selimiye Camii", "isCorrect": true },
+        { "id": "o2", "text": "Süleymaniye Camii", "isCorrect": false },
+        { "id": "o3", "text": "Şehzade Camii", "isCorrect": false },
+        { "id": "o4", "text": "Mihrimah Sultan Camii", "isCorrect": false }
+      ],
+      "explanation": "Sinan, Şehzade Camiini çıraklık, Süleymaniye'yi kalfalık, Selimiye'yi ustalık eseri ilan etmiştir."
+    }
+  },
+  {
+    "id": "gen_21",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Edebiyat - İlk Türkçe Sözlük",
+      "frontText": "Türk dilinin bilinen ilk sözlüğü hangisidir?",
+      "backText": "Dîvânu Lugâti't-Türk (11. yüzyılda Kaşgarlı Mahmud tarafından yazılmıştır)."
+    },
+    "quiz": {
+      "questionText": "Kaşgarlı Mahmud'un Araplara Türkçe öğretmek amacıyla kaleme aldığı ilk Türkçe sözlük hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Dîvânu Lugâti't-Türk", "isCorrect": true },
+        { "id": "o2", "text": "Kutadgu Bilig", "isCorrect": false },
+        { "id": "o3", "text": "Atabetü'l-Hakayık", "isCorrect": false },
+        { "id": "o4", "text": "Muhakemetü'l-Lugateyn", "isCorrect": false }
+      ],
+      "explanation": "Divanü Lügati't-Türk Türk kültür ve dil tarihinin en önemli referans kaynaklarındandır."
+    }
+  },
+  {
+    "id": "gen_22",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - İki Kıfayı Birleştiren Şehir",
+      "frontText": "Hem Asya hem Avrupa kıtasında toprağı olan metropolimiz hangisidir?",
+      "backText": "İstanbul (İstanbul Boğazı iki kıtayı birbirine bağlar)."
+    },
+    "quiz": {
+      "questionText": "Hem Asya hem de Avrupa kıtalarında toprakları bulunan Türkiye şehri hangisidir?",
+      "options": [
+        { "id": "o1", "text": "İstanbul", "isCorrect": true },
+        { "id": "o2", "text": "İzmir", "isCorrect": false },
+        { "id": "o3", "text": "Çanakkale", "isCorrect": false },
+        { "id": "o4", "text": "Bursa", "isCorrect": false }
+      ],
+      "explanation": "İstanbul, Boğaziçi ile Asya ve Avrupa kıtalarını birbirine bağlayan dünya kenti niteliğindedir."
+    }
+  },
+  {
+    "id": "gen_23",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Biyoloji - Fotosentez",
+      "frontText": "Fotosentez nedir?",
+      "backText": "Yeşil bitkilerin güneş ışığı yardımıyla karbondioksit ve sudan besin ve oksijen üretmesidir."
+    },
+    "quiz": {
+      "questionText": "Bitkilerin klorofil pigmenti sayesinde ışık enerjisini kimyasal enerjiye çevirmesi sürecine ne denir?",
+      "options": [
+        { "id": "o1", "text": "Fotosentez", "isCorrect": true },
+        { "id": "o2", "text": "Kemosentez", "isCorrect": false },
+        { "id": "o3", "text": "Hücresel Solunum", "isCorrect": false },
+        { "id": "o4", "text": "Transpirasyon", "isCorrect": false }
+      ],
+      "explanation": "Fotosentez, dünya üzerindeki oksijen ve organik madde zincirinin temellerinden biridir."
+    }
+  },
+  {
+    "id": "gen_24",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Malazgirt Zaferi",
+      "frontText": "Malazgirt Savaşı kaç yılında kazanılmıştır?",
+      "backText": "1071 yılında Sultan Alparslan komutasında Bizans'a karşı kazanılmıştır."
+    },
+    "quiz": {
+      "questionText": "Anadolu'nun kapılarını Türklere açan Malazgirt Savaşı hangi tarihte gerçekleşmiştir?",
+      "options": [
+        { "id": "o1", "text": "1071", "isCorrect": true },
+        { "id": "o2", "text": "1176", "isCorrect": false },
+        { "id": "o3", "text": "1299", "isCorrect": false },
+        { "id": "o4", "text": "1453", "isCorrect": false }
+      ],
+      "explanation": "1071 Malazgirt Zaferi ile Selçuklu Türkleri Anadolu'ya kalıcı yerleşim sürecini başlatmıştır."
+    }
+  },
+  {
+    "id": "gen_25",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Astronomi - Güneş'e En Yakın Gezegen",
+      "frontText": "Güneş Sisteminde Güneş'e en yakın gezegen hangisidir?",
+      "backText": "Merkür (Güneş'e olan ortalama mesafesi yaklaşık 58 milyon km'dir)."
+    },
+    "quiz": {
+      "questionText": "Güneş'e mesafe açısından en yakın sırada bulunan gezegen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Merkür", "isCorrect": true },
+        { "id": "o2", "text": "Venüs", "isCorrect": false },
+        { "id": "o3", "text": "Dünya", "isCorrect": false },
+        { "id": "o4", "text": "Mars", "isCorrect": false }
+      ],
+      "explanation": "Güneş Sisteminin en içteki gezegeni Merkür'dür."
+    }
+  },
+  {
+    "id": "gen_26",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Genel Kültür - Birleşmiş Milletler Merkezi",
+      "frontText": "Birleşmiş Milletler genel merkezi hangi şehirdedir?",
+      "backText": "New York (ABD)."
+    },
+    "quiz": {
+      "questionText": "Birleşmiş Milletler (BM) örgütünün resmi genel merkezi hangi şehirde yer alır?",
+      "options": [
+        { "id": "o1", "text": "New York", "isCorrect": true },
+        { "id": "o2", "text": "Cenevre", "isCorrect": false },
+        { "id": "o3", "text": "Brüksel", "isCorrect": false },
+        { "id": "o4", "text": "Paris", "isCorrect": false }
+      ],
+      "explanation": "BM Ana Merkezi New York'ta bulunmakta olup Cenevre ve Viyana gibi kentlerde yardımcı binaları vardır."
+    }
+  },
+  {
+    "id": "gen_27",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Sinema - İlk Sesli Film",
+      "frontText": "Sinema tarihinin ilk sesli filmi hangisidir?",
+      "backText": "The Jazz Singer (1927 yapımı Caz Şarkıcısı)."
+    },
+    "quiz": {
+      "questionText": "Sinema tarihinde diyalog içeren ilk sesli uzun metrajlı film hangisidir?",
+      "options": [
+        { "id": "o1", "text": "The Jazz Singer", "isCorrect": true },
+        { "id": "o2", "text": "Citizen Kane", "isCorrect": false },
+        { "id": "o3", "text": "Metropolis", "isCorrect": false },
+        { "id": "o4", "text": "Psycho", "isCorrect": false }
+      ],
+      "explanation": "1927 yapımı The Jazz Singer sinemada sessiz dönemi sona erdiren yenilik olmuştur."
+    }
+  },
+  {
+    "id": "gen_28",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Magna Carta",
+      "frontText": "Magna Carta Libertatum ne zaman imzalanmıştır?",
+      "backText": "1215 yılında İngiltere Kralı Yurtsuz John tarafından imzalanmıştır."
+    },
+    "quiz": {
+      "questionText": "1215'te İngiltere'de imzalanan ve hükümdarın yetkilerini ilk kez yasalarla kısıtlayan belge hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Magna Carta", "isCorrect": true },
+        { "id": "o2", "text": "Tanzimat Fermanı", "isCorrect": false },
+        { "id": "o3", "text": "Hamurabi Kanunları", "isCorrect": false },
+        { "id": "o4", "text": "İnsan Hakları Bildirgesi", "isCorrect": false }
+      ],
+      "explanation": "Magna Carta, kralın mutlak gücünü sınırlandırıp hukuk devleti fikrine zemin hazırlamıştır."
+    }
+  },
+  {
+    "id": "gen_29",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Türkiye'nin En Yüksek Dağı",
+      "frontText": "Türkiye'nin en yüksek dağı hangisidir?",
+      "backText": "Ağrı Dağı (5.137 metre rakıma sahiptir)."
+    },
+    "quiz": {
+      "questionText": "5.137 metrelik rakımıyla Türkiye'nin en yüksek zirvesi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Ağrı Dağı", "isCorrect": true },
+        { "id": "o2", "text": "Erciyes Dağı", "isCorrect": false },
+        { "id": "o3", "text": "Süphan Dağı", "isCorrect": false },
+        { "id": "o4", "text": "Kaçkar Dağı", "isCorrect": false }
+      ],
+      "explanation": "Ağrı Dağı, Türkiye'nin ve örtü buzulu barındıran en yüksek volkanik kütlesidir."
+    }
+  },
+  {
+    "id": "gen_30",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Spor - Olimpiyat Bayrağı",
+      "frontText": "Olimpiyat bayrağındaki 5 renkli halka neyi simgeler?",
+      "backText": "Dünyadaki 5 kıtayı ve kıtalararası dostluğu simgeler."
+    },
+    "quiz": {
+      "questionText": "Olimpiyat halkalarının temsil ettiği 5 unsur aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Beş Kıta", "isCorrect": true },
+        { "id": "o2", "text": "Beş Temel Spor Dalı", "isCorrect": false },
+        { "id": "o3", "text": "Beş Okyanus", "isCorrect": false },
+        { "id": "o4", "text": "Beş Kurucu Ülke", "isCorrect": false }
+      ],
+      "explanation": "Mavi, sarı, siyah, yeşil ve kırmızı halkalar dünya üzerindeki 5 birleşik kıtayı simgeler."
+    }
+  },
+  {
+    "id": "gen_31",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tıp - Penisilinin Keşfi",
+      "frontText": "Penisilini kim icat/keşfetmiştir?",
+      "backText": "Alexander Fleming (1928 yılında antibiyotik dönemini başlatmıştır)."
+    },
+    "quiz": {
+      "questionText": "1928 yılında penisilini keşfederek tıpta enfeksiyon hastalıklarında devrim yapan bilim insanı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Alexander Fleming", "isCorrect": true },
+        { "id": "o2", "text": "Louis Pasteur", "isCorrect": false },
+        { "id": "o3", "text": "Robert Koch", "isCorrect": false },
+        { "id": "o4", "text": "Edward Jenner", "isCorrect": false }
+      ],
+      "explanation": "Alexander Fleming, Penicillium küfünün bakterileri yok ettiğini gözlemleyerek penisilini bulmuştur."
+    }
+  },
+  {
+    "id": "gen_32",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Edebiyat - Sefiller Eseri",
+      "frontText": "'Sefiller' romanının yazarı kimdir?",
+      "backText": "Victor Hugo (Fransız edebiyatının başyapıtlarındandır)."
+    },
+    "quiz": {
+      "questionText": "Jean Valjean'ın yaşam mücadelesini aktaran 'Sefiller' romanı hangi yazara aittir?",
+      "options": [
+        { "id": "o1", "text": "Victor Hugo", "isCorrect": true },
+        { "id": "o2", "text": "Balzac", "isCorrect": false },
+        { "id": "o3", "text": "Emile Zola", "isCorrect": false },
+        { "id": "o4", "text": "Stendhal", "isCorrect": false }
+      ],
+      "explanation": "Victor Hugo, Sefiller eseriyle dünya romantizm akımının en büyük örneklerinden birini sunmuştur."
+    }
+  },
+  {
+    "id": "gen_33",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - İlk Kadın Savaş Pilotu",
+      "frontText": "Dünyanın ilk kadın savaş pilotu kimdir?",
+      "backText": "Sabiha Gökçen (Atatürk'ün manevi kızı ve Türk havacı)."
+    },
+    "quiz": {
+      "questionText": "Dünya havacılık tarihinin ilk kadın savaş pilotu olarak kabul edilen Türk havacısı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Sabiha Gökçen", "isCorrect": true },
+        { "id": "o2", "text": "Bedriye Tahir Gökmen", "isCorrect": false },
+        { "id": "o3", "text": "Safiye Ali", "isCorrect": false },
+        { "id": "o4", "text": "Nene Hatun", "isCorrect": false }
+      ],
+      "explanation": "Sabiha Gökçen 1937 yılında kanat takarak dünyanın ilk kadın savaş pilotu olmuştur."
+    }
+  },
+  {
+    "id": "gen_34",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Dünya Başkentleri - Japonya",
+      "frontText": "Japonya'nın başkenti neresidir?",
+      "backText": "Tokyo (Dünyanın en yüksek nüfuslu metropol bölgelerindendir)."
+    },
+    "quiz": {
+      "questionText": "Japonya'nın başkenti olan şehir aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Tokyo", "isCorrect": true },
+        { "id": "o2", "text": "Kyoto", "isCorrect": false },
+        { "id": "o3", "text": "Osaka", "isCorrect": false },
+        { "id": "o4", "text": "Sapporo", "isCorrect": false }
+      ],
+      "explanation": "Tarihteki eski başkent Kyoto'nun ardından modern dönemde başkent Tokyo olmuştur."
+    }
+  },
+  {
+    "id": "gen_35",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Fizik - Kütleçekim Kanunu",
+      "frontText": "Kütleçekim yasasını bilimsel olarak kim tanımlamıştır?",
+      "backText": "Isaac Newton (Evrensel kütleçekim yasasını formüle etmiştir)."
+    },
+    "quiz": {
+      "questionText": "Düşen elma gözlemiyle özdeşleştirilen ve yerçekimi yasasını açıklayan bilim insanı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Isaac Newton", "isCorrect": true },
+        { "id": "o2", "text": "Albert Einstein", "isCorrect": false },
+        { "id": "o3", "text": "Galileo Galilei", "isCorrect": false },
+        { "id": "o4", "text": "Johannes Kepler", "isCorrect": false }
+      ],
+      "explanation": "Newton, 'Principia' adlı yapıtında kütlelerin birbirini çekme fiziğini ortaya koymuştur."
+    }
+  },
+  {
+    "id": "gen_36",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Osmanlı'nın Kurucusu",
+      "frontText": "Osmanlı Devleti'nin kurucusu kabul edilen ilk hükümdar kimdir?",
+      "backText": "Osman Gazi (Osman Bey - 1299)."
+    },
+    "quiz": {
+      "questionText": "Osmanlı Devleti'ne adını veren ve bey kurucu sayılan ilk hükümdar kimdir?",
+      "options": [
+        { "id": "o1", "text": "Osman Gazi", "isCorrect": true },
+        { "id": "o2", "text": "Ertuğrul Gazi", "isCorrect": false },
+        { "id": "o3", "text": "Orhan Gazi", "isCorrect": false },
+        { "id": "o4", "text": "I. Murad", "isCorrect": false }
+      ],
+      "explanation": "Osman Gazi, Söğüt ve çevresinde beyliğin temellerini atarak devlete ismini vermiştir."
+    }
+  },
+  {
+    "id": "gen_37",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Sanat - Son Akşam Yemeği",
+      "frontText": "'Son Akşam Yemeği' duvar resmi kime aittir?",
+      "backText": "Leonardo da Vinci (Milano'daki Santa Maria delle Grazie manastırındadır)."
+    },
+    "quiz": {
+      "questionText": "İsa ve havarilerini resmeden 'Son Akşam Yemeği' (The Last Supper) eseri kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Leonardo da Vinci", "isCorrect": true },
+        { "id": "o2", "text": "Michelangelo", "isCorrect": false },
+        { "id": "o3", "text": "Raphael", "isCorrect": false },
+        { "id": "o4", "text": "Sandro Botticelli", "isCorrect": false }
+      ],
+      "explanation": "Leonardo da Vinci 15. yüzyılda Milano'da bir manastır duvarına bu rönesans şaheserini yapmıştır."
+    }
+  },
+  {
+    "id": "gen_38",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tıp - Kuduz Aşısı",
+      "frontText": "Kuduz aşısını ilk olarak kim bulup uygulamıştır?",
+      "backText": "Louis Pasteur (1885 yılında insan üzerinde başarıyla denemiştir)."
+    },
+    "quiz": {
+      "questionText": "Kuduz hastalığına karşı etkili aşıyı geliştirerek tıbba kazandıran mikrobiyolog kimdir?",
+      "options": [
+        { "id": "o1", "text": "Louis Pasteur", "isCorrect": true },
+        { "id": "o2", "text": "Alexander Fleming", "isCorrect": false },
+        { "id": "o3", "text": "Jonas Salk", "isCorrect": false },
+        { "id": "o4", "text": "Robert Koch", "isCorrect": false }
+      ],
+      "explanation": "Pasteur, mikroplarla mücadelede kuduz aşısı ve pastörizasyon tekniğini insanlığa sunmuştur."
+    }
+  },
+  {
+    "id": "gen_39",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Edebiyat - Hamlet Oyun Yazar",
+      "frontText": "'Hamlet' tiyatro oyununun yazarı kimdir?",
+      "backText": "William Shakespeare (İngiliz edebiyatının en büyük oyun yazarı)."
+    },
+    "quiz": {
+      "questionText": "'Olmak ya da olmamak' tiradıyla hafızalara kazınan Hamlet tragedyası kime aittir?",
+      "options": [
+        { "id": "o1", "text": "William Shakespeare", "isCorrect": true },
+        { "id": "o2", "text": "Molière", "isCorrect": false },
+        { "id": "o3", "text": "Goethe", "isCorrect": false },
+        { "id": "o4", "text": "Oscar Wilde", "isCorrect": false }
+      ],
+      "explanation": "Shakespeare'in Danimarka Prensliği'nde geçen Hamlet oyunu dünün ve bugünün klasik tragedyasıdır."
+    }
+  },
+  {
+    "id": "gen_40",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Yazının İcadı",
+      "frontText": "İnsanlık tarihinde yazıyı ilk kim bulmuştur?",
+      "backText": "Sümerler (MÖ 3500 civarında çivi yazısını icat etmişlerdir)."
+    },
+    "quiz": {
+      "questionText": "Tarihin başlangıcı sayılan yazıyı icat eden Mezopotamya uygarlığı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Sümerler", "isCorrect": true },
+        { "id": "o2", "text": "Babiller", "isCorrect": false },
+        { "id": "o3", "text": "Asurlar", "isCorrect": false },
+        { "id": "o4", "text": "Hititler", "isCorrect": false }
+      ],
+      "explanation": "Sümerlerin kil tabletler üzerine uyguladığı çivi yazısı ile yazılı tarih dönemi açılmıştır."
+    }
+  },
+  {
+    "id": "gen_41",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Biyoloji - Kalp Odacıkları",
+      "frontText": "İnsan kalbi kaç odacıktan oluşur?",
+      "backText": "4 odacık (2 kulakçık ve 2 karıncık)."
+    },
+    "quiz": {
+      "questionText": "İnsan kalbinde kaç adet odacık (bölüm) bulunur?",
+      "options": [
+        { "id": "o1", "text": "4", "isCorrect": true },
+        { "id": "o2", "text": "2", "isCorrect": false },
+        { "id": "o3", "text": "3", "isCorrect": false },
+        { "id": "o4", "text": "6", "isCorrect": false }
+      ],
+      "explanation": "İnsan kalbinde üst kısımda iki kulakçık, alt kısımda iki karıncık olmak üzere toplam 4 odacık yer alır."
+    }
+  },
+  {
+    "id": "gen_42",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - TBMM'nin Açılışı",
+      "frontText": "TBMM hangi tarihte açılmıştır?",
+      "backText": "23 Nisan 1920 (Ankara'da faaliyetlerine başlamıştır)."
+    },
+    "quiz": {
+      "questionText": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı olarak kutlanan gün hangi olayın yıldönümüdür?",
+      "options": [
+        { "id": "o1", "text": "TBMM'nin Açılışı", "isCorrect": true },
+        { "id": "o2", "text": "Cumhuriyetin İlanı", "isCorrect": false },
+        { "id": "o3", "text": "Atatürk'ün Samsun'a Çıkışı", "isCorrect": false },
+        { "id": "o4", "text": "Saltanatın Kaldırılması", "isCorrect": false }
+      ],
+      "explanation": "TBMM, 23 Nisan 1920'de Ankara'da açılarak bağımsızlık mücadelesinin merkezi olmuştur."
+    }
+  },
+  {
+    "id": "gen_43",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Astronomi - Ay'a İlk Basan İnsan",
+      "frontText": "Ay yüzeyine ayak basan ilk insan kimdir?",
+      "backText": "Neil Armstrong (1969 - Apollo 11 görevi)."
+    },
+    "quiz": {
+      "questionText": "1969 yılında Apollo 11 uzay aracıyla Ay'a ulaşarak ilk adımı atan astronot kimdir?",
+      "options": [
+        { "id": "o1", "text": "Neil Armstrong", "isCorrect": true },
+        { "id": "o2", "text": "Yuri Gagarin", "isCorrect": false },
+        { "id": "o3", "text": "Buzz Aldrin", "isCorrect": false },
+        { "id": "o4", "text": "Michael Collins", "isCorrect": false }
+      ],
+      "explanation": "Neil Armstrong Ay'a ayak basarak insanlık tarihinin en önemli adımlarından birini atmıştır."
+    }
+  },
+  {
+    "id": "gen_44",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Dünyanın En Küçük Ülkesi",
+      "frontText": "Yüzölçümü en küçük bağımsız ülke neresidir?",
+      "backText": "Vatikan (İtalya'nın Roma şehri sınırları içerisinde bağımsız bir devlettir)."
+    },
+    "quiz": {
+      "questionText": "Hem alan hem nüfus bakımından dünyanın en küçük bağımsız devleti hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Vatikan", "isCorrect": true },
+        { "id": "o2", "text": "Monako", "isCorrect": false },
+        { "id": "o3", "text": "San Marino", "isCorrect": false },
+        { "id": "o4", "text": "Lihtenştayn", "isCorrect": false }
+      ],
+      "explanation": "Vatikan, 0.49 km²lik yüzölçümü ile dünyanın en küçük bağımsız devletidir."
+    }
+  },
+  {
+    "id": "gen_45",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Edebiyat - Suç ve Ceza",
+      "frontText": "'Suç ve Ceza' romanının yazarı kimdir?",
+      "backText": "Fyodor Dostoyevski (Rus psikolojik roman ustası)."
+    },
+    "quiz": {
+      "questionText": "Raskolnikov'un vicdan muhasebesini anlatan klasikleşmiş 'Suç ve Ceza' romanı kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Fyodor Dostoyevski", "isCorrect": true },
+        { "id": "o2", "text": "Lev Tolstoy", "isCorrect": false },
+        { "id": "o3", "text": "Anton Çehov", "isCorrect": false },
+        { "id": "o4", "text": "Gogol", "isCorrect": false }
+      ],
+      "explanation": "Dostoyevski bu romanda suç, ceza ve insan psikolojisini derinlemesine ele alır."
+    }
+  },
+  {
+    "id": "gen_46",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Modern Matbaanın İcadı",
+      "frontText": "Hareketli metal harflerle modern matbaayı kim geliştirmiştir?",
+      "backText": "Johannes Gutenberg (1440'lı yıllarda Almanya'da icat etmiştir)."
+    },
+    "quiz": {
+      "questionText": "15. yüzyılda Avrupa'da baskı tekniğini değiştirerek tipografik matbaayı kuran mucit kimdir?",
+      "options": [
+        { "id": "o1", "text": "Johannes Gutenberg", "isCorrect": true },
+        { "id": "o2", "text": "Thomas Edison", "isCorrect": false },
+        { "id": "o3", "text": "James Watt", "isCorrect": false },
+        { "id": "o4", "text": "Leonardo da Vinci", "isCorrect": false }
+      ],
+      "explanation": "Gutenberg'in geliştirdiği tipografi tekniği bilginin süratle yayılmasını sağlamıştır."
+    }
+  },
+  {
+    "id": "gen_47",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Çanakkale Zaferi",
+      "frontText": "Çanakkale Deniz Zaferi hangi tarihte gerçekleşmiştir?",
+      "backText": "18 Mart 1915 (İtilaf Devletleri donanması püskürtülmüştür)."
+    },
+    "quiz": {
+      "questionText": "Çanakkale Deniz Zaferi her yıl hangi tarihte anılmaktadır?",
+      "options": [
+        { "id": "o1", "text": "18 Mart", "isCorrect": true },
+        { "id": "o2", "text": "19 Mayıs", "isCorrect": false },
+        { "id": "o3", "text": "25 Nisan", "isCorrect": false },
+        { "id": "o4", "text": "30 Ağustos", "isCorrect": false }
+      ],
+      "explanation": "18 Mart 1915'te Nusret Mayın Gemisi ve kıyı bataryalarının direnişiyle unutulmaz deniz zaferi kazanılmıştır."
+    }
+  },
+  {
+    "id": "gen_48",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Sanat - Yıldızlı Gece Tablosu",
+      "frontText": "'Yıldızlı Gece' (The Starry Night) tablosu kime aittir?",
+      "backText": "Vincent van Gogh (Hollandalı post-empresyonist ressam)."
+    },
+    "quiz": {
+      "questionText": "Eşsiz dönen fırça darbeleriyle bilinen 'Yıldızlı Gece' tablosunu çizen ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Vincent van Gogh", "isCorrect": true },
+        { "id": "o2", "text": "Pablo Picasso", "isCorrect": false },
+        { "id": "o3", "text": "Salvador Dali", "isCorrect": false },
+        { "id": "o4", "text": "Claude Monet", "isCorrect": false }
+      ],
+      "explanation": "Van Gogh bu tabloyu Fransa'da kaldığı akıl hastanesindeki odasından gözlemlediği gece görünümüyle yapmıştır."
+    }
+  },
+  {
+    "id": "gen_49",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - En Çok Komşusu Olan Ülkeler",
+      "frontText": "En çok kara komşusuna sahip ülkeler hangileridir?",
+      "backText": "Çin ve Rusya (Her ikisi de 14 ayrı kara komşusuna sahiptir)."
+    },
+    "quiz": {
+      "questionText": "Sınır komşusu olduğu ülke sayısı bakımından (14 komşu) liderliği paylaşan ülkeler hangileridir?",
+      "options": [
+        { "id": "o1", "text": "Çin ve Rusya", "isCorrect": true },
+        { "id": "o2", "text": "Almanya ve Fransa", "isCorrect": false },
+        { "id": "o3", "text": "Brezilya ve Arjantin", "isCorrect": false },
+        { "id": "o4", "text": "Hindistan ve İran", "isCorrect": false }
+      ],
+      "explanation": "Çin ve Rusya, coğrafi genişlikleri nedeniyle 14 farklı devletle sınır komşusudur."
+    }
+  },
+  {
+    "id": "gen_50",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Fizik - Işık Hızı",
+      "frontText": "Işığın boşluktaki hızı yaklaşık kaç km/s'dir?",
+      "backText": "300.000 km/s (Tam olarak 299.792.458 m/s)."
+    },
+    "quiz": {
+      "questionText": "Işığın boşlukta bir saniyede katettiği ortalama mesafe ne kadardır?",
+      "options": [
+        { "id": "o1", "text": "300.000 km", "isCorrect": true },
+        { "id": "o2", "text": "150.000 km", "isCorrect": false },
+        { "id": "o3", "text": "1.000.000 km", "isCorrect": false },
+        { "id": "o4", "text": "340 m", "isCorrect": false }
+      ],
+      "explanation": "Işık hızı fiziksel evrende ulaşılabilecek teorik üst hız sınırı kabul edilir."
+    }
+  },
+  [
+  {
+    "id": "gen_51",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Dünyanın En Büyük Çölü",
+      "frontText": "Dünyanın en büyük çölü hangisidir?",
+      "backText": "Antarktika Çölü (Soğuk çöl sınıfında olup yaklaşık 14 milyon km² alana sahiptir. Sıcak çöl olarak ise Büyük Sahra Çölü ilk sıradadır)."
+    },
+    "quiz": {
+      "questionText": "Soğuk çöller dâhil edildiğinde dünyanın yüzölçümü bakımından en büyük çölü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Antarktika Çölü", "isCorrect": true },
+        { "id": "o2", "text": "Büyük Sahra Çölü", "isCorrect": false },
+        { "id": "o3", "text": "Gobi Çölü", "isCorrect": false },
+        { "id": "o4", "text": "Kalahari Çölü", "isCorrect": false }
+      ],
+      "explanation": "Yıllık yağış miktarı kriterine göre Antarktika dünyanın en büyük soğuk çölüdür."
+    }
+  },
+  {
+    "id": "gen_52",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - İlk Türkçe Gazete",
+      "frontText": "Osmanlı Devleti'nde çıkarılan ilk Türkçe gazete hangisidir?",
+      "backText": "Takvim-i Vekayi (1831 yılında II. Mahmud döneminde resmi gazete olarak yayımlanmaya başlanmıştır)."
+    },
+    "quiz": {
+      "questionText": "1831 yılında yayın hayatına başlayan Osmanlı'nın ilk resmi ve Türkçe gazetesi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Takvim-i Vekayi", "isCorrect": true },
+        { "id": "o2", "text": "Ceride-i Havadis", "isCorrect": false },
+        { "id": "o3", "text": "Tercüman-ı Ahval", "isCorrect": false },
+        { "id": "o4", "text": "Tasvir-i Ekar", "isCorrect": false }
+      ],
+      "explanation": "Takvim-i Vekayi, II. Mahmud devrinde çıkarılan ilk resmi Türkçe gazetedir."
+    }
+  },
+  {
+    "id": "gen_53",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Sanat - Çığlık Tablosu",
+      "frontText": "'Çığlık' (The Scream) tablosu hangi ressama aittir?",
+      "backText": "Edvard Munch (Norveçli ekspresyonist ressam)."
+    },
+    "quiz": {
+      "questionText": "Modern insanın varoluşsal kaygısını simgeleyen ikonik 'Çığlık' tablosunun sahibi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Edvard Munch", "isCorrect": true },
+        { "id": "o2", "text": "Gustav Klimt", "isCorrect": false },
+        { "id": "o3", "text": "Pablo Picasso", "isCorrect": false },
+        { "id": "o4", "text": "Paul Gauguin", "isCorrect": false }
+      ],
+      "explanation": "Norveçli dışavurumcu sanatçı Edvard Munch bu tabloyu 1893 yılında yapmıştır."
+    }
+  },
+  {
+    "id": "gen_54",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Biyoloji - Kanın Pıhtılaşması",
+      "frontText": "Kanda pıhtılaşmayı sağlayan hücresel öge hangisidir?",
+      "backText": "Trombositler (Kan pulcukları)."
+    },
+    "quiz": {
+      "questionText": "Yaralanmalarda kanın pıhtılaşmasını sağlayarak kan kaybını önleyen kan hücresi türü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Trombosit (Kan Pulcuğu)", "isCorrect": true },
+        { "id": "o2", "text": "Alyuvar (Eritrosit)", "isCorrect": false },
+        { "id": "o3", "text": "Akyuvar (Lökosit)", "isCorrect": false },
+        { "id": "o4", "text": "Plazma", "isCorrect": false }
+      ],
+      "explanation": "Trombositler dama bütünlüğü bozulduğunda birbirine yapışarak pıhtı tıkaçlarını oluşturur."
+    }
+  },
+  {
+    "id": "gen_55",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Türkiye'nin Komşuları",
+      "frontText": "Türkiye'nin en uzun kara sınırına sahip olduğu komşusu hangisidir?",
+      "backText": "Suriye (Yaklaşık 911 km uzunluğunda sınır hattı vardır)."
+    },
+    "quiz": {
+      "questionText": "Türkiye'nin en uzun kara sınırına sahip olduğu sınır komşusu ülke hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Suriye", "isCorrect": true },
+        { "id": "o2", "text": "İran", "isCorrect": false },
+        { "id": "o3", "text": "Irak", "isCorrect": false },
+        { "id": "o4", "text": "Yunanistan", "isCorrect": false }
+      ],
+      "explanation": "Suriye sınırı 911 km ile Türkiye'nin en uzun kara sınırını teşkil eder."
+    }
+  },
+  {
+    "id": "gen_56",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Edebiyat - İlk Türk Kadın Roman yazarı",
+      "frontText": "Türk edebiyatının ilk kadın romancısı kimdir?",
+      "backText": "Fatma Aliye Hanım (Zafer Hanım tartışmalı olmakla birlikte ilk resmi kadın romancı kabul edilir)."
+    },
+    "quiz": {
+      "questionText": "50 TL banknotlarının arka yüzünde de portresi bulunan ilk Türk kadın romancımız kimdir?",
+      "options": [
+        { "id": "o1", "text": "Fatma Aliye Hanım", "isCorrect": true },
+        { "id": "o2", "text": "Halide Edib Adıvar", "isCorrect": false },
+        { "id": "o3", "text": "Afife Jale", "isCorrect": false },
+        { "id": "o4", "text": "Samiye Cahit Morkaya", "isCorrect": false }
+      ],
+      "explanation": "Fatma Aliye Hanım 'Hayal ve Hakikat', 'Muhadarat' gibi eserleriyle ilk kadın romancımızdır."
+    }
+  },
+  {
+    "id": "gen_57",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Fransız İhtilali",
+      "frontText": "Fransız İhtilali hangi yılda gerçekleşmiştir?",
+      "backText": "1789 yılında Bastille Hapishanesi'nin basılmasıyla başlamıştır."
+    },
+    "quiz": {
+      "questionText": "Dünya genelinde milliyetçilik ve hürriyet fikirlerini yayan Fransız İhtilali hangi yılda başlamıştır?",
+      "options": [
+        { "id": "o1", "text": "1789", "isCorrect": true },
+        { "id": "o2", "text": "1453", "isCorrect": false },
+        { "id": "o3", "text": "1815", "isCorrect": false },
+        { "id": "o4", "text": "1914", "isCorrect": false }
+      ],
+      "explanation": "1789 Fransız İhtilali, Yakın Çağ'ın başlangıcı olarak kabul edilir."
+    }
+  },
+  {
+    "id": "gen_58",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Kimya - Atomun Yapısı",
+      "frontText": "Atomun çekirdeğinde hangi temel parçacıklar bulunur?",
+      "backText": "Proton (+) ve Nötron (yüksüz) parçacıkları çekirdekte; elektronlar (-) ise katmanlarda yer alır."
+    },
+    "quiz": {
+      "questionText": "Bir atomun çekirdeğinde yer alan artı (+) yüklü temel parçacık hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Proton", "isCorrect": true },
+        { "id": "o2", "text": "Elektron", "isCorrect": false },
+        { "id": "o3", "text": "Nötron", "isCorrect": false },
+        { "id": "o4", "text": "Foton", "isCorrect": false }
+      ],
+      "explanation": "Protonlar pozitif yüklü olup atom çekirdeğinde nötronlarla birlikte kütleyi oluşturur."
+    }
+  },
+  {
+    "id": "gen_59",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Müzik - Müzikte Nota İsimleri",
+      "frontText": "Müzikte kaç temel nota vardır?",
+      "backText": "7 temel nota vardır (Do, Re, Mi, Fa, Sol, La, Si)."
+    },
+    "quiz": {
+      "questionText": "Batı müziği sisteminde kaç adet temel nota ismi bulunur?",
+      "options": [
+        { "id": "o1", "text": "7", "isCorrect": true },
+        { "id": "o2", "text": "8", "isCorrect": false },
+        { "id": "o3", "text": "12", "isCorrect": false },
+        { "id": "o4", "text": "5", "isCorrect": false }
+      ],
+      "explanation": "Diyez ve bemoller haricindeki kök notalar 7 tanedir."
+    }
+  },
+  {
+    "id": "gen_60",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Türkiye'nin Coğrafi Bölgeleri",
+      "frontText": "Türkiye kaç coğrafi bölgeye ayrılmıştır?",
+      "backText": "7 coğrafi bölgeye ayrılmıştır (1941 Birinci Coğrafya Kongresi kararıyla)."
+    },
+    "quiz": {
+      "questionText": "Türkiye fiziki ve iklimsel özelliklerine göre toplam kaç coğrafi bölgeye ayrılmıştır?",
+      "options": [
+        { "id": "o1", "text": "7", "isCorrect": true },
+        { "id": "o2", "text": "8", "isCorrect": false },
+        { "id": "o3", "text": "6", "isCorrect": false },
+        { "id": "o4", "text": "5", "isCorrect": false }
+      ],
+      "explanation": "Türkiye 4 deniz kıyısı ve 3 iç bölge olmak üzere 7 coğrafi bölgeye sahiptir."
+    }
+  },
+  {
+    "id": "gen_61",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Edebiyat - Don Kişot",
+      "frontText": "'Don Kişot' (Don Quijote) eserinin yazarı kimdir?",
+      "backText": "İspanyol yazar Miguel de Cervantes (Modern romanın ilk örneği sayılır)."
+    },
+    "quiz": {
+      "questionText": "Yeldeğirmenleriyle savaşan hayalperest bir şövalyeyi konu alan 'Don Kişot' romanının yazarı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Cervantes", "isCorrect": true },
+        { "id": "o2", "text": "Lope de Vega", "isCorrect": false },
+        { "id": "o3", "text": "Boccaccio", "isCorrect": false },
+        { "id": "o4", "text": "Dante", "isCorrect": false }
+      ],
+      "explanation": "Cervantes 17. yüzyıl başında kaleme aldığı bu eseriyle batı roman geleneğini başlatmıştır."
+    }
+  },
+  {
+    "id": "gen_62",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Saltanatın Kaldırılması",
+      "frontText": "Osmanlı Saltanatı ne zaman kaldırılmıştır?",
+      "backText": "1 Kasım 1922 tarihinde TBMM kararıyla kaldırılmıştır."
+    },
+    "quiz": {
+      "questionText": "600 yılı aşkın Osmanlı monarşisini sona erdiren Saltanatın Kaldırılması kararı ne zaman alınmıştır?",
+      "options": [
+        { "id": "o1", "text": "1 Kasım 1922", "isCorrect": true },
+        { "id": "o2", "text": "29 Ekim 1923", "isCorrect": false },
+        { "id": "o3", "text": "3 Mart 1924", "isCorrect": false },
+        { "id": "o4", "text": "23 Nisan 1920", "isCorrect": false }
+      ],
+      "explanation": "1 Kasım 1922'de saltanat ve hilafet birbirinden ayrılarak saltanata son verilmiştir."
+    }
+  },
+  {
+    "id": "gen_63",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Astronomi - Kızıl Gezegenin Uyduları",
+      "frontText": "Mars gezegeninin kaç doğal uydusu vardır?",
+      "backText": "2 doğal uydusu vardır (Phobos ve Deimos)."
+    },
+    "quiz": {
+      "questionText": "Phobos ve Deimos adlarında iki doğal uydusu bulunan gezegen hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Mars", "isCorrect": true },
+        { "id": "o2", "text": "Venüs", "isCorrect": false },
+        { "id": "o3", "text": "Jüpiter", "isCorrect": false },
+        { "id": "o4", "text": "Neptün", "isCorrect": false }
+      ],
+      "explanation": "Mars'ın düzensiz şekildeki iki küçük uydusu Phobos ve Deimos'tur."
+    }
+  },
+  {
+    "id": "gen_64",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tıp - İnsan Vücudunda En Çok Bulunan Element",
+      "frontText": "İnsan vücut kütlesinin yaklaşık %65'ini oluşturan element hangisidir?",
+      "backText": "Oksijen (Su oranının yüksekliği sebebiyle kütlece en çok bulunan elementtir)."
+    },
+    "quiz": {
+      "questionText": "İnsan vücudunda kütlesel oran bakımından en fazla bulunan element hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Oksijen", "isCorrect": true },
+        { "id": "o2", "text": "Karbon", "isCorrect": false },
+        { "id": "o3", "text": "Hidrojen", "isCorrect": false },
+        { "id": "o4", "text": "Kalsiyum", "isCorrect": false }
+      ],
+      "explanation": "Vücudun yaklaşık %60'ı su olduğu için kütlece en ağır element Oksijendir."
+    }
+  },
+  {
+    "id": "gen_65",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - İlk Türk Alfabesi",
+      "frontText": "Türklerin kullandığı ilk milli alfabe hangisidir?",
+      "backText": "Orhun (Göktürk) Alfabesi (38 harften oluşur)."
+    },
+    "quiz": {
+      "questionText": "Tarihte Türkler tarafından oluşturulup kullanılan ilk milli alfabe hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Göktürk (Orhun) Alfabesi", "isCorrect": true },
+        { "id": "o2", "text": "Uygur Alfabesi", "isCorrect": false },
+        { "id": "o3", "text": "Arap Alfabesi", "isCorrect": false },
+        { "id": "o4", "text": "Kiril Alfabesi", "isCorrect": false }
+      ],
+      "explanation": "Göktürk Alfabesi, Orhun Yazıtları'nda kullanılan ilk özgün Türk alfabesidir."
+    }
+  },
+  {
+    "id": "gen_66",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Süveyş Kanalı",
+      "frontText": "Süveyş Kanalı hangi iki denizi birbirine bağlar?",
+      "backText": "Akdeniz ile Kızıldeniz'i birbirine bağlar."
+    },
+    "quiz": {
+      "questionText": "Mısır topraklarında yer alan Süveyş Kanalı hangi iki denizi birleştirir?",
+      "options": [
+        { "id": "o1", "text": "Akdeniz - Kızıldeniz", "isCorrect": true },
+        { "id": "o2", "text": "Karadeniz - Akdeniz", "isCorrect": false },
+        { "id": "o3", "text": "Manş Denizi - Baltık Denizi", "isCorrect": false },
+        { "id": "o4", "text": "Manş Denizi - Kuzey Denizi", "isCorrect": false }
+      ],
+      "explanation": "1869'da açılan Süveyş Kanalı Akdeniz'i Kızıldeniz üzerinden Hint Okyanusu'na bağlar."
+    }
+  },
+  {
+    "id": "gen_67",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Sanat - Guernica Tablosu",
+      "frontText": "'Guernica' tablosu kime aittir ve neyi anlatır?",
+      "backText": "Pablo Picasso'ya aittir; İspanya İç Savaşı sırasında Guernica şehrinin bombalanmasını anlatır."
+    },
+    "quiz": {
+      "questionText": "Savaşın vahşetini kübik üslupla tuvale aktaran siyah-beyaz 'Guernica' tablosu kimin eseridir?",
+      "options": [
+        { "id": "o1", "text": "Pablo Picasso", "isCorrect": true },
+        { "id": "o2", "text": "Salvador Dali", "isCorrect": false },
+        { "id": "o3", "text": "Joan Miró", "isCorrect": false },
+        { "id": "o4", "text": "Diego Rivera", "isCorrect": false }
+      ],
+      "explanation": "Picasso'nun bu tablosu savaş karşıtı duruşun dünyadaki en güçlü sanat sembolüdür."
+    }
+  },
+  {
+    "id": "gen_68",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Genel Kültür - Nobel Kimya Ödüllü Türk",
+      "frontText": "2015 Nobel Kimya Ödülü'nü kazanan Türk bilim insanı kimdir?",
+      "backText": "Prof. Dr. Aziz Sancar (DNA onarımı üzerine yaptığı çalışmalarla kazanmıştır)."
+    },
+    "quiz": {
+      "questionText": "DNA'nın hücresel onarım mekanizmaları haritalandırmasıyla 2015 Nobel Kimya Ödülü'ne layık görülen bilim insanımız kimdir?",
+      "options": [
+        { "id": "o1", "text": "Aziz Sancar", "isCorrect": true },
+        { "id": "o2", "text": "Uğur Şahin", "isCorrect": false },
+        { "id": "o3", "text": "Gazi Yaşargil", "isCorrect": false },
+        { "id": "o4", "text": "Oktay Sinanoğlu", "isCorrect": false }
+      ],
+      "explanation": "Prof. Dr. Aziz Sancar bilim alanında Nobel kazanan ilk Türk vatandaşı olmuştur."
+    }
+  },
+  {
+    "id": "gen_69",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - İlk Türkçe Basılı Kitap",
+      "frontText": "İbrahim Müteferrika matbaasında basılan ilk kitap hangisidir?",
+      "backText": "Vankulu Lügati (Ahterî'nin Arapça-Türkçe sözlüğünün çevirisidir - 1729)."
+    },
+    "quiz": {
+      "questionText": "Osmanlı'da kurulan ilk Türk matbaasında basılan ilk eser hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Vankulu Lügati", "isCorrect": true },
+        { "id": "o2", "text": "Cihannüma", "isCorrect": false },
+        { "id": "o3", "text": "Tarih-i Naima", "isCorrect": false },
+        { "id": "o4", "text": "Tuhfetü'l-Kibar", "isCorrect": false }
+      ],
+      "explanation": "1729 yılında basımı tamamlanan iki ciltlik Vankulu Sözlüğü matbaanın ilk ürünüdür."
+    }
+  },
+  {
+    "id": "gen_70",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Fizik - Ses Hızı",
+      "frontText": "Sesin havadaki yayılma hızı yaklaşık ne kadardır?",
+      "backText": "20°C deniz seviyesinde yaklaşık 343 m/s (1235 km/saat) hızla yayılır."
+    },
+    "quiz": {
+      "questionText": "Deniz seviyesinde ve oda sıcaklığında sesin havadaki yayılma hızı yaklaşık kaç m/s'dir?",
+      "options": [
+        { "id": "o1", "text": "340 - 343 m/s", "isCorrect": true },
+        { "id": "o2", "text": "300.000 m/s", "isCorrect": false },
+        { "id": "o3", "text": "1000 m/s", "isCorrect": false },
+        { "id": "o4", "text": "150 m/s", "isCorrect": false }
+      ],
+      "explanation": "Ses kuru havada 20 derece sıcaklıkta saniyede ortalama 343 metre yol alır."
+    }
+  },
+  {
+    "id": "gen_71",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Edebiyat - Kutadgu Bilig",
+      "frontText": "Kutadgu Bilig'in yazarı ve anlamı nedir?",
+      "backText": "Yusuf Has Hacip yazmıştır. Anlamı 'Mutlu Olma Bilgisi'dir (11. yüzyıl)."
+    },
+    "quiz": {
+      "questionText": "İslamiyet sonrası Türk edebiyatının bilinen ilk mesnevisi ve siyasetnamesi olan Kutadgu Bilig kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Yusuf Has Hacip", "isCorrect": true },
+        { "id": "o2", "text": "Kaşgarlı Mahmud", "isCorrect": false },
+        { "id": "o3", "text": "Edip Ahmet Yükneki", "isCorrect": false },
+        { "id": "o4", "text": "Ahmet Yesevi", "isCorrect": false }
+      ],
+      "explanation": "Yusuf Has Hacip eseri Doğu Karahanlı hükümdarı Tabgaç Buğra Han'a sunmuştur."
+    }
+  },
+  {
+    "id": "gen_72",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Dünyanın En Yüksek Çağlayanı",
+      "frontText": "Dünyanın en yüksek kesintisiz şelalesi hangisidir?",
+      "backText": "Angel Şelalesi (Venezuela'da yer alır, yaklaşık 979 metre yüksekliğe sahiptir)."
+    },
+    "quiz": {
+      "questionText": "979 metre serbest düşüş yüksekliğiyle dünyanın en yüksek şelalesi olan Angel Şelalesi hangi ülkededir?",
+      "options": [
+        { "id": "o1", "text": "Venezuela", "isCorrect": true },
+        { "id": "o2", "text": "Brezilya", "isCorrect": false },
+        { "id": "o3", "text": "ABD", "isCorrect": false },
+        { "id": "o4", "text": "Kanada", "isCorrect": false }
+      ],
+      "explanation": "Angel Çağlayanı Venezuela'daki Canaima Milli Parkı içerisindedir."
+    }
+  },
+  {
+    "id": "gen_73",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Rönesans'ın Doğduğu Ülke",
+      "frontText": "Rönesans hareketi ilk olarak hangi ülkede başlamıştır?",
+      "backText": "İtalya (14. yüzyılda Floransa, Venedik gibi şehir devletlerinde doğmuştur)."
+    },
+    "quiz": {
+      "questionText": "Yeniden doğuş anlamına gelen Rönesans akımı ilk olarak hangi Avrupa ülkesinde ortaya çıkmıştır?",
+      "options": [
+        { "id": "o1", "text": "İtalya", "isCorrect": true },
+        { "id": "o2", "text": "Fransa", "isCorrect": false },
+        { "id": "o3", "text": "İngiltere", "isCorrect": false },
+        { "id": "o4", "text": "Almanya", "isCorrect": false }
+      ],
+      "explanation": "İtalya'nın ticaret merkezleri ve zengin kent aristokrasisi Rönesans'ın doğuşunu finanse etmiştir."
+    }
+  },
+  {
+    "id": "gen_74",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Biyoloji - Hücrenin Enerji Santralı",
+      "frontText": "Hücrede enerji (ATP) üretiminden sorumlu organel hangisidir?",
+      "backText": "Mitokondri."
+    },
+    "quiz": {
+      "questionText": "Ökaryotik hücrelerde hücresel solunum ile ATP (enerji) üreten organel hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Mitokondri", "isCorrect": true },
+        { "id": "o2", "text": "Ribozom", "isCorrect": false },
+        { "id": "o3", "text": "Lizozom", "isCorrect": false },
+        { "id": "o4", "text": "Golgi Cisimciği", "isCorrect": false }
+      ],
+      "explanation": "Mitokondri oksijenli solunumla hücrenin ihtiyaç duyduğu enerjiyi sentezler."
+    }
+  },
+  {
+    "id": "gen_75",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Dünya Başkentleri - Kanada",
+      "frontText": "Kanada'nın başkenti neresidir?",
+      "backText": "Ottawa (Toronto veya Montreal ile sıkça karıştırılır)."
+    },
+    "quiz": {
+      "questionText": "Kuzey Amerika ülkesi Kanada'nın resmi başkenti hangi şehirdir?",
+      "options": [
+        { "id": "o1", "text": "Ottawa", "isCorrect": true },
+        { "id": "o2", "text": "Toronto", "isCorrect": false },
+        { "id": "o3", "text": "Montreal", "isCorrect": false },
+        { "id": "o4", "text": "Vancouver", "isCorrect": false }
+      ],
+      "explanation": "Kanada'nın başkenti Ontario eyaletinde yer alan Ottawa şehridir."
+    }
+  },
+  {
+    "id": "gen_76",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Halifeliğin Kaldırılması",
+      "frontText": "TBMM Halifeliği ne zaman kaldırmıştır?",
+      "backText": "3 Mart 1924 tarihinde kabul edilen kanunla kaldırılmıştır."
+    },
+    "quiz": {
+      "questionText": "Laik devlet düzenine geçişte en radikal adımlardan biri olan Halifeliğin Kaldırılması kanunu hangi tarihte kabul edilmiştir?",
+      "options": [
+        { "id": "o1", "text": "3 Mart 1924", "isCorrect": true },
+        { "id": "o2", "text": "1 Kasım 1922", "isCorrect": false },
+        { "id": "o3", "text": "29 Ekim 1923", "isCorrect": false },
+        { "id": "o4", "text": "20 Nisan 1924", "isCorrect": false }
+      ],
+      "explanation": "3 Mart 1924'te çıkarılan 431 sayılı kanunla Halifelik makamına son verilmiştir."
+    }
+  },
+  {
+    "id": "gen_77",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Sanat - İnci Küpeli Kız",
+      "frontText": "'İnci Küpeli Kız' tablosu hangi ressama aittir?",
+      "backText": "Johannes Vermeer (Hollandalı Barok dönem ressamı)."
+    },
+    "quiz": {
+      "questionText": "'Kuzeyin Mona Lisa'sı' olarak da adlandırılan 'İnci Küpeli Kız' tablosunu çizen Hollandalı ressam kimdir?",
+      "options": [
+        { "id": "o1", "text": "Johannes Vermeer", "isCorrect": true },
+        { "id": "o2", "text": "Rembrandt", "isCorrect": false },
+        { "id": "o3", "text": "Hieronymus Bosch", "isCorrect": false },
+        { "id": "o4", "text": "Peter Paul Rubens", "isCorrect": false }
+      ],
+      "explanation": "Vermeer bu tablosunu 1665 civarında tamamlamıştır ve Mauritshuis Müzesi'nde sergilenir."
+    }
+  },
+  {
+    "id": "gen_78",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Dünyanın En Büyük Okyanusu",
+      "frontText": "Dünyanın yüzölçümü ve su hacmi bakımından en büyük okyanusu hangisidir?",
+      "backText": "Büyük Okyanus (Pasifik Okyanusu)."
+    },
+    "quiz": {
+      "questionText": "Dünya yüzeyinin yaklaşık üçte birini kaplayan en büyük okyanus hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Büyük Okyanus (Pasifik)", "isCorrect": true },
+        { "id": "o2", "text": "Atlas Okyanusu (Atlantik)", "isCorrect": false },
+        { "id": "o3", "text": "Hint Okyanusu", "isCorrect": false },
+        { "id": "o4", "text": "Güney Okyanusu", "isCorrect": false }
+      ],
+      "explanation": "Pasifik Okyanusu 165 milyon km²yi aşan alanıyla açık ara en büyük okyanustur."
+    }
+  },
+  {
+    "id": "gen_79",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Edebiyat - Safahat",
+      "frontText": "'Safahat' şiir külliyatı kime aittir?",
+      "backText": "Mehmet Akif Ersoy (7 kitaptan oluşan şiir kitabıdır)."
+    },
+    "quiz": {
+      "questionText": "İstiklal Marşı şairimiz Mehmet Akif Ersoy'un tüm şiirlerini topladığı (İstiklal Marşı hariç) ünlü eseri hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Safahat", "isCorrect": true },
+        { "id": "o2", "text": "Çile", "isCorrect": false },
+        { "id": "o3", "text": "Gölge", "isCorrect": false },
+        { "id": "o4", "text": "Kendi Gök Kubbemiz", "isCorrect": false }
+      ],
+      "explanation": "Safahat 7 bölümden oluşur; Mehmet Akif İstiklal Marşı'nı ordunun malı saydığı için kitaba koymamıştır."
+    }
+  },
+  {
+    "id": "gen_80",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Fizik - Suyun En Yoğun Olduğu Sıcaklık",
+      "frontText": "Saf suyun özkütlesinin (yoğunluğunun) en yüksek olduğu sıcaklık kaçtır?",
+      "backText": "+4 °C (Su 4 °C'de maksimum yoğunluğa ulaşır)."
+    },
+    "quiz": {
+      "questionText": "Göllerde suyun üstten donmasını sağlayan doğa mucizesi suyun hangi sıcaklıkta en yoğun olmasından kaynaklanır?",
+      "options": [
+        { "id": "o1", "text": "+4 °C", "isCorrect": true },
+        { "id": "o2", "text": "0 °C", "isCorrect": false },
+        { "id": "o3", "text": "-4 °C", "isCorrect": false },
+        { "id": "o4", "text": "+10 °C", "isCorrect": false }
+      ],
+      "explanation": "Su +4 °C'de en ağır halindedir; bu durum göl diplerinde yaşamın kışın sürmesini sağlar."
+    }
+  },
+  {
+    "id": "gen_81",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Lozan Barış Antlaşması",
+      "frontText": "Lozan Barış Antlaşması hangi tarihte imzalanmıştır?",
+      "backText": "24 Temmuz 1923 tarihinde İsviçre'nin Lozan kentinde imzalanmıştır."
+    },
+    "quiz": {
+      "questionText": "Türkiye Cumhuriyeti'nin kurucu tapusu sayılan Lozan Barış Antlaşması hangi yılda imzalanmıştır?",
+      "options": [
+        { "id": "o1", "text": "1923", "isCorrect": true },
+        { "id": "o2", "text": "1920", "isCorrect": false },
+        { "id": "o3", "text": "1922", "isCorrect": false },
+        { "id": "o4", "text": "1924", "isCorrect": false }
+      ],
+      "explanation": " İsmet İnönü başkanlığındaki heyet 24 Temmuz 1923'te antlaşmayı imzalamıştır."
+    }
+  },
+  {
+    "id": "gen_82",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Genel Kültür - İlk Yapay Uydu",
+      "frontText": "Uzaya fırlatılan ilk yapay uydu hangisidir?",
+      "backText": "Sputnik 1 (1957 yılında Sovyetler Birliği tarafından uzaya gönderilmiştir)."
+    },
+    "quiz": {
+      "questionText": "1957'de Sovyetler Birliği tarafından yörüngeye oturtulup uzay çağını başlatan ilk yapay uydu hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Sputnik 1", "isCorrect": true },
+        { "id": "o2", "text": "Explorer 1", "isCorrect": false },
+        { "id": "o3", "text": "Vostok 1", "isCorrect": false },
+        { "id": "o4", "text": "Apollo 11", "isCorrect": false }
+      ],
+      "explanation": "Sputnik 1 dünya etrafında dönerek telsiz sinyalleri yayınlayan ilk yapay nesnedir."
+    }
+  },
+  {
+    "id": "gen_83",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Dünyanın En Kalabalık Ülkesi",
+      "frontText": "Nüfus bakımından dünyanın en kalabalık ülkesi hangisidir?",
+      "backText": "Hindistan (2023 verileriyle Çin'i geride bırakarak ilk sıraya yerleşmiştir)."
+    },
+    "quiz": {
+      "questionText": "Birleşmiş Milletler güncel verilerine göre nüfus açısından dünyanın en kalabalık ülkesi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Hindistan", "isCorrect": true },
+        { "id": "o2", "text": "Çin", "isCorrect": false },
+        { "id": "o3", "text": "ABD", "isCorrect": false },
+        { "id": "o4", "text": "Endonezya", "isCorrect": false }
+      ],
+      "explanation": "Hindistan 1.4 milyarı aşan nüfusuyla Çin'i geçerek birinci sıraya oturmuştur."
+    }
+  },
+  {
+    "id": "gen_84",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Reform Hareketi",
+      "frontText": "Hristiyanlıkta Reform hareketini başlatan Alman din adamı kimdir?",
+      "backText": "Martin Luther (1517'de Wittenberg Kilisesi duvarına 95 tezini asarak başlatmıştır)."
+    },
+    "quiz": {
+      "questionText": "95 Maddelik Bildirisi ile Katolik Kilisesine karşı Reform hareketini meşakkatle başlatan kişi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Martin Luther", "isCorrect": true },
+        { "id": "o2", "text": "Jan Kalvin", "isCorrect": false },
+        { "id": "o3", "text": "Erasmus", "isCorrect": false },
+        { "id": "o4", "text": "Thomas More", "isCorrect": false }
+      ],
+      "explanation": "Martin Luther Protestanlık mezhebinin temellerini atmıştır."
+    }
+  },
+  {
+    "id": "gen_85",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Müzik - 9. Senfoni Bestecisi",
+      "frontText": "İşitme engeline rağmen 9. Senfoni'yi besteleyen dahi kimdir?",
+      "backText": "Ludwig van Beethoven."
+    },
+    "quiz": {
+      "questionText": "Son yıllarında tamamen sağır olmasına rağmen 'Ode to Joy' (Neşeye Övgü) temasını içeren 9. Senfoni'yi besteleyen müzik dehası kimdir?",
+      "options": [
+        { "id": "o1", "text": "Ludwig van Beethoven", "isCorrect": true },
+        { "id": "o2", "text": "Wolfgang Amadeus Mozart", "isCorrect": false },
+        { "id": "o3", "text": "Johann Sebastian Bach", "isCorrect": false },
+        { "id": "o4", "text": "Frederic Chopin", "isCorrect": false }
+      ],
+      "explanation": "Beethoven bu ölümsüz senfonisini kulakları hiç duymadığı dönemde tamamlamıştır."
+    }
+  },
+  {
+    "id": "gen_86",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Akdeniz'i Okyanusa Bağlayan Boğaz",
+      "frontText": "Akdeniz'i Atlas Okyanusu'na bağlayan boğaz hangisidir?",
+      "backText": "Cebelitarık Boğazı (İspanya ile Fas arasında yer alır)."
+    },
+    "quiz": {
+      "questionText": "Avrupa ile Afrika kıtalarını birbirinden ayıran ve Akdeniz'i Atlantik'e bağlayan stratejik boğaz hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Cebelitarık Boğazı", "isCorrect": true },
+        { "id": "o2", "text": "Babülmendep Boğazı", "isCorrect": false },
+        { "id": "o3", "text": "Hürmüz Boğazı", "isCorrect": false },
+        { "id": "o4", "text": "Bering Boğazı", "isCorrect": false }
+      ],
+      "explanation": "Cebelitarık Boğazı Akdeniz'in Okyanus kapısı konumundadır."
+    }
+  },
+  {
+    "id": "gen_87",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Edebiyat - İki Şehrin Hikayesi",
+      "frontText": "'İki Şehrin Hikayesi' romanı hangi iki şehri konu alır?",
+      "backText": "Londra ve Paris (Charles Dickens'ın Fransız İhtilali dönemini anlatan ünlü eseri)."
+    },
+    "quiz": {
+      "questionText": "Charles Dickens'ın 'İki Şehrin Hikayesi' romanında geçen şehirler aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Londra - Paris", "isCorrect": true },
+        { "id": "o2", "text": "Londra - New York", "isCorrect": false },
+        { "id": "o3", "text": "Paris - Roma", "isCorrect": false },
+        { "id": "o4", "text": "Viyana - Berlin", "isCorrect": false }
+      ],
+      "explanation": "Roman, Fransız İhtilali gölgesindeki Londra ve Paris sokaklarını kıyaslar."
+    }
+  },
+  {
+    "id": "gen_88",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - İlk Cumhurbaşkanı",
+      "frontText": "Türkiye Cumhuriyeti'nin ilk Cumhurbaşkanı kimdir?",
+      "backText": "Mustafa Kemal Atatürk (29 Ekim 1923'te seçilmiştir)."
+    },
+    "quiz": {
+      "questionText": "Cumhuriyetin ilanıyla birlikte Türkiye Cumhuriyeti'nin birinci Cumhurbaşkanı olarak seçilen lider kimdir?",
+      "options": [
+        { "id": "o1", "text": "Mustafa Kemal Atatürk", "isCorrect": true },
+        { "id": "o2", "text": "İsmet İnönü", "isCorrect": false },
+        { "id": "o3", "text": "Fevzi Çakmak", "isCorrect": false },
+        { "id": "o4", "text": "Celal Bayar", "isCorrect": false }
+      ],
+      "explanation": "Atatürk 29 Ekim 1923'te yapılan oy birliği seçimiyle ilk cumhurbaşkanımız olmuştur."
+    }
+  },
+  {
+    "id": "gen_89",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Biyoloji - DNA'nın Açılımı",
+      "frontText": "DNA molekülünün açılımı nedir?",
+      "backText": "Deoksiribonükleik Asit."
+    },
+    "quiz": {
+      "questionText": "Genetik bilgimizi taşıyan 'DNA' kısaltmasının bilimsel açılımı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Deoksiribonükleik Asit", "isCorrect": true },
+        { "id": "o2", "text": "Ribonükleik Asit", "isCorrect": false },
+        { "id": "o3", "text": "Dihidrojen Asit", "isCorrect": false },
+        { "id": "o4", "text": "Deoksiriboz Asit", "isCorrect": false }
+      ],
+      "explanation": "DNA hücresel yönetimi sağlayan Deoksiribonükleik Asit molekülüdür."
+    }
+  },
+  {
+    "id": "gen_90",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Piri Reis'in Haritası",
+      "frontText": "Piri Reis çizdiği ünlü dünya haritasını kime sunmuştur?",
+      "backText": "1517 yılında Mısır seferi sırasında Yavuz Sultan Selim'e sunmuştur."
+    },
+    "quiz": {
+      "questionText": "Büyük Türk denizcisi Piri Reis 1513 tarihli ünlü ceylan derisi dünya haritasını hangi Osmanlı padişahına arz etmiştir?",
+      "options": [
+        { "id": "o1", "text": "Yavuz Sultan Selim", "isCorrect": true },
+        { "id": "o2", "text": "Kanuni Sultan Süleyman", "isCorrect": false },
+        { "id": "o3", "text": "Fatih Sultan Mehmed", "isCorrect": false },
+        { "id": "o4", "text": "II. Bayezid", "isCorrect": false }
+      ],
+      "explanation": "Piri Reis haritasını Mısır'da Yavuz Sultan Selim'e takdim etmiştir."
+    }
+  },
+  {
+    "id": "gen_91",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Dünya Başkentleri - Brezilya",
+      "frontText": "Brezilya'nın başkenti neresidir?",
+      "backText": "Brasilia (Rio de Janeiro ile sıkça karıştırılır)."
+    },
+    "quiz": {
+      "questionText": "Güney Amerika ülkesi Brezilya'nın resmi başkenti hangi şehirdir?",
+      "options": [
+        { "id": "o1", "text": "Brasilia", "isCorrect": true },
+        { "id": "o2", "text": "Rio de Janeiro", "isCorrect": false },
+        { "id": "o3", "text": "Sao Paulo", "isCorrect": false },
+        { "id": "o4", "text": "Salvador", "isCorrect": false }
+      ],
+      "explanation": "Brezilya'nın başkenti 1960 yılında planlanıp kurulan Brasilia kentidir."
+    }
+  },
+  {
+    "id": "gen_92",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Sinema - Oscar Ödülleri",
+      "frontText": "Oscar Ödüllerinin resmi adı nedir?",
+      "backText": "Akademi Ödülleri (Academy Awards)."
+    },
+    "quiz": {
+      "questionText": "Sinema dünyasının en prestijli organizasyonu olan Oscar Ödülleri'nin resmi unvanı nedir?",
+      "options": [
+        { "id": "o1", "text": "Akademi Ödülleri (Academy Awards)", "isCorrect": true },
+        { "id": "o2", "text": "Altın Küre (Golden Globe)", "isCorrect": false },
+        { "id": "o3", "text": "BAFTA Ödülleri", "isCorrect": false },
+        { "id": "o4", "text": "Palme d'Or", "isCorrect": false }
+      ],
+      "explanation": "Amerikan Sinema Sanatları ve Bilimleri Akademisi tarafından dağıtılan resmi ad Akademi Ödülleri'dir."
+    }
+  },
+  {
+    "id": "gen_93",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Fizik - Ampulün Mucidi",
+      "frontText": "Ticari olarak kullanışlı ilk akkor ampulü kim geliştirmiştir?",
+      "backText": "Thomas Edison (1879 yılında uzun ömürlü karbon filamanlı ampulü bulmuştur)."
+    },
+    "quiz": {
+      "questionText": "Pratik ve elektrikle çalışan akkor patentiyle elektrik aydınlatmasını kitlelere yayan mucit kimdir?",
+      "options": [
+        { "id": "o1", "text": "Thomas Edison", "isCorrect": true },
+        { "id": "o2", "text": "Nikola Tesla", "isCorrect": false },
+        { "id": "o3", "text": "Michael Faraday", "isCorrect": false },
+        { "id": "o4", "text": "Benjamin Franklin", "isCorrect": false }
+      ],
+      "explanation": "Edison 1879'da karbonize bambu filaman kullanarak ampulün ticari başarısını yakalamıştır."
+    }
+  },
+  {
+    "id": "gen_94",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Edebiyat - Şair-i Azam",
+      "frontText": "Edebiyatımızda 'Şair-i Azam' (En Büyük Şair) unvanıyla tanınan sanatçı kimdir?",
+      "backText": "Abdülhak Hamit Tarhan ('Makber' şiirinin yazarı)."
+    },
+    "quiz": {
+      "questionText": "Tanzimat 2. Dönem şairi olan ve edebiyat tarihimizde 'Şair-i Azam' olarak anılan usta kimdir?",
+      "options": [
+        { "id": "o1", "text": "Abdülhak Hamit Tarhan", "isCorrect": true },
+        { "id": "o2", "text": "Namık Kemal", "isCorrect": false },
+        { "id": "o3", "text": "Recaizade Mahmud Ekrem", "isCorrect": false },
+        { "id": "o4", "text": "Tevfik Fikret", "isCorrect": false }
+      ],
+      "explanation": "Abdülhak Hamit Tarhan şiirlerindeki metafizik derinlik sebebiyle bu unvanla anılmıştır."
+    }
+  },
+  {
+    "id": "gen_95",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - İlk Türkçe Gazete (Özel)",
+      "frontText": "İlk özel Türkçe gazete hangisidir?",
+      "backText": "Tercüman-ı Ahval (1860 yılında Şinasi ve Agah Efendi tarafından çıkarılmıştır)."
+    },
+    "quiz": {
+      "questionText": "1860 yılında Şinasi ve Agah Efendi ortaklığıyla basılan ilk özel Türkçe gazetemiz hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Tercüman-ı Ahval", "isCorrect": true },
+        { "id": "o2", "text": "Takvim-i Vekayi", "isCorrect": false },
+        { "id": "o3", "text": "Ceride-i Havadis", "isCorrect": false },
+        { "id": "o4", "text": "İkdam", "isCorrect": false }
+      ],
+      "explanation": "Tercüman-ı Ahval, devlet desteği olmadan çıkarılan ilk özel gazetedir."
+    }
+  },
+  {
+    "id": "gen_96",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Coğrafya - Göbeklitepe",
+      "frontText": "Tarihin sıfır noktası kabul edilen Göbeklitepe hangi ilimizdedir?",
+      "backText": "Şanlıurfa."
+    },
+    "quiz": {
+      "questionText": "Yaklaşık 12.000 yıllık geçmişiyle dünyanın bilinen en eski tapınak kompleksi Göbeklitepe hangi şehirdedir?",
+      "options": [
+        { "id": "o1", "text": "Şanlıurfa", "isCorrect": true },
+        { "id": "o2", "text": "Mardin", "isCorrect": false },
+        { "id": "o3", "text": "Diyarbakır", "isCorrect": false },
+        { "id": "o4", "text": "Gaziantep", "isCorrect": false }
+      ],
+      "explanation": "Şanlıurfa sınırlarında yer alan Göbeklitepe insanlık tarihinin bilinen ilk ibadet merkezidir."
+    }
+  },
+  {
+    "id": "gen_97",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Sanat - Son Akşam Yemeği Yeri",
+      "frontText": "Leonardo da Vinci'nin 'Son Akşam Yemeği' eseri hangi şehirdedir?",
+      "backText": "Milano, İtalya."
+    },
+    "quiz": {
+      "questionText": "'Son Akşam Yemeği' freskini yerinde görmek isteyen bir kişi İtalya'nın hangi şehrine gitmelidir?",
+      "options": [
+        { "id": "o1", "text": "Milano", "isCorrect": true },
+        { "id": "o2", "text": "Roma", "isCorrect": false },
+        { "id": "o3", "text": "Floransa", "isCorrect": false },
+        { "id": "o4", "text": "Venedik", "isCorrect": false }
+      ],
+      "explanation": "Eser Milano'daki Santa Maria delle Grazie Manastırı'nın yemekhane duvarındadır."
+    }
+  },
+  {
+    "id": "gen_98",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Biyoloji - Normal Kan Basıncı (Tansiyon)",
+      "frontText": "Yetişkin bir insanda ideal tansiyon değeri kaçtır?",
+      "backText": "120/80 mmHg (12'ye 8 olarak bilinir)."
+    },
+    "quiz": {
+      "questionText": "Sağlıklı bir yetişkinde milimetre cıva (mmHg) cinsinden ideal sistolik/diyastolik (büyük/küçük) kan basıncı kaçtır?",
+      "options": [
+        { "id": "o1", "text": "120 / 80", "isCorrect": true },
+        { "id": "o2", "text": "140 / 90", "isCorrect": false },
+        { "id": "o3", "text": "100 / 60", "isCorrect": false },
+        { "id": "o4", "text": "130 / 85", "isCorrect": false }
+      ],
+      "explanation": "Dünya Sağlık Örgütü standartlarına göre 120/80 mmHg normal tansiyon sınırıdır."
+    }
+  },
+  {
+    "id": "gen_99",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Tarih - Kutsal Emanetlerin Osmanlı'ya Geçişi",
+      "frontText": "Kutsal emanetleri İstanbul'a getiren ve ilk Osmanlı Halifesi olan padişah kimdir?",
+      "backText": "Yavuz Sultan Selim (1517 Mısır Seferi sonrasında)."
+    },
+    "quiz": {
+      "questionText": "1517 Mısır Seferi ile Memlük Devleti'ni yıkarak Halifelik makamını ve Kutsal Emanetleri Osmanlı'ya kazandıran padişah kimdir?",
+      "options": [
+        { "id": "o1", "text": "Yavuz Sultan Selim", "isCorrect": true },
+        { "id": "o2", "text": "Kanuni Sultan Süleyman", "isCorrect": false },
+        { "id": "o3", "text": "Fatih Sultan Mehmed", "isCorrect": false },
+        { "id": "o4", "text": "II. Bayezid", "isCorrect": false }
+      ],
+      "explanation": "Yavuz Sultan Selim Ridaniye Savaşı ile Memlükleri mağlup ederek İlk Osmanlı Halifesi unvanını almıştır."
+    }
+  },
+  {
+    "id": "gen_100",
+    "categoryId": "general_knowledge",
+    "card": {
+      "title": "Astronomi - Evrenin Yaşı",
+      "frontText": "Bilimsel tahminlere göre Evren'in yaşı yaklaşık ne kadardır?",
+      "backText": "Yaklaşık 13.8 milyar yıl (Big Bang'den günümüze)."
+    },
+    "quiz": {
+      "questionText": "Büyük Patlama (Big Bang) teorisi ve kozmik mikrodalga arka plan ışınımı hesaplarına göre Evren'in tahmini yaşı kaçtır?",
+      "options": [
+        { "id": "o1", "text": "13.8 Milyar Yıl", "isCorrect": true },
+        { "id": "o2", "text": "4.5 Milyar Yıl", "isCorrect": false },
+        { "id": "o3", "text": "20 Milyar Yıl", "isCorrect": false },
+        { "id": "o4", "text": "1 Milyar Yıl", "isCorrect": false }
+      ],
+      "explanation": "Planck uydusu verilerine göre Evrenimiz yaklaşık 13.8 milyar yaşındadır (Dünya ise 4.5 milyar yaşındadır)."
+    }
+  }
+]
+]
