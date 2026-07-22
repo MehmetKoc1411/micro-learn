@@ -1,6 +1,15 @@
 // src/types/index.ts
 
-export type Category = 'programming' | 'general_knowledge' | 'science' | 'art';
+export type Category =
+  | 'programming'
+  | 'general_knowledge'
+  | 'science'
+  | 'art'
+  | 'english'
+  | 'pop_culture'
+  | 'traffic'
+  | 'sports'
+  | 'productivity';
 
 export interface QuizOption {
   id: string;
@@ -20,7 +29,7 @@ export interface QuizContent {
   explanation: string;
 }
 
-// Bütünleşik Öğrenme Öğesi
+// Bütünleşik Öğrenme Öğesi (Tekil JSON Formatı)
 export interface LearningItem {
   id: string;
   categoryId: Category;
@@ -28,7 +37,7 @@ export interface LearningItem {
   quiz: QuizContent;
 }
 
-// Geriye dönük uyumluluk için dönüştürücü tipler
+// Ekranlarda Kullanılan Dönüştürücü Tipler
 export interface FlashCard extends CardContent {
   id: string;
   categoryId: Category;

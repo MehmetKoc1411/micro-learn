@@ -10,11 +10,15 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { COLORS, SPACING, FONT_SIZE } from '../constants/theme';
 import { getQuestionsByCategory } from '../services/questionService';
 import { addXP } from '../services/storageService';
-import { Question, QuizOption } from '../types';
+import { Question, QuizOption, Category } from '../types';
 
 const QUESTION_TIME_LIMIT = 10;
 
-export const QuizScreen = ({ navigation }: any) => {
+export const QuizScreen = ({ route, navigation }: any) => {
+  // Navigation'dan gelen parametreler (Varsayılan: 'all' ve 10 soru)
+  const category: Category | 'all' = route.params?.category || 'all';
+  const limit: number = route.params?.limit || 10;
+
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedOptionId, setSelectedOptionId] = useState<string | null>(null);
@@ -23,11 +27,11 @@ export const QuizScreen = ({ navigation }: any) => {
   const [score, setScore] = useState(0);
   const [isAnswered, setIsAnswered] = useState(false);
 
-  // Sayfa açıldığında rastgele 10 soru çek
+  // Sayfa açıldığında seçilen kategori ve limite göre soruları çek
   useEffect(() => {
-    const fetchedQuestions = getQuestionsByCategory('all', 10);
+    const fetchedQuestions = getQuestionsByCategory(category, limit);
     setQuestions(fetchedQuestions);
-  }, []);
+  }, [category, limit]);
 
   // Zamanlayıcı (Timer) Mantığı
   useEffect(() => {
@@ -81,7 +85,13 @@ export const QuizScreen = ({ navigation }: any) => {
     return (
       <SafeAreaView style={styles.container} edges={['left', 'right', 'bottom']}>
         <View style={styles.emptyContainer}>
-          <Text style={styles.emptyText}>Yarışma için soru bulunamadı.</Text>
+          <Text style={styles.emptyText}>Bu kriterlere uygun soru bulunamadı.</Text>
+          <TouchableOpacity
+            style={[styles.nextButton, { marginTop: 16 }]}
+            onPress={() => navigation.goBack()}
+          >
+            <Text style={styles.nextButtonText}>Ayarlara Dön</Text>
+          </TouchableOpacity>
         </View>
       </SafeAreaView>
     );

@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "traf_1",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Dönel Kavşak",
+      "frontText": "Dönel kavşakta geçiş üstünlüğü kimdedir?",
+      "backText": "Kavşak içindeki (kavşağa girmiş olan) araçtadır."
+    },
+    "quiz": {
+      "questionText": "Dönel kavşaklara yaklaşırken geçiş üstünlüğü kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Kavşağa ilk yaklaşan araca", "isCorrect": false },
+        { "id": "o2", "text": "Kavşak içindeki araca", "isCorrect": true },
+        { "id": "o3", "text": "Sağdan gelen araca", "isCorrect": false },
+        { "id": "o4", "text": "Hızlı giden araca", "isCorrect": false }
+      ],
+      "explanation": "Aksi bir işaret yoksa dönel kavşak içindeki araçların geçiş üstünlüğü bulunur."
+    }
+  },
+  {
+    "id": "traf_2",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Takip Mesafesi",
+      "frontText": "Sürücülerin önlerindeki aracı güvenli takip mesafesi nedir?",
+      "backText": "Kendi araçlarının kilometre cinsinden saatteki hızının en az yarısı kadar metre mesafedir (Örn: 90 km/s hızda 45 metre)."
+    },
+    "quiz": {
+      "questionText": "80 km/s hızla giden bir aracın önündeki araçla arasında bırakması gereken asgari takip mesafesi kaç metredir?",
+      "options": [
+        { "id": "o1", "text": "40 metre", "isCorrect": true },
+        { "id": "o2", "text": "20 metre", "isCorrect": false },
+        { "id": "o3", "text": "80 metre", "isCorrect": false },
+        { "id": "o4", "text": "60 metre", "isCorrect": false }
+      ],
+      "explanation": "Takip mesafesi, hızın metre cinsinden yarı değeridir. 80 / 2 = 40 metredir."
+    }
+  },
+  {
+    "id": "traf_3",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - 2 Saniye Kuralı",
+      "frontText": "Sürüş esnasında takip mesafesini kontrol etmek için kullanılan pratik yöntem nedir?",
+      "backText": "88-89 kuralı (2 saniye kuralı). Öndeki aracın geçtiği bir noktadan kendinizin 2 saniye sonra geçmesidir."
+    },
+    "quiz": {
+      "questionText": "Sürücülerin takip mesafesini ayarlarken içlerinden '88-89' diye saymaları hangi kuralı ifade eder?",
+      "options": [
+        { "id": "o1", "text": "2 Saniye Kuralı (Takip Mesafesi)", "isCorrect": true },
+        { "id": "o2", "text": "Reaksiyon Süresi Kuralı", "isCorrect": false },
+        { "id": "o3", "text": "Soluk Verme Kuralı", "isCorrect": false },
+        { "id": "o4", "text": "Duraklama Kuralı", "isCorrect": false }
+      ],
+      "explanation": "Normal hava ve yol şartlarında öndeki araçla aradaki 2 saniyelik zaman farkı güvenli takip mesafesini verir."
+    }
+  },
+  {
+    "id": "traf_4",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik İşaretleri - Kırmızı Işıkta Sağa Dönüş",
+      "frontText": "Trafik ışığında kırmızı yanarken sağa dönüş serbest midir?",
+      "backText": "Aksi belirten bir ışıklı sağa ok işareti veya ek tabela yoksa kırmızı ışıkta dönüşler yasaktır."
+    },
+    "quiz": {
+      "questionText": "Kırmızı ışık yanmakta olan kontrolsüz bir kavşakta sürücü ne yapmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Tamamen durmalı, yeşil ışığı beklemelidir", "isCorrect": true },
+        { "id": "o2", "text": "Yavaşlayıp sağa dönebilir", "isCorrect": false },
+        { "id": "o3", "text": "Korna çalarak geçebilir", "isCorrect": false },
+        { "id": "o4", "text": "Sağdan gelen araca yol verip geçebilir", "isCorrect": false }
+      ],
+      "explanation": "Kırmızı ışık kesin durma zorunluluğu getirir; izin veren ek tabela yoksa beklenmelidir."
+    }
+  },
+  {
+    "id": "traf_5",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Geçiş Üstünlüğü",
+      "frontText": "Kontrolsüz kavşaklarda geçiş üstünlüğü kimdedir?",
+      "backText": "Sağdan gelen araçtadır (Sağdaki araca yol verilir)."
+    },
+    "quiz": {
+      "questionText": "Aksi bir işaret bulunmayan eşit iki caddenin kesiştiği kontrolsüz kavşakta sürücüler kime yol vermelidir?",
+      "options": [
+        { "id": "o1", "text": "Sağdan gelen araca", "isCorrect": true },
+        { "id": "o2", "text": "Soldan gelen araca", "isCorrect": false },
+        { "id": "o3", "text": "Büyük araca", "isCorrect": false },
+        { "id": "o4", "text": "Hızlı giden araca", "isCorrect": false }
+      ],
+      "explanation": "Kontrolsüz kavşaklarda sürücüler sağlarından yaklaşan araçlara geçiş hakkı vermek zorundadır."
+    }
+  },
+  {
+    "id": "traf_6",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Tali Yol ve Ana Yol",
+      "frontText": "'Dur' veya 'Yol Ver' tabelası bulunan yoldan kavşağa çıkan sürücü ne yapmalıdır?",
+      "backText": "Tali yoldadır; ana yoldan gelen tüm araçlara yol vermelidir."
+    },
+    "quiz": {
+      "questionText": "Tali yoldan ana yola giren bir sürücü nasıl davranmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Ana yoldan geçen tüm araçlara yol vermelidir", "isCorrect": true },
+        { "id": "o2", "text": "Hızlanarak ana yola girmelidir", "isCorrect": false },
+        { "id": "o3", "text": "Selektör yaparak geçiş hakkı istemelidir", "isCorrect": false },
+        { "id": "o4", "text": "Sağdaki aracın geçmesini bekleyip girmelidir", "isCorrect": false }
+      ],
+      "explanation": "Tali yol sürücüleri, ana yoldaki trafiğin akışını aksatmayacak şekilde tamamen durup/yavaşlayıp beklemelidir."
+    }
+  },
+  {
+    "id": "traf_7",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Suni Solunum ve Kalp Masajı",
+      "frontText": "Yetişkinlerde temel yaşam desteğinde kalp masajı ve solunum oranı nedir?",
+      "backText": "30 Kalp Masajı / 2 Suni Solunum (30:2)."
+    },
+    "quiz": {
+      "questionText": "Yetişkin bir kazazedede temel yaşam desteği uygulanırken verilen göğüs basısı ve solunum oranı kaçtır?",
+      "options": [
+        { "id": "o1", "text": "30 Göğüs Basısı - 2 Suni Solunum", "isCorrect": true },
+        { "id": "o2", "text": "15 Göğüs Basısı - 1 Suni Solunum", "isCorrect": false },
+        { "id": "o3", "text": "10 Göğüs Basısı - 2 Suni Solunum", "isCorrect": false },
+        { "id": "o4", "text": "5 Göğüs Basısı - 5 Suni Solunum", "isCorrect": false }
+      ],
+      "explanation": "Uluslararası ilk yardım standartlarında yetişkinler için 30 bası, 2 nefes döngüsü esastır."
+    }
+  },
+  {
+    "id": "traf_8",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Motor Yağı Kontrolü",
+      "frontText": "Motor yağ seviyesi kontrol edilirken araç nasıl bir zeminde olmalıdır?",
+      "backText": "Düz (yatay) bir zeminde olmalı ve motor kapatıldıktan birkaç dakika sonra bakılmalıdır."
+    },
+    "quiz": {
+      "questionText": "Motor yağ seviyesi kontrol edilirken aracın durumu nasıl olmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Düz zeminde ve motor çalıştırılmadan/stop edilmiş olmalı", "isCorrect": true },
+        { "id": "o2", "text": "Yokuş yukarı park edilmiş olmalı", "isCorrect": false },
+        { "id": "o3", "text": "Motor yüksek devirde çalışırken bakılmalı", "isCorrect": false },
+        { "id": "o4", "text": "Yokuş aşağı konumda olmalı", "isCorrect": false }
+      ],
+      "explanation": "Doğru seviyeyi ölçmek için karterdeki yağın süzülmesi beklenmeli ve araç düz zeminde durmalıdır."
+    }
+  },
+  {
+    "id": "traf_9",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Selektör Yapmak",
+      "frontText": "Gece sürüşünde öndeki aracı sollarken veya kavşağa yaklaşırken selektör yapmanın amacı nedir?",
+      "backText": "Gelişini veya geçme niyetini haber vererek diğer sürücüleri uyarmaktır."
+    },
+    "quiz": {
+      "questionText": "Sürücülerin geceleyin tepe üstlerine ve dönemeçlere yaklaşırken selektör yapmasının temel nedeni nedir?",
+      "options": [
+        { "id": "o1", "text": "Gelişini haber vermek ve uyarmak", "isCorrect": true },
+        { "id": "o2", "text": "Yolu aydınlatmak", "isCorrect": false },
+        { "id": "o3", "text": "Karşıdakinin hızını kesmesini sağlamak", "isCorrect": false },
+        { "id": "o4", "text": "Yakıt tasarrufu yapmak", "isCorrect": false }
+      ],
+      "explanation": "Selektör yapmak, görme açısının olmadığı kör noktalarda varlığı karşı tarafa bildirmek için uygulanır."
+    }
+  },
+  {
+    "id": "traf_10",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik İşaretleri - Kesik Çizgi vs Devamlı Çizgi",
+      "frontText": "Yoldaki devamlı (düz) çizgi ne anlama gelir?",
+      "backText": "Şerit değiştirmenin ve öndeki aracı sollamanın (sollama yasak) tehlikeli olduğunu gösterir."
+    },
+    "quiz": {
+      "questionText": "Kara yolunda çizilmiş olan kesiksiz 'Devamlı Yol Çizgisi' sürücülere neyi bildirir?",
+      "options": [
+        { "id": "o1", "text": "Şerit değiştirilemeyeceğini ve önündeki aracın geçilemeyeceğini", "isCorrect": true },
+        { "id": "o2", "text": "Şerit değiştirip sollama yapılabileceğini", "isCorrect": false },
+        { "id": "o3", "text": "Hız sınırının yükseldiğini", "isCorrect": false },
+        { "id": "o4", "text": "Park etmenin serbest olduğunu", "isCorrect": false }
+      ],
+      "explanation": "Devamlı çizgi duvardır; sollama yapmak veya karşı şeride geçmek yasaktır."
+    }
+  },
+  {
+    "id": "traf_11",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Sürüş Güvenliği - Su Birikintileri ve Aquaplaning",
+      "frontText": "Su birikintisine giren aracın direksiyon hakimiyetini kaybetmesi olayına ne denir?",
+      "backText": "Aquaplaning (Suda Kızaklama). Lastiğin su tabakası üstünde yüzmesidir."
+    },
+    "quiz": {
+      "questionText": "Yağmurlu havalarda lastiklerin yol yüzeyi ile temasının kesilip su üzerinde kayması durumuna ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Suda Kızaklama (Aquaplaning)", "isCorrect": true },
+        { "id": "o2", "text": "Fren Solması", "isCorrect": false },
+        { "id": "o3", "text": "Savrulma Açısı", "isCorrect": false },
+        { "id": "o4", "text": "Oversteer", "isCorrect": false }
+      ],
+      "explanation": "Aquaplaning durumunda sert fren yapılmamalı, gazdan ayak çekilip direksiyon düz tutulmalıdır."
+    }
+  },
+  {
+    "id": "traf_12",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Otoban Asgari Hız",
+      "frontText": "Otoyollarda (Otoban) otomobiller için alt (asgari) hız sınırı kaçtır?",
+      "backText": "40 km/s. Zorunlu haller dışında 40 km/s altında sürüş yapılamaz."
+    },
+    "quiz": {
+      "questionText": "Otoyollarda (Otoban) seyreden araçların uyması gereken en düşük (asgari) hız sınırı kaç km/s'dir?",
+      "options": [
+        { "id": "o1", "text": "40 km/s", "isCorrect": true },
+        { "id": "o2", "text": "50 km/s", "isCorrect": false },
+        { "id": "o3", "text": "30 km/s", "isCorrect": false },
+        { "id": "o4", "text": "60 km/s", "isCorrect": false }
+      ],
+      "explanation": "Otoyolda trafiğin aksamaması ve arkadan çarpmaları önlemek için asgari hız 40 km/s olarak belirlenmiştir."
+    }
+  },
+  {
+    "id": "traf_13",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Rentek Manevrası",
+      "frontText": "Araç içindeki yaralıyı omuriliğine zarar vermeden dışarı çıkarma tekniği nedir?",
+      "backText": "Rentek Manevrası (Patlama, yangın veya solunum durması riskinde uygulanır)."
+    },
+    "quiz": {
+      "questionText": "Kaza geçirmiş bir araç içinden yaralıyı felç kalma riskini önleyerek çıkarmak için hangi manevra kullanılır?",
+      "options": [
+        { "id": "o1", "text": "Rentek Manevrası", "isCorrect": true },
+        { "id": "o2", "text": "Heimlich Manevrası", "isCorrect": false },
+        { "id": "o3", "text": "Sellick Manevrası", "isCorrect": false },
+        { "id": "o4", "text": "Valsalva Manevrası", "isCorrect": false }
+      ],
+      "explanation": "Rentek manevrası, yaralının omurga eksenini bozmadan araçtan tahliyesini sağlar."
+    }
+  },
+  {
+    "id": "traf_14",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Heimlich Manevrası",
+      "frontText": "Tam tıkanma (nefes alamama, konuşamama, morarma) yaşayan kişiye ne uygulanır?",
+      "backText": "Heimlich Manevrası (Karnına bası uygulayarak yabancı cismi çıkarma)."
+    },
+    "quiz": {
+      "questionText": "Boğazına cisim kaçan, ellerini boynuna götüren ve hiç nefes alamayan (tam tıkanma) kişiye ne yapılmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Heimlich Manevrası", "isCorrect": true },
+        { "id": "o2", "text": "Rentek Manevrası", "isCorrect": false },
+        { "id": "o3", "text": "Sırtına hafifçe vurulmalı", "isCorrect": false },
+        { "id": "o4", "text": "Kalp masajı yapılmalı", "isCorrect": false }
+      ],
+      "explanation": "Tam tıkanmalarda diyafram altından yukarı doğru bası yapılan Heimlich manevrası hayat kurtarır."
+    }
+  },
+  {
+    "id": "traf_15",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Antifriz",
+      "frontText": "Soğutma suyuna eklenen antifrizin ana işlevleri nelerdir?",
+      "backText": "Donmayı önlemek, kaynama noktasını yükseltmek ve motor içi pas/korozyonu engellemek."
+    },
+    "quiz": {
+      "questionText": "Aşağıdakilerden hangisi radyatör soğutma suyuna eklenen antifrizin görevlerinden biri DEĞİLDİR?",
+      "options": [
+        { "id": "o1", "text": "Motor yağının akışkanlığını artırmak", "isCorrect": true },
+        { "id": "o2", "text": "Suyu dondurmamak", "isCorrect": false },
+        { "id": "o3", "text": "Pas ve kireçlenmeyi önlemek", "isCorrect": false },
+        { "id": "o4", "text": "Soğutma suyunun kaynamasını geciktirmek", "isCorrect": false }
+      ],
+      "explanation": "Antifriz soğutma sisteminde çalışır; motor yağı veya yağlama sistemiyle doğrudan ilgisi yoktur."
+    }
+  },
+  {
+    "id": "traf_16",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Reflektör Yerleştirme",
+      "frontText": "Arıza yapan aracın arkasına konacak üçgen reflektörün mesafesi ne olmalıdır?",
+      "backText": "Şehir içi yollarda en az 30 metre, şehirlerarası yollarda en az 150 metreden görülebilecek mesafeye konur."
+    },
+    "quiz": {
+      "questionText": "Şehir dışı karayolunda bozulan aracın önüne ve arkasına konulacak reflektör diğer sürücülerce en az kaç metreden görülebilmelidir?",
+      "options": [
+        { "id": "o1", "text": "150 metre", "isCorrect": true },
+        { "id": "o2", "text": "50 metre", "isCorrect": false },
+        { "id": "o3", "text": "30 metre", "isCorrect": false },
+        { "id": "o4", "text": "100 metre", "isCorrect": false }
+      ],
+      "explanation": "Reflektörün 150 metreden fark edilmesi, yüksek hızda gelen araçların durma mesafesini kazanmasını sağlar."
+    }
+  },
+  {
+    "id": "traf_17",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Ambulans ve İtfaiye Siren Sesleri",
+      "frontText": "Geçiş üstünlüğü olan aracın sirenini duyan sürücü nasıl hareket etmelidir?",
+      "backText": "'Fermuar Yöntemi' ile sağa veya sola yanaşarak acil koridor (şerit) açmalıdır."
+    },
+    "quiz": {
+      "questionText": "Arkasından tepe lambası yanan ve sireni çalan bir ambulansın geldiğini gören sürücü ne yapmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Taşıt yolunda emniyetli şekilde kenara çekilip yol vermelidir", "isCorrect": true },
+        { "id": "o2", "text": "Hızlanarak ambulansın önünden gitmelidir", "isCorrect": false },
+        { "id": "o3", "text": "Aniden frene basıp olduğu yerde durmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "Korna çalarak öndekileri uyarmalıdır", "isCorrect": false }
+      ],
+      "explanation": "Fermuar sistemiyle yolun sağ veya sol kenarına çekilip orta koridor boşaltılmalıdır."
+    }
+  },
+  {
+    "id": "traf_18",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Lastik Derinliği",
+      "frontText": "Araç binek lastiklerinin yasal diş derinliği alt sınırı kaçtır?",
+      "backText": "1.6 mm. Güvenlik için 3 mm altına düştüğünde değiştirilmesi önerilir."
+    },
+    "quiz": {
+      "questionText": "Araç muayenesinde de bakılan, otomobil lastiklerinin yasal minimum diş derinliği sınırı kaç mm'dir?",
+      "options": [
+        { "id": "o1", "text": "1.6 mm", "isCorrect": true },
+        { "id": "o2", "text": "3.0 mm", "isCorrect": false },
+        { "id": "o3", "text": "0.5 mm", "isCorrect": false },
+        { "id": "o4", "text": "4.0 mm", "isCorrect": false }
+      ],
+      "explanation": "1.6 mm altındaki diş derinliğine sahip lastikler yol tutuşunu yitirdiği için yasal olarak kusurludur."
+    }
+  },
+  {
+    "id": "traf_19",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Sis Farları",
+      "frontText": "Sis farları hangi hava koşullarında yakılmalıdır?",
+      "backText": "Sadece yoğun sis, kar yağışı veya şiddetli sağanak yağmur durumunda."
+    },
+    "quiz": {
+      "questionText": "Sis farlarının normal açık havalarda veya gece sürüşünde yakılması kural olarak nasıldır?",
+      "options": [
+        { "id": "o1", "text": "Yasaktır ve cezai işlem uygulanır", "isCorrect": true },
+        { "id": "o2", "text": "Serbesttir", "isCorrect": false },
+        { "id": "o3", "text": "Zorunludur", "isCorrect": false },
+        { "id": "o4", "text": "Sadece otobanda serbesttir", "isCorrect": false }
+      ],
+      "explanation": "Sis farı, görüşü engellemeyen normal zamanlarda yakılırsa karşıdan gelen sürücülerin gözünü alır."
+    }
+  },
+  {
+    "id": "traf_20",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Sürüş Güvenliği - Kör Nokta (Blind Spot)",
+      "frontText": "Dikiz ve yan aynalardan bakıldığında görünmeyen alana ne denir?",
+      "backText": "Kör Nokta (Blind Spot). Şerit değiştirmeden önce omuz üstü bakışla kontrol edilir."
+    },
+    "quiz": {
+      "questionText": "Sürücünün aynalarından göremediği, aracın hemen yan veya arkasındaki alanlara ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Kör Nokta", "isCorrect": true },
+        { "id": "o2", "text": "Görüş Alanı", "isCorrect": false },
+        { "id": "o3", "text": "Fren Bölgesi", "isCorrect": false },
+        { "id": "o4", "text": "Güvenli Alan", "isCorrect": false }
+      ],
+      "explanation": "Şerit değiştirmeden evvel sadece aynalara güvenmeyip başı hafif çevirip omuz üstü kontrol yapılmalıdır."
+    }
+  },
+  {
+    "id": "traf_21",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - ABS Fren Sistemi",
+      "frontText": "ABS (Anti-lock Braking System) fren sisteminin temel görevi nedir?",
+      "backText": "Ani frenlemede tekerleklerin kilitlenmesini önleyerek direksiyon hakimiyetini korumaktır."
+    },
+    "quiz": {
+      "questionText": "ABS fren sisteminin sürücüye sağladığı en büyük avantaj hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Fren anında tekerleklerin kilitlenmesini önleyip direksiyon hakimiyeti sağlamak", "isCorrect": true },
+        { "id": "o2", "text": "Durma mesafesini yarı yarıya düşürmek", "isCorrect": false },
+        { "id": "o3", "text": "Aracın daha az yakıt harcamasını sağlamak", "isCorrect": false },
+        { "id": "o4", "text": "Lastiklerin aşınmasını tamamen durdurmak", "isCorrect": false }
+      ],
+      "explanation": "ABS, tekerleklerin kaymasını engelleyerek sürücünün engelden kaçabilmesi için yön verme imkanı tanır."
+    }
+  },
+  {
+    "id": "traf_22",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - ESP Sistemi",
+      "frontText": "ESP (Electronic Stability Program) ne işe yarar?",
+      "backText": "Elektronik Savrulma Önleyici Sistemdir; virajlarda veya ani manevralarda aracın kontrolden çıkıp savrulmasını önler."
+    },
+    "quiz": {
+      "questionText": "Aracın virajda kaymasını veya önden/arkadan savrulmasını algılayıp tekerleklere bağımsız fren yaptıran sistem nedir?",
+      "options": [
+        { "id": "o1", "text": "ESP (Elektronik Stabilite Programı)", "isCorrect": true },
+        { "id": "o2", "text": "Cruise Control", "isCorrect": false },
+        { "id": "o3", "text": "EBD", "isCorrect": false },
+        { "id": "o4", "text": "SRS", "isCorrect": false }
+      ],
+      "explanation": "ESP, sensörler yardımıyla aracın gittiği yön ile direksiyon açısını kıyaslayarak savrulmayı engeller."
+    }
+  },
+  {
+    "id": "traf_23",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Emniyet Kemeri",
+      "frontText": "Emniyet kemerinin temel amacı nedir?",
+      "backText": "Çarpışma anında yolcuların araç dışına fırlamasını veya kabin içine çarpmasını önlemektir."
+    },
+    "quiz": {
+      "questionText": "Sürücü ve yolcuların kazalardaki ölüm ve ağır yaralanma riskini %50'ye yakın azaltan güvenlik ekipmanı nedir?",
+      "options": [
+        { "id": "o1", "text": "Emniyet Kemeri", "isCorrect": true },
+        { "id": "o2", "text": "Park Sensörü", "isCorrect": false },
+        { "id": "o3", "text": "Sis Farı", "isCorrect": false },
+        { "id": "o4", "text": "Dikiz Aynası", "isCorrect": false }
+      ],
+      "explanation": "Emniyet kemeri, darbe anında vücudun yerinde kalmasını sağlayarak yaşamsal koruma sunar."
+    }
+  },
+  {
+    "id": "traf_24",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Okul Geçitleri",
+      "frontText": "Okul ve yaya geçitlerine yaklaşırken sürücülerin hız durumu ne olmalıdır?",
+      "backText": "Hızlarını azaltmalı, durmaya hazır olmalı ve yayalara ilk geçiş hakkını vermelidir."
+    },
+    "quiz": {
+      "questionText": "Yaya veya okul geçidine yaklaşan bir sürücü nasıl hareket etmelidir?",
+      "options": [
+        { "id": "o1", "text": "Hızını azaltmalı ve yoldaki yayalara geçiş hakkı vermelidir", "isCorrect": true },
+        { "id": "o2", "text": "Korna çalarak yayaların durmasını sağlamalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Hızını değiştirmeden devam etmelidir", "isCorrect": false },
+        { "id": "o4", "text": "Selektör yapıp hızlanmalıdır", "isCorrect": false }
+      ],
+      "explanation": "Yaya ve okul geçitlerinde yayaların mutlak geçiş üstünlüğü bulunur."
+    }
+  },
+  {
+    "id": "traf_25",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Şok Pozisyonu",
+      "frontText": "Kan dolaşımının yetersiz kaldığı Şok durumunda yaralıya hangi pozisyon verilir?",
+      "backText": "Sırtüstü yatırılır, ayakları yaklaşık 30 cm yukarı kaldırılır."
+    },
+    "quiz": {
+      "questionText": "Şoka girmiş bir kazazedede ayakların 30 cm yukarı kaldırılmasının (Şok pozisyonu) ana amacı nedir?",
+      "options": [
+        { "id": "o1", "text": "Bacaklardaki kanın hayati organlara (beyne/kalbe) akmasını sağlamak", "isCorrect": true },
+        { "id": "o2", "text": "Kazazedenin rahat uyumasını sağlamak", "isCorrect": false },
+        { "id": "o3", "text": "Soluk borusunu temizlemek", "isCorrect": false },
+        { "id": "o4", "text": "Ateşini düşürmek", "isCorrect": false }
+      ],
+      "explanation": "Ayakların yukarı kaldırılması, bacaklardaki venous kanı beyin ve kalp gibi vital organlara yönlendirir."
+    }
+  },
+  {
+    "id": "traf_26",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Koma Pozisyonu",
+      "frontText": "Bilinci kapalı ama solunumu ve nabzı olan yaralıya hangi pozisyon verilir?",
+      "backText": "Yarı yüzüstü yan yatış (Koma Pozisyonu)."
+    },
+    "quiz": {
+      "questionText": "Bilinci tamamen kapalı fakat nefes alıp veren bir kazazedeye verilecek en uygun ilk yardım pozisyonu nedir?",
+      "options": [
+        { "id": "o1", "text": "Yarı yüzüstü yan yatış (Koma Pozisyonu)", "isCorrect": true },
+        { "id": "o2", "text": "Şok pozisyonu", "isCorrect": false },
+        { "id": "o3", "text": "Dik oturuş pozisyonu", "isCorrect": false },
+        { "id": "o4", "text": "Sırtüstü dümdüz yatış", "isCorrect": false }
+      ],
+      "explanation": "Koma pozisyonunda dilin geriye kaçması ve kusmuğun akciğere dolması engellenir."
+    }
+  },
+  {
+    "id": "traf_27",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Alkollü Araç Kullanımı",
+      "frontText": "Hususi (binek) otomobil sürücüleri için yasal alkol sınırı kaç promildir?",
+      "backText": "0.50 Promil (Ticari araç sürücüleri için bu sınır 0.00 promildir)."
+    },
+    "quiz": {
+      "questionText": "Türkiye'de hususi otomobil sürücülerinin trafikte kabul edilen maksimum alkol sınırı kaç promildir?",
+      "options": [
+        { "id": "o1", "text": "0.50 Promil", "isCorrect": true },
+        { "id": "o2", "text": "0.20 Promil", "isCorrect": false },
+        { "id": "o3", "text": "1.00 Promil", "isCorrect": false },
+        { "id": "o4", "text": "0.80 Promil", "isCorrect": false }
+      ],
+      "explanation": "Hususi binek araçlarda 0.50 promil üzeri, ticari araçlarda ise 0.00 promil üzeri yasaktır."
+    }
+  },
+  {
+    "id": "traf_28",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Akü Takviyesi",
+      "frontText": "Akü takviye kablosu bağlanırken kutup başları nasıl eşleştirilir?",
+      "backText": "Artı (+) kutup artıya, Eksi (-) kutup eksiye bağlanır."
+    },
+    "quiz": {
+      "questionText": "Başka bir araçtan akü takviyesi yapılırken kablo bağlantıları nasıl yapılmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Artı (+) kutup artıya, Eksi (-) kutup eksiye", "isCorrect": true },
+        { "id": "o2", "text": "Artı (+) kutup eksiye, Eksi (-) kutup artıya", "isCorrect": false },
+        { "id": "o3", "text": "Fark etmez, rastgele bağlanabilir", "isCorrect": false },
+        { "id": "o4", "text": "Sadece eksi kutuplar bağlanır", "isCorrect": false }
+      ],
+      "explanation": "Ters bağlantı yapılması durumunda araç alternatörü ve elektrik beyni (ECU) zarar görebilir."
+    }
+  },
+  {
+    "id": "traf_29",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Hararet Göstergesi",
+      "frontText": "Seyir halindeyken hararet lambası yanarsa ilk ne yapılmalıdır?",
+      "backText": "Araç hemen güvenli bir yere çekilmeli, motor rölantide çalıştırılıp durdurulmalı ve soğumaya bırakılmalıdır."
+    },
+    "quiz": {
+      "questionText": "Gösterge panelinde hararet ikaz lambası yanan bir sürücü ne yapmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Aracı emniyetli bir yere çekip motoru durdurmalı ve soğumasını beklemelidir", "isCorrect": true },
+        { "id": "o2", "text": "Hızlanarak rüzgarla motoru soğutmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Hemen radyatör kapağını açıp soğuk su eklemelidir", "isCorrect": false },
+        { "id": "o4", "text": "Klimayı son ayarda açıp yola devam etmelidir", "isCorrect": false }
+      ],
+      "explanation": "Sıcak motora aniden radyatör kapağı açılıp soğuk su dökülürse motor bloğu çatlayabilir."
+    }
+  },
+  {
+    "id": "traf_30",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Duraklama ve Park Etme",
+      "frontText": "Trafik zorunlulukları dışında aracın yolun kenarında kısa süreli (en fazla 5 dk) durdurulmasına ne denir?",
+      "backText": "Duraklama (5 dakikayı aşan beklemeler 'Park Etme' sayılır)."
+    },
+    "quiz": {
+      "questionText": "Yolcu indirmek, bindirmek veya yük yüklemek için yapılan ve en fazla 5 dakika süren durma eylemi nedir?",
+      "options": [
+        { "id": "o1", "text": "Duraklama", "isCorrect": true },
+        { "id": "o2", "text": "Park Etme", "isCorrect": false },
+        { "id": "o3", "text": "Durma", "isCorrect": false },
+        { "id": "o4", "text": "Bekleme", "isCorrect": false }
+      ],
+      "explanation": "Kırmızı ışıkta beklemek 'Durma', yolcu indirmek 'Duraklama', uzun süreli bırakmak ise 'Park Etme'dir."
+    }
+  },
+  {
+    "id": "traf_31",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Otobanda Emniyet Şeridi",
+      "frontText": "Emniyet şeridi kimler tarafından kullanılabilir?",
+      "backText": "Sadece ambulans, itfaiye, polis gibi acil durum araçları ve arıza yapan araçlar kullanabilir."
+    },
+    "quiz": {
+      "questionText": "Aşağıdakilerden hangisi emniyet şeridini usulsüz kullanmanın sonuçlarından biridir?",
+      "options": [
+        { "id": "o1", "text": "Acil yardım araçlarının olay yerine ulaşmasını engelleyip can kaybına yol açmak", "isCorrect": true },
+        { "id": "o2", "text": "Yakıt tasarrufu sağlamak", "isCorrect": false },
+        { "id": "o3", "text": "Trafik akışını hızlandırmak", "isCorrect": false },
+        { "id": "o4", "text": "Lastik ömrünü uzatmak", "isCorrect": false }
+      ],
+      "explanation": "Emniyet şeridinin ihlali, hayat kurtaracak sağlık ve müdahale ekiplerinin engellenmesidir."
+    }
+  },
+  {
+    "id": "traf_32",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Sürüş Güvenliği - Gece Uzun Hüzmeli Farlar",
+      "frontText": "Uzun hüzmeli farlar ne zaman kısa hüzmeli farlara dönüştürülmelidir?",
+      "backText": "Karşıdan bir araç gelirken veya öndeki araç yakın takip edilirken."
+    },
+    "quiz": {
+      "questionText": "Gece seyrederken karşı yönden bir araç geldiğinde farlar nasıl ayarlanmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Uzun farlar kapatılıp kısa farlar yakılmalıdır", "isCorrect": true },
+        { "id": "o2", "text": "Uzun farlar açık kalmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Farlar tamamen kapatılmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "Sis farları açılmalıdır", "isCorrect": false }
+      ],
+      "explanation": "Karşıdaki sürücünün gözünün kamaşmaması için hemen kısa farlara geçilmelidir."
+    }
+  },
+  {
+    "id": "traf_33",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Mavi Renkli Trafik Levhaları",
+      "frontText": "Mavi renkli kare veya dikdörtgen trafik levhaları genel olarak ne bilgi verir?",
+      "backText": "Bilgi levhalarıdır (Mesafe, hastane, şerit kullanımı vb. bilgi verir)."
+    },
+    "quiz": {
+      "questionText": "Mavi zeminli kare/dikdörtgen biçimindeki trafik işaretlerinin temel amacı nedir?",
+      "options": [
+        { "id": "o1", "text": "Sürücülere bilgi vermek", "isCorrect": true },
+        { "id": "o2", "text": "Tehlike uyarmak", "isCorrect": false },
+        { "id": "o3", "text": "Yasaklama yapmak", "isCorrect": false },
+        { "id": "o4", "text": "Durma zorunluluğu getirmek", "isCorrect": false }
+      ],
+      "explanation": "Üçgen levhalar tehlike uyarısı, daire levhalar yasaklama/kısıtlama, kare/mavi olanlar ise bilgilendirmedir."
+    }
+  },
+  {
+    "id": "traf_34",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Üçgen Trafik Levhaları",
+      "frontText": "Kırmızı çerçeveli üçgen trafik levhaları ne anlama gelir?",
+      "backText": "Tehlike Uyarı İşaretleridir (İlerideki bir tehlikeye karşı hızın düşürülmesi gerektiğini bildirir)."
+    },
+    "quiz": {
+      "questionText": "Kırmızı kenarlı üçgen şeklindeki trafik levhalarını gören sürücü ne yapmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Hızını azaltmalı ve dikkatli sürmelidir", "isCorrect": true },
+        { "id": "o2", "text": "Hızını artırmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Hemen durup beklemelidir", "isCorrect": false },
+        { "id": "o4", "text": "Korna çalmalıdır", "isCorrect": false }
+      ],
+      "explanation": "Üçgen uyarı levhaları yaklaşılmakta olan viraj, kasis, daralan yol gibi tehlikeleri önceden haber verir."
+    }
+  },
+  {
+    "id": "traf_35",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Yuvarlak Yuvarlak Kırmızı Levhalar",
+      "frontText": "Kırmızı kenarlı daire biçimindeki trafik levhaları neyi temsil eder?",
+      "backText": "Trafik Kambiyo / Yasaklama ve Kısıtlama İşaretleridir (Örn: Giriş Yasaktır, Hız Sınırı)."
+    },
+    "quiz": {
+      "questionText": "Kırmızı daire içerisindeki '50' yazılı levha sürücüye neyi bildirir?",
+      "options": [
+        { "id": "o1", "text": "Maksimum hız sınırının 50 km/s olduğunu", "isCorrect": true },
+        { "id": "o2", "text": "Minimum hızın 50 km/s olduğunu", "isCorrect": false },
+        { "id": "o3", "text": "50 metre sonra durulacağını", "isCorrect": false },
+        { "id": "o4", "text": "50 km yol kaldığını", "isCorrect": false }
+      ],
+      "explanation": "Daire şeklindeki kısıtlama levhaları o bölgedeki maksimum sınırları ve yasakları belirler."
+    }
+  },
+  {
+    "id": "traf_36",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Turnike Uygulaması",
+      "frontText": "Turnike (Sıkma bağı) hangi durumlarda uygulanır?",
+      "backText": "Uzuv kopmalarında veya durdurulamayan büyük atardamar kanamalarında."
+    },
+    "quiz": {
+      "questionText": "Aşağıdaki durumların hangisinde kanamayı durdurmak için 'Turnike' uygulaması tercih edilir?",
+      "options": [
+        { "id": "o1", "text": "Uzuv (kol/bacak) kopması veya aşırı atardamar kanamasında", "isCorrect": true },
+        { "id": "o2", "text": "Hafif sıyrık ve kılcal damar kanamalarında", "isCorrect": false },
+        { "id": "o3", "text": "Burun kanamasında", "isCorrect": false },
+        { "id": "o4", "text": "Kulak kanamasında", "isCorrect": false }
+      ],
+      "explanation": "Turnike son çaredir; kemik üzerinden sıkma bağı yapılarak kan akışı kesilir."
+    }
+  },
+  {
+    "id": "traf_37",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Burun Kanaması",
+      "frontText": "Burun kanaması olan kişiye hangi pozisyon verilmelidir?",
+      "backText": "Hasta oturtulur, baş hafifçe ÖNE eğilir ve burun kanatları 5 dakika sıkılır."
+    },
+    "quiz": {
+      "questionText": "Burun kanaması geçiren bir kazazedeye yapılan doğru ilk yardım müdahalesi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Başı hafifçe öne eğip burun kanatlarını bastırmak", "isCorrect": true },
+        { "id": "o2", "text": "Başı arkaya doğru geriye atmak", "isCorrect": false },
+        { "id": "o3", "text": "Sırtüstı düz yatırmak", "isCorrect": false },
+        { "id": "o4", "text": "Ağzına soğuk su doldurmak", "isCorrect": false }
+      ],
+      "explanation": "Başı geriye atmak kanın yutağa ve mideye akmasına sebep olur; baş öne eğilmelidir."
+    }
+  },
+  {
+    "id": "traf_38",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Bujiler",
+      "frontText": "Benzinli motorlarda yakıt-hava karışımını tutuşturan parça nedir?",
+      "backText": "Buji (Buji kıvılcımıyla yanma gerçekleşir)."
+    },
+    "quiz": {
+      "questionText": "Benzinli araç motorlarında silindir içindeki yakıt-hava karışımını kıvılcımla ateşleyen eleman hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Buji", "isCorrect": true },
+        { "id": "o2", "text": "Enjektör", "isCorrect": false },
+        { "id": "o3", "text": "Platin", "isCorrect": false },
+        { "id": "o4", "text": "Karbüratör", "isCorrect": false }
+      ],
+      "explanation": "Buji, yüksek voltajla kıvılcım çıkararak benzinli motorun çalışmasını sağlar."
+    }
+  },
+  {
+    "id": "traf_39",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Kızdırma Bujisi",
+      "frontText": "Dizel motorlarda soğuk havalarda silindir içini ısıtan parça nedir?",
+      "backText": "Isıtma (Kızdırma) Bujisi."
+    },
+    "quiz": {
+      "questionText": "Dizel motorlu araçların gösterge panelindeki 'Kızdırma Bujisi' ikaz lambası söndükten sonra ne yapılmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Marşa basılıp motor çalıştırılmalıdır", "isCorrect": true },
+        { "id": "o2", "text": "Klima açılmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Farlar yakılmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "El freni çekilmelidir", "isCorrect": false }
+      ],
+      "explanation": "Kızdırma bujisi dizelde havayı önceden ısıtır; simge sönünce marşa basılır."
+    }
+  },
+  {
+    "id": "traf_40",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Sollama Yasağı Alanları",
+      "frontText": "Aşağıdaki yerlerin hangisinde öndeki aracı geçmek (sollama) yasaktır?",
+      "backText": "Tepe üstlerinde, dönemeçlerde, yaya ve okul geçitlerinde, demiryolu geçitlerinde ve köprülerde."
+    },
+    "quiz": {
+      "questionText": "Aşağıdaki alanların hangisinde öndeki aracı sollama (geçme) işlemi yapılması YASAKTIR?",
+      "options": [
+        { "id": "o1", "text": "Tepe üstleri ve dönemeçlerde", "isCorrect": true },
+        { "id": "o2", "text": "Bölünmüş iki yönlü yollarda", "isCorrect": false },
+        { "id": "o3", "text": "Otoyollarda", "isCorrect": false },
+        { "id": "o4", "text": "Düz ve açık görüşlü yollarda", "isCorrect": false }
+      ],
+      "explanation": "Görüş açısının yetersiz olduğu tepe üstü ve virajlarda sollama yapmak büyük kaza riskidir."
+    }
+  },
+  {
+    "id": "traf_41",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Karşıdan Gelene Yol Ver Levhası",
+      "frontText": "Kırmızı daire içinde biri siyah diğeri kırmızı iki ok bulunan levha ne anlama gelir?",
+      "backText": "'Karşıdan Gelene Yol Ver' anlamına gelir (Daralan yollarda kullanılır)."
+    },
+    "quiz": {
+      "questionText": "İki yönlü daralan bir yol kesiminde 'Karşıdan Gelene Yol Ver' levhasını gören sürücü ne yapmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Karşı yönden gelen araca geçiş önceliği vermelidir", "isCorrect": true },
+        { "id": "o2", "text": "Hızlanarak dar alana önce girmelidir", "isCorrect": false },
+        { "id": "o3", "text": "Korna çalarak karşıdakini durdurmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "Sağa yanaşıp park etmelidir", "isCorrect": false }
+      ],
+      "explanation": "Bu levha, daralan yolda önceliğin karşı taraftan gelen araçta olduğunu bildirir."
+    }
+  },
+  {
+    "id": "traf_42",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Sürüş Güvenliği - Gece Sürüşü Körleşme",
+      "frontText": "Gece karşıdan gelen aracın uzun farları gözü aldığında sürücü nereye bakmalıdır?",
+      "backText": "Yolun sağ kenarındaki beyaz çizgiye veya bankete odaklanmalıdır."
+    },
+    "quiz": {
+      "questionText": "Gece sürüşünde karşıdan gelen aracın ışıkları gözünüzü kamaştırdığında güvenliğinizi korumak için nereye bakmalısınız?",
+      "options": [
+        { "id": "o1", "text": "Yolun sağ çizgi/kenar tarafına", "isCorrect": true },
+        { "id": "o2", "text": "Tam karşıdaki aracın farlarına", "isCorrect": false },
+        { "id": "o3", "text": "Dikiz aynasına", "isCorrect": false },
+        { "id": "o4", "text": "Sol şerit çizgisine", "isCorrect": false }
+      ],
+      "explanation": "Gözü sağ çizgiye odaklamak geçici körlüğü önler ve şeritte kalmayı sağlar."
+    }
+  },
+  {
+    "id": "traf_43",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Triger Kayışı",
+      "frontText": "Motor krank mili ile eksantrik milini senkronize eden kritik kayış nedir?",
+      "backText": "Triger (Zamanlama) Kayışı/Zinciri."
+    },
+    "quiz": {
+      "questionText": "Kopması durumunda supapların pistonlara çarpmasına ve ağır motor hasarına yol açan kayış hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Triger Kayışı", "isCorrect": true },
+        { "id": "o2", "text": "V Kayışı", "isCorrect": false },
+        { "id": "o3", "text": "Klima Kayışı", "isCorrect": false },
+        { "id": "o4", "text": "Alternatör Kayışı", "isCorrect": false }
+      ],
+      "explanation": "Triger kayışı subap zamanlamasını sağlar; koparsa motor zamanlaması bozulup büyük hasar açar."
+    }
+  },
+  {
+    "id": "traf_44",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Eğimli Yolda Karşılaşma",
+      "frontText": "Tehlikeli eğimli dar yolda karşılaşan araçlardan hangisi diğerine yol vermelidir?",
+      "backText": "İnen araç sürücüsü, çıkan (yokuş yukarı giden) araca yol vermelidir."
+    },
+    "quiz": {
+      "questionText": "Eğimli ve dar bir yolda karşılaşan araçlardan hangisinin diğerine yol vermesi zorunludur?",
+      "options": [
+        { "id": "o1", "text": "Yokuş aşağı inen aracın, yokuş çıkan araca", "isCorrect": true },
+        { "id": "o2", "text": "Yokuş yukarı çıkan aracın, inen araca", "isCorrect": false },
+        { "id": "o3", "text": "Hızlı olan aracın, yavaş olana", "isCorrect": false },
+        { "id": "o4", "text": "Otomobilin kamyona", "isCorrect": false }
+      ],
+      "explanation": "Yokuş çıkan aracın durup tekrar kalkması zor olduğundan, inen araç yol verir."
+    }
+  },
+  {
+    "id": "traf_45",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Bak-Dinle-Hisset",
+      "frontText": "İlk yardımda 'Bak-Dinle-Hisset' yöntemi ne kadar süreyle yapılır ve amacı nedir?",
+      "backText": "10 saniye süreyle kazazedenin nefes alıp almadığını kontrol etmek için yapılır."
+    },
+    "quiz": {
+      "questionText": "İlk yardımın ABC'sinde yer alan 'Bak-Dinle-Hisset' yöntemi ile ne değerlendirilir?",
+      "options": [
+        { "id": "o1", "text": "Solunumun olup olmadığı", "isCorrect": true },
+        { "id": "o2", "text": "Kan basıncı (Tansiyon)", "isCorrect": false },
+        { "id": "o3", "text": "Vücut sıcaklığı", "isCorrect": false },
+        { "id": "o4", "text": "Kırık olup olmadığı", "isCorrect": false }
+      ],
+      "explanation": "Göğüs kafesi hareketine bakılır, nefes sesi dinlenir ve yanakta hissedilmeye çalışılır."
+    }
+  },
+  {
+    "id": "traf_46",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Takip Mesafesi ve Yağmurlu Hava",
+      "frontText": "Yağmurlu ve kaygan havalarda takip mesafesi nasıl ayarlanmalıdır?",
+      "backText": "Kuru havadaki takip mesafesinin en az iki katına çıkarılmalıdır."
+    },
+    "quiz": {
+      "questionText": "Yağışlı ve ıslak zeminli yollarda takip mesafesi normal duruma göre nasıl olmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Artırılmalıdır (Daha fazla mesafe bırakılmalıdır)", "isCorrect": true },
+        { "id": "o2", "text": "Azaltılmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Aynı tutulmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "Aradaki mesafe tamamen kapatılmalıdır", "isCorrect": false }
+      ],
+      "explanation": "Islak zeminde fren mesafesi uzayacağı için takip mesafesi artırılmalıdır."
+    }
+  },
+  {
+    "id": "traf_47",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Lastik Basıncı",
+      "frontText": "Aracın lastik basıncı olması gerekenden DÜŞÜK olursa ne gerçekleşir?",
+      "backText": "Lastik yanaklardan aşınır, yakıt tüketimi artır ve direksiyon ağırlaşır."
+    },
+    "quiz": {
+      "questionText": "Lastik hava basınçları olması gerekenden az (düşük) ise ne gibi bir sorun yaşanır?",
+      "options": [
+        { "id": "o1", "text": "Yakıt tüketimi artar ve lastik dış kenarlardan aşınır", "isCorrect": true },
+        { "id": "o2", "text": "Lastikler ortadan aşınır", "isCorrect": false },
+        { "id": "o3", "text": "Araç daha az yakıt yakar", "isCorrect": false },
+        { "id": "o4", "text": "Süspansiyon sertleşir", "isCorrect": false }
+      ],
+      "explanation": "Düşük basınçta lastik tabanı yere tam oturmaz, yanaklara yük biner ve sürtünme artıp yakıt tüketimini yükseltir."
+    }
+  },
+  {
+    "id": "traf_48",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Yüksek Lastik Basıncı",
+      "frontText": "Lastik hava basıncı olması gerekenden YÜKSEK olursa ne olur?",
+      "backText": "Lastik sırtın ortasından aşınır, sürüş konforu düşer ve titreme yapar."
+    },
+    "quiz": {
+      "questionText": "Lastiklere tavsiye edilenden daha fazla hava basılması durumunda aşınma nerede görülür?",
+      "options": [
+        { "id": "o1", "text": "Lastik tabanının orta kısmında", "isCorrect": true },
+        { "id": "o2", "text": "Lastiğin dış yanaklarında", "isCorrect": false },
+        { "id": "o3", "text": "Sadece sol tarafta", "isCorrect": false },
+        { "id": "o4", "text": "Aşınma gerçekleşmez", "isCorrect": false }
+      ],
+      "explanation": "Fazla basınç lastiği balonlaştırır ve orta kısmın aşırı sürtünüp yıpranmasına yol açar."
+    }
+  },
+  {
+    "id": "traf_49",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Otobüs/Tramvay Durağında Park",
+      "frontText": "Otobüs duraklarına en az kaç metre mesafe içinde park etmek yasaktır?",
+      "backText": "15 Metre."
+    },
+    "quiz": {
+      "questionText": "Yerleşim yeri içindeki kamu hizmeti yapan yolcu taşıtlarının duraklarına en az kaç metre mesafe içinde park etmek yasaktır?",
+      "options": [
+        { "id": "o1", "text": "15 metre", "isCorrect": true },
+        { "id": "o2", "text": "5 metre", "isCorrect": false },
+        { "id": "o3", "text": "30 metre", "isCorrect": false },
+        { "id": "o4", "text": "10 metre", "isCorrect": false }
+      ],
+      "explanation": "Duraklara 15 metre kala ve geçe duraklamak veya park etmek yasaktır."
+    }
+  },
+  {
+    "id": "traf_50",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Yangın Musluğuna Park",
+      "frontText": "Yangın musluklarına her iki yönden en az kaç metre mesafe içinde park yasaktır?",
+      "backText": "5 Metre."
+    },
+    "quiz": {
+      "questionText": "Yangın musluklarına yolun her iki yönünden kaç metre mesafe içinde park edilmesi yasaktır?",
+      "options": [
+        { "id": "o1", "text": "5 metre", "isCorrect": true },
+        { "id": "o2", "text": "15 metre", "isCorrect": false },
+        { "id": "o3", "text": "20 metre", "isCorrect": false },
+        { "id": "o4", "text": "2 metre", "isCorrect": false }
+      ],
+      "explanation": "İtfaiye araçlarının acil durumda su alabilmesi için 5 metrelik alan boş bırakılmalıdır."
+    }
+  },
+  {
+    "id": "traf_51",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Yaralı Taşıma İlkeleri",
+      "frontText": "Sedyeyle yaralı taşınırken gidiş yönü nasıl olmalıdır?",
+      "backText": "Yaralının ayakları gidiş yönünde olmalıdır (Merdiven inip çıkarken baş yukarıda tutulur)."
+    },
+    "quiz": {
+      "questionText": "Sedyeyle hasta/yaralı taşınırken genel kural olarak yaralının pozisyonu nasıl olmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Ayakları gidiş yönüne doğru olmalıdır", "isCorrect": true },
+        { "id": "o2", "text": "Başı gidiş yönüne doğru olmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Yan yatırılmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "Fark etmez", "isCorrect": false }
+      ],
+      "explanation": "Yaralının gittiği yönü görebilmesi ve arkadaki taşıyıcının yüzünü kontrol edebilmesi için ayaklar önde taşınır."
+    }
+  },
+  {
+    "id": "traf_52",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik İşaretleri - Kasisli Yol Levhası",
+      "frontText": "Üçgen içinde iki tümsek sembolü içeren levha neyi bildirir?",
+      "backText": "Kasisli Yol (İleride yol yüzeyinde tümsek/kasis olduğunu)."
+    },
+    "quiz": {
+      "questionText": "'Kasisli Yol' uyarı levhasını gören sürücü ne yapmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Hızını azaltmalı ve vitesi uygun konuma almalıdır", "isCorrect": true },
+        { "id": "o2", "text": "Hızını artırıp üstünden fırlamalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Aniden frene basıp durmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "Korna çalarak ilerlemelidir", "isCorrect": false }
+      ],
+      "explanation": "Kasisler aracın altının vurmasını engellemek ve yayaları korumak için konur; hız düşürülmelidir."
+    }
+  },
+  {
+    "id": "traf_53",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Amortisör ve Süspansiyon",
+      "frontText": "Sürüş sırasında yoldan gelen darbe ve titreşimleri sönümleyen sistem nedir?",
+      "backText": "Süspansiyon Sistemi (Yaylar ve Amortisörler)."
+    },
+    "quiz": {
+      "questionText": "Yoldaki engebelerden kaynaklanan darbe ve titreşimleri emerek sürüş konforu ve yol tutuşu sağlayan sistem hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Süspansiyon Sistemi", "isCorrect": true },
+        { "id": "o2", "text": "Aydınlatma Sistemi", "isCorrect": false },
+        { "id": "o3", "text": "Soğutma Sistemi", "isCorrect": false },
+        { "id": "o4", "text": "Marş Sistemi", "isCorrect": false }
+      ],
+      "explanation": "Amortisör ve helezon yaylar aracın tekerleklerinin yoldan kopmamasını ve darbelerin absorbe edilmesini sağlar."
+    }
+  },
+  {
+    "id": "traf_54",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Dönüş Sinyalleri",
+      "frontText": "Kavşaklarda dönüş yapmadan en az kaç metre önce sinyal verilmelidir?",
+      "backText": "Şehir içi yollarda 30 metre, şehir dışı yollarda 150 metre önce."
+    },
+    "quiz": {
+      "questionText": "Sürücüler şehir içindeki bir kavşakta sağa veya sola dönerken en az kaç metre önce sinyal vermek zorundadır?",
+      "options": [
+        { "id": "o1", "text": "30 metre", "isCorrect": true },
+        { "id": "o2", "text": "10 metre", "isCorrect": false },
+        { "id": "o3", "text": "100 metre", "isCorrect": false },
+        { "id": "o4", "text": "Dönüş anında", "isCorrect": false }
+      ],
+      "explanation": "Şehir içinde en az 30 metre önceden verilen sinyal arkadaki ve karşıdaki araçlara hazırlık zamanı kazandırır."
+    }
+  },
+  {
+    "id": "traf_55",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Sürüş Güvenliği - Alkolün Sürücüye Etkisi",
+      "frontText": "Alkol kullanımının sürücü üzerindeki temel etkisi nedir?",
+      "backText": "Refleksleri yavaşlatır, karar verme yetisini bozar ve reaksiyon süresini uzatır."
+    },
+    "quiz": {
+      "questionText": "Alkol alan bir sürücünün beyin fonksiyonlarının yavaşlaması sonucu hangisi gerçekleşir?",
+      "options": [
+        { "id": "o1", "text": "Reaksiyon süresi uzar (Tehlikeyi geç fark eder)", "isCorrect": true },
+        { "id": "o2", "text": "Görüş açısı genişler", "isCorrect": false },
+        { "id": "o3", "text": "Dikkat seviyesi artar", "isCorrect": false },
+        { "id": "o4", "text": "Fren mesafesi kısalır", "isCorrect": false }
+      ],
+      "explanation": "Alkol merkezi sinir sistemini baskılayarak uyarıcılara verilen tepki süresini (reaksiyon zamanını) geciktirir."
+    }
+  },
+  {
+    "id": "traf_56",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Fren Hidroliği",
+      "frontText": "Fren pedalına basıldığında kuvveti tekerleklere ileten sıvı nedir?",
+      "backText": "Fren Hidrolik Yağı (Eksilirse fren tutmaz)."
+    },
+    "quiz": {
+      "questionText": "Fren sisteminde hidrolik yağın azalması durumunda ne yaşanır?",
+      "options": [
+        { "id": "o1", "text": "Frenler tutmaz veya performansı ciddi oranda düşer", "isCorrect": true },
+        { "id": "o2", "text": "Motor hararet yapar", "isCorrect": false },
+        { "id": "o3", "text": "Direksiyon kilitlenir", "isCorrect": false },
+        { "id": "o4", "text": "Farlar sönük yanar", "isCorrect": false }
+      ],
+      "explanation": "Fren hidrolik sıvısı basıncı balatalara ileten sıvıdır; eksikliği frenin boşa düşmesine yol açar."
+    }
+  },
+  {
+    "id": "traf_57",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Sisli Havadaki Takip Mesafesi",
+      "frontText": "Sisli havalarda sürüş esnasında nelere dikkat edilmelidir?",
+      "backText": "Hız düşürülmeli, takip mesafesi artırılmalı ve dörtlüler değil sis farları yakılmalıdır."
+    },
+    "quiz": {
+      "questionText": "Sisli havada seyir halindeyken dörtlü ikaz (flaşör) lambalarını sürekli yakarak gitmek doğru mudur?",
+      "options": [
+        { "id": "o1", "text": "Yanlıştır; arkadaki sürücülerin fren lambalarını anlamasını engeller", "isCorrect": true },
+        { "id": "o2", "text": "Doğrudur, her zaman yakılmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Fark etmez", "isCorrect": false },
+        { "id": "o4", "text": "Sadece otobanda doğrudur", "isCorrect": false }
+      ],
+      "explanation": "Sürekli yanan dörtlüler arkadaki aracın sizin fren yapıp yapmadığınızı anlamasını zorlaştırır."
+    }
+  },
+  {
+    "id": "traf_58",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - İkinci Derece Yanıklar",
+      "frontText": "İkinci derece yanıkların en belirgin özelliği nedir?",
+      "backText": "Ciltte su dolu kabarcıkların (bül) oluşması ve şiddetli ağrı."
+    },
+    "quiz": {
+      "questionText": "Deride kızarıklık ve içi su dolu kabarcıklarla seyreden yanık türü kaçıncı derecedir?",
+      "options": [
+        { "id": "o1", "text": "2. Derece Yanık", "isCorrect": true },
+        { "id": "o2", "text": "1. Derece Yanık", "isCorrect": false },
+        { "id": "o3", "text": "3. Derece Yanık", "isCorrect": false },
+        { "id": "o4", "text": "4. Derece Yanık", "isCorrect": false }
+      ],
+      "explanation": "1. derece yüzeysel kızarıklık, 2. derece su toplayan kabarcıklar, 3. derece kas ve sinir tahribatıdır."
+    }
+  },
+  {
+    "id": "traf_59",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Yanık Müdahalesi",
+      "frontText": "Isı kaynaklı yanıklarda ilk yapılması gereken müdahale nedir?",
+      "backText": "Yanan bölge en az 15-20 dakika soğuk çeşme suyu altında tutulmalıdır (Buz sürülmemelidir)."
+    },
+    "quiz": {
+      "questionText": "Kaza yerinde sıcak su ile yanan bir kazazedenin yarasında ilk olarak ne yapılmalıdır?",
+      "options": [
+        { "id": "o1", "text": "En az 15-20 dakika soğuk akar su altında tutulmalıdır", "isCorrect": true },
+        { "id": "o2", "text": "Yoğurt veya diş macunu sürülmelidir", "isCorrect": false },
+        { "id": "o3", "text": "Yanan yerdeki su kabarcıkları patlatılmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "Hemen pamukla kapatılmalıdır", "isCorrect": false }
+      ],
+      "explanation": "Yanıkta soğuk su doku harabiyetini durdurur; yoğurt, macun veya patlatma kesinlikle yapılmamalıdır."
+    }
+  },
+  {
+    "id": "traf_60",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Otoyola Katılım Şeridi",
+      "frontText": "Otoyola girerken kullanılan hızlanma şeridinin adı nedir?",
+      "backText": "Katılım (Hızlanma) Şeridi."
+    },
+    "quiz": {
+      "questionText": "Otoyola girmek isteyen bir sürücü katılım şeridinde nasıl davranmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Hızını otoyol trafiğinin hızına eşitleyip emniyetli aralığa girmelidir", "isCorrect": true },
+        { "id": "o2", "text": "Aniden en sol şeride geçmelidir", "isCorrect": false },
+        { "id": "o3", "text": "Katılım şeridinin sonunda tamamen durup beklemelidir", "isCorrect": false },
+        { "id": "o4", "text": "Korna çalarak otoyoldakilerin durmasını sağlamalıdır", "isCorrect": false }
+      ],
+      "explanation": "Hızlanma (katılım) şeridi, akıcı otoyol hızına ulaşarak ana trafiğe tehlikesizce karışmak içindir."
+    }
+  },
+  {
+    "id": "traf_61",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Otoyoldan Çıkış Şeridi",
+      "frontText": "Otoyoldan çıkarken kullanılan şeride ne denir?",
+      "backText": "Ayrılma (Yavaşlama) Şeridi."
+    },
+    "quiz": {
+      "questionText": "Otoyoldan çıkacak olan bir sürücü yavaşlama işlemini nerede yapmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Ayrılma (Yavaşlama) şeridine girdikten sonra", "isCorrect": true },
+        { "id": "o2", "text": "Otoyolun en sol şeridinde", "isCorrect": false },
+        { "id": "o3", "text": "Otoyolun orta şeridinde aniden frene basarak", "isCorrect": false },
+        { "id": "o4", "text": "Emniyet şeridinde durarak", "isCorrect": false }
+      ],
+      "explanation": "Ana otoyol akışında frene basıp arkadakileri riske atmamak için yavaşlama ayrılma şeridinde yapılır."
+    }
+  },
+  {
+    "id": "traf_62",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Dişli Kutusu (Şanzıman)",
+      "frontText": "Şanzımanın (Vites kutusunun) araçtaki temel görevi nedir?",
+      "backText": "Motordan aldığı gücü/torku isteğe göre hız veya tork olarak tekerleklere aktarmak ve geri vitesi sağlamaktır."
+    },
+    "quiz": {
+      "questionText": "Aracın hızını, çekiş gücünü (torkunu) ayarlayan ve geri hareketini sağlayan aktarma organı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Vites Kutusu (Şanzıman)", "isCorrect": true },
+        { "id": "o2", "text": "Diferansiyel", "isCorrect": false },
+        { "id": "o3", "text": "Debriyaj (Kavrama)", "isCorrect": false },
+        { "id": "o4", "text": "Krank Mili", "isCorrect": false }
+      ],
+      "explanation": "Şanzıman, motordan gelen dönme hareketini vites oranlarıyla düzenler."
+    }
+  },
+  {
+    "id": "traf_63",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Diferansiyel",
+      "frontText": "Diferansiyel organının virajlardaki kritik görevi nedir?",
+      "backText": "Virajlarda içteki ve dıştaki tekerleklerin farklı hızlarda dönmesini sağlamaktır."
+    },
+    "quiz": {
+      "questionText": "Viraj dönerken dıştaki tekerleğin içtekinden daha fazla dönmesini sağlayan aktarma organı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Diferansiyel", "isCorrect": true },
+        { "id": "o2", "text": "Şaft", "isCorrect": false },
+        { "id": "o3", "text": "Aks", "isCorrect": false },
+        { "id": "o4", "text": "Şanzıman", "isCorrect": false }
+      ],
+      "explanation": "Diferansiyel olmasaydı tekerlekler aynı hızda dönmeye zorlanır ve virajda araç savrulurdu."
+    }
+  },
+  {
+    "id": "traf_64",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Hemzemin Geçitler",
+      "frontText": "Demiryolu (Hemzemin) geçitlerinde öndeki araç sollanabilir mi?",
+      "backText": "Hayır, demiryolu geçitlerine yaklaşırken ve geçit üzerinde sollama yapmak kesinlikle yasaktır."
+    },
+    "quiz": {
+      "questionText": "Demiryolu (Hemzemin) geçitlerine yaklaşırken sürücülerin yapması YASAK olan davranış hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Öndeki aracı sollama (geçme)", "isCorrect": true },
+        { "id": "o2", "text": "Hızını azaltma", "isCorrect": false },
+        { "id": "o3", "text": "Bariyere dikkat etme", "isCorrect": false },
+        { "id": "o4", "text": "Sinyal lambalarına uyma", "isCorrect": false }
+      ],
+      "explanation": "Hemzemin geçitlerde sollama yapmak ve park etmek hayati tehlike oluşturduğu için yasaktır."
+    }
+  },
+  {
+    "id": "traf_65",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Sürüş Güvenliği - Kış Lastiği Kullanımı",
+      "frontText": "Kış lastiği hangi hava sıcaklığının altında kullanılmalıdır?",
+      "backText": "+7 °C ve altındaki sıcaklıklarda kış lastiği hamuru sertleşmediği için tercih edilmelidir."
+    },
+    "quiz": {
+      "questionText": "Kış lastiklerinin kullanılmaya başlanması gereken hava sıcaklığı eşiği kaç derecedir?",
+      "options": [
+        { "id": "o1", "text": "+7 °C ve altı", "isCorrect": true },
+        { "id": "o2", "text": "0 °C ve altı", "isCorrect": false },
+        { "id": "o3", "text": "-5 °C ve altı", "isCorrect": false },
+        { "id": "o4", "text": "+15 °C ve altı", "isCorrect": false }
+      ],
+      "explanation": "+7 derecenin altında yaz lastiği hamuru sertleşip yol tutuşunu kaybeder, kış lastiği ise esnekliğini korur."
+    }
+  },
+  {
+    "id": "traf_66",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Çakar Lamba Kullanımı",
+      "frontText": "Mavi-kırmızı çakar lamba ve siren kullanım hakkı kimlerdedir?",
+      "backText": "Sadece resmi görevli acil durum araçlarındadır (Ambulans, Polis, İtfaiye vb.)."
+    },
+    "quiz": {
+      "questionText": "Sivil şahıs araçlarına izinsiz çakar lamba takıp takarak emniyet şeridini kullanmanın cezası nedir?",
+      "options": [
+        { "id": "o1", "text": "Ağır para cezası, ceza puanı ve aracın trafikten men edilmesi", "isCorrect": true },
+        { "id": "o2", "text": "Sadece hafif uyarı", "isCorrect": false },
+        { "id": "o3", "text": "Herhangi bir cezası yoktur", "isCorrect": false },
+        { "id": "o4", "text": "Sadece muayenede hafif kusur sayılır", "isCorrect": false }
+      ],
+      "explanation": "Yetkisiz çakar kullanımı geçiş üstünlüğü hakkının suistimalidir ve ağır yaptırımları vardır."
+    }
+  },
+  {
+    "id": "traf_67",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Kırık Tespiti ve Atel",
+      "frontText": "Kırık şüphesi olan bir uzvun tespit edilmesinde (sabitlenmesinde) kullanılan sert malzemeye ne denir?",
+      "backText": "Atel (Kırık kemiğin oynamasını önler)."
+    },
+    "quiz": {
+      "questionText": "Kırık kemik uçlarının damar ve sinirleri kesmesini önlemek için bölgenin sabitlenmesinde kullanılan ilk yardım aracı nedir?",
+      "options": [
+        { "id": "o1", "text": "Atel", "isCorrect": true },
+        { "id": "o2", "text": "Turnike", "isCorrect": false },
+        { "id": "o3", "text": "Sargı Bezi", "isCorrect": false },
+        { "id": "o4", "text": "Flaster", "isCorrect": false }
+      ],
+      "explanation": "Ateller tahta, karton veya özel plastiklerden yapılarak kırık bölgenin hareket etmesini engeller."
+    }
+  },
+  {
+    "id": "traf_68",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Burkulma Müdahalesi",
+      "frontText": "Eklem bağlarının gerilmesi veya yırtılması olan Burkulmada ilk müdahale ne olmalıdır?",
+      "backText": "Eklem soğutulur (buz tatbiki), yüksekte tutulur ve tespit edilir (Sıcak masaj yapılmaz)."
+    },
+    "quiz": {
+      "questionText": "Aşağıdakilerden hangisi ayak bileği burkulan bir kazazedeye YAPILMAMALIDIR?",
+      "options": [
+        { "id": "o1", "text": "Sıcak su ile ovup masaj yapmak", "isCorrect": true },
+        { "id": "o2", "text": "Soğuk uygulama yapmak", "isCorrect": false },
+        { "id": "o3", "text": "Bileği yukarı kaldırmak", "isCorrect": false },
+        { "id": "o4", "text": "Bileği hareket ettirmemek", "isCorrect": false }
+      ],
+      "explanation": "Burkulmada sıcak masaj yapmak kılcal damarları genişletip ödemi ve iç kanamayı artırır."
+    }
+  },
+  {
+    "id": "traf_69",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Egzozdan Mavi Duman Çıkması",
+      "frontText": "Aracın egzozundan MAVİ duman çıkması neyin belirtisidir?",
+      "backText": "Motorun yağ yaktığının (Motor yağının silindire sızıp yakıtla birlikte yandığının) göstergesidir."
+    },
+    "quiz": {
+      "questionText": "Egzozdan mavi renkte duman çıkması araçta hangi arızaya işaret eder?",
+      "options": [
+        { "id": "o1", "text": "Motorun yağ yaktığına", "isCorrect": true },
+        { "id": "o2", "text": "Zengin karışımla çalıştığına", "isCorrect": false },
+        { "id": "o3", "text": "Soğutma suyuna hava karıştığına", "isCorrect": false },
+        { "id": "o4", "text": "Bujilerin yeni olduğuna", "isCorrect": false }
+      ],
+      "explanation": "Segman veya supap contalarındaki aşınma sonucu yağ silindire kaçar ve mavi duman çıkar."
+    }
+  },
+  {
+    "id": "traf_70",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Egzozdan Siyah Duman Çıkması",
+      "frontText": "Egzozdan SİYAH duman çıkması neyi gösterir?",
+      "backText": "Zengin karışımı (Motorun gereğinden fazla yakıt, az hava aldığını)."
+    },
+    "quiz": {
+      "questionText": "Egzozdan koyu siyah duman çıkmasının temel sebebi nedir?",
+      "options": [
+        { "id": "o1", "text": "Hava filtresinin tıkalı olması / Zengin karışım", "isCorrect": true },
+        { "id": "o2", "text": "Motor yağının bitmesi", "isCorrect": false },
+        { "id": "o3", "text": "Antifrizin eksilmesi", "isCorrect": false },
+        { "id": "o4", "text": "Fren balatasının bitmesi", "isCorrect": false }
+      ],
+      "explanation": "Hava filtresi kirli veya tıkalıysa içeri yeterli hava giremez; fazla yakıt yanarak siyah duman atar."
+    }
+  },
+  {
+    "id": "traf_71",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Korna Kullanımı",
+      "frontText": "Trafikte klakson (korna) çalınması hangi durumlarda yasaktır?",
+      "backText": "Keyfi olarak, ayıp/öfke göstermek için, hastane ve okul yakınlarında uyarı amacı dışında çalınması yasaktır."
+    },
+    "quiz": {
+      "questionText": "Aşağıdaki durumlardan hangisinde korna çalınması uygundur?",
+      "options": [
+        { "id": "o1", "text": "Kör dönemeçlerde tehlikeyi haber vermek amacıyla", "isCorrect": true },
+        { "id": "o2", "text": "Yeşil ışık yanar yanmaz öndekini acele ettirmek için", "isCorrect": false },
+        { "id": "o3", "text": "Tanıdık birini selamlamak için", "isCorrect": false },
+        { "id": "o4", "text": "Trafik sıkışıklığında öfke belirtmek için", "isCorrect": false }
+      ],
+      "explanation": "Korna sadece yakın bir kaza tehlikesinde veya görünmeyen virajlarda uyarı aracıdır."
+    }
+  },
+  {
+    "id": "traf_72",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Sürüş Güvenliği - Gece Sürüşünde İç Aydınlatma",
+      "frontText": "Gece araç kullanırken kabin iç ışıklarının sürekli açık tutulması neden sakıncalıdır?",
+      "backText": "Sürücünün gece görüşünü bozar ve dışarıyı görmesini zorlaştırır."
+    },
+    "quiz": {
+      "questionText": "Gece sürüşünde araç içi lambaların yakılması sürücüyü nasıl etkiler?",
+      "options": [
+        { "id": "o1", "text": "Görüş mesafesini ve dışarıdaki netliği azaltır", "isCorrect": true },
+        { "id": "o2", "text": "Daha iyi görmesini sağlar", "isCorrect": false },
+        { "id": "o3", "text": "Yakıt tasarrufu sağlar", "isCorrect": false },
+        { "id": "o4", "text": "Aracın hızını artırır", "isCorrect": false }
+      ],
+      "explanation": "İç aydınlatma ön cama yansıma yapar ve gözün karanlığa uyumunu (pupil uyumunu) bozar."
+    }
+  },
+  {
+    "id": "traf_73",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Motosiklet Kaskı",
+      "frontText": "Motosiklet ve moped sürücülerinin koruyucu kask takması zorunlu mudur?",
+      "backText": "Hem sürücü hem de arkadaki yolcu (artçı) için takılması yasal zorunluluktur."
+    },
+    "quiz": {
+      "questionText": "Motosikletlerde kask ve koruyucu gözlük kullanımı ile ilgili hangisi doğrudur?",
+      "options": [
+        { "id": "o1", "text": "Sürücü ve arkasındaki yolcu için zorunludur", "isCorrect": true },
+        { "id": "o2", "text": "Sadece sürücü için zorunludur", "isCorrect": false },
+        { "id": "o3", "text": "Şehir içinde isteğe bağlıdır", "isCorrect": false },
+        { "id": "o4", "text": "Sadece gece zorunludur", "isCorrect": false }
+      ],
+      "explanation": "Kask, kafa travmalarındaki ölüm oranını muazzam ölçüde düşürdüğü için her iki kişi için de mecburidir."
+    }
+  },
+  {
+    "id": "traf_74",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik İşaretleri - Kaygan Yol Levhası",
+      "frontText": "Üçgen içinde arkasında kıvrımlı iz bırakan araba görseli neyi ifade eder?",
+      "backText": "Kaygan Yol (Yağmur, buzlanma veya yağ sebebiyle yolun kayganlaştığını)."
+    },
+    "quiz": {
+      "questionText": "'Kaygan Yol' uyarı levhasını gören sürücü hangisini yapmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Hızını azaltmalı, ani fren ve sert direksiyon hareketlerinden kaçınmalıdır", "isCorrect": true },
+        { "id": "o2", "text": "Sert fren yaparak durmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Gaza basıp bölgeden hızla uzaklaşmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "Vites boşa almalıdır", "isCorrect": false }
+      ],
+      "explanation": "Kaygan zeminde ani manevra veya sert fren yapılması aracın kontrolden çıkıp savrulmasına yol açar."
+    }
+  },
+  {
+    "id": "traf_75",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Alternatör (Şarj Dinamosu)",
+      "frontText": "Motor çalışırken aracın elektrik ihtiyacını karşılayan ve aküyü dolduran parça nedir?",
+      "backText": "Alternatör (Şarj Dinamosu)."
+    },
+    "quiz": {
+      "questionText": "Motor çalışır durumdayken aracın tüm elektrik sistemini besleyen ve aküyü şarj eden organ hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Alternatör (Şarj Dinamosu)", "isCorrect": true },
+        { "id": "o2", "text": "Marş Motoru", "isCorrect": false },
+        { "id": "o3", "text": "Endüksiyon Bobini", "isCorrect": false },
+        { "id": "o4", "text": "Distribütör", "isCorrect": false }
+      ],
+      "explanation": "Akü ilk çalıştırmayı sağlar; motor çalıştıktan sonra elektriği üreten alternatördür."
+    }
+  },
+  {
+    "id": "traf_76",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Marş Motoru",
+      "frontText": "Kontak anahtarı çevrildiğinde motora ilk hareketi veren parça nedir?",
+      "backText": "Marş Motoru (Aküden aldığı yüksek akımla volan dişlisini döndürür)."
+    },
+    "quiz": {
+      "questionText": "Aracı çalıştırmak için kontağı çevirdiğimizde motora ilk dönme hareketini veren sistem hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Marş Motoru", "isCorrect": true },
+        { "id": "o2", "text": "Şarj Dinamosu", "isCorrect": false },
+        { "id": "o3", "text": "Radyatör", "isCorrect": false },
+        { "id": "o4", "text": "Karbüratör", "isCorrect": false }
+      ],
+      "explanation": "Marş motoru akünün gücüyle krank/volan çarkına ilk ivmeyi kazandırır."
+    }
+  },
+  {
+    "id": "traf_77",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Burun Kanamasında Yıkanma",
+      "frontText": "Kanayan buruna sıcak veya soğuk su çekip temizlemek doğru mudur?",
+      "backText": "Yanlıştır. Buruna su çekmek pıhtıyı söker ve kanamayı artırır."
+    },
+    "quiz": {
+      "questionText": "Burun kanaması olan kişide aşağıdakilerden hangisinin yapılması YANLIŞTIR?",
+      "options": [
+        { "id": "o1", "text": "Burun içini suyla sümkürterek temizlemek", "isCorrect": true },
+        { "id": "o2", "text": "Enseye soğuk kompres koymak", "isCorrect": false },
+        { "id": "o3", "text": "Burun kanatlarını 5 dakika sıkmak", "isCorrect": false },
+        { "id": "o4", "text": "Hastayı oturtup başı hafifçe öne eğmek", "isCorrect": false }
+      ],
+      "explanation": "Sümkürmek veya su çekmek pıhtılaşmayı engeller ve damarı tekrar kanatır."
+    }
+  },
+  {
+    "id": "traf_78",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Otoyolda Geri Gitmek",
+      "frontText": "Otoyolda kaçırılan sapağa dönmek için geri gitmek veya U dönüşü yapmak serbest midir?",
+      "backText": "Kesinlikle yasaktır ve büyük kazalara sebep olan ağır suçtur."
+    },
+    "quiz": {
+      "questionText": "Otoyolda gideceği sapağı kaçıran bir sürücü ne yapmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Bir sonraki çıkışa kadar yoluna devam etmelidir", "isCorrect": true },
+        { "id": "o2", "text": "Emniyet şeridinden geri vitesle gelmelidir", "isCorrect": false },
+        { "id": "o3", "text": "U dönüşü yapıp karşı şeride geçmelidir", "isCorrect": false },
+        { "id": "o4", "text": "Durup arkadaki araçları durdurmalıdır", "isCorrect": false }
+      ],
+      "explanation": "Otoyolda durmak, geri gitmek veya ters yöne girmek ölümlü kazaların en büyük sebebidir."
+    }
+  },
+  {
+    "id": "traf_79",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Seyir Halinde Cep Telefonu",
+      "frontText": "Seyir halindeyken elde cep telefonu kullanmanın sürücüye etkisi nedir?",
+      "backText": "Kaza yapma riskini yaklaşık 4 kat artırır, dikkati yoldan uzaklaştırır."
+    },
+    "quiz": {
+      "questionText": "Araç sürerken cep telefonuyla konuşan bir sürücüde aşağıdakilerden hangisi gözlenir?",
+      "options": [
+        { "id": "o1", "text": "Tehlikeleri algılama ve tepki verme süresinin zayıflaması", "isCorrect": true },
+        { "id": "o2", "text": "Direksiyon hakimiyetinin artması", "isCorrect": false },
+        { "id": "o3", "text": "Trafik kurallarına daha çok uyması", "isCorrect": false },
+        { "id": "o4", "text": "Görüş mesafesinin uzaması", "isCorrect": false }
+      ],
+      "explanation": "Cep telefonu zihinsel bölünme (bilişsel yük) yaratarak yol takibini sıfırlar."
+    }
+  },
+  {
+    "id": "traf_80",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Sürüş Güvenliği - Yorgun ve Uykusuz Sürüş",
+      "frontText": "Uzun yolculuklarda yorgunluk hissettiğinde sürücü ne yapmalıdır?",
+      "backText": "Her 2 saatte bir veya 150-200 km'de bir en az 15-20 dakika mola vermelidir."
+    },
+    "quiz": {
+      "questionText": "Uzun yolda araç kullanırken uykusu gelen ve gözleri kapanan bir sürücünün yapması gereken en doğru davranış nedir?",
+      "options": [
+        { "id": "o1", "text": "Uygun bir tesiste durup dinlenmek veya uyumak", "isCorrect": true },
+        { "id": "o2", "text": "Müzik sesini sonuna kadar açıp devam etmek", "isCorrect": false },
+        { "id": "o3", "text": "Camları açıp soğuk havayla gitmek", "isCorrect": false },
+        { "id": "o4", "text": "Hızlanarak gideceği yere çabuk varmaya çalışmak", "isCorrect": false }
+      ],
+      "explanation": "Müzik açmak veya cam indirmek uykuyu sadece birkaç dakika erteler; tek çözüm mola verip uyumaktır."
+    }
+  },
+  {
+    "id": "traf_81",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Rot-Balans Ayarı",
+      "frontText": "Belli bir hızdan sonra (Örn: 90-100 km/s) direksiyonda titreme olması neyin arızasıdır?",
+      "backText": "Balans (Tekerlek Ağırlık) Ayarsızlığı."
+    },
+    "quiz": {
+      "questionText": "Araç belli bir hıza ulaştığında direksiyonda hissedilen titreşimlerin ana sebebi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Tekerleklerin balans ayarının bozuk olması", "isCorrect": true },
+        { "id": "o2", "text": "Motor yağının eksilmesi", "isCorrect": false },
+        { "id": "o3", "text": "Akü voltajının düşmesi", "isCorrect": false },
+        { "id": "o4", "text": "Fren hidroliğinin bitmesi", "isCorrect": false }
+      ],
+      "explanation": "Balans ayarı, lastik ağırlık merkezinin dairesel olarak eşit dağıtılmasıdır; bozuksa titreme yapar."
+    }
+  },
+  {
+    "id": "traf_82",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Rot Ayarı",
+      "frontText": "Araç düz yolda giderken direksiyon serbest bırakıldığında sağa veya sola çekiyorsa ne bozuktur?",
+      "backText": "Rot (Ön Düzen) Ayarı."
+    },
+    "quiz": {
+      "questionText": "Direksiyon düz tutulduğu halde aracın kendi kendine sağa ya da sola çekmesinin sebebi nedir?",
+      "options": [
+        { "id": "o1", "text": "Rot (Ön Düzen) ayarının bozuk olması", "isCorrect": true },
+        { "id": "o2", "text": "Bujilerin kurum bağlaması", "isCorrect": false },
+        { "id": "o3", "text": "Baskı balatanın kaçırması", "isCorrect": false },
+        { "id": "o4", "text": "Triger kayışının gevşemesi", "isCorrect": false }
+      ],
+      "explanation": "Rot ayarı tekerleklerin açısal hizalamasıdır; bozulduğunda araç bir yöne çekme yapar."
+    }
+  },
+  {
+    "id": "traf_83",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Bilinç Kontrolü",
+      "frontText": "Yaralının bilincini kontrol etmek için ilk yardımcısı ne yapar?",
+      "backText": "Omuzlarına hafifçe vurarak 'İyi misiniz?' diye sorar."
+    },
+    "quiz": {
+      "questionText": "Yetiskin bir kazazedenin bilincinin açık olup olmadığını anlamak için ilk yardımcısı ne yapmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Omuzlarına dokunup 'İyi misiniz?' diye seslenmelidir", "isCorrect": true },
+        { "id": "o2", "text": "Yüzüne su döküp tokat atmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Hemen göğüs basısı yapmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "Ayaklarını yukarı kaldırmalıdır", "isCorrect": false }
+      ],
+      "explanation": "Sözlü ve fiziksel hafif uyaran vererek kişinin tepkisi ölçülür."
+    }
+  },
+  {
+    "id": "traf_84",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Sarı Işık Yanması",
+      "frontText": "Kırmızı ışıkla birlikte yanan sarı ışık neyi bildirir?",
+      "backText": "Yolun trafiğe açılmak üzere olduğunu ve kalkışa hazırlanılması gerektiğini."
+    },
+    "quiz": {
+      "questionText": "Trafik lambasında Kırmızı ışıkla BİRLİKTE yanan Sarı ışık sürücüye neyi haber verir?",
+      "options": [
+        { "id": "o1", "text": "Yolun açılacağını, kalkışa hazırlanmasını", "isCorrect": true },
+        { "id": "o2", "text": "Yolun kapanacağını, durmaya hazırlanmasını", "isCorrect": false },
+        { "id": "o3", "text": "Yavaşlayarak durmasını", "isCorrect": false },
+        { "id": "o4", "text": "Sağa dönmesini", "isCorrect": false }
+      ],
+      "explanation": "Kırmızı + Sarı = Yeşil yanacak, hazırlan; Yeşil + Sarı = Kırmızı yanacak, dur demektir."
+    }
+  },
+  {
+    "id": "traf_85",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Flaşörlü Kırmızı Işık",
+      "frontText": "Aralıklı olarak yanıp sönen (Flaşörlü) Kırmızı ışıkta ne yapılır?",
+      "backText": "Durulur, yol kontrol edilir, emniyetliyse geçilir ('Dur' tabelasıyla aynı anlamdadır)."
+    },
+    "quiz": {
+      "questionText": "Aralıklı olarak yanıp sönmekte olan karsılaştığınız Kırmızı ışıkta nasıl hareket edilmelidir?",
+      "options": [
+        { "id": "o1", "text": "Mutlaka durulmalı, yol kontrol edilip emniyetli ise geçilmelidir", "isCorrect": true },
+        { "id": "o2", "text": "Durmadan yavaşça geçilmelidir", "isCorrect": false },
+        { "id": "o3", "text": "Hızlanarak geçilmelidir", "isCorrect": false },
+        { "id": "o4", "text": "Yeşil ışık yanana kadar beklenmelidir", "isCorrect": false }
+      ],
+      "explanation": "Flaşörlü kırmızı ışık 'DUR' levhası hükmündedir; durup bakıp geçilir."
+    }
+  },
+  {
+    "id": "traf_86",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Flaşörlü Sarı Işık",
+      "frontText": "Aralıklı olarak yanıp sönen (Flaşörlü) Sarı ışık ne anlama gelir?",
+      "backText": "Yavaşlanıp yol kontrol edilerek geçilir ('Yol Ver' tabelasıyla aynı anlamdadır)."
+    },
+    "quiz": {
+      "questionText": "Aralıklı yanıp sönen sarı ışık sürücüye hangi kuralı bildirir?",
+      "options": [
+        { "id": "o1", "text": "Yavaşlayıp dikkatli geçmesini (Yol Ver)", "isCorrect": true },
+        { "id": "o2", "text": "Kesinlikle durmasını", "isCorrect": false },
+        { "id": "o3", "text": "Hızlanmasını", "isCorrect": false },
+        { "id": "o4", "text": "Geri dönmesini", "isCorrect": false }
+      ],
+      "explanation": "Flaşörlü sarı ışık, 'Yol Ver' levhası niteliğindedir; dikkatli ve yavaş geçilmelidir."
+    }
+  },
+  {
+    "id": "traf_87",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Polis Trafik İşaretleri",
+      "frontText": "Trafik polisinin bir kolunu yukarı kaldırması ne anlama gelir?",
+      "backText": "Bütün yönlerdeki sürücüler için 'Bütün Yönlere Dur' işaretidir."
+    },
+    "quiz": {
+      "questionText": "Trafik polisinin tek kolunu havaya kaldırması durumu hangi komut anlamına gelir?",
+      "options": [
+        { "id": "o1", "text": "Bütün yönlerdeki trafik için DUR", "isCorrect": true },
+        { "id": "o2", "text": "Hızlan", "isCorrect": false },
+        { "id": "o3", "text": "Sağa yanaş", "isCorrect": false },
+        { "id": "o4", "text": "Sadece yayalar geçsin", "isCorrect": false }
+      ],
+      "explanation": "Polisin tek kolu dik kaldırması tüm yolların trafiğe kapanacağını/durması gerektiğini bildirir."
+    }
+  },
+  {
+    "id": "traf_88",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Polisin Önü ve Arkası",
+      "frontText": "Trafik polisinin önü ve arkası hangi yolları temsil eder?",
+      "backText": "Polisin önü ve arkası KAPALI yoldur. Kolları doğrultusundaki yollar AÇIK yoldur."
+    },
+    "quiz": {
+      "questionText": "Kavşakta kollarını iki yana açmış duran trafik polisine göre hangi taraftaki araçlar geçebilir?",
+      "options": [
+        { "id": "o1", "text": "Polisin kol istikametinde (sağ ve solunda) kalan araçlar", "isCorrect": true },
+        { "id": "o2", "text": "Polisin göğüs ve sırt tarafındaki araçlar", "isCorrect": false },
+        { "id": "o3", "text": "Tüm araçlar geçebilir", "isCorrect": false },
+        { "id": "o4", "text": "Hiçbir araç geçemez", "isCorrect": false }
+      ],
+      "explanation": "Trafik polisinin önü ve arkası kapalı duvar, kolları doğrultusu ise açık yoldur."
+    }
+  },
+  {
+    "id": "traf_89",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Baskı Balata (Debriyaj)",
+      "frontText": "Manuel vitesli araçlarda motor gücünü vites kutusundan ayıran sistem nedir?",
+      "backText": "Debriyaj (Kavrama) Sistemi."
+    },
+    "quiz": {
+      "questionText": "Vites değiştirirken motor ile şanzıman arasındaki bağı kesen pedal/sistem hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Debriyaj (Kavrama)", "isCorrect": true },
+        { "id": "o2", "text": "Fren", "isCorrect": false },
+        { "id": "o3", "text": "Gaz", "isCorrect": false },
+        { "id": "o4", "text": "El Freni", "isCorrect": false }
+      ],
+      "explanation": "Debriyaj pedalına basıldığında motordan vites kutusuna aktarılan güç kesilir ve vites rahatça geçer."
+    }
+  },
+  {
+    "id": "traf_90",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Sürüş Güvenliği - Yarım Debriyaj ve Balata Ömrü",
+      "frontText": "Sürüş sırasında ayağın sürekli debriyaj pedalı üzerinde tutulması (yarım debriyaj) neye yol açar?",
+      "backText": "Debriyaj balatasının (baskı balata) aşırı ısınmasına ve çabuk aşınmasına sebep olur."
+    },
+    "quiz": {
+      "questionText": "Seyir halindeyken sol ayağın sürekli debriyaj pedalı üzerinde dinlendirilmesi neye sebep olur?",
+      "options": [
+        { "id": "o1", "text": "Debriyaj balatasının çabuk aşınmasına", "isCorrect": true },
+        { "id": "o2", "text": "Lastiklerin patlamasına", "isCorrect": false },
+        { "id": "o3", "text": "Motor soğutma suyunun kaynamasına", "isCorrect": false },
+        { "id": "o4", "text": "Frenlerin kilitlenmesine", "isCorrect": false }
+      ],
+      "explanation": "Hafif temas bile kaçırmaya neden olarak baskı balatanın ömrünü kısaltır."
+    }
+  },
+  {
+    "id": "traf_91",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Solunum Yolu Tıkanması Belirtisi",
+      "frontText": "Kısmi tıkanma ile Tam tıkanma arasındaki fark nedir?",
+      "backText": "Kısmi tıkanmada kişi öksürebilir ve nefes alabilir. Tam tıkanmada ise konuşamaz, morarır ve nefes alamaz."
+    },
+    "quiz": {
+      "questionText": "Kaza yerinde öksüren, konuşabilen fakat zorlanan bir kazazedeye ilk yardımcı nasıl yaklaşmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Öksürmeye teşvik edilmeli, dokunulmamalıdır", "isCorrect": true },
+        { "id": "o2", "text": "Hemen Heimlich manevrası yapılmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Sırtı pat pat sertçe dövülmelidir", "isCorrect": false },
+        { "id": "o4", "text": "Su içirilmelidir", "isCorrect": false }
+      ],
+      "explanation": "Kişi öksürebiliyorsa kısmi tıkanmadır; öksürük cismi atmanın en doğal yoludur."
+    }
+  },
+  {
+    "id": "traf_92",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Koruma Başlığı ve Gözlüğü",
+      "frontText": "ATV, Motosiklet ve Triportörlerde koruma başlığı (kask) takmak zorunlu mudur?",
+      "backText": "Evet, tüm bu açık motorlu araçlarda kask takmak mecburidir."
+    },
+    "quiz": {
+      "questionText": "Aşağıdaki araçların hangisinde sürücünün koruma başlığı (kask) takması yasal zorunluluktur?",
+      "options": [
+        { "id": "o1", "text": "Motosiklet ve Moped", "isCorrect": true },
+        { "id": "o2", "text": "Traktör", "isCorrect": false },
+        { "id": "o3", "text": "Otomobil", "isCorrect": false },
+        { "id": "o4", "text": "Kamyonet", "isCorrect": false }
+      ],
+      "explanation": "İki veya üç tekerlekli açık motorlu taşıtlarda kask sürücünün hayati güvencesidir."
+    }
+  },
+  {
+    "id": "traf_93",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Sigorta Atması",
+      "frontText": "Araçta bir elektrikli cihaz çalışmadığında ve sigortası attığında ne yapılmalıdır?",
+      "backText": "Aynı amperde yeni bir sigorta ile değiştirilmelidir."
+    },
+    "quiz": {
+      "questionText": "Araçta sigorta attığında yerine takılacak yeni sigortanın amperi nasıl olmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Aynı amper değerinde olmalıdır", "isCorrect": true },
+        { "id": "o2", "text": "Daha yüksek amperde olmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Daha düşük amperde olmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "Tel sarılarak bağlanmalıdır", "isCorrect": false }
+      ],
+      "explanation": "Farklı amperde sigorta takılması veya tel sarılması araçta elektrik yangını çıkarabilir."
+    }
+  },
+  {
+    "id": "traf_94",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Duraklama Yasak Yerler",
+      "frontText": "Köprülerde, tünellerde ve bağlantı yollarında duraklamak serbest midir?",
+      "backText": "Yasaktır. Köprü, tünel ve bağlantı yolları üzerinde duraklama ve park etme yapılamaz."
+    },
+    "quiz": {
+      "questionText": "Aşağıdaki yerlerin hangisinde duraklama yapmak yasaktır?",
+      "options": [
+        { "id": "o1", "text": "Köprüler ve tünel içlerinde", "isCorrect": true },
+        { "id": "o2", "text": "Park alanlarında", "isCorrect": false },
+        { "id": "o3", "text": "Sağ bankette emniyetle", "isCorrect": false },
+        { "id": "o4", "text": "Otoparklarda", "isCorrect": false }
+      ],
+      "explanation": "Tünel ve köprülerde duraklamak arkadan gelen trafiğin sıkışmasına ve büyük facialara yol açar."
+    }
+  },
+  {
+    "id": "traf_95",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Sürüş Güvenliği - Yağmur Başlangıcı Kayganlığı",
+      "frontText": "Yağmur ilk yağmaya başladığı anlarda yol neden ekstra kayganlaşır?",
+      "backText": "Yoldaki toz, yağ ve birikintilerin suyla birleşip çamurumsu kaygan katman oluşturmasından dolayı."
+    },
+    "quiz": {
+      "questionText": "Yağmurun ilk başladığı anlarda yolun en kaygan hale gelmesinin nedeni nedir?",
+      "options": [
+        { "id": "o1", "text": "Yol yüzeyindeki toz ve yağ birikintilerinin suyla ıslanıp çamurlaşması", "isCorrect": true },
+        { "id": "o2", "text": "Lastiklerin ısınması", "isCorrect": false },
+        { "id": "o3", "text": "Havanın soğuması", "isCorrect": false },
+        { "id": "o4", "text": "Asfaltın erimesi", "isCorrect": false }
+      ],
+      "explanation": "Siddetli yağış yolu yıkayana kadar, ilk atıştıran yağmur kaygan kaygan bir çamur tabakası yaratır."
+    }
+  },
+  {
+    "id": "traf_96",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Araç Tekniği - Egzoz Katalitik Konvertör",
+      "frontText": "Egzoz sistemindeki Katalitik Konvertörün amacı nedir?",
+      "backText": "Egzozdan çıkan zehirli gazları emisyon standartlarına uygun zararsız gazlara dönüştürmektir."
+    },
+    "quiz": {
+      "questionText": "Araç egzozuna takılan 'Katalitik Konvertör' cihazının temel işlevi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Çevreye atılan zehirli gaz emisyonlarını azaltmak", "isCorrect": true },
+        { "id": "o2", "text": "Motorun sesini artırmak", "isCorrect": false },
+        { "id": "o3", "text": "Yakıt deposunu doldurmak", "isCorrect": false },
+        { "id": "o4", "text": "Araç hızını artırmak", "isCorrect": false }
+      ],
+      "explanation": "Katalitik konvertör, karbonmonoksit gibi zehirli gazları kimyasal reaksiyonla zararsız gazlara çevirir."
+    }
+  },
+  {
+    "id": "traf_97",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Çekilen Araç Hız Sınırı",
+      "frontText": "Freni bozuk bir araç çekilirken çekme halatı/çubuğu mesafesi ve hız sınırı ne olmalıdır?",
+      "backText": "Çelik çubuk boyu en fazla 1 metre olmalı ve hız 15 km/s'yi geçmemelidir."
+    },
+    "quiz": {
+      "questionText": "Freni bozuk olan bir aracı çekerken bağlantı hangi araçla yapılmalı ve hız en fazla kaç olmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Çeki demiri (çubuk) ile yapılmalı ve hız 15 km/s olmalıdır", "isCorrect": true },
+        { "id": "o2", "text": "Halat ile yapılmalı ve hız 50 km/s olmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Zincir ile yapılmalı ve hız 40 km/s olmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "Fark etmez", "isCorrect": false }
+      ],
+      "explanation": "Freni bozuk araç duramayacağı için esnek halat değil sert çelik çubuk kullanılır ve hız 15 km/s ile kısıtlanır."
+    }
+  },
+  {
+    "id": "traf_98",
+    "categoryId": "traffic",
+    "card": {
+      "title": "İlk Yardım - Eklem Çıkıkları",
+      "frontText": "Çıkık kemik eklemi yerine ilk yardımcı tarafından oturtulmalı mıdır?",
+      "backText": "Hayır. Çıkıklar ve kırıklar asla yerine oturtulmaya çalışılmaz, olduğu gibi sabitlenir."
+    },
+    "quiz": {
+      "questionText": "Çıkığı olan bir kazazedeye ilk yardım uygulanırken hangisi YAPILMAMALIDIR?",
+      "options": [
+        { "id": "o1", "text": "Çıkan eklemi çekerek yerine oturtmaya çalışmak", "isCorrect": true },
+        { "id": "o2", "text": "Eklemi bulunduğu pozisyonda sabitlemek", "isCorrect": false },
+        { "id": "o3", "text": "Bölgeye soğuk uygulama yapmak", "isCorrect": false },
+        { "id": "o4", "text": "Tıbbi yardım (112) istemek", "isCorrect": false }
+      ],
+      "explanation": "Bilinçsizce eklemi oturtmaya çalışmak damar ve sinir kopmalarına yol açabilir."
+    }
+  },
+  {
+    "id": "traf_99",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Karayolları Genel Müdürlüğü",
+      "frontText": "Şehirlerarası karayollarında yapım, bakım ve işaretlemelerden sorumlu kurum hangisidir?",
+      "backText": "Karayolları Genel Müdürlüğü (KGM)."
+    },
+    "quiz": {
+      "questionText": "Belediye sınırları dışındaki şehirlerarası karayollarında işaretleme ve yol bakım işlerini yürüten ana kurum hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Karayolları Genel Müdürlüğü", "isCorrect": true },
+        { "id": "o2", "text": "İçişleri Bakanlığı", "isCorrect": false },
+        { "id": "o3", "text": "Belediye Başkanlığı", "isCorrect": false },
+        { "id": "o4", "text": "Emniyet Genel Müdürlüğü", "isCorrect": false }
+      ],
+      "explanation": "KGM şehirlerarası ağın altyapı, tabela ve bakımından sorumlu devlet kurumudur."
+    }
+  },
+  {
+    "id": "traf_100",
+    "categoryId": "traffic",
+    "card": {
+      "title": "Trafik Kuralları - Belediye Trafik Görevleri",
+      "frontText": "Şehir içi (belediye sınırları) yolların işaretlenmesi ve bakımından kim sorumludur?",
+      "backText": "İlgili Belediye Başkanlıkları."
+    },
+    "quiz": {
+      "questionText": "Belediye sınırları içerisindeki caddelerde trafik levhalarını koymak ve kasis/çizgi yapmak kimin görevidir?",
+      "options": [
+        { "id": "o1", "text": "Belediye Başkanlığı (Ulaşım Daire Bşk.)", "isCorrect": true },
+        { "id": "o2", "text": "Karayolları Genel Müdürlüğü", "isCorrect": false },
+        { "id": "o3", "text": "Devlet Demiryolları", "isCorrect": false },
+        { "id": "o4", "text": "Milli Eğitim Bakanlığı", "isCorrect": false }
+      ],
+      "explanation": "Şehir içi yol düzenlemeleri ve tabelalandırmaları büyükşehir veya ilçe belediyelerinin sorumluluğundadır."
+    }
+  }
+]

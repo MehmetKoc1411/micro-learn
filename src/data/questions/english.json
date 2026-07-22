@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "eng_1",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Opportunity",
+      "frontText": "'Opportunity' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Fırsat, Olanak. (Örn: 'This is a great opportunity for you.')"
+    },
+    "quiz": {
+      "questionText": "'Opportunity' kelimesinin Türkçe anlamı aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Fırsat / Olanak", "isCorrect": true },
+        { "id": "o2", "text": "Tehlike / Sorumluluk", "isCorrect": false },
+        { "id": "o3", "text": "Zorluk / Engel", "isCorrect": false },
+        { "id": "o4", "text": "Gelişim / Başarı", "isCorrect": false }
+      ],
+      "explanation": "Opportunity kelimesi Türkçe'de ele geçen uygun durum, fırsat veya olanak anlamına gelir."
+    }
+  },
+  {
+    "id": "eng_2",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Challenge",
+      "frontText": "'Challenge' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Zorluk, Meydan Okuma. (Örn: 'Facing a new challenge makes us stronger.')"
+    },
+    "quiz": {
+      "questionText": "'Challenge' kelimesinin Türkçe anlamı aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Zorluk / Meydan Okuma", "isCorrect": true },
+        { "id": "o2", "text": "Kolaylık / Çözüm", "isCorrect": false },
+        { "id": "o3", "text": "Anlaşma / Sözleşme", "isCorrect": false },
+        { "id": "o4", "text": "Ödül / Başarı", "isCorrect": false }
+      ],
+      "explanation": "Challenge, üstesinden gelinmesi gereken zorluk veya meydan okuma anlamına gelir."
+    }
+  },
+  {
+    "id": "eng_3",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Achieve",
+      "frontText": "'Achieve' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Başarmak, Elde Etmek. (Örn: 'She worked hard to achieve her goals.')"
+    },
+    "quiz": {
+      "questionText": "'Achieve' fiilinin Türkçe anlamı aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Başarmak / Elde Etmek", "isCorrect": true },
+        { "id": "o2", "text": "Kaybetmek / Vazgeçmek", "isCorrect": false },
+        { "id": "o3", "text": "Etelemek / Geciktirmek", "isCorrect": false },
+        { "id": "o4", "text": "Başlatmak / Kurmak", "isCorrect": false }
+      ],
+      "explanation": "Achieve, çaba göstererek bir hedefe ulaşmak veya başarmak demektir."
+    }
+  },
+  {
+    "id": "eng_4",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Accurate",
+      "frontText": "'Accurate' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Doğru, Kesin, Hatasız. (Örn: 'We need accurate information.')"
+    },
+    "quiz": {
+      "questionText": "'Accurate' sıfatının Türkçe anlamı aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Doğru / Hatasız", "isCorrect": true },
+        { "id": "o2", "text": "Yanlış / Hatalı", "isCorrect": false },
+        { "id": "o3", "text": "Eski / Zamanı Geçmiş", "isCorrect": false },
+        { "id": "o4", "text": "Karmaşık / Bulanık", "isCorrect": false }
+      ],
+      "explanation": "Accurate, tam ve kesin doğruluğu ifade eder."
+    }
+  },
+  {
+    "id": "eng_5",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Benefit",
+      "frontText": "'Benefit' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Fayda, Yarar, Çıkar. (Örn: 'Regular exercise has many health benefits.')"
+    },
+    "quiz": {
+      "questionText": "'Benefit' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Fayda / Yarar", "isCorrect": true },
+        { "id": "o2", "text": "Zarar / Kayıp", "isCorrect": false },
+        { "id": "o3", "text": "Tehlike / Risk", "isCorrect": false },
+        { "id": "o4", "text": "Gider / Masraf", "isCorrect": false }
+      ],
+      "explanation": "Benefit, sağlanan yarar, avantaj veya kazanç anlamına gelir."
+    }
+  },
+  {
+    "id": "eng_6",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Evaluate",
+      "frontText": "'Evaluate' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Değerlendirmek, Ölçmek. (Örn: 'We need to evaluate the results carefully.')"
+    },
+    "quiz": {
+      "questionText": "'Evaluate' fiilinin Türkçe anlamı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Değerlendirmek", "isCorrect": true },
+        { "id": "o2", "text": "Görmezden gelmek", "isCorrect": false },
+        { "id": "o3", "text": "Reddetmek", "isCorrect": false },
+        { "id": "o4", "text": "Kopyalamak", "isCorrect": false }
+      ],
+      "explanation": "Evaluate, bir şeyin değerini veya durumunu analiz edip değerlendirmektir."
+    }
+  },
+  {
+    "id": "eng_7",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Expand",
+      "frontText": "'Expand' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Genişletmek, Büyütmek. (Örn: 'The company plans to expand its business.')"
+    },
+    "quiz": {
+      "questionText": "'Expand' fiili ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Genişletmek / Büyütmek", "isCorrect": true },
+        { "id": "o2", "text": "Daraltmak / Küçültmek", "isCorrect": false },
+        { "id": "o3", "text": "Kapatmak / Bitirmek", "isCorrect": false },
+        { "id": "o4", "text": "Dondurmak / Sabitlemek", "isCorrect": false }
+      ],
+      "explanation": "Expand, boyut veya kapsam olarak yayılmak, büyümek anlamına gelir."
+    }
+  },
+  {
+    "id": "eng_8",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Essential",
+      "frontText": "'Essential' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Gerekli, Temel, Vazgeçilmez. (Örn: 'Water is essential for life.')"
+    },
+    "quiz": {
+      "questionText": "'Essential' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Temel / Vazgeçilmez", "isCorrect": true },
+        { "id": "o2", "text": "Gereksiz / Önemsiz", "isCorrect": false },
+        { "id": "o3", "text": "Geçici / Anlık", "isCorrect": false },
+        { "id": "o4", "text": "Zararlı / Tehlikeli", "isCorrect": false }
+      ],
+      "explanation": "Essential, hayati öneme sahip vazgeçilmez temel ögeleri ifade eder."
+    }
+  },
+  {
+    "id": "eng_9",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Implement",
+      "frontText": "'Implement' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Uygulamak, Yürürlüğe Koymak. (Örn: 'We will implement the new strategy tomorrow.')"
+    },
+    "quiz": {
+      "questionText": "'Implement' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Uygulamak / Yürürlüğe koymak", "isCorrect": true },
+        { "id": "o2", "text": "İptal etmek / Kaldırmak", "isCorrect": false },
+        { "id": "o3", "text": "Ertelemek / Bekletmek", "isCorrect": false },
+        { "id": "o4", "text": "Sorgulamak / Eleştirmek", "isCorrect": false }
+      ],
+      "explanation": "Implement, planlanan bir fikri faaliyete geçirmek demektir."
+    }
+  },
+  {
+    "id": "eng_10",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Significant",
+      "frontText": "'Significant' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Önemli, Kayda Değer. (Örn: 'There is a significant increase in sales.')"
+    },
+    "quiz": {
+      "questionText": "'Significant' kelimesi hangi anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Önemli / Kayda değer", "isCorrect": true },
+        { "id": "o2", "text": "Önemsiz / Küçük", "isCorrect": false },
+        { "id": "o3", "text": "Kararsız / Belirsiz", "isCorrect": false },
+        { "id": "o4", "text": "Tehlikeli / Riskli", "isCorrect": false }
+      ],
+      "explanation": "Significant, gözle görülür derecede önemli ve anlamlı farkları tanımlar."
+    }
+  },
+  {
+    "id": "eng_11",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Maintain",
+      "frontText": "'Maintain' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Sürdürmek, Bakım Yapmak. (Örn: 'It is important to maintain good relations.')"
+    },
+    "quiz": {
+      "questionText": "'Maintain' fiilinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Sürdürmek / Korumak", "isCorrect": true },
+        { "id": "o2", "text": "Bozmak / Yıkmak", "isCorrect": false },
+        { "id": "o3", "text": "Bırakmak / Terk etmek", "isCorrect": false },
+        { "id": "o4", "text": "Değiştirmek / Dönüştürmek", "isCorrect": false }
+      ],
+      "explanation": "Maintain, bir durumu aynı seviyede devam ettirmek veya korumak demektir."
+    }
+  },
+  {
+    "id": "eng_12",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Require",
+      "frontText": "'Require' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Gerektirmek, İhtiyaç Duymak. (Örn: 'This job requires fluency in English.')"
+    },
+    "quiz": {
+      "questionText": "'Require' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Gerektirmek / İhtiyaç duymak", "isCorrect": true },
+        { "id": "o2", "text": "Teklif etmek / Sunmak", "isCorrect": false },
+        { "id": "o3", "text": "Kabul etmemek / Reddetmek", "isCorrect": false },
+        { "id": "o4", "text": "Önermek / Tavsiye etmek", "isCorrect": false }
+      ],
+      "explanation": "Require, bir şey için şart koşmak veya zorunlu kılmak demektir."
+    }
+  },
+  {
+    "id": "eng_13",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Solution",
+      "frontText": "'Solution' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Çözüm, Çare. (Örn: 'We found a quick solution to the problem.')"
+    },
+    "quiz": {
+      "questionText": "'Solution' kelimesinin Türkçe karşılığı aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Çözüm", "isCorrect": true },
+        { "id": "o2", "text": "Sorun", "isCorrect": false },
+        { "id": "o3", "text": "Soru", "isCorrect": false },
+        { "id": "o4", "text": "Görüş", "isCorrect": false }
+      ],
+      "explanation": "Solution, sorunlara karşı üretilen çözüm yanıtıdır."
+    }
+  },
+  {
+    "id": "eng_14",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Consider",
+      "frontText": "'Consider' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Dikkate Almak, Düşünmek. (Örn: 'Please consider all options before deciding.')"
+    },
+    "quiz": {
+      "questionText": "'Consider' fiilinin anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Dikkate almak / Düşünmek", "isCorrect": true },
+        { "id": "o2", "text": "Görmezden gelmek", "isCorrect": false },
+        { "id": "o3", "text": "Şüphelenmek", "isCorrect": false },
+        { "id": "o4", "text": "Unutmak", "isCorrect": false }
+      ],
+      "explanation": "Consider, karar vermeden önce detaylıca hesaba katmak ve düşünmektir."
+    }
+  },
+  {
+    "id": "eng_15",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Flexible",
+      "frontText": "'Flexible' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Esnek, Uyum Sağlayabilen. (Örn: 'Our working hours are flexible.')"
+    },
+    "quiz": {
+      "questionText": "'Flexible' sıfatı Türkçe'de ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Esnek", "isCorrect": true },
+        { "id": "o2", "text": "Katı / Sert", "isCorrect": false },
+        { "id": "o3", "text": "Kırılgan", "isCorrect": false },
+        { "id": "o4", "text": "Sabit", "isCorrect": false }
+      ],
+      "explanation": "Flexible, duruma göre şekil alabilen esnek yapılardır."
+    }
+  },
+  {
+    "id": "eng_16",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Permanent",
+      "frontText": "'Permanent' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kalıcı, Daimi. (Örn: 'They are looking for a permanent solution.')"
+    },
+    "quiz": {
+      "questionText": "'Permanent' sözcüğünün Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kalıcı / Daimi", "isCorrect": true },
+        { "id": "o2", "text": "Geçici / Anlık", "isCorrect": false },
+        { "id": "o3", "text": "Değişken", "isCorrect": false },
+        { "id": "o4", "text": "Eksik", "isCorrect": false }
+      ],
+      "explanation": "Permanent, süreklilik arz eden kalıcı durumları ifade eder."
+    }
+  },
+  {
+    "id": "eng_17",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Temporary",
+      "frontText": "'Temporary' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Geçici. (Örn: 'This is just a temporary file.')"
+    },
+    "quiz": {
+      "questionText": "'Temporary' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Geçici", "isCorrect": true },
+        { "id": "o2", "text": "Sürekli", "isCorrect": false },
+        { "id": "o3", "text": "Zorunlu", "isCorrect": false },
+        { "id": "o4", "text": "Karmaşık", "isCorrect": false }
+      ],
+      "explanation": "Temporary, kısıtlı bir süre geçerli olan durumları nitelemekte kullanılır."
+    }
+  },
+  {
+    "id": "eng_18",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Predict",
+      "frontText": "'Predict' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Tahmin Etmek, Öngörmek. (Örn: 'It is hard to predict the weather.')"
+    },
+    "quiz": {
+      "questionText": "'Predict' fiilinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Tahmin etmek / Öngörmek", "isCorrect": true },
+        { "id": "o2", "text": "Kanıtlamak", "isCorrect": false },
+        { "id": "o3", "text": "Açıklamak", "isCorrect": false },
+        { "id": "o4", "text": "Değiştirmek", "isCorrect": false }
+      ],
+      "explanation": "Predict, bir olayı önceden kestirmek veya tahmin etmektir."
+    }
+  },
+  {
+    "id": "eng_19",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Sufficient",
+      "frontText": "'Sufficient' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Yeterli, Kafi. (Örn: 'We have sufficient time to finish.')"
+    },
+    "quiz": {
+      "questionText": "'Sufficient' kelimesinin anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Yeterli", "isCorrect": true },
+        { "id": "o2", "text": "Yersiz", "isCorrect": false },
+        { "id": "o3", "text": "Yetersiz", "isCorrect": false },
+        { "id": "o4", "text": "Aşırı", "isCorrect": false }
+      ],
+      "explanation": "Sufficient, ihtiyacı karşılamaya yetecek miktardır."
+    }
+  },
+  {
+    "id": "eng_20",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Complex",
+      "frontText": "'Complex' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Karmaşık, Karmaşa. (Örn: 'This software code is very complex.')"
+    },
+    "quiz": {
+      "questionText": "'Complex' sıfatı ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Karmaşık", "isCorrect": true },
+        { "id": "o2", "text": "Sade", "isCorrect": false },
+        { "id": "o3", "text": "Kolay", "isCorrect": false },
+        { "id": "o4", "text": "Açık", "isCorrect": false }
+      ],
+      "explanation": "Complex, anlaşılması veya çözülmesi zor olan yapıları belirtir."
+    }
+  },
+  {
+    "id": "eng_21",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Deny",
+      "frontText": "'Deny' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Inkar Etmek, Reddetmek. (Örn: 'He denied all the allegations.')"
+    },
+    "quiz": {
+      "questionText": "'Deny' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "İnkar etmek / Reddetmek", "isCorrect": true },
+        { "id": "o2", "text": "Kabul etmek", "isCorrect": false },
+        { "id": "o3", "text": "Onaylamak", "isCorrect": false },
+        { "id": "o4", "text": "İtiraf etmek", "isCorrect": false }
+      ],
+      "explanation": "Deny, bir iddiayı veya gerçeği kabul etmeyip reddetmektir."
+    }
+  },
+  {
+    "id": "eng_22",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Confirm",
+      "frontText": "'Confirm' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Onaylamak, Doğrulamak. (Örn: 'Please confirm your email address.')"
+    },
+    "quiz": {
+      "questionText": "'Confirm' fiili ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Onaylamak / Doğrulamak", "isCorrect": true },
+        { "id": "o2", "text": "Reddetmek", "isCorrect": false },
+        { "id": "o3", "text": "Gizlemek", "isCorrect": false },
+        { "id": "o4", "text": "Silmek", "isCorrect": false }
+      ],
+      "explanation": "Confirm, bir durumun geçerliliğini veya doğruluğunu tasdik etmektir."
+    }
+  },
+  {
+    "id": "eng_23",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Innocent",
+      "frontText": "'Innocent' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Masum, Suçsuz. (Örn: 'The jury declared him innocent.')"
+    },
+    "quiz": {
+      "questionText": "'Innocent' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Masum / Suçsuz", "isCorrect": true },
+        { "id": "o2", "text": "Suçlu", "isCorrect": false },
+        { "id": "o3", "text": "Tehlikeli", "isCorrect": false },
+        { "id": "o4", "text": "Sorumlu", "isCorrect": false }
+      ],
+      "explanation": "Innocent, suç işlenmediğini gösteren masumluk durumudur."
+    }
+  },
+  {
+    "id": "eng_24",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Guilty",
+      "frontText": "'Guilty' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Suçlu. (Örn: 'He felt guilty about lying to his friend.')"
+    },
+    "quiz": {
+      "questionText": "'Guilty' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Suçlu", "isCorrect": true },
+        { "id": "o2", "text": "Masum", "isCorrect": false },
+        { "id": "o3", "text": "Haklı", "isCorrect": false },
+        { "id": "o4", "text": "Sessiz", "isCorrect": false }
+      ],
+      "explanation": "Guilty, bir hatadan veya suçtan ötürü kabahati olan kimsedir."
+    }
+  },
+  {
+    "id": "eng_25",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Increase",
+      "frontText": "'Increase' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Artırmak, Artış. (Örn: 'Prices continue to increase every month.')"
+    },
+    "quiz": {
+      "questionText": "'Increase' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Artırmak / Yükseltmek", "isCorrect": true },
+        { "id": "o2", "text": "Azaltmak / Düşürmek", "isCorrect": false },
+        { "id": "o3", "text": "Sabit tutmak", "isCorrect": false },
+        { "id": "o4", "text": "Eşitlemek", "isCorrect": false }
+      ],
+      "explanation": "Increase, nicelik veya derece bakımından yukarı yönlü artıştır."
+    }
+  },
+  {
+    "id": "eng_26",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Decrease",
+      "frontText": "'Decrease' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Azaltmak, Eksiltmek. (Örn: 'The team wants to decrease costs.')"
+    },
+    "quiz": {
+      "questionText": "'Decrease' fiilinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Azaltmak / Düşürmek", "isCorrect": true },
+        { "id": "o2", "text": "Çoğaltmak", "isCorrect": false },
+        { "id": "o3", "text": "Büyütmek", "isCorrect": false },
+        { "id": "o4", "text": "Hızlandırmak", "isCorrect": false }
+      ],
+      "explanation": "Decrease, miktar veya gücün eksilmesi ya da düşürülmesidir."
+    }
+  },
+  {
+    "id": "eng_27",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Prevent",
+      "frontText": "'Prevent' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Engellemek, Önlemek. (Örn: 'Seatbelts help to prevent serious injuries.')"
+    },
+    "quiz": {
+      "questionText": "'Prevent' fiilinin anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Engellemek / Önlemek", "isCorrect": true },
+        { "id": "o2", "text": "Teşvik etmek", "isCorrect": false },
+        { "id": "o3", "text": "İzin vermek", "isCorrect": false },
+        { "id": "o4", "text": "Desteklemek", "isCorrect": false }
+      ],
+      "explanation": "Prevent, bir şeyin ortaya çıkmasını önceden engellemektir."
+    }
+  },
+  {
+    "id": "eng_28",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Allow",
+      "frontText": "'Allow' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "İzin Vermek, Müsaade Etmek. (Örn: 'Smoking is not allowed here.')"
+    },
+    "quiz": {
+      "questionText": "'Allow' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "İzin vermek", "isCorrect": true },
+        { "id": "o2", "text": "Yasaklamak", "isCorrect": false },
+        { "id": "o3", "text": "Engellemek", "isCorrect": false },
+        { "id": "o4", "text": "Cezalandırmak", "isCorrect": false }
+      ],
+      "explanation": "Allow, bir eylemin yapılmasına serbestlik tanımak demektir."
+    }
+  },
+  {
+    "id": "eng_29",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Forbid",
+      "frontText": "'Forbid' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Yasaklamak. (Örn: 'My parents forbid me from staying out late.')"
+    },
+    "quiz": {
+      "questionText": "'Forbid' fiilinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Yasaklamak", "isCorrect": true },
+        { "id": "o2", "text": "Serbest bırakmak", "isCorrect": false },
+        { "id": "o3", "text": "Ödüllendirmek", "isCorrect": false },
+        { "id": "o4", "text": "Önermek", "isCorrect": false }
+      ],
+      "explanation": "Forbid, bir şeyin yapılmasını kesin dille menetmek ya da yasaklamaktır."
+    }
+  },
+  {
+    "id": "eng_30",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Convince",
+      "frontText": "'Convince' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "İkna Etmek. (Örn: 'She managed to convince him to join.')"
+    },
+    "quiz": {
+      "questionText": "'Convince' fiili ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "İkna etmek", "isCorrect": true },
+        { "id": "o2", "text": "Kandırmak", "isCorrect": false },
+        { "id": "o3", "text": "Zorlamak", "isCorrect": false },
+        { "id": "o4", "text": "Unutturmak", "isCorrect": false }
+      ],
+      "explanation": "Convince, mantıklı kanıt veya sözlerle birini bir şeye razı etmektir."
+    }
+  },
+  {
+    "id": "eng_31",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Encourage",
+      "frontText": "'Encourage' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Cesaretlendirmek, Teşvik Etmek. (Örn: 'Teachers should encourage students.')"
+    },
+    "quiz": {
+      "questionText": "'Encourage' kelimesinin anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Teşvik etmek / Cesaretlendirmek", "isCorrect": true },
+        { "id": "o2", "text": "Vazgeçirmek", "isCorrect": false },
+        { "id": "o3", "text": "Korkutmak", "isCorrect": false },
+        { "id": "o4", "text": "Eleştirmek", "isCorrect": false }
+      ],
+      "explanation": "Encourage, birine cesaret verip onu bir şey yapması yönünde yüreklendirmektir."
+    }
+  },
+  {
+    "id": "eng_32",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Discourage",
+      "frontText": "'Discourage' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Cesaretini Kırmak, Vazgeçirmek. (Örn: 'Don't let failure discourage you.')"
+    },
+    "quiz": {
+      "questionText": "'Discourage' fiili hangisini ifade eder?",
+      "options": [
+        { "id": "o1", "text": "Cesaretini kırmak / Vazgeçirmek", "isCorrect": true },
+        { "id": "o2", "text": "Desteklemek", "isCorrect": false },
+        { "id": "o3", "text": "Alkışlamak", "isCorrect": false },
+        { "id": "o4", "text": "Ödüllendirmek", "isCorrect": false }
+      ],
+      "explanation": "Discourage, motivasyonu ve cesareti kırarak bir eylemden caydırmaktır."
+    }
+  },
+  {
+    "id": "eng_33",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Inevitable",
+      "frontText": "'Inevitable' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kaçınılmaz, Önlenemez. (Örn: 'Change is inevitable in life.')"
+    },
+    "quiz": {
+      "questionText": "'Inevitable' sıfatı ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Kaçınılmaz", "isCorrect": true },
+        { "id": "o2", "text": "İmkansız", "isCorrect": false },
+        { "id": "o3", "text": "İsteğe bağlı", "isCorrect": false },
+        { "id": "o4", "text": "Nadir", "isCorrect": false }
+      ],
+      "explanation": "Inevitable, gerçekleşmesi engellenemeyen kaçınılmaz durumları ifade eder."
+    }
+  },
+  {
+    "id": "eng_34",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Rare",
+      "frontText": "'Rare' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Nadir, Ender, Seyrek. (Örn: 'This is a rare species of bird.')"
+    },
+    "quiz": {
+      "questionText": "'Rare' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Nadir / Ender", "isCorrect": true },
+        { "id": "o2", "text": "Yaygın", "isCorrect": false },
+        { "id": "o3", "text": "Sıradan", "isCorrect": false },
+        { "id": "o4", "text": "Kalabalık", "isCorrect": false }
+      ],
+      "explanation": "Rare, az bulunan ve sıklıkla rastlanmayan durum veya eşyadır."
+    }
+  },
+  {
+    "id": "eng_35",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Common",
+      "frontText": "'Common' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Yaygın, Sıradan, Ortak. (Örn: 'Flu is a common illness in winter.')"
+    },
+    "quiz": {
+      "questionText": "'Common' sıfatı Türkçe'de ne demektir?",
+      "options": [
+        { "id": "o1", "text": "Yaygın / Ortak", "isCorrect": true },
+        { "id": "o2", "text": "Eşsiz / Biricik", "isCorrect": false },
+        { "id": "o3", "text": "Gizli", "isCorrect": false },
+        { "id": "o4", "text": "Gelişmiş", "isCorrect": false }
+      ],
+      "explanation": "Common, pek çok yerde görülen genel veya ortak özellikleri ifade eder."
+    }
+  },
+  {
+    "id": "eng_36",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Ancient",
+      "frontText": "'Ancient' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Antik, Çok Eski. (Örn: 'They visited ancient ruins in Rome.')"
+    },
+    "quiz": {
+      "questionText": "'Ancient' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Antik / Çok eski", "isCorrect": true },
+        { "id": "o2", "text": "Modern / Çağdaş", "isCorrect": false },
+        { "id": "o3", "text": "Geleceğe ait", "isCorrect": false },
+        { "id": "o4", "text": "Yepyeni", "isCorrect": false }
+      ],
+      "explanation": "Ancient, insanlık tarihinin çok eski çağlarına ait olan durumları açıklar."
+    }
+  },
+  {
+    "id": "eng_37",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Modern",
+      "frontText": "'Modern' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Çağdaş, Günümüz. (Örn: 'Modern technology is changing fast.')"
+    },
+    "quiz": {
+      "questionText": "'Modern' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Çağdaş / Günümüz", "isCorrect": true },
+        { "id": "o2", "text": "Tarihi", "isCorrect": false },
+        { "id": "o3", "text": "Geleneksel", "isCorrect": false },
+        { "id": "o4", "text": "İlkel", "isCorrect": false }
+      ],
+      "explanation": "Modern, günümüz standartlarına ve yeniliklerine uygun demektir."
+    }
+  },
+  {
+    "id": "eng_38",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Wealthy",
+      "frontText": "'Wealthy' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Zengin, Varlıklı. (Örn: 'He comes from a wealthy family.')"
+    },
+    "quiz": {
+      "questionText": "'Wealthy' kelimesinin anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Zengin / Varlıklı", "isCorrect": true },
+        { "id": "o2", "text": "Fakir / Yoksul", "isCorrect": false },
+        { "id": "o3", "text": "Cömert", "isCorrect": false },
+        { "id": "o4", "text": "Cimri", "isCorrect": false }
+      ],
+      "explanation": "Wealthy, yüksek miktarda servete ve varlığa sahip olan kimsedir."
+    }
+  },
+  {
+    "id": "eng_39",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Poor",
+      "frontText": "'Poor' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Fakir, Yoksul, Zayıf. (Örn: 'The charity helps poor families.')"
+    },
+    "quiz": {
+      "questionText": "'Poor' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Fakir / Yoksul", "isCorrect": true },
+        { "id": "o2", "text": "Zengin", "isCorrect": false },
+        { "id": "o3", "text": "Güçlü", "isCorrect": false },
+        { "id": "o4", "text": "Akıllı", "isCorrect": false }
+      ],
+      "explanation": "Poor, maddi imkanları kısıtlı veya niteliksiz durumları anlatır."
+    }
+  },
+  {
+    "id": "eng_40",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Generous",
+      "frontText": "'Generous' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Cömert, Eli Açık. (Örn: 'Thank you for your generous donation.')"
+    },
+    "quiz": {
+      "questionText": "'Generous' sıfatı hangisini ifade eder?",
+      "options": [
+        { "id": "o1", "text": "Cömert", "isCorrect": true },
+        { "id": "o2", "text": "Cimri", "isCorrect": false },
+        { "id": "o3", "text": "Kıskanç", "isCorrect": false },
+        { "id": "o4", "text": "Bencil", "isCorrect": false }
+      ],
+      "explanation": "Generous, paylaşmayı seven ve bağışta eli açık davranan demektir."
+    }
+  },
+  {
+    "id": "eng_41",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Stingy",
+      "frontText": "'Stingy' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Cimri, Eli Sıkı. (Örn: 'Don't be so stingy with your money.')"
+    },
+    "quiz": {
+      "questionText": "'Stingy' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Cimri", "isCorrect": true },
+        { "id": "o2", "text": "Cömert", "isCorrect": false },
+        { "id": "o3", "text": "Kibar", "isCorrect": false },
+        { "id": "o4", "text": "Dürüst", "isCorrect": false }
+      ],
+      "explanation": "Stingy, parasını harcamaktan ve paylaşmaktan kaçınan eli sıkı kişidir."
+    }
+  },
+  {
+    "id": "eng_42",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Honest",
+      "frontText": "'Honest' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Dürüst, Doğru Sözlü. (Örn: 'To be honest, I didn't like the movie.')"
+    },
+    "quiz": {
+      "questionText": "'Honest' sıfatının Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Dürüst", "isCorrect": true },
+        { "id": "o2", "text": "Yalancı", "isCorrect": false },
+        { "id": "o3", "text": "Kurnaz", "isCorrect": false },
+        { "id": "o4", "text": "Tembel", "isCorrect": false }
+      ],
+      "explanation": "Honest, yalan söylemeyen ve doğru ilkelere bağlı kimsedir."
+    }
+  },
+  {
+    "id": "eng_43",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Dishonest",
+      "frontText": "'Dishonest' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Dürüst Olmayan, Sahtekar. (Örn: 'It was dishonest of him to cheat.')"
+    },
+    "quiz": {
+      "questionText": "'Dishonest' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Dürüst olmayan / Sahtekar", "isCorrect": true },
+        { "id": "o2", "text": "Güvenilir", "isCorrect": false },
+        { "id": "o3", "text": "Çalışkan", "isCorrect": false },
+        { "id": "o4", "text": "Sakin", "isCorrect": false }
+      ],
+      "explanation": "Dishonest, hile yapan ve dürüstlük ilkesine uymayandır."
+    }
+  },
+  {
+    "id": "eng_44",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Patient",
+      "frontText": "'Patient' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Sabırlı / Hasta. (Örn: 'Please be patient with the children.')"
+    },
+    "quiz": {
+      "questionText": "'Patient' sözcüğünün sıfat anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Sabırlı", "isCorrect": true },
+        { "id": "o2", "text": "Aceleci", "isCorrect": false },
+        { "id": "o3", "text": "Öfkeli", "isCorrect": false },
+        { "id": "o4", "text": "Saldırgan", "isCorrect": false }
+      ],
+      "explanation": "Patient kelimesi isim olarak 'hasta', sıfat olarak 'sabırlı' demektir."
+    }
+  },
+  {
+    "id": "eng_45",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Impatient",
+      "frontText": "'Impatient' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Sabırsız. (Örn: 'He gets impatient when the bus is late.')"
+    },
+    "quiz": {
+      "questionText": "'Impatient' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Sabırsız", "isCorrect": true },
+        { "id": "o2", "text": "Sakin", "isCorrect": false },
+        { "id": "o3", "text": "Akıllı", "isCorrect": false },
+        { "id": "o4", "text": "Cömert", "isCorrect": false }
+      ],
+      "explanation": "Impatient, beklemeye tahammülü olmayan sabırsız kimsedir."
+    }
+  },
+  {
+    "id": "eng_46",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Curious",
+      "frontText": "'Curious' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Meraklı. (Örn: 'Cats are naturally curious animals.')"
+    },
+    "quiz": {
+      "questionText": "'Curious' sıfatının Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Meraklı", "isCorrect": true },
+        { "id": "o2", "text": "İlgisiz", "isCorrect": false },
+        { "id": "o3", "text": "Korkak", "isCorrect": false },
+        { "id": "o4", "text": "Utangaç", "isCorrect": false }
+      ],
+      "explanation": "Curious, yeni şeyler öğrenmeye ve keşfetmeye istekli meraklı yapıdadır."
+    }
+  },
+  {
+    "id": "eng_47",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Ambitious",
+      "frontText": "'Ambitious' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Hırslı, Azimli. (Örn: 'She is an ambitious young lawyer.')"
+    },
+    "quiz": {
+      "questionText": "'Ambitious' kelimesi hangi anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Hırslı / Azimli", "isCorrect": true },
+        { "id": "o2", "text": "Tembel / İsteqsiz", "isCorrect": false },
+        { "id": "o3", "text": "Çekingen", "isCorrect": false },
+        { "id": "o4", "text": "Sorumsuz", "isCorrect": false }
+      ],
+      "explanation": "Ambitious, başarmak için yüksek hedefleri olan azimli insandır."
+    }
+  },
+  {
+    "id": "eng_48",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Confident",
+      "frontText": "'Confident' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kendinden Emin, Özgüvenli. (Örn: 'He feels confident about the exam.')"
+    },
+    "quiz": {
+      "questionText": "'Confident' sıfatının Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kendinden emin / Özgüvenli", "isCorrect": true },
+        { "id": "o2", "text": "Endişeli / Kaygılı", "isCorrect": false },
+        { "id": "o3", "text": "Utangaç", "isCorrect": false },
+        { "id": "o4", "text": "Kararsız", "isCorrect": false }
+      ],
+      "explanation": "Confident, kendi yeteneklerine ve başaracağına inanan özgüvenli kimsedir."
+    }
+  },
+  {
+    "id": "eng_49",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Hesitant",
+      "frontText": "'Hesitant' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Tereddütlü, Kararsız. (Örn: 'She was hesitant to speak in public.')"
+    },
+    "quiz": {
+      "questionText": "'Hesitant' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Tereddütlü / Kararsız", "isCorrect": true },
+        { "id": "o2", "text": "Kararlı / Kesin", "isCorrect": false },
+        { "id": "o3", "text": "Cesur", "isCorrect": false },
+        { "id": "o4", "text": "Hızlı", "isCorrect": false }
+      ],
+      "explanation": "Hesitant, adım atmakta çekimser kalan ve kararsızlık yaşayan kimsedir."
+    }
+  },
+  {
+    "id": "eng_50",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Eager",
+      "frontText": "'Eager' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "İstekli, Hevesli. (Örn: 'The students are eager to learn.')"
+    },
+    "quiz": {
+      "questionText": "'Eager' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "İstekli / Hevesli", "isCorrect": true },
+        { "id": "o2", "text": "Bıkkın / İsteqsiz", "isCorrect": false },
+        { "id": "o3", "text": "Üzgün", "isCorrect": false },
+        { "id": "o4", "text": "Yorgun", "isCorrect": false }
+      ],
+      "explanation": "Eager, bir işi yapmaya duyulan aşırı heves ve istekliliği belirtir."
+    }
+  },
+  {
+    "id": "eng_51",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Reluctant",
+      "frontText": "'Reluctant' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Gönülsüz, İsteqsiz. (Örn: 'He was reluctant to share his secret.')"
+    },
+    "quiz": {
+      "questionText": "'Reluctant' sıfatının Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Gönülsüz / İsteqsiz", "isCorrect": true },
+        { "id": "o2", "text": "Gönüllü / Hevesli", "isCorrect": false },
+        { "id": "o3", "text": "Heyecanlı", "isCorrect": false },
+        { "id": "o4", "text": "Açık sözlü", "isCorrect": false }
+      ],
+      "explanation": "Reluctant, bir işi yaparken tereddüt eden ve içinden gelmeyen durumdur."
+    }
+  },
+  {
+    "id": "eng_52",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Fluent",
+      "frontText": "'Fluent' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Akıcı. (Örn: 'She is fluent in three languages.')"
+    },
+    "quiz": {
+      "questionText": "'Fluent' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Akıcı", "isCorrect": true },
+        { "id": "o2", "text": "Takılan / Yavaş", "isCorrect": false },
+        { "id": "o3", "text": "Sessiz", "isCorrect": false },
+        { "id": "o4", "text": "Bulanık", "isCorrect": false }
+      ],
+      "explanation": "Fluent, bir dili duraksamadan ve rahatça konuşabilmeyi anlatır."
+    }
+  },
+  {
+    "id": "eng_53",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Accurate",
+      "frontText": "'Accurate' sözcüğünün eş anlamlısı hangisidir?",
+      "backText": "Correct / Precise."
+    },
+    "quiz": {
+      "questionText": "Hangisi 'Accurate' (Doğru/Kesin) kelimesinin İngilizce eş anlamlısıdır?",
+      "options": [
+        { "id": "o1", "text": "Precise", "isCorrect": true },
+        { "id": "o2", "text": "Wrong", "isCorrect": false },
+        { "id": "o3", "text": "Vague", "isCorrect": false },
+        { "id": "o4", "text": "Rough", "isCorrect": false }
+      ],
+      "explanation": "Precise kelimesi tıpkı accurate gibi tam ve kesin doğruluğu simgeler."
+    }
+  },
+  {
+    "id": "eng_54",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Vague",
+      "frontText": "'Vague' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Bulanık, Belirsiz, Net Olmayan. (Örn: 'His answer was very vague.')"
+    },
+    "quiz": {
+      "questionText": "'Vague' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Bulanık / Belirsiz", "isCorrect": true },
+        { "id": "o2", "text": "Net / Açık", "isCorrect": false },
+        { "id": "o3", "text": "Kesin", "isCorrect": false },
+        { "id": "o4", "text": "Doğru", "isCorrect": false }
+      ],
+      "explanation": "Vague, açık ifadeler barındırmayan muğlak durumları nitelemekte kullanılır."
+    }
+  },
+  {
+    "id": "eng_55",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Obvious",
+      "frontText": "'Obvious' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Açık, Aşikâr, Belli. (Örn: 'It was an obvious mistake.')"
+    },
+    "quiz": {
+      "questionText": "'Obvious' sıfatının Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Açık / Belli / Aşikâr", "isCorrect": true },
+        { "id": "o2", "text": "Gizli / Saklı", "isCorrect": false },
+        { "id": "o3", "text": "Zor / Karmaşık", "isCorrect": false },
+        { "id": "o4", "text": "İmkansız", "isCorrect": false }
+      ],
+      "explanation": "Obvious, herkes tarafından net bir şekilde görülebilen açık durumdur."
+    }
+  },
+  {
+    "id": "eng_56",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Hidden",
+      "frontText": "'Hidden' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Gizli, Saklı. (Örn: 'They found a hidden treasure in the cave.')"
+    },
+    "quiz": {
+      "questionText": "'Hidden' kelimesinin anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Gizli / Saklı", "isCorrect": true },
+        { "id": "o2", "text": "Açık / Görünür", "isCorrect": false },
+        { "id": "o3", "text": "Meşhur", "isCorrect": false },
+        { "id": "o4", "text": "Büyük", "isCorrect": false }
+      ],
+      "explanation": "Hidden, gözlerden uzak tutulmuş veya saklanmış nesnelerdir."
+    }
+  },
+  {
+    "id": "eng_57",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Apparent",
+      "frontText": "'Apparent' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Aşikâr, Görünüşte. (Örn: 'For no apparent reason, the engine stopped.')"
+    },
+    "quiz": {
+      "questionText": "'Apparent' sıfatının Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Aşikâr / Görünürdeki", "isCorrect": true },
+        { "id": "o2", "text": "Gizli", "isCorrect": false },
+        { "id": "o3", "text": "Bilinmeyen", "isCorrect": false },
+        { "id": "o4", "text": "İmkansız", "isCorrect": false }
+      ],
+      "explanation": "Apparent, dışarıdan bakıldığında net bir şekilde ortada olan durumu söyler."
+    }
+  },
+  {
+    "id": "eng_58",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Temporary",
+      "frontText": "'Temporary' kelimesinin zıt anlamlısı hangisidir?",
+      "backText": "Permanent (Kalıcı)."
+    },
+    "quiz": {
+      "questionText": "Hangisi 'Temporary' (Geçici) kelimesinin zıt anlamlısıdır?",
+      "options": [
+        { "id": "o1", "text": "Permanent", "isCorrect": true },
+        { "id": "o2", "text": "Brief", "isCorrect": false },
+        { "id": "o3", "text": "Short", "isCorrect": false },
+        { "id": "o4", "text": "Momentary", "isCorrect": false }
+      ],
+      "explanation": "Permanent kalıcı anlamına gelirken temporary geçici anlamındadır."
+    }
+  },
+  {
+    "id": "eng_59",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Vast",
+      "frontText": "'Vast' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Büyük, Devasa, Engin. (Örn: 'The ocean is vast and deep.')"
+    },
+    "quiz": {
+      "questionText": "'Vast' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Devasa / Engin", "isCorrect": true },
+        { "id": "o2", "text": "Dar / Küçük", "isCorrect": false },
+        { "id": "o3", "text": "Sığ", "isCorrect": false },
+        { "id": "o4", "text": "Kısa", "isCorrect": false }
+      ],
+      "explanation": "Vast, uçsuz bucaksız alan ve büyüklükleri tanımlar."
+    }
+  },
+  {
+    "id": "eng_60",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Tiny",
+      "frontText": "'Tiny' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Küçücük, Minik. (Örn: 'The island is tiny.')"
+    },
+    "quiz": {
+      "questionText": "'Tiny' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Küçücük / Minik", "isCorrect": true },
+        { "id": "o2", "text": "Kocaman", "isCorrect": false },
+        { "id": "o3", "text": "Ağır", "isCorrect": false },
+        { "id": "o4", "text": "Uzun", "isCorrect": false }
+      ],
+      "explanation": "Tiny, son derece küçük boyuttaki şeyleri ifade eder."
+    }
+  },
+  {
+    "id": "eng_61",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Huge",
+      "frontText": "'Huge' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kocaman, Devasa. (Örn: 'They live in a huge house.')"
+    },
+    "quiz": {
+      "questionText": "'Huge' sıfatının karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kocaman / Devasa", "isCorrect": true },
+        { "id": "o2", "text": "Küçük", "isCorrect": false },
+        { "id": "o3", "text": "İnce", "isCorrect": false },
+        { "id": "o4", "text": "Hafif", "isCorrect": false }
+      ],
+      "explanation": "Huge, boyutça oldukça büyük olan şeyleri tarif eder."
+    }
+  },
+  {
+    "id": "eng_62",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Essential",
+      "frontText": "'Essential' kelimesinin eş anlamlısı hangisidir?",
+      "backText": "Crucial / Vital."
+    },
+    "quiz": {
+      "questionText": "Hangisi 'Essential' (Temel/Gerekli) kelimesinin eş anlamlısıdır?",
+      "options": [
+        { "id": "o1", "text": "Vital", "isCorrect": true },
+        { "id": "o2", "text": "Optional", "isCorrect": false },
+        { "id": "o3", "text": "Useless", "isCorrect": false },
+        { "id": "o4", "text": "Minor", "isCorrect": false }
+      ],
+      "explanation": "Vital, yaşamsal derecede gerekli yani essential anlamına gelir."
+    }
+  },
+  {
+    "id": "eng_63",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Optional",
+      "frontText": "'Optional' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "İsteğe Bağlı, Seçmeli. (Örn: 'Attending the meeting is optional.')"
+    },
+    "quiz": {
+      "questionText": "'Optional' sıfatı Türkçe'de ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "İsteğe bağlı / Seçmeli", "isCorrect": true },
+        { "id": "o2", "text": "Zorunlu / Mecburi", "isCorrect": false },
+        { "id": "o3", "text": "Yasak", "isCorrect": false },
+        { "id": "o4", "text": "Önemli", "isCorrect": false }
+      ],
+      "explanation": "Optional, yapılıp yapılmaması kişisel tercihe kalmış durumlardır."
+    }
+  },
+  {
+    "id": "eng_64",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Mandatory",
+      "frontText": "'Mandatory' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Zorunlu, Mecburi. (Örn: 'Wearing a helmet is mandatory.')"
+    },
+    "quiz": {
+      "questionText": "'Mandatory' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Zorunlu / Mecburi", "isCorrect": true },
+        { "id": "o2", "text": "Serbest", "isCorrect": false },
+        { "id": "o3", "text": "Geçici", "isCorrect": false },
+        { "id": "o4", "text": "Önemsiz", "isCorrect": false }
+      ],
+      "explanation": "Mandatory, kanun veya kural gereği yapılması şart olan durumdur."
+    }
+  },
+  {
+    "id": "eng_65",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Compulsory",
+      "frontText": "'Compulsory' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Zorunlu, Mecburi. (Örn: 'English is a compulsory subject.')"
+    },
+    "quiz": {
+      "questionText": "'Compulsory' sözcüğünün karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Zorunlu", "isCorrect": true },
+        { "id": "o2", "text": "Seçmeli", "isCorrect": false },
+        { "id": "o3", "text": "Yasak", "isCorrect": false },
+        { "id": "o4", "text": "Kolay", "isCorrect": false }
+      ],
+      "explanation": "Compulsory, zorunlu tutulan eğitim veya uygulamaları nitelemekte kullanılır."
+    }
+  },
+  {
+    "id": "eng_66",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Voluntary",
+      "frontText": "'Voluntary' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Gönüllü. (Örn: 'She does voluntary work at the hospital.')"
+    },
+    "quiz": {
+      "questionText": "'Voluntary' kelimesi ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Gönüllü", "isCorrect": true },
+        { "id": "o2", "text": "Mecburi", "isCorrect": false },
+        { "id": "o3", "text": "Maaşlı", "isCorrect": false },
+        { "id": "o4", "text": "Zorlama", "isCorrect": false }
+      ],
+      "explanation": "Voluntary, bir karşılık beklemeden kendi isteğiyle yapılan işlerdir."
+    }
+  },
+  {
+    "id": "eng_67",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Accurate",
+      "frontText": "'Accurate' kelimesinin zıt anlamlısı hangisidir?",
+      "backText": "Inaccurate (Hatalı / Yanlış)."
+    },
+    "quiz": {
+      "questionText": "Hangisi 'Accurate' (Hatasız) kelimesinin zıt anlamlısıdır?",
+      "options": [
+        { "id": "o1", "text": "Inaccurate", "isCorrect": true },
+        { "id": "o2", "text": "Correct", "isCorrect": false },
+        { "id": "o3", "text": "Exact", "isCorrect": false },
+        { "id": "o4", "text": "True", "isCorrect": false }
+      ],
+      "explanation": "Inaccurate ekiyle birlikte 'hatalı/yanlış' anlamına bürünür."
+    }
+  },
+  {
+    "id": "eng_68",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Fluent",
+      "frontText": "'Fluently' zarfının Türkçe anlamı nedir?",
+      "backText": "Akıcı bir şekilde. (Örn: 'He speaks German fluently.')"
+    },
+    "quiz": {
+      "questionText": "'Fluently' zarfının Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Akıcı bir şekilde", "isCorrect": true },
+        { "id": "o2", "text": "Zorlukla", "isCorrect": false },
+        { "id": "o3", "text": "Sessizce", "isCorrect": false },
+        { "id": "o4", "text": "Yanlışlıkla", "isCorrect": false }
+      ],
+      "explanation": "Fluently, bir eylemin (özellikle konuşmanın) akıcı yapıldığını belirtir."
+    }
+  },
+  {
+    "id": "eng_69",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Broad",
+      "frontText": "'Broad' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Geniş, Enli. (Örn: 'He has broad shoulders.')"
+    },
+    "quiz": {
+      "questionText": "'Broad' sıfatı ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Geniş / Enli", "isCorrect": true },
+        { "id": "o2", "text": "Dar", "isCorrect": false },
+        { "id": "o3", "text": "Derin", "isCorrect": false },
+        { "id": "o4", "text": "Yüksek", "isCorrect": false }
+      ],
+      "explanation": "Broad, enlemesine geniş olan yer veya nesneleri söyler."
+    }
+  },
+  {
+    "id": "eng_70",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Narrow",
+      "frontText": "'Narrow' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Dar. (Örn: 'The street is too narrow for cars.')"
+    },
+    "quiz": {
+      "questionText": "'Narrow' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Dar", "isCorrect": true },
+        { "id": "o2", "text": "Geniş", "isCorrect": false },
+        { "id": "o3", "text": "Uzun", "isCorrect": false },
+        { "id": "o4", "text": "Açık", "isCorrect": false }
+      ],
+      "explanation": "Narrow, genişliği az olan dar yolları veya alanları açıklar."
+    }
+  },
+  {
+    "id": "eng_71",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Shallow",
+      "frontText": "'Shallow' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Sığ. (Örn: 'Children can swim in the shallow water.')"
+    },
+    "quiz": {
+      "questionText": "'Shallow' sıfatının Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Sığ", "isCorrect": true },
+        { "id": "o2", "text": "Derin", "isCorrect": false },
+        { "id": "o3", "text": "Bulanık", "isCorrect": false },
+        { "id": "o4", "text": "Tuzlu", "isCorrect": false }
+      ],
+      "explanation": "Shallow, derinliği fazla olmayan su birikintilerini tarif eder."
+    }
+  },
+  {
+    "id": "eng_72",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Deep",
+      "frontText": "'Deep' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Derin. (Örn: 'The lake is very deep here.')"
+    },
+    "quiz": {
+      "questionText": "'Deep' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Derin", "isCorrect": true },
+        { "id": "o2", "text": "Sığ", "isCorrect": false },
+        { "id": "o3", "text": "Yüksek", "isCorrect": false },
+        { "id": "o4", "text": "Geniş", "isCorrect": false }
+      ],
+      "explanation": "Deep, taban mesafesi aşağıda olan derin alanlardır."
+    }
+  },
+  {
+    "id": "eng_73",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Smooth",
+      "frontText": "'Smooth' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Pürüzsüz, Düzgün. (Örn: 'The marble surface is smooth.')"
+    },
+    "quiz": {
+      "questionText": "'Smooth' sıfatı ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Pürüzsüz / Düzgün", "isCorrect": true },
+        { "id": "o2", "text": "Pürüzlü / Engebeli", "isCorrect": false },
+        { "id": "o3", "text": "Sert / Katı", "isCorrect": false },
+        { "id": "o4", "text": "Sıcak", "isCorrect": false }
+      ],
+      "explanation": "Smooth, pürüzü ve engebesi bulunmayan düzgün yüzeydir."
+    }
+  },
+  {
+    "id": "eng_74",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Rough",
+      "frontText": "'Rough' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Pürüzlü, Kaba, Engebeli. (Örn: 'The sea was very rough today.')"
+    },
+    "quiz": {
+      "questionText": "'Rough' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Pürüzlü / Engebeli", "isCorrect": true },
+        { "id": "o2", "text": "Pürüzsüz", "isCorrect": false },
+        { "id": "o3", "text": "Yumuşak", "isCorrect": false },
+        { "id": "o4", "text": "Kaygan", "isCorrect": false }
+      ],
+      "explanation": "Rough, yüzeyi düzgün olmayan ve çalkantılı durumları ifade eder."
+    }
+  },
+  {
+    "id": "eng_75",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Sharp",
+      "frontText": "'Sharp' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Keskin, Keskin Zekalı. (Örn: 'Be careful, the knife is sharp.')"
+    },
+    "quiz": {
+      "questionText": "'Sharp' sıfatı ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Keskin", "isCorrect": true },
+        { "id": "o2", "text": "Kör / Kesmez", "isCorrect": false },
+        { "id": "o3", "text": "Yumuşak", "isCorrect": false },
+        { "id": "o4", "text": "Yuvarlak", "isCorrect": false }
+      ],
+      "explanation": "Sharp, kesici aletlerin keskinliğini veya sivri zekayı tanımlar."
+    }
+  },
+  {
+    "id": "eng_76",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Dull",
+      "frontText": "'Dull' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kör (Bıçak vb.) / Sıkıcı, Mat. (Örn: 'The movie was very dull.')"
+    },
+    "quiz": {
+      "questionText": "'Dull' kelimesinin anlamlarından biri hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Sıkıcı / Mat / Kör", "isCorrect": true },
+        { "id": "o2", "text": "Keskin / Parlak", "isCorrect": false },
+        { "id": "o3", "text": "Heyecanlı", "isCorrect": false },
+        { "id": "o4", "text": "Hızlı", "isCorrect": false }
+      ],
+      "explanation": "Dull, canlılığı olmayan mat nesneleri veya sıkıcı durumları anlatır."
+    }
+  },
+  {
+    "id": "eng_77",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Bright",
+      "frontText": "'Bright' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Parlak, Zeki. (Örn: 'She is a bright student with a big future.')"
+    },
+    "quiz": {
+      "questionText": "'Bright' sıfatının Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Parlak / Zeki", "isCorrect": true },
+        { "id": "o2", "text": "Karanlık / Aptal", "isCorrect": false },
+        { "id": "o3", "text": "Soluk", "isCorrect": false },
+        { "id": "o4", "text": "Üzgün", "isCorrect": false }
+      ],
+      "explanation": "Bright, ışık saçan veya zekasıyla öne çıkan kişileri tanımlar."
+    }
+  },
+  {
+    "id": "eng_78",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Dark",
+      "frontText": "'Dark' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Karanlık, Koyu. (Örn: 'It gets dark early in winter.')"
+    },
+    "quiz": {
+      "questionText": "'Dark' kelimesinin anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Karanlık / Koyu", "isCorrect": true },
+        { "id": "o2", "text": "Aydınlık / Açık", "isCorrect": false },
+        { "id": "o3", "text": "Sıcak", "isCorrect": false },
+        { "id": "o4", "text": "Renkli", "isCorrect": false }
+      ],
+      "explanation": "Dark, ışığın olmadığı veya renk tonu olarak koyu olan durumlardır."
+    }
+  },
+  {
+    "id": "eng_79",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Bitter",
+      "frontText": "'Bitter' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Acı (Tat) / Keskin Soğuk / Acımasız. (Örn: 'Dark chocolate has a bitter taste.')"
+    },
+    "quiz": {
+      "questionText": "'Bitter' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Acı (Tat)", "isCorrect": true },
+        { "id": "o2", "text": "Tatlı", "isCorrect": false },
+        { "id": "o3", "text": "Tuzlu", "isCorrect": false },
+        { "id": "o4", "text": "Ekşi", "isCorrect": false }
+      ],
+      "explanation": "Bitter, bitter çikolatadaki gibi acımsı tadı ifade eder."
+    }
+  },
+  {
+    "id": "eng_80",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Sour",
+      "frontText": "'Sour' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Ekşi. (Örn: 'Lemons are sour.')"
+    },
+    "quiz": {
+      "questionText": "'Sour' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Ekşi", "isCorrect": true },
+        { "id": "o2", "text": "Tatlı", "isCorrect": false },
+        { "id": "o3", "text": "Acı", "isCorrect": false },
+        { "id": "o4", "text": "Tatsız", "isCorrect": false }
+      ],
+      "explanation": "Sour, limon gibi ekşimsi tada sahip yiyecekleri niteler."
+    }
+  },
+  {
+    "id": "eng_81",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Sweet",
+      "frontText": "'Sweet' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Tatlı, Şirin. (Örn: 'This cake is very sweet.')"
+    },
+    "quiz": {
+      "questionText": "'Sweet' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Tatlı", "isCorrect": true },
+        { "id": "o2", "text": "Ekşi", "isCorrect": false },
+        { "id": "o3", "text": "Acı", "isCorrect": false },
+        { "id": "o4", "text": "Baharatlı", "isCorrect": false }
+      ],
+      "explanation": "Sweet, şekerli ve tatlı lezzetleri anlatır."
+    }
+  },
+  {
+    "id": "eng_82",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Salty",
+      "frontText": "'Salty' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Tuzlu. (Örn: 'The soup is a bit too salty.')"
+    },
+    "quiz": {
+      "questionText": "'Salty' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Tuzlu", "isCorrect": true },
+        { "id": "o2", "text": "Tuzsuz", "isCorrect": false },
+        { "id": "o3", "text": "Tatlı", "isCorrect": false },
+        { "id": "o4", "text": "Yavan", "isCorrect": false }
+      ],
+      "explanation": "Salty, içerisinde fazla tuz barındıran yiyecekleri açıklar."
+    }
+  },
+  {
+    "id": "eng_83",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Spicy",
+      "frontText": "'Spicy' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Baharatlı, Acılı. (Örn: 'I love eating spicy food.')"
+    },
+    "quiz": {
+      "questionText": "'Spicy' kelimesi hangisini ifade eder?",
+      "options": [
+        { "id": "o1", "text": "Baharatlı / Acılı", "isCorrect": true },
+        { "id": "o2", "text": "Tatsız / Yavan", "isCorrect": false },
+        { "id": "o3", "text": "Sulu", "isCorrect": false },
+        { "id": "o4", "text": "Çiğ", "isCorrect": false }
+      ],
+      "explanation": "Spicy, yoğun baharat ve biber içeren acılı gıdaları tanımlar."
+    }
+  },
+  {
+    "id": "eng_84",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Raw",
+      "frontText": "'Raw' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Çiğ, Pişmemiş, Ham. (Örn: 'Sushi is made with raw fish.')"
+    },
+    "quiz": {
+      "questionText": "'Raw' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Çiğ / Pişmemiş", "isCorrect": true },
+        { "id": "o2", "text": "Pişmiş", "isCorrect": false },
+        { "id": "o3", "text": "Yanmış", "isCorrect": false },
+        { "id": "o4", "text": "Haşlanmış", "isCorrect": false }
+      ],
+      "explanation": "Raw, ısı işleminden geçmemiş ham veya çiğ gıdaları ifade eder."
+    }
+  },
+  {
+    "id": "eng_85",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Cooked",
+      "frontText": "'Cooked' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Pişmiş. (Örn: 'Make sure the meat is thoroughly cooked.')"
+    },
+    "quiz": {
+      "questionText": "'Cooked' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Pişmiş", "isCorrect": true },
+        { "id": "o2", "text": "Çiğ", "isCorrect": false },
+        { "id": "o3", "text": "Taze", "isCorrect": false },
+        { "id": "o4", "text": "Bozuk", "isCorrect": false }
+      ],
+      "explanation": "Cooked, pişirilerek tüketime hazır hale getirilen gıdalardır."
+    }
+  },
+  {
+    "id": "eng_86",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Fresh",
+      "frontText": "'Fresh' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Taze, Taze Sıkılmış. (Örn: 'We buy fresh vegetables from the market.')"
+    },
+    "quiz": {
+      "questionText": "'Fresh' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Taze", "isCorrect": true },
+        { "id": "o2", "text": "Bayat", "isCorrect": false },
+        { "id": "o3", "text": "Çürük", "isCorrect": false },
+        { "id": "o4", "text": "Kuru", "isCorrect": false }
+      ],
+      "explanation": "Fresh, yeni toplanmış veya bozulmamış taze gıdaları tanımlar."
+    }
+  },
+  {
+    "id": "eng_87",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Stale",
+      "frontText": "'Stale' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Bayat. (Örn: 'This bread is stale, don't eat it.')"
+    },
+    "quiz": {
+      "questionText": "'Stale' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Bayat", "isCorrect": true },
+        { "id": "o2", "text": "Taze", "isCorrect": false },
+        { "id": "o3", "text": "Sıcak", "isCorrect": false },
+        { "id": "o4", "text": "Sert", "isCorrect": false }
+      ],
+      "explanation": "Stale, tazeliğini kaybetmiş ekmek vb. gıdalar için kullanılır."
+    }
+  },
+  {
+    "id": "eng_88",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Rotten",
+      "frontText": "'Rotten' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Çürük, Bozuk. (Örn: 'The apple turned rotten.')"
+    },
+    "quiz": {
+      "questionText": "'Rotten' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Çürük / Bozuk", "isCorrect": true },
+        { "id": "o2", "text": "Sağlam", "isCorrect": false },
+        { "id": "o3", "text": "Olgun", "isCorrect": false },
+        { "id": "o4", "text": "Kuru", "isCorrect": false }
+      ],
+      "explanation": "Rotten, bozulup çürümeye yüz tutmuş organik maddeleri ifade eder."
+    }
+  },
+  {
+    "id": "eng_89",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Ripe",
+      "frontText": "'Ripe' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Olgun (Meyve vb.). (Örn: 'The bananas are ripe enough to eat.')"
+    },
+    "quiz": {
+      "questionText": "'Ripe' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Olgun (Meyve vb.)", "isCorrect": true },
+        { "id": "o2", "text": "Ham / Hamlaşmamış", "isCorrect": false },
+        { "id": "o3", "text": "Çürük", "isCorrect": false },
+        { "id": "o4", "text": "Kuru", "isCorrect": false }
+      ],
+      "explanation": "Ripe, meyvelerin yenecek kadar olgunlaşmış halini belirtir."
+    }
+  },
+  {
+    "id": "eng_90",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Unripe",
+      "frontText": "'Unripe' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Ham, Olgunlaşmamış. (Örn: 'Unripe apples taste sour.')"
+    },
+    "quiz": {
+      "questionText": "'Unripe' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Ham / Olgunlaşmamış", "isCorrect": true },
+        { "id": "o2", "text": "Olgun", "isCorrect": false },
+        { "id": "o3", "text": "Tatlı", "isCorrect": false },
+        { "id": "o4", "text": "Sulu", "isCorrect": false }
+      ],
+      "explanation": "Unripe, henüz olgunlaşma evresini tamamlamamış ham meyvelerdir."
+    }
+  },
+  {
+    "id": "eng_91",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Borrow",
+      "frontText": "'Borrow' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Ödünç Almak. (Örn: 'Can I borrow your pen for a minute?')"
+    },
+    "quiz": {
+      "questionText": "'Borrow' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Ödünç almak", "isCorrect": true },
+        { "id": "o2", "text": "Ödünç vermek", "isCorrect": false },
+        { "id": "o3", "text": "Satın almak", "isCorrect": false },
+        { "id": "o4", "text": "Satmak", "isCorrect": false }
+      ],
+      "explanation": "Borrow, geri vermek üzere birinden bir şeyi geçici olarak almaktır."
+    }
+  },
+  {
+    "id": "eng_92",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Lend",
+      "frontText": "'Lend' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Ödünç Vermek. (Örn: 'I can lend you some money if you need.')"
+    },
+    "quiz": {
+      "questionText": "'Lend' fiilinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Ödünç vermek", "isCorrect": true },
+        { "id": "o2", "text": "Ödünç almak", "isCorrect": false },
+        { "id": "o3", "text": "Çalmak", "isCorrect": false },
+        { "id": "o4", "text": "Bağışlamak", "isCorrect": false }
+      ],
+      "explanation": "Lend, birine bir nesneyi ya da parayı geçici olarak vermektir."
+    }
+  },
+  {
+    "id": "eng_93",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Hire",
+      "frontText": "'Hire' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "İşe Almak / Kiralamak. (Örn: 'They decided to hire a new developer.')"
+    },
+    "quiz": {
+      "questionText": "'Hire' fiili ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "İşe almak / Kiralamak", "isCorrect": true },
+        { "id": "o2", "text": "İşten çıkarmak", "isCorrect": false },
+        { "id": "o3", "text": "Satmak", "isCorrect": false },
+        { "id": "o4", "text": "İstifa etmek", "isCorrect": false }
+      ],
+      "explanation": "Hire, birini ücret karşılığı işe başlatmak veya taşıt kiralama eylemidir."
+    }
+  },
+  {
+    "id": "eng_94",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Fire",
+      "frontText": "'Fire' fiilinin iş hayatındaki Türkçe karşılığı nedir?",
+      "backText": "İşten Çıkarmak / Kovmak. (Örn: 'He was fired for being late.')"
+    },
+    "quiz": {
+      "questionText": "'Fire' fiilinin iş hayatında kullanılan anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "İşten çıkarmak / Kovmak", "isCorrect": true },
+        { "id": "o2", "text": "İşe almak", "isCorrect": false },
+        { "id": "o3", "text": "Terfi ettirmek", "isCorrect": false },
+        { "id": "o4", "text": "Maaşını artırmak", "isCorrect": false }
+      ],
+      "explanation": "Fire, yangın anlamına geldiği gibi fiil olarak işten kovmayı da ifade eder."
+    }
+  },
+  {
+    "id": "eng_95",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Quit",
+      "frontText": "'Quit' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Bırakmak, İstifa Etmek. (Örn: 'He decided to quit his job.')"
+    },
+    "quiz": {
+      "questionText": "'Quit' fiilinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Bırakmak / İstifa etmek", "isCorrect": true },
+        { "id": "o2", "text": "Başlamak", "isCorrect": false },
+        { "id": "o3", "text": "Devam etmek", "isCorrect": false },
+        { "id": "o4", "text": "Aramak", "isCorrect": false }
+      ],
+      "explanation": "Quit, yapılan bir işi veya alışkanlığı tamamen terk etmektir."
+    }
+  },
+  {
+    "id": "eng_96",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Resume",
+      "frontText": "'Resume' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Yeniden Başlatmak / Özgeçmiş (CV). (Örn: 'Please send your updated resume.')"
+    },
+    "quiz": {
+      "questionText": "'Resume' kelimesinin isim anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Özgeçmiş / CV", "isCorrect": true },
+        { "id": "o2", "text": "Sözleşme", "isCorrect": false },
+        { "id": "o3", "text": "Diploma", "isCorrect": false },
+        { "id": "o4", "text": "Mektup", "isCorrect": false }
+      ],
+      "explanation": "Resume, iş başvurularında sunulan özgeçmiş belgesidir."
+    }
+  },
+  {
+    "id": "eng_97",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Salary",
+      "frontText": "'Salary' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Maaş. (Örn: 'They negotiated a monthly salary.')"
+    },
+    "quiz": {
+      "questionText": "'Salary' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Maaş", "isCorrect": true },
+        { "id": "o2", "text": "Vergi", "isCorrect": false },
+        { "id": "o3", "text": "Fatura", "isCorrect": false },
+        { "id": "o4", "text": "Borç", "isCorrect": false }
+      ],
+      "explanation": "Salary, çalışanlara düzenli periyotlarla ödenen aylık ücrettir."
+    }
+  },
+  {
+    "id": "eng_98",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Wage",
+      "frontText": "'Wage' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Haftalık / Saatlik Ücret. (Örn: 'Minimum wage has been increased.')"
+    },
+    "quiz": {
+      "questionText": "'Wage' sözcüğünün Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Saatlik/Haftalık Ücret", "isCorrect": true },
+        { "id": "o2", "text": "Yıllık Kar", "isCorrect": false },
+        { "id": "o3", "text": "Emekli Maaşı", "isCorrect": false },
+        { "id": "o4", "text": "Banka Kredisi", "isCorrect": false }
+      ],
+      "explanation": "Wage, genelde saat veya gün bazında hesaplanan işçi ücretidir."
+    }
+  },
+  {
+    "id": "eng_99",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Tax",
+      "frontText": "'Tax' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Vergi. (Örn: 'Everyone has to pay income tax.')"
+    },
+    "quiz": {
+      "questionText": "'Tax' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Vergi", "isCorrect": true },
+        { "id": "o2", "text": "Maaş", "isCorrect": false },
+        { "id": "o3", "text": "Kar", "isCorrect": false },
+        { "id": "o4", "text": "Prim", "isCorrect": false }
+      ],
+      "explanation": "Tax, kamusal hizmetler için devlete ödenen yasal tutardır."
+    }
+  },
+  {
+    "id": "eng_100",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Profit",
+      "frontText": "'Profit' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kâr, Kazanç. (Örn: 'The business made a high profit this year.')"
+    },
+    "quiz": {
+      "questionText": "'Profit' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kâr / Kazanç", "isCorrect": true },
+        { "id": "o2", "text": "Zarar / Kayıp", "isCorrect": false },
+        { "id": "o3", "text": "Borç", "isCorrect": false },
+        { "id": "o4", "text": "Gider", "isCorrect": false }
+      ],
+      "explanation": "Profit, ticari faaliyetlerden elde edilen net finansal kazançtır."
+    }
+  },
+  {
+    "id": "eng_101",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Loss",
+      "frontText": "'Loss' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Zarar, Kayıp. (Örn: 'The company reported a financial loss.')"
+    },
+    "quiz": {
+      "questionText": "'Loss' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Zarar / Kayıp", "isCorrect": true },
+        { "id": "o2", "text": "Kâr", "isCorrect": false },
+        { "id": "o3", "text": "Gelişim", "isCorrect": false },
+        { "id": "o4", "text": "Yatırım", "isCorrect": false }
+      ],
+      "explanation": "Loss, eldeki sermaye veya değerin eksilmesi, zarar edilmesidir."
+    }
+  },
+  {
+    "id": "eng_102",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Debt",
+      "frontText": "'Debt' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Borç. (Örn: 'He paid off all his debts.')"
+    },
+    "quiz": {
+      "questionText": "'Debt' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Borç", "isCorrect": true },
+        { "id": "o2", "text": "Alacak", "isCorrect": false },
+        { "id": "o3", "text": "Servet", "isCorrect": false },
+        { "id": "o4", "text": "Fatura", "isCorrect": false }
+      ],
+      "explanation": "Debt, başkasına ödenmesi gereken finansal borç tutarıdır."
+    }
+  },
+  {
+    "id": "eng_103",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Asset",
+      "frontText": "'Asset' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Varlık, Mal Varlığı, Değerli Özellik. (Örn: 'Good employees are a company's best assets.')"
+    },
+    "quiz": {
+      "questionText": "'Asset' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Varlık / Değerli Özellik", "isCorrect": true },
+        { "id": "o2", "text": "Borç / Yükümlülük", "isCorrect": false },
+        { "id": "o3", "text": "Eksiklik", "isCorrect": false },
+        { "id": "o4", "text": "Hata", "isCorrect": false }
+      ],
+      "explanation": "Asset, sahip olunan finansal veya niteliksel artı değerlerdir."
+    }
+  },
+  {
+    "id": "eng_104",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Liability",
+      "frontText": "'Liability' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Sorumluluk, Yükümlülük, Mali Borç. (Örn: 'The company is trying to reduce its liabilities.')"
+    },
+    "quiz": {
+      "questionText": "'Liability' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Sorumluluk / Yükümlülük", "isCorrect": true },
+        { "id": "o2", "text": "Kazanç / Özsermaye", "isCorrect": false },
+        { "id": "o3", "text": "Hak", "isCorrect": false },
+        { "id": "o4", "text": "Ödül", "isCorrect": false }
+      ],
+      "explanation": "Liability, üstlenilen yasal sorumluluk ve finansal yükümlülüklerdir."
+    }
+  },
+  {
+    "id": "eng_105",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Expense",
+      "frontText": "'Expense' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Gider, Masraf. (Örn: 'Travel expenses will be covered by the firm.')"
+    },
+    "quiz": {
+      "questionText": "'Expense' kelimesi ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Gider / Masraf", "isCorrect": true },
+        { "id": "o2", "text": "Gelir / Maaş", "isCorrect": false },
+        { "id": "o3", "text": "Tasarruf", "isCorrect": false },
+        { "id": "o4", "text": "İndirim", "isCorrect": false }
+      ],
+      "explanation": "Expense, harcanan parayı ve ortaya çıkan masrafları ifade eder."
+    }
+  },
+  {
+    "id": "eng_106",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Income",
+      "frontText": "'Income' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Gelir, Kazanç. (Örn: 'His total income increased this year.')"
+    },
+    "quiz": {
+      "questionText": "'Income' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Gelir", "isCorrect": true },
+        { "id": "o2", "text": "Gider", "isCorrect": false },
+        { "id": "o3", "text": "Borç", "isCorrect": false },
+        { "id": "o4", "text": "Vergi", "isCorrect": false }
+      ],
+      "explanation": "Income, kişiye veya kuruma giren toplam finansal gelirdir."
+    }
+  },
+  {
+    "id": "eng_107",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Investment",
+      "frontText": "'Investment' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Yatırım. (Örn: 'Real estate is a safe investment.')"
+    },
+    "quiz": {
+      "questionText": "'Investment' kelimesinin anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Yatırım", "isCorrect": true },
+        { "id": "o2", "text": "Harcama", "isCorrect": false },
+        { "id": "o3", "text": "Kayıp", "isCorrect": false },
+        { "id": "o4", "text": "Bağış", "isCorrect": false }
+      ],
+      "explanation": "Investment, kâr getirmesi amacıyla kaynağın bir alana aktarılmasıdır."
+    }
+  },
+  {
+    "id": "eng_108",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Negotiate",
+      "frontText": "'Negotiate' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Pazarlık Etmek, Müzakere Yapmak. (Örn: 'They managed to negotiate a better deal.')"
+    },
+    "quiz": {
+      "questionText": "'Negotiate' fiili Türkçe'de ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Müzakere yapmak / Pazarlık etmek", "isCorrect": true },
+        { "id": "o2", "text": "Kavga etmek", "isCorrect": false },
+        { "id": "o3", "text": "İptal etmek", "isCorrect": false },
+        { "id": "o4", "text": "Şikayet etmek", "isCorrect": false }
+      ],
+      "explanation": "Negotiate, anlaşmaya varmak için görüşüp şartları konuşmaktır."
+    }
+  },
+  {
+    "id": "eng_109",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Agreement",
+      "frontText": "'Agreement' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Anlaşma, Sözleşme. (Örn: 'Both sides signed the agreement.')"
+    },
+    "quiz": {
+      "questionText": "'Agreement' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Anlaşma / Sözleşme", "isCorrect": true },
+        { "id": "o2", "text": "Anlaşmazlık", "isCorrect": false },
+        { "id": "o3", "text": "Ayrılık", "isCorrect": false },
+        { "id": "o4", "text": "Tartışma", "isCorrect": false }
+      ],
+      "explanation": "Agreement, tarafların mutabakata vardığı ortak karar veya belgedir."
+    }
+  },
+  {
+    "id": "eng_110",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Disagreement",
+      "frontText": "'Disagreement' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Anlaşmazlık, Fikir Ayrılığı. (Örn: 'There was a disagreement about the plan.')"
+    },
+    "quiz": {
+      "questionText": "'Disagreement' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Anlaşmazlık", "isCorrect": true },
+        { "id": "o2", "text": "Uyum", "isCorrect": false },
+        { "id": "o3", "text": "Dostluk", "isCorrect": false },
+        { "id": "o4", "text": "Sözleşme", "isCorrect": false }
+      ],
+      "explanation": "Disagreement, görüşlerin örtüşmemesiyle doğan uyuşmazlıktır."
+    }
+  },
+  {
+    "id": "eng_111",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Compete",
+      "frontText": "'Compete' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Yarışmak, Rekabet Etmek. (Örn: 'Ten teams will compete in the tournament.')"
+    },
+    "quiz": {
+      "questionText": "'Compete' fiili hangisini anlatır?",
+      "options": [
+        { "id": "o1", "text": "Rekabet etmek / Yarışmak", "isCorrect": true },
+        { "id": "o2", "text": "Yardımlaşmak", "isCorrect": false },
+        { "id": "o3", "text": "Seyretmek", "isCorrect": false },
+        { "id": "o4", "text": "Pes etmek", "isCorrect": false }
+      ],
+      "explanation": "Compete, bir birincilik veya üstünlük için mücadele vermektir."
+    }
+  },
+  {
+    "id": "eng_112",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Competitor",
+      "frontText": "'Competitor' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Rakip, Yarışmacı. (Örn: 'Our competitors are lowering prices.')"
+    },
+    "quiz": {
+      "questionText": "'Competitor' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Rakip / Yarışmacı", "isCorrect": true },
+        { "id": "o2", "text": "Müttefik", "isCorrect": false },
+        { "id": "o3", "text": "Müşteri", "isCorrect": false },
+        { "id": "o4", "text": "Ortak", "isCorrect": false }
+      ],
+      "explanation": "Competitor, pazarda veya yarışta mücadele edilen rakip taraftır."
+    }
+  },
+  {
+    "id": "eng_113",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Ally",
+      "frontText": "'Ally' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Müttefik, Dost Ülke/Kişi. (Örn: 'They have been strong allies for years.')"
+    },
+    "quiz": {
+      "questionText": "'Ally' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Müttefik", "isCorrect": true },
+        { "id": "o2", "text": "Düşman", "isCorrect": false },
+        { "id": "o3", "text": "Hasm", "isCorrect": false },
+        { "id": "o4", "text": "Yabancı", "isCorrect": false }
+      ],
+      "explanation": "Ally, ortak bir çıkar doğrultusunda birlik olunan dost kimsedir."
+    }
+  },
+  {
+    "id": "eng_114",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Enemy",
+      "frontText": "'Enemy' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Düşman. (Örn: 'The two countries became enemies.')"
+    },
+    "quiz": {
+      "questionText": "'Enemy' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Düşman", "isCorrect": true },
+        { "id": "o2", "text": "Dost", "isCorrect": false },
+        { "id": "o3", "text": "Kardeş", "isCorrect": false },
+        { "id": "o4", "text": "Akraba", "isCorrect": false }
+      ],
+      "explanation": "Enemy, karşı tarafta yer alan ve husumet besleyen güçtür."
+    }
+  },
+  {
+    "id": "eng_115",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Hostile",
+      "frontText": "'Hostile' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Düşmanca, Saldırgan. (Örn: 'The crowd became hostile.')"
+    },
+    "quiz": {
+      "questionText": "'Hostile' sıfatının Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Düşmanca / Saldırgan", "isCorrect": true },
+        { "id": "o2", "text": "Misafirperver", "isCorrect": false },
+        { "id": "o3", "text": "Sevimli", "isCorrect": false },
+        { "id": "o4", "text": "Sakin", "isCorrect": false }
+      ],
+      "explanation": "Hostile, dostça olmayan ve saldırgan tavırlar sergileyen durumdur."
+    }
+  },
+  {
+    "id": "eng_116",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Friendly",
+      "frontText": "'Friendly' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Dostça, Samimi. (Örn: 'The staff was very friendly and helpful.')"
+    },
+    "quiz": {
+      "questionText": "'Friendly' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Dostça / Samimi", "isCorrect": true },
+        { "id": "o2", "text": "Soğuk", "isCorrect": false },
+        { "id": "o3", "text": "Kaba", "isCorrect": false },
+        { "id": "o4", "text": "Sert", "isCorrect": false }
+      ],
+      "explanation": "Friendly, sıcakkanlı ve iyi niyetli yaklaşımları anlatır."
+    }
+  },
+  {
+    "id": "eng_117",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Polite",
+      "frontText": "'Polite' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kibar, Nazik. (Örn: 'He is always polite to older people.')"
+    },
+    "quiz": {
+      "questionText": "'Polite' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kibar / Nazik", "isCorrect": true },
+        { "id": "o2", "text": "Kaba", "isCorrect": false },
+        { "id": "o3", "text": "Saygısız", "isCorrect": false },
+        { "id": "o4", "text": "Sert", "isCorrect": false }
+      ],
+      "explanation": "Polite, görgü kurallarına uyan kibar kişiyi tarif eder."
+    }
+  },
+  {
+    "id": "eng_118",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Rude",
+      "frontText": "'Rude' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kaba, Saygısız. (Örn: 'It is rude to interrupt someone speaking.')"
+    },
+    "quiz": {
+      "questionText": "'Rude' sıfatının Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kaba / Saygısız", "isCorrect": true },
+        { "id": "o2", "text": "Kibar", "isCorrect": false },
+        { "id": "o3", "text": "Sevimli", "isCorrect": false },
+        { "id": "o4", "text": "Sessiz", "isCorrect": false }
+      ],
+      "explanation": "Rude, görgüden uzak ve kırıcı davranan kişileri nitelemekte kullanılır."
+    }
+  },
+  {
+    "id": "eng_119",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Gentle",
+      "frontText": "'Gentle' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Yumuşak Huy, Nazik. (Örn: 'She spoke in a gentle voice.')"
+    },
+    "quiz": {
+      "questionText": "'Gentle' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Nazik / Yumuşak huylu", "isCorrect": true },
+        { "id": "o2", "text": "Sert / Şiddetli", "isCorrect": false },
+        { "id": "o3", "text": "Korkunç", "isCorrect": false },
+        { "id": "o4", "text": "Hızlı", "isCorrect": false }
+      ],
+      "explanation": "Gentle, yumuşak dokunuşlu veya sakin yapılı şeyleri söyler."
+    }
+  },
+  {
+    "id": "eng_120",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Harsh",
+      "frontText": "'Harsh' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Sert, Acımasız, Kaba. (Örn: 'He faced harsh criticism.')"
+    },
+    "quiz": {
+      "questionText": "'Harsh' sıfatının karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Sert / Acımasız", "isCorrect": true },
+        { "id": "o2", "text": "Ilıman", "isCorrect": false },
+        { "id": "o3", "text": "Yumuşak", "isCorrect": false },
+        { "id": "o4", "text": "Tatlı", "isCorrect": false }
+      ],
+      "explanation": "Harsh, kırıcı derece sert eleştirileri veya iklimi tarif eder."
+    }
+  },
+  {
+    "id": "eng_121",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Severe",
+      "frontText": "'Severe' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Şiddetli, Ağır. (Örn: 'The storm caused severe damage.')"
+    },
+    "quiz": {
+      "questionText": "'Severe' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Şiddetli / Ağır", "isCorrect": true },
+        { "id": "o2", "text": "Hafif", "isCorrect": false },
+        { "id": "o3", "text": "Görünmez", "isCorrect": false },
+        { "id": "o4", "text": "Geçici", "isCorrect": false }
+      ],
+      "explanation": "Severe, ağır hasar veya şiddetli hastalık durumlarında kullanılır."
+    }
+  },
+  {
+    "id": "eng_122",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Mild",
+      "frontText": "'Mild' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Hafif, Ilıman. (Örn: 'Winter here is usually mild.')"
+    },
+    "quiz": {
+      "questionText": "'Mild' kelimesinin anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Hafif / Ilıman", "isCorrect": true },
+        { "id": "o2", "text": "Sert / Aşırı", "isCorrect": false },
+        { "id": "o3", "text": "Dondurucu", "isCorrect": false },
+        { "id": "o4", "text": "Kavurucu", "isCorrect": false }
+      ],
+      "explanation": "Mild, sert olmayan ılıman hava veya hafif seyreden durumdur."
+    }
+  },
+  {
+    "id": "eng_123",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Ancient",
+      "frontText": "'Ancient' kelimesinin zıt anlamlısı hangisidir?",
+      "backText": "Modern / Contemporary."
+    },
+    "quiz": {
+      "questionText": "Hangisi 'Ancient' (Antik/Eski) kelimesinin zıt anlamlısıdır?",
+      "options": [
+        { "id": "o1", "text": "Modern", "isCorrect": true },
+        { "id": "o2", "text": "Old", "isCorrect": false },
+        { "id": "o3", "text": "Antique", "isCorrect": false },
+        { "id": "o4", "text": "Historic", "isCorrect": false }
+      ],
+      "explanation": "Modern kelimesi yeni çağa ait olanı, ancient ise antik dönemi temsil eder."
+    }
+  },
+  {
+    "id": "eng_124",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Complex",
+      "frontText": "'Complex' kelimesinin eş anlamlısı hangisidir?",
+      "backText": "Complicated / Intricate."
+    },
+    "quiz": {
+      "questionText": "Hangisi 'Complex' (Karmaşık) kelimesinin eş anlamlısıdır?",
+      "options": [
+        { "id": "o1", "text": "Complicated", "isCorrect": true },
+        { "id": "o2", "text": "Simple", "isCorrect": false },
+        { "id": "o3", "text": "Easy", "isCorrect": false },
+        { "id": "o4", "text": "Plain", "isCorrect": false }
+      ],
+      "explanation": "Complicated, tıpkı complex gibi karmakarışık yapıları belirtir."
+    }
+  },
+  {
+    "id": "eng_125",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Simple",
+      "frontText": "'Simple' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Basit, Sade. (Örn: 'The instructions are simple to follow.')"
+    },
+    "quiz": {
+      "questionText": "'Simple' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Basit / Sade", "isCorrect": true },
+        { "id": "o2", "text": "Karmaşık", "isCorrect": false },
+        { "id": "o3", "text": "Sert", "isCorrect": false },
+        { "id": "o4", "text": "Karanlık", "isCorrect": false }
+      ],
+      "explanation": "Simple, zorluğu bulunmayan yalın şeyleri ifade eder."
+    }
+  },
+  {
+    "id": "eng_126",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Plain",
+      "frontText": "'Plain' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Sade, Düz / Ova. (Örn: 'She was wearing a plain white dress.')"
+    },
+    "quiz": {
+      "questionText": "'Plain' kelimesinin anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Sade / Düz", "isCorrect": true },
+        { "id": "o2", "text": "Süslü / Gösterişli", "isCorrect": false },
+        { "id": "o3", "text": "Pahalı", "isCorrect": false },
+        { "id": "o4", "text": "Renkli", "isCorrect": false }
+      ],
+      "explanation": "Plain, desensiz ve süssüz olan sade şeyleri açıklar."
+    }
+  },
+  {
+    "id": "eng_127",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Fancy",
+      "frontText": "'Fancy' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Süslü, Lüks. (Örn: 'We went to a fancy restaurant.')"
+    },
+    "quiz": {
+      "questionText": "'Fancy' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Süslü / Lüks", "isCorrect": true },
+        { "id": "o2", "text": "Sıradan", "isCorrect": false },
+        { "id": "o3", "text": "Ucuz", "isCorrect": false },
+        { "id": "o4", "text": "Eski", "isCorrect": false }
+      ],
+      "explanation": "Fancy, şık ve gösterişli yer veya giysileri tarif eder."
+    }
+  },
+  {
+    "id": "eng_128",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Cheap",
+      "frontText": "'Cheap' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Ucuz. (Örn: 'This hotel is very cheap.')"
+    },
+    "quiz": {
+      "questionText": "'Cheap' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Ucuz", "isCorrect": true },
+        { "id": "o2", "text": "Pahalı", "isCorrect": false },
+        { "id": "o3", "text": "Değerli", "isCorrect": false },
+        { "id": "o4", "text": "Lüks", "isCorrect": false }
+      ],
+      "explanation": "Cheap, fiyatı düşük olan eşya ve hizmetlerdir."
+    }
+  },
+  {
+    "id": "eng_129",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Expensive",
+      "frontText": "'Expensive' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Pahalı. (Örn: 'Laptops are getting more expensive.')"
+    },
+    "quiz": {
+      "questionText": "'Expensive' sıfatının Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Pahalı", "isCorrect": true },
+        { "id": "o2", "text": "Ucuz", "isCorrect": false },
+        { "id": "o3", "text": "Kalitesiz", "isCorrect": false },
+        { "id": "o4", "text": "Ücretsiz", "isCorrect": false }
+      ],
+      "explanation": "Expensive, yüksek maliyet gerektiren ürünleri tanımlar."
+    }
+  },
+  {
+    "id": "eng_130",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Precious",
+      "frontText": "'Precious' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Değerli, Kıymetli. (Örn: 'Gold is a precious metal.')"
+    },
+    "quiz": {
+      "questionText": "'Precious' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Değerli / Kıymetli", "isCorrect": true },
+        { "id": "o2", "text": "Değersiz", "isCorrect": false },
+        { "id": "o3", "text": "Gereksiz", "isCorrect": false },
+        { "id": "o4", "text": "Yaygın", "isCorrect": false }
+      ],
+      "explanation": "Precious, yüksek maddi veya manevi değere sahip varlıklardır."
+    }
+  },
+  {
+    "id": "eng_131",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Worthless",
+      "frontText": "'Worthless' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Değersiz. (Örn: 'Without the password, this computer is worthless.')"
+    },
+    "quiz": {
+      "questionText": "'Worthless' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Değersiz", "isCorrect": true },
+        { "id": "o2", "text": "Paha biçilemez", "isCorrect": false },
+        { "id": "o3", "text": "Faydalı", "isCorrect": false },
+        { "id": "o4", "text": "Güçlü", "isCorrect": false }
+      ],
+      "explanation": "Worthless, hiçbir kıymeti veya önemi olmayan şeydir."
+    }
+  },
+  {
+    "id": "eng_132",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Priceless",
+      "frontText": "'Priceless' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Paha Biçilemez. (Örn: 'This museum has priceless paintings.')"
+    },
+    "quiz": {
+      "questionText": "'Priceless' kelimesi ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Paha biçilemez (Çok değerli)", "isCorrect": true },
+        { "id": "o2", "text": "Parasız / Ucuz", "isCorrect": false },
+        { "id": "o3", "text": "Değersiz", "isCorrect": false },
+        { "id": "o4", "text": "Satılık olmayan", "isCorrect": false }
+      ],
+      "explanation": "Priceless, değerine paha biçilemeyecek kadar kıymetli eserleri niteler."
+    }
+  },
+  {
+    "id": "eng_133",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Useful",
+      "frontText": "'Useful' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Faydalı, Kullanışlı. (Örn: 'This tool is very useful in the kitchen.')"
+    },
+    "quiz": {
+      "questionText": "'Useful' sıfatı Türkçe'de ne demektir?",
+      "options": [
+        { "id": "o1", "text": "Faydalı / Kullanışlı", "isCorrect": true },
+        { "id": "o2", "text": "Faydasız", "isCorrect": false },
+        { "id": "o3", "text": "Bozuk", "isCorrect": false },
+        { "id": "o4", "text": "Eski", "isCorrect": false }
+      ],
+      "explanation": "Useful, işe yarayan ve pratik fayda sağlayan nesnelerdir."
+    }
+  },
+  {
+    "id": "eng_134",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Useless",
+      "frontText": "'Useless' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Faydasız, İşe Yaramaz. (Örn: 'An umbrella with holes is useless.')"
+    },
+    "quiz": {
+      "questionText": "'Useless' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Faydasız / İşe yaramaz", "isCorrect": true },
+        { "id": "o2", "text": "Kullanışlı", "isCorrect": false },
+        { "id": "o3", "text": "Gerekli", "isCorrect": false },
+        { "id": "o4", "text": "Pratik", "isCorrect": false }
+      ],
+      "explanation": "Useless, hiçbir yararı dokunmayan işe yaramaz şeylerdir."
+    }
+  },
+  {
+    "id": "eng_135",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Danger",
+      "frontText": "'Danger' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Tehlike. (Örn: 'The sign warns drivers of danger.')"
+    },
+    "quiz": {
+      "questionText": "'Danger' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Tehlike", "isCorrect": true },
+        { "id": "o2", "text": "Güvenlik", "isCorrect": false },
+        { "id": "o3", "text": "Huzur", "isCorrect": false },
+        { "id": "o4", "text": "Sakinlik", "isCorrect": false }
+      ],
+      "explanation": "Danger, zarar görme veya kayba uğrama ihtimalidir."
+    }
+  },
+  {
+    "id": "eng_136",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Safety",
+      "frontText": "'Safety' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Güvenlik, Emniyet. (Örn: 'Safety always comes first.')"
+    },
+    "quiz": {
+      "questionText": "'Safety' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Güvenlik / Emniyet", "isCorrect": true },
+        { "id": "o2", "text": "Tehlike", "isCorrect": false },
+        { "id": "o3", "text": "Risk", "isCorrect": false },
+        { "id": "o4", "text": "Tehdit", "isCorrect": false }
+      ],
+      "explanation": "Safety, tehlikelerden uzak olma ve emniyet halidir."
+    }
+  },
+  {
+    "id": "eng_137",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Secure",
+      "frontText": "'Secure' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Güvenli, Emniyetli. (Örn: 'Keep your password in a secure place.')"
+    },
+    "quiz": {
+      "questionText": "'Secure' sıfatı ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Güvenli / Emniyetli", "isCorrect": true },
+        { "id": "o2", "text": "Güvensiz", "isCorrect": false },
+        { "id": "o3", "text": "Açık", "isCorrect": false },
+        { "id": "o4", "text": "Zayıf", "isCorrect": false }
+      ],
+      "explanation": "Secure, dış tehditlere karşı emniyete alınmış yapıdır."
+    }
+  },
+  {
+    "id": "eng_138",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Vulnerable",
+      "frontText": "'Vulnerable' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Hassas, Savunmasız. (Örn: 'Old people are more vulnerable to flu.')"
+    },
+    "quiz": {
+      "questionText": "'Vulnerable' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Savunmasız / Hassas", "isCorrect": true },
+        { "id": "o2", "text": "Güçlü / Dayanıklı", "isCorrect": false },
+        { "id": "o3", "text": "Korumalı", "isCorrect": false },
+        { "id": "o4", "text": "Saldırgan", "isCorrect": false }
+      ],
+      "explanation": "Vulnerable, zarar görmeye veya saldırıya açık zayıf durumları tarif eder."
+    }
+  },
+  {
+    "id": "eng_139",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Resistant",
+      "frontText": "'Resistant' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Direnc gösteren, Dayanıklı. (Örn: 'This watch is water resistant.')"
+    },
+    "quiz": {
+      "questionText": "'Resistant' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Direnc gösteren / Dayanıklı", "isCorrect": true },
+        { "id": "o2", "text": "Hassas", "isCorrect": false },
+        { "id": "o3", "text": "Geçirgen", "isCorrect": false },
+        { "id": "o4", "text": "Kırılgan", "isCorrect": false }
+      ],
+      "explanation": "Resistant, dış etkenlerin olumsuz tesirine karşı koyabilendir."
+    }
+  },
+  {
+    "id": "eng_140",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Fragile",
+      "frontText": "'Fragile' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kırılgan, Hassas. (Örn: 'Handle with care, it is fragile.')"
+    },
+    "quiz": {
+      "questionText": "'Fragile' kargo kutularında yazan bu kelimenin anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kırılgan / Hassas", "isCorrect": true },
+        { "id": "o2", "text": "Ağır / Dayanıklı", "isCorrect": false },
+        { "id": "o3", "text": "Ateşleyici", "isCorrect": false },
+        { "id": "o4", "text": "Su geçirmez", "isCorrect": false }
+      ],
+      "explanation": "Fragile, kolayca kırılabilen cam vb. hassas eşyaları gösterir."
+    }
+  },
+  {
+    "id": "eng_141",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Tough",
+      "frontText": "'Tough' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Sert, Zorlu, Dayanıklı. (Örn: 'It was a tough exam.')"
+    },
+    "quiz": {
+      "questionText": "'Tough' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Sert / Zorlu", "isCorrect": true },
+        { "id": "o2", "text": "Kolay / Yumuşak", "isCorrect": false },
+        { "id": "o3", "text": "Kırılgan", "isCorrect": false },
+        { "id": "o4", "text": "Sığ", "isCorrect": false }
+      ],
+      "explanation": "Tough, fiziken dayanıklı veya üstesinden gelmesi zorlu durumdur."
+    }
+  },
+  {
+    "id": "eng_142",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Flexible",
+      "frontText": "'Flexible' kelimesinin zıt anlamlısı hangisidir?",
+      "backText": "Rigid / Stiff (Katı / Sert)."
+    },
+    "quiz": {
+      "questionText": "Hangisi 'Flexible' (Esnek) kelimesinin zıt anlamlısıdır?",
+      "options": [
+        { "id": "o1", "text": "Rigid", "isCorrect": true },
+        { "id": "o2", "text": "Elastic", "isCorrect": false },
+        { "id": "o3", "text": "Pliable", "isCorrect": false },
+        { "id": "o4", "text": "Soft", "isCorrect": false }
+      ],
+      "explanation": "Rigid, esnemeyen ve bükülmeyen katı yapıları söyler."
+    }
+  },
+  {
+    "id": "eng_143",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Rigid",
+      "frontText": "'Rigid' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Sert, Katı, Esnemeyen. (Örn: 'The company has rigid rules.')"
+    },
+    "quiz": {
+      "questionText": "'Rigid' sıfatı ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Sert / Katı / Esnemeyen", "isCorrect": true },
+        { "id": "o2", "text": "Esnek", "isCorrect": false },
+        { "id": "o3", "text": "Yumuşak", "isCorrect": false },
+        { "id": "o4", "text": "Gevşek", "isCorrect": false }
+      ],
+      "explanation": "Rigid, kurallarda veya fiziksel formda taviz vermeyen katılıktır."
+    }
+  },
+  {
+    "id": "eng_144",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Mild",
+      "frontText": "'Mild' kelimesinin zıt anlamlısı hangisidir?",
+      "backText": "Harsh / Severe."
+    },
+    "quiz": {
+      "questionText": "Hangisi 'Mild' (Hafif/Ilıman) kelimesinin zıt anlamlısıdır?",
+      "options": [
+        { "id": "o1", "text": "Severe", "isCorrect": true },
+        { "id": "o2", "text": "Calm", "isCorrect": false },
+        { "id": "o3", "text": "Gentle", "isCorrect": false },
+        { "id": "o4", "text": "Soft", "isCorrect": false }
+      ],
+      "explanation": "Severe şiddetli ve ağır durumları anlatırken mild ılıman haldedir."
+    }
+  },
+  {
+    "id": "eng_145",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Praise",
+      "frontText": "'Praise' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Övmek, Takdir Etmek. (Örn: 'The boss praised her good work.')"
+    },
+    "quiz": {
+      "questionText": "'Praise' fiilinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Övmek / Takdir etmek", "isCorrect": true },
+        { "id": "o2", "text": "Eleştirmek", "isCorrect": false },
+        { "id": "o3", "text": "Cezalandırmak", "isCorrect": false },
+        { "id": "o4", "text": "Azarlamak", "isCorrect": false }
+      ],
+      "explanation": "Praise, yapılan güzel bir işi takdir edip övgüyle bahsetmektir."
+    }
+  },
+  {
+    "id": "eng_146",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Criticize",
+      "frontText": "'Criticize' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Eleştirmek. (Örn: 'It is easy to criticize others.')"
+    },
+    "quiz": {
+      "questionText": "'Criticize' fiili Türkçe'de ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Eleştirmek", "isCorrect": true },
+        { "id": "o2", "text": "Övmek", "isCorrect": false },
+        { "id": "o3", "text": "Onaylamak", "isCorrect": false },
+        { "id": "o4", "text": "Ödüllendirmek", "isCorrect": false }
+      ],
+      "explanation": "Criticize, kusurları veya durumları değerlendirip eleştirmektir."
+    }
+  },
+  {
+    "id": "eng_147",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Blame",
+      "frontText": "'Blame' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Suçlamak. (Örn: 'Don't blame me for your mistake.')"
+    },
+    "quiz": {
+      "questionText": "'Blame' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Suçlamak", "isCorrect": true },
+        { "id": "o2", "text": "Affetmek", "isCorrect": false },
+        { "id": "o3", "text": "Tebrik etmek", "isCorrect": false },
+        { "id": "o4", "text": "Anlamak", "isCorrect": false }
+      ],
+      "explanation": "Blame, bir olumsuzluğun sorumlusu olarak birini göstermektir."
+    }
+  },
+  {
+    "id": "eng_148",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Forgive",
+      "frontText": "'Forgive' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Affetmek. (Örn: 'Please forgive me for being late.')"
+    },
+    "quiz": {
+      "questionText": "'Forgive' fiilinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Affetmek", "isCorrect": true },
+        { "id": "o2", "text": "Cezalandırmak", "isCorrect": false },
+        { "id": "o3", "text": "Unutmak", "isCorrect": false },
+        { "id": "o4", "text": "Kovmak", "isCorrect": false }
+      ],
+      "explanation": "Forgive, yapılan hatayı bağışlayıp husumeti bitirmektir."
+    }
+  },
+  {
+    "id": "eng_149",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Punish",
+      "frontText": "'Punish' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Cezalandırmak. (Örn: 'The criminal was severely punished.')"
+    },
+    "quiz": {
+      "questionText": "'Punish' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Cezalandırmak", "isCorrect": true },
+        { "id": "o2", "text": "Affetmek", "isCorrect": false },
+        { "id": "o3", "text": "Ödüllendirmek", "isCorrect": false },
+        { "id": "o4", "text": "Salıvermek", "isCorrect": false }
+      ],
+      "explanation": "Punish, yapılan suç veya kural ihlaline karşılık ceza vermektir."
+    }
+  },
+  {
+    "id": "eng_150",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Reward",
+      "frontText": "'Reward' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Ödüllendirmek, Ödül. (Örn: 'Hard work will bring its own reward.')"
+    },
+    "quiz": {
+      "questionText": "'Reward' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Ödül / Ödüllendirmek", "isCorrect": true },
+        { "id": "o2", "text": "Ceza", "isCorrect": false },
+        { "id": "o3", "text": "Kayıp", "isCorrect": false },
+        { "id": "o4", "text": "Vergi", "isCorrect": false }
+      ],
+      "explanation": "Reward, başarı veya iyi davranış karşılığında verilen mükafattır."
+    }
+  },
+  {
+    "id": "eng_151",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Protect",
+      "frontText": "'Protect' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Korumak. (Örn: 'Sunscreen helps protect your skin.')"
+    },
+    "quiz": {
+      "questionText": "'Protect' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Korumak", "isCorrect": true },
+        { "id": "o2", "text": "Zarar vermek", "isCorrect": false },
+        { "id": "o3", "text": "Saldırmak", "isCorrect": false },
+        { "id": "o4", "text": "Açığa çıkarmak", "isCorrect": false }
+      ],
+      "explanation": "Protect, tehlikelere karşı muhafaza etmek ve gözetmektir."
+    }
+  },
+  {
+    "id": "eng_152",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Attack",
+      "frontText": "'Attack' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Saldırmak, Saldırı. (Örn: 'Lions attack when they are hungry.')"
+    },
+    "quiz": {
+      "questionText": "'Attack' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Saldırmak / Saldırı", "isCorrect": true },
+        { "id": "o2", "text": "Savunmak", "isCorrect": false },
+        { "id": "o3", "text": "Kaçmak", "isCorrect": false },
+        { "id": "o4", "text": "Saklanmak", "isCorrect": false }
+      ],
+      "explanation": "Attack, zarar vermek amacıyla hücum etmektir."
+    }
+  },
+  {
+    "id": "eng_153",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Defend",
+      "frontText": "'Defend' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Savunmak. (Örn: 'The team defended their goal well.')"
+    },
+    "quiz": {
+      "questionText": "'Defend' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Savunmak", "isCorrect": true },
+        { "id": "o2", "text": "Saldırmak", "isCorrect": false },
+        { "id": "o3", "text": "Terk etmek", "isCorrect": false },
+        { "id": "o4", "text": "Teslim olmak", "isCorrect": false }
+      ],
+      "explanation": "Defend, gelen saldırılara karşı kendini veya bölgesini korumaktır."
+    }
+  },
+  {
+    "id": "eng_154",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Surrender",
+      "frontText": "'Surrender' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Teslim Olmak. (Örn: 'The enemy was forced to surrender.')"
+    },
+    "quiz": {
+      "questionText": "'Surrender' fiilinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Teslim olmak", "isCorrect": true },
+        { "id": "o2", "text": "Direnç göstermek", "isCorrect": false },
+        { "id": "o3", "text": "Kazanmak", "isCorrect": false },
+        { "id": "o4", "text": "Saldırmak", "isCorrect": false }
+      ],
+      "explanation": "Surrender, mücadeleyi bırakıp karşı tarafa boyun eğmektir."
+    }
+  },
+  {
+    "id": "eng_155",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Resist",
+      "frontText": "'Resist' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Direnç Göstermek, Karşı Koymak. (Örn: 'It was hard to resist the temptation.')"
+    },
+    "quiz": {
+      "questionText": "'Resist' fiilinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Direnç göstermek / Karşı koymak", "isCorrect": true },
+        { "id": "o2", "text": "Teslim olmak", "isCorrect": false },
+        { "id": "o3", "text": "Kabullenmek", "isCorrect": false },
+        { "id": "o4", "text": "Kaçmak", "isCorrect": false }
+      ],
+      "explanation": "Resist, baskı veya güce karşı direnip kabul etmemektir."
+    }
+  },
+  {
+    "id": "eng_156",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Escape",
+      "frontText": "'Escape' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kaçmak, Kurtulmak. (Örn: 'They managed to escape from the building.')"
+    },
+    "quiz": {
+      "questionText": "'Escape' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kaçmak / Kurtulmak", "isCorrect": true },
+        { "id": "o2", "text": "Yakalanmak", "isCorrect": false },
+        { "id": "o3", "text": "Girmek", "isCorrect": false },
+        { "id": "o4", "text": "Beklemek", "isCorrect": false }
+      ],
+      "explanation": "Escape, tehlikeli veya kapalı bir alandan uzaklaşıp özgür kalmaktır."
+    }
+  },
+  {
+    "id": "eng_157",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Capture",
+      "frontText": "'Capture' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Yakalamak, Ele Geçirmek. (Örn: 'The police managed to capture the thief.')"
+    },
+    "quiz": {
+      "questionText": "'Capture' fiili ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Yakalamak / Ele geçirmek", "isCorrect": true },
+        { "id": "o2", "text": "Serbest bırakmak", "isCorrect": false },
+        { "id": "o3", "text": "Kaçırmak", "isCorrect": false },
+        { "id": "o4", "text": "Kaybetmek", "isCorrect": false }
+      ],
+      "explanation": "Capture, kaçan bir şeyi yakalamak ya da kontrol altına almaktır."
+    }
+  },
+  {
+    "id": "eng_158",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Release",
+      "frontText": "'Release' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Serbest Bırakmak, Yayımlamak. (Örn: 'They released a new album today.')"
+    },
+    "quiz": {
+      "questionText": "'Release' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Serbest bırakmak / Yayımlamak", "isCorrect": true },
+        { "id": "o2", "text": "Hhapsetmek", "isCorrect": false },
+        { "id": "o3", "text": "Gizlemek", "isCorrect": false },
+        { "id": "o4", "text": "Toplamak", "isCorrect": false }
+      ],
+      "explanation": "Release, tutulan bir şeyi salmak veya yeni bir ürünü piyasaya sürmektir."
+    }
+  },
+  {
+    "id": "eng_159",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Imprison",
+      "frontText": "'Imprison' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Hapse Atmak, Büyülemek/Kapatmak. (Örn: 'He was imprisoned for fraud.')"
+    },
+    "quiz": {
+      "questionText": "'Imprison' fiilinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Hapse atmak", "isCorrect": true },
+        { "id": "o2", "text": "Tahliye etmek", "isCorrect": false },
+        { "id": "o3", "text": "Affetmek", "isCorrect": false },
+        { "id": "o4", "text": "Ödüllendirmek", "isCorrect": false }
+      ],
+      "explanation": "Imprison, birini cezaevine kapatarak özgürlüğünü kısıtlamaktır."
+    }
+  },
+  {
+    "id": "eng_160",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Freedom",
+      "frontText": "'Freedom' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Özgürlük, Hürriyet. (Örn: 'Everyone has the right to freedom of speech.')"
+    },
+    "quiz": {
+      "questionText": "'Freedom' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Özgürlük / Hürriyet", "isCorrect": true },
+        { "id": "o2", "text": "Esaret / Kölelik", "isCorrect": false },
+        { "id": "o3", "text": "Korku", "isCorrect": false },
+        { "id": "o4", "text": "Sorumluluk", "isCorrect": false }
+      ],
+      "explanation": "Freedom, bir baskı veya engel olmadan yaşayabilme hürriyetidir."
+    }
+  },
+  {
+    "id": "eng_161",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Slavery",
+      "frontText": "'Slavery' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kölelik, Esaret. (Örn: 'Slavery was abolished in the 19th century.')"
+    },
+    "quiz": {
+      "questionText": "'Slavery' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kölelik / Esaret", "isCorrect": true },
+        { "id": "o2", "text": "Özgürlük", "isCorrect": false },
+        { "id": "o3", "text": "Eşitlik", "isCorrect": false },
+        { "id": "o4", "text": "Adalet", "isCorrect": false }
+      ],
+      "explanation": "Slavery, insanların özgürlüklerinin elinden alınıp mal gibi satılması durumudur."
+    }
+  },
+  {
+    "id": "eng_162",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Equality",
+      "frontText": "'Equality' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Eşitlik. (Örn: 'We fight for gender equality.')"
+    },
+    "quiz": {
+      "questionText": "'Equality' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Eşitlik", "isCorrect": true },
+        { "id": "o2", "text": "Ayrımcılık", "isCorrect": false },
+        { "id": "o3", "text": "Adaletsizlik", "isCorrect": false },
+        { "id": "o4", "text": "Üstünlük", "isCorrect": false }
+      ],
+      "explanation": "Equality, tüm bireylerin eşit hak ve imkanlara sahip olmasıdır."
+    }
+  },
+  {
+    "id": "eng_163",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Justice",
+      "frontText": "'Justice' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Adalet. (Örn: 'They demanded justice for the victims.')"
+    },
+    "quiz": {
+      "questionText": "'Justice' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Adalet", "isCorrect": true },
+        { "id": "o2", "text": "Suç", "isCorrect": false },
+        { "id": "o3", "text": "Haksızlık", "isCorrect": false },
+        { "id": "o4", "text": "Ceza", "isCorrect": false }
+      ],
+      "explanation": "Justice, hakkın verilmesi ve kanunların tarafsız uygulanmasıdır."
+    }
+  },
+  {
+    "id": "eng_164",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Injustice",
+      "frontText": "'Injustice' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Adaletsizlik, Haksızlık. (Örn: 'We must fight against social injustice.')"
+    },
+    "quiz": {
+      "questionText": "'Injustice' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Adaletsizlik / Haksızlık", "isCorrect": true },
+        { "id": "o2", "text": "Adalet", "isCorrect": false },
+        { "id": "o3", "text": "Hukuk", "isCorrect": false },
+        { "id": "o4", "text": "Doğruluk", "isCorrect": false }
+      ],
+      "explanation": "Injustice, adil olmayan ve haksızlığa yol açan eylemlerdir."
+    }
+  },
+  {
+    "id": "eng_165",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Peace",
+      "frontText": "'Peace' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Barış, Huzur. (Örn: 'All nations want to live in peace.')"
+    },
+    "quiz": {
+      "questionText": "'Peace' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Barış / Huzur", "isCorrect": true },
+        { "id": "o2", "text": "Savaş", "isCorrect": false },
+        { "id": "o3", "text": "Kavga", "isCorrect": false },
+        { "id": "o4", "text": "Gürültü", "isCorrect": false }
+      ],
+      "explanation": "Peace, çatışmaların olmadığı dinginlik ve barış halidir."
+    }
+  },
+  {
+    "id": "eng_166",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - War",
+      "frontText": "'War' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Savaş, Harp. (Örn: 'Nobody wants a nuclear war.')"
+    },
+    "quiz": {
+      "questionText": "'War' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Savaş", "isCorrect": true },
+        { "id": "o2", "text": "Barış", "isCorrect": false },
+        { "id": "o3", "text": "Anlaşma", "isCorrect": false },
+        { "id": "o4", "text": "Ateşkes", "isCorrect": false }
+      ],
+      "explanation": "War, devletler veya gruplar arasındaki silahlı mücadeledir."
+    }
+  },
+  {
+    "id": "eng_167",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Conflict",
+      "frontText": "'Conflict' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Çatışma, Anlaşmazlık. (Örn: 'They need to resolve the conflict peacefully.')"
+    },
+    "quiz": {
+      "questionText": "'Conflict' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Çatışma / Anlaşmazlık", "isCorrect": true },
+        { "id": "o2", "text": "Uyum", "isCorrect": false },
+        { "id": "o3", "text": "Sözleşme", "isCorrect": false },
+        { "id": "o4", "text": "Dostluk", "isCorrect": false }
+      ],
+      "explanation": "Conflict, taraflar arasındaki sürtüşme ve fikir çatışmasıdır."
+    }
+  },
+  {
+    "id": "eng_168",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Harmony",
+      "frontText": "'Harmony' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Uyum, Ahenk. (Örn: 'They live together in total harmony.')"
+    },
+    "quiz": {
+      "questionText": "'Harmony' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Uyum / Ahenk", "isCorrect": true },
+        { "id": "o2", "text": "Kargaşa", "isCorrect": false },
+        { "id": "o3", "text": "Çatışma", "isCorrect": false },
+        { "id": "o4", "text": "Ses kirliliği", "isCorrect": false }
+      ],
+      "explanation": "Harmony, unsurlar arasındaki mükemmel uyum ve dengedir."
+    }
+  },
+  {
+    "id": "eng_169",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Chaos",
+      "frontText": "'Chaos' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kaos, Kargaşa. (Örn: 'The power outage caused chaos in the city.')"
+    },
+    "quiz": {
+      "questionText": "'Chaos' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kaos / Kargaşa", "isCorrect": true },
+        { "id": "o2", "text": "Düzen", "isCorrect": false },
+        { "id": "o3", "text": "Sakinlik", "isCorrect": false },
+        { "id": "o4", "text": "Ahenk", "isCorrect": false }
+      ],
+      "explanation": "Chaos, kontrolün kaybolduğu büyük düzensizlik halidir."
+    }
+  },
+  {
+    "id": "eng_170",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Order",
+      "frontText": "'Order' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Düzen / Sipariş / Emir. (Örn: 'Law and order must be maintained.')"
+    },
+    "quiz": {
+      "questionText": "'Order' kelimesinin bir anlamı aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Düzen / Sipariş / Emir", "isCorrect": true },
+        { "id": "o2", "text": "Dağınıklık", "isCorrect": false },
+        { "id": "o3", "text": "Kargaşa", "isCorrect": false },
+        { "id": "o4", "text": "Şüphe", "isCorrect": false }
+      ],
+      "explanation": "Order, toplumsal düzeni, sipariş vermeyi veya emri ifade eder."
+    }
+  },
+  {
+    "id": "eng_171",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Mess",
+      "frontText": "'Mess' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Dağınıklık, Pislik. (Örn: 'Clean up this mess right now.')"
+    },
+    "quiz": {
+      "questionText": "'Mess' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Dağınıklık / Pislik", "isCorrect": true },
+        { "id": "o2", "text": "Temizlik", "isCorrect": false },
+        { "id": "o3", "text": "Düzen", "isCorrect": false },
+        { "id": "o4", "text": "Güzellik", "isCorrect": false }
+      ],
+      "explanation": "Mess, ortamın veya durumun dağınık ve kirli olma halidir."
+    }
+  },
+  {
+    "id": "eng_172",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Tidy",
+      "frontText": "'Tidy' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Düzenli, Derli Toplu. (Örn: 'Keep your room clean and tidy.')"
+    },
+    "quiz": {
+      "questionText": "'Tidy' sıfatı ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Düzenli / Derli toplu", "isCorrect": true },
+        { "id": "o2", "text": "Dağınık", "isCorrect": false },
+        { "id": "o3", "text": "Kirli", "isCorrect": false },
+        { "id": "o4", "text": "Karanlık", "isCorrect": false }
+      ],
+      "explanation": "Tidy, her şeyin yerli yerinde olduğu düzenli durumdur."
+    }
+  },
+  {
+    "id": "eng_173",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Untidy",
+      "frontText": "'Untidy' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Dağınık, Düzensiz. (Örn: 'His desk is always untidy.')"
+    },
+    "quiz": {
+      "questionText": "'Untidy' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Dağınık / Düzensiz", "isCorrect": true },
+        { "id": "o2", "text": "Düzenli", "isCorrect": false },
+        { "id": "o3", "text": "Temiz", "isCorrect": false },
+        { "id": "o4", "text": "Şık", "isCorrect": false }
+      ],
+      "explanation": "Untidy, eşyaların düzensiz saçıldığı durumları tarif eder."
+    }
+  },
+  {
+    "id": "eng_174",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Solve",
+      "frontText": "'Solve' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Çözmek, Halletmek. (Örn: 'We need to solve this mystery.')"
+    },
+    "quiz": {
+      "questionText": "'Solve' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Çözmek / Halletmek", "isCorrect": true },
+        { "id": "o2", "text": "Karmaşıklaştırmak", "isCorrect": false },
+        { "id": "o3", "text": "Sorun çıkarmak", "isCorrect": false },
+        { "id": "o4", "text": "Unutmak", "isCorrect": false }
+      ],
+      "explanation": "Solve, bir problemi veya bilmeceyi çözüme kavuşturmaktır."
+    }
+  },
+  {
+    "id": "eng_175",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Create",
+      "frontText": "'Create' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Yaratmak, Oluşturmak. (Örn: 'Artists create beautiful paintings.')"
+    },
+    "quiz": {
+      "questionText": "'Create' fiili ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Oluşturmak / Yaratmak", "isCorrect": true },
+        { "id": "o2", "text": "Yok etmek", "isCorrect": false },
+        { "id": "o3", "text": "Kopyalamak", "isCorrect": false },
+        { "id": "o4", "text": "Silmek", "isCorrect": false }
+      ],
+      "explanation": "Create, yeni bir şeyi ortaya çıkarmak veya üretmektir."
+    }
+  },
+  {
+    "id": "eng_176",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Destroy",
+      "frontText": "'Destroy' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Yok Etmek, Yıkmak. (Örn: 'The fire destroyed the entire forest.')"
+    },
+    "quiz": {
+      "questionText": "'Destroy' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Yok etmek / Yıkmak", "isCorrect": true },
+        { "id": "o2", "text": "İnşa etmek", "isCorrect": false },
+        { "id": "o3", "text": "Korumak", "isCorrect": false },
+        { "id": "o4", "text": "Tamir etmek", "isCorrect": false }
+      ],
+      "explanation": "Destroy, bir yapıyı veya nesneyi tamamen ortadan kaldırmaktır."
+    }
+  },
+  {
+    "id": "eng_177",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Build",
+      "frontText": "'Build' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "İnşa Etmek, Kurmak. (Örn: 'They build a new bridge.')"
+    },
+    "quiz": {
+      "questionText": "'Build' fiilinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "İnşa etmek / Kurmak", "isCorrect": true },
+        { "id": "o2", "text": "Yıkmak", "isCorrect": false },
+        { "id": "o3", "text": "Bozmak", "isCorrect": false },
+        { "id": "o4", "text": "Satmak", "isCorrect": false }
+      ],
+      "explanation": "Build, bir yapıyı parçaları birleştirerek inşa etmektir."
+    }
+  },
+  {
+    "id": "eng_178",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Repair",
+      "frontText": "'Repair' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Onarmak, Tamir Etmek. (Örn: 'He knows how to repair cars.')"
+    },
+    "quiz": {
+      "questionText": "'Repair' fiili ne demektir?",
+      "options": [
+        { "id": "o1", "text": "Tamir etmek / Onarmak", "isCorrect": true },
+        { "id": "o2", "text": "Bozmak", "isCorrect": false },
+        { "id": "o3", "text": "Kırmak", "isCorrect": false },
+        { "id": "o4", "text": "Kirletmek", "isCorrect": false }
+      ],
+      "explanation": "Repair, bozuk bir nesneyi tekrar çalışır hale getirmektir."
+    }
+  },
+  {
+    "id": "eng_179",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Damage",
+      "frontText": "'Damage' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Zarar Vermek, Hasar. (Örn: 'Smoking damages your lungs.')"
+    },
+    "quiz": {
+      "questionText": "'Damage' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Hasar / Zarar vermek", "isCorrect": true },
+        { "id": "o2", "text": "Onarmak", "isCorrect": false },
+        { "id": "o3", "text": "İyileştirmek", "isCorrect": false },
+        { "id": "o4", "text": "Geliştirmek", "isCorrect": false }
+      ],
+      "explanation": "Damage, bir şeyin yapısını bozarak ona zarar vermektir."
+    }
+  },
+  {
+    "id": "eng_180",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Improve",
+      "frontText": "'Improve' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Geliştirmek, İyileştirmek. (Örn: 'I want to improve my English.')"
+    },
+    "quiz": {
+      "questionText": "'Improve' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Geliştirmek / İyileştirmek", "isCorrect": true },
+        { "id": "o2", "text": "Kötüleştirmek", "isCorrect": false },
+        { "id": "o3", "text": "Durdurmak", "isCorrect": false },
+        { "id": "o4", "text": "Unutmak", "isCorrect": false }
+      ],
+      "explanation": "Improve, mevcut durumu daha iyi bir seviyeye getirmektir."
+    }
+  },
+  {
+    "id": "eng_181",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Decline",
+      "frontText": "'Decline' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Reddetmek / Düşüşe Geçmek. (Örn: 'Sales began to decline in winter.')"
+    },
+    "quiz": {
+      "questionText": "'Decline' fiilinin bir anlamı aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Reddetmek / Düşüşe geçmek", "isCorrect": true },
+        { "id": "o2", "text": "Yükselmek", "isCorrect": false },
+        { "id": "o3", "text": "Kabul etmek", "isCorrect": false },
+        { "id": "o4", "text": "Onaylamak", "isCorrect": false }
+      ],
+      "explanation": "Decline, bir teklifi kibarca reddetmek veya nicelik olarak azalmaktır."
+    }
+  },
+  {
+    "id": "eng_182",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Accept",
+      "frontText": "'Accept' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kabul Etmek. (Örn: 'She decided to accept the job offer.')"
+    },
+    "quiz": {
+      "questionText": "'Accept' fiilinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kabul etmek", "isCorrect": true },
+        { "id": "o2", "text": "Geri çevirmek", "isCorrect": false },
+        { "id": "o3", "text": "Ertelemek", "isCorrect": false },
+        { "id": "o4", "text": "Eleştirmek", "isCorrect": false }
+      ],
+      "explanation": "Accept, sunulan bir teklifi veya durumu onaylayıp almaktır."
+    }
+  },
+  {
+    "id": "eng_183",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Reject",
+      "frontText": "'Reject' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Geri Çevirmek, Reddetmek. (Örn: 'The proposal was rejected.')"
+    },
+    "quiz": {
+      "questionText": "'Reject' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Geri çevirmek / Reddetmek", "isCorrect": true },
+        { "id": "o2", "text": "Kabul etmek", "isCorrect": false },
+        { "id": "o3", "text": "Beğenmek", "isCorrect": false },
+        { "id": "o4", "text": "İmzalamak", "isCorrect": false }
+      ],
+      "explanation": "Reject, bir fikri veya teklifi kesin olarak kabul etmemektir."
+    }
+  },
+  {
+    "id": "eng_184",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Demand",
+      "frontText": "'Demand' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Talep Etmek, Talep. (Örn: 'Demand for electric cars is rising.')"
+    },
+    "quiz": {
+      "questionText": "'Demand' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Talep etmek / Talep", "isCorrect": true },
+        { "id": "o2", "text": "Arz etmek", "isCorrect": false },
+        { "id": "o3", "text": "Vazgeçmek", "isCorrect": false },
+        { "id": "o4", "text": "Şüphelenmek", "isCorrect": false }
+      ],
+      "explanation": "Demand, istek ve ihtiyaç doğrultusunda ortaya çıkan taleptir."
+    }
+  },
+  {
+    "id": "eng_185",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Supply",
+      "frontText": "'Supply' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Tedarik Etmek, Arz. (Örn: 'The company supplies gas to the city.')"
+    },
+    "quiz": {
+      "questionText": "'Supply' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Tedarik etmek / Arz", "isCorrect": true },
+        { "id": "o2", "text": "Tüketmek", "isCorrect": false },
+        { "id": "o3", "text": "İstemek", "isCorrect": false },
+        { "id": "o4", "text": "Gizlemek", "isCorrect": false }
+      ],
+      "explanation": "Supply, gereksinim duyulan ürünleri sağlamak ve sunmaktır."
+    }
+  },
+  {
+    "id": "eng_186",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Consume",
+      "frontText": "'Consume' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Tüketmek. (Örn: 'Vehicles consume a lot of fuel.')"
+    },
+    "quiz": {
+      "questionText": "'Consume' fiili ne anlama gelir?",
+      "options": [
+        { "id": "o1", "text": "Tüketmek", "isCorrect": true },
+        { "id": "o2", "text": "Üretmek", "isCorrect": false },
+        { "id": "o3", "text": "Biriktirmek", "isCorrect": false },
+        { "id": "o4", "text": "Saklamak", "isCorrect": false }
+      ],
+      "explanation": "Consume, kaynakları, enerjiyi veya besinleri kullanıp bitirmektir."
+    }
+  },
+  {
+    "id": "eng_187",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Produce",
+      "frontText": "'Produce' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Üretmek. (Örn: 'The factory produces electric engines.')"
+    },
+    "quiz": {
+      "questionText": "'Produce' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Üretmek", "isCorrect": true },
+        { "id": "o2", "text": "Tüketmek", "isCorrect": false },
+        { "id": "o3", "text": "Yok etmek", "isCorrect": false },
+        { "id": "o4", "text": "Satın almak", "isCorrect": false }
+      ],
+      "explanation": "Produce, imal etmek ve yeni mal veya hizmet ortaya çıkarmaktır."
+    }
+  },
+  {
+    "id": "eng_188",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Import",
+      "frontText": "'Import' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "İthal Etmek (Dışarıdan Almak). (Örn: 'Turkey imports natural gas.')"
+    },
+    "quiz": {
+      "questionText": "'Import' fiilinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "İthal etmek (Dışarıdan almak)", "isCorrect": true },
+        { "id": "o2", "text": "İhraç etmek (Dışarıya satmak)", "isCorrect": false },
+        { "id": "o3", "text": "Üretmek", "isCorrect": false },
+        { "id": "o4", "text": "Tüketmek", "isCorrect": false }
+      ],
+      "explanation": "Import, başka ülkelerden mal ve ürün satın alma eylemidir."
+    }
+  },
+  {
+    "id": "eng_189",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Export",
+      "frontText": "'Export' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "İhraç Etmek (Dışarıya Satmak). (Örn: 'Brazil exports coffee beans.')"
+    },
+    "quiz": {
+      "questionText": "'Export' fiilinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "İhraç etmek (Dışarı satmak)", "isCorrect": true },
+        { "id": "o2", "text": "İthal etmek", "isCorrect": false },
+        { "id": "o3", "text": "Satın almak", "isCorrect": false },
+        { "id": "o4", "text": "Kalamak", "isCorrect": false }
+      ],
+      "explanation": "Export, yurt içinde üretilen ürünleri başka ülkelere satmaktır."
+    }
+  },
+  {
+    "id": "eng_190",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Foreign",
+      "frontText": "'Foreign' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Yabancı, Dış. (Örn: 'She can speak two foreign languages.')"
+    },
+    "quiz": {
+      "questionText": "'Foreign' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Yabancı / Dış", "isCorrect": true },
+        { "id": "o2", "text": "Yerli / İç", "isCorrect": false },
+        { "id": "o3", "text": "Akraba", "isCorrect": false },
+        { "id": "o4", "text": "Tanıdık", "isCorrect": false }
+      ],
+      "explanation": "Foreign, başka ülkelere veya kültürlere ait olan durumdur."
+    }
+  },
+  {
+    "id": "eng_191",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Native",
+      "frontText": "'Native' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Yerli, Öz. (Örn: 'He is a native speaker of English.')"
+    },
+    "quiz": {
+      "questionText": "'Native' sözcüğünün karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Yerli / Öz", "isCorrect": true },
+        { "id": "o2", "text": "Yabancı", "isCorrect": false },
+        { "id": "o3", "text": "Mülteci", "isCorrect": false },
+        { "id": "o4", "text": "Turist", "isCorrect": false }
+      ],
+      "explanation": "Native, doğulan yere ait olan yerli unsurları ifade eder."
+    }
+  },
+  {
+    "id": "eng_192",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Citizen",
+      "frontText": "'Citizen' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Vatandaş, Yurttaş. (Örn: 'He is a Turkish citizen.')"
+    },
+    "quiz": {
+      "questionText": "'Citizen' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Vatandaş / Yurttaş", "isCorrect": true },
+        { "id": "o2", "text": "Turist", "isCorrect": false },
+        { "id": "o3", "text": "Yabancı", "isCorrect": false },
+        { "id": "o4", "text": "Kaçak", "isCorrect": false }
+      ],
+      "explanation": "Citizen, bir devletin yasal haklarına sahip resmi yurttaşıdır."
+    }
+  },
+  {
+    "id": "eng_193",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Immigrant",
+      "frontText": "'Immigrant' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Göçmen. (Örn: 'New York has many immigrants from around the world.')"
+    },
+    "quiz": {
+      "questionText": "'Immigrant' kelimesinin karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Göçmen", "isCorrect": true },
+        { "id": "o2", "text": "Yerli", "isCorrect": false },
+        { "id": "o3", "text": "Kral", "isCorrect": false },
+        { "id": "o4", "text": "Asker", "isCorrect": false }
+      ],
+      "explanation": "Immigrant, başka bir ülkeye kalıcı yaşamak üzere göç eden kimsedir."
+    }
+  },
+  {
+    "id": "eng_194",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Resident",
+      "frontText": "'Resident' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Sakin, İkamet Eden. (Örn: 'Local residents complained about noise.')"
+    },
+    "quiz": {
+      "questionText": "'Resident' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "İkamet eden / Sakin", "isCorrect": true },
+        { "id": "o2", "text": "Gezgin", "isCorrect": false },
+        { "id": "o3", "text": "Misafir", "isCorrect": false },
+        { "id": "o4", "text": "Yabancı", "isCorrect": false }
+      ],
+      "explanation": "Resident, belirli bir bölge veya adreste yerleşik olarak oturan kimsedir."
+    }
+  },
+  {
+    "id": "eng_195",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Destination",
+      "frontText": "'Destination' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Varış Yeri, Hedef Nokta. (Örn: 'We reached our destination after five hours.')"
+    },
+    "quiz": {
+      "questionText": "'Destination' kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Varış yeri / Hedef", "isCorrect": true },
+        { "id": "o2", "text": "Kalkış noktası", "isCorrect": false },
+        { "id": "o3", "text": "Mola yeri", "isCorrect": false },
+        { "id": "o4", "text": "Bilet gişesi", "isCorrect": false }
+      ],
+      "explanation": "Destination, yolculuğun sonunda ulaşılmak istenen nihai noktadır."
+    }
+  },
+  {
+    "id": "eng_196",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Departure",
+      "frontText": "'Departure' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Kalkış, Hareket. (Örn: 'Flight departure is at 10 AM.')"
+    },
+    "quiz": {
+      "questionText": "Havalimanlarında sıkça görülen 'Departure' kelimesinin anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kalkış / Gidiş", "isCorrect": true },
+        { "id": "o2", "text": "Varış / Geliş", "isCorrect": false },
+        { "id": "o3", "text": "Bavul teslim", "isCorrect": false },
+        { "id": "o4", "text": "Pasaport kontrolü", "isCorrect": false }
+      ],
+      "explanation": "Departure, bir aracın hareket etme ve kalkış saatini simgeler."
+    }
+  },
+  {
+    "id": "eng_197",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Arrival",
+      "frontText": "'Arrival' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Varış, Geliş. (Örn: 'Check the arrival board for updates.')"
+    },
+    "quiz": {
+      "questionText": "Havalimanlarındaki 'Arrival' panosu neyi gösterir?",
+      "options": [
+        { "id": "o1", "text": "Varış / Gelen uçakları", "isCorrect": true },
+        { "id": "o2", "text": "Kalkış / Giden uçakları", "isCorrect": false },
+        { "id": "o3", "text": "İptal edilen uçuşları", "isCorrect": false },
+        { "id": "o4", "text": "Bilet fiyatlarını", "isCorrect": false }
+      ],
+      "explanation": "Arrival, varan veya gelmekte olan seferlerin listelendiği bölümdür."
+    }
+  },
+  {
+    "id": "eng_198",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Delay",
+      "frontText": "'Delay' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Gecikme, Erteleme. (Örn: 'Our flight was delayed by two hours.')"
+    },
+    "quiz": {
+      "questionText": "'Delay' kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        { "id": "o1", "text": "Gecikme / Rötar", "isCorrect": true },
+        { "id": "o2", "text": "Erken gelme", "isCorrect": false },
+        { "id": "o3", "text": "İptal", "isCorrect": false },
+        { "id": "o4", "text": "Kalkış", "isCorrect": false }
+      ],
+      "explanation": "Delay, beklenen zamanda gerçekleşmeyip rötar yapma halidir."
+    }
+  },
+  {
+    "id": "eng_199",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Cancel",
+      "frontText": "'Cancel' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "İptal Etmek. (Örn: 'They had to cancel the match due to rain.')"
+    },
+    "quiz": {
+      "questionText": "'Cancel' fiilinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "İptal etmek", "isCorrect": true },
+        { "id": "o2", "text": "Etelemek", "isCorrect": false },
+        { "id": "o3", "text": "Onaylamak", "isCorrect": false },
+        { "id": "o4", "text": "Başlatmak", "isCorrect": false }
+      ],
+      "explanation": "Cancel, planlanmış bir etkinliği tamamen hükümsüz kılıp bitirmektir."
+    }
+  },
+  {
+    "id": "eng_200",
+    "categoryId": "english",
+    "card": {
+      "title": "İngilizce Kelime - Postpone",
+      "frontText": "'Postpone' kelimesinin Türkçe karşılığı nedir?",
+      "backText": "Ertelemek, İleri Bir Tarihe Atmak. (Örn: 'The meeting was postponed until next Monday.')"
+    },
+    "quiz": {
+      "questionText": "'Postpone' fiilinin Türkçe karşılığı nedir?",
+      "options": [
+        { "id": "o1", "text": "Ertelemek / İleri tarihe atmak", "isCorrect": true },
+        { "id": "o2", "text": "İptal etmek", "isCorrect": false },
+        { "id": "o3", "text": "Öne çekmek", "isCorrect": false },
+        { "id": "o4", "text": "Tamamlamak", "isCorrect": false }
+      ],
+      "explanation": "Postpone, iptal etmekten farklı olarak bir etkinliği başka bir zamana kaydırmaktır."
+    }
+  }
+]

@@ -116,9 +116,9 @@ export const LearnScreen = ({ navigation }: any) => {
 
       {/* 3D Flip Kart Alanı */}
       <View style={styles.cardArea}>
-        {currentCard ? (
+        {cards.length > 0 && currentCard ? (
           <FlipCard
-            key={currentCard.id}
+            key={currentCard.id || currentIndex}
             card={currentCard}
             onLearned={handleLearned}
             onRepeat={handleRepeat}
@@ -130,11 +130,11 @@ export const LearnScreen = ({ navigation }: any) => {
         )}
       </View>
 
-      {/* Alt Gezinme Butonları */}
+      {/* Alt Gezinme Butonu (Quiz Ayarlar Ekranına Yönlendirir) */}
       <View style={styles.footer}>
         <TouchableOpacity
           style={styles.quizNavButton}
-          onPress={() => navigation.navigate('Quiz')}
+          onPress={() => navigation.navigate('QuizSetup')}
         >
           <Text style={styles.quizNavText}>⚡ Bilgi Yarışmasına Geç</Text>
         </TouchableOpacity>

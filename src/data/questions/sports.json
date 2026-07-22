@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "sports_1",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Dünya Kupası",
+      "frontText": "Dünya Kupası'nı müzesine en çok götüren ülke hangisidir?",
+      "backText": "Brezilya (Toplam 5 kez şampiyon olmuştur)."
+    },
+    "quiz": {
+      "questionText": "FIFA Dünya Kupası'nı tarihinde en çok kazanan milli takım hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Almanya", "isCorrect": false },
+        { "id": "o2", "text": "İtalya", "isCorrect": false },
+        { "id": "o3", "text": "Brezilya", "isCorrect": true },
+        { "id": "o4", "text": "Arjantin", "isCorrect": false }
+      ],
+      "explanation": "Brezilya, 1958, 1962, 1970, 1994 ve 2002 yıllarında olmak üzere toplam 5 kez Dünya Kupası'nı kazanmıştır."
+    }
+  },
+  {
+    "id": "sports_2",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Şampiyonlar Ligi Rekortmeni",
+      "frontText": "UEFA Şampiyonlar Ligi'ni en çok kazanan kulüp hangisidir?",
+      "backText": "Real Madrid (15 kez kupayı müzesine götürmüştür)."
+    },
+    "quiz": {
+      "questionText": "UEFA Şampiyonlar Ligi / Şampiyon Kulüpler Kupası tarihinin en çok şampiyon olan takımı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Real Madrid", "isCorrect": true },
+        { "id": "o2", "text": "AC Milan", "isCorrect": false },
+        { "id": "o3", "text": "Bayern Münih", "isCorrect": false },
+        { "id": "o4", "text": "Liverpool", "isCorrect": false }
+      ],
+      "explanation": "Real Madrid, bu turnuvada kazandığı 15 şampiyonlukla açık ara lider durumdadır."
+    }
+  },
+  {
+    "id": "sports_3",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - NBA Şampiyonlukları",
+      "frontText": "NBA tarihinde en çok şampiyonluk kazanan iki franchise hangisidir?",
+      "backText": "Boston Celtics (18) ve Los Angeles Lakers (17)."
+    },
+    "quiz": {
+      "questionText": "NBA tarihinde 18 şampiyonlukla en çok yüzük kazanan takım tek başına hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Boston Celtics", "isCorrect": true },
+        { "id": "o2", "text": "Los Angeles Lakers", "isCorrect": false },
+        { "id": "o3", "text": "Chicago Bulls", "isCorrect": false },
+        { "id": "o4", "text": "Golden State Warriors", "isCorrect": false }
+      ],
+      "explanation": "Boston Celtics kazandığı şampiyonlukla NBA tarihinin zirvesinde yer almaktadır."
+    }
+  },
+  {
+    "id": "sports_4",
+    "categoryId": "sports",
+    "card": {
+      "title": "Tenis - Grand Slam Rekortmeni (Erkekler)",
+      "frontText": "Erkekler tenisinde en çok Grand Slam şampiyonluğu yaşayan raket kimdir?",
+      "backText": "Novak Djokovic (24 Grand Slam şampiyonluğu)."
+    },
+    "quiz": {
+      "questionText": "Erkekler tenisinde teklerde en fazla Grand Slam kazanan tenisçi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Novak Djokovic", "isCorrect": true },
+        { "id": "o2", "text": "Rafael Nadal", "isCorrect": false },
+        { "id": "o3", "text": "Roger Federer", "isCorrect": false },
+        { "id": "o4", "text": "Pete Sampras", "isCorrect": false }
+      ],
+      "explanation": "Novak Djokovic 24 tekler Grand Slam zaferiyle erkekler tenis rekorunu elinde tutmaktadır."
+    }
+  },
+  {
+    "id": "sports_5",
+    "categoryId": "sports",
+    "card": {
+      "title": "Formula 1 - Şampiyonluk Rekorları",
+      "frontText": "Formula 1 tarihinde 7 Dünya Şampiyonluğu bulunan iki pilot kimdir?",
+      "backText": "Michael Schumacher ve Lewis Hamilton."
+    },
+    "quiz": {
+      "questionText": "Formula 1 tarihinde 7 dünya şampiyonluğuna ulaşarak rekoru paylaşan iki sürücü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Michael Schumacher - Lewis Hamilton", "isCorrect": true },
+        { "id": "o2", "text": "Ayrton Senna - Alain Prost", "isCorrect": false },
+        { "id": "o3", "text": "Sebastian Vettel - Max Verstappen", "isCorrect": false },
+        { "id": "o4", "text": "Fernando Alonso - Kimi Räikkönen", "isCorrect": false }
+      ],
+      "explanation": "Schumacher ve Hamilton 7'şer Dünya Şampiyonluğu ile F1 tarihinin en başarılı iki pilotudur."
+    }
+  },
+  {
+    "id": "sports_6",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Ballon d'Or Rekortmeni",
+      "frontText": "Tarihte en çok Ballon d'Or (Yılın Futbolcusu) ödülü kazanan oyuncu kimdir?",
+      "backText": "Lionel Messi (Toplam 8 kez kazanmıştır)."
+    },
+    "quiz": {
+      "questionText": "Kariyerinde 8 kez Ballon d'Or ödülü kazanan Arjantinli futbol ikonu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Lionel Messi", "isCorrect": true },
+        { "id": "o2", "text": "Cristiano Ronaldo", "isCorrect": false },
+        { "id": "o3", "text": "Diego Maradona", "isCorrect": false },
+        { "id": "o4", "text": "Johan Cruyff", "isCorrect": false }
+      ],
+      "explanation": "Lionel Messi 8 altın top ödülüyle bu alanda kırılması zor bir rekorun sahibidir."
+    }
+  },
+  {
+    "id": "sports_7",
+    "categoryId": "sports",
+    "card": {
+      "title": "Olimpiyatlar - En Çok Madalya Kazanan Sporcu",
+      "frontText": "Olimpiyat tarihinin en çok madalya alan sporcusu kimdir?",
+      "backText": "Michael Phelps (28 Olimpiyat madalyası - 23'ü altın)."
+    },
+    "quiz": {
+      "questionText": "23'ü altın olmak üzere toplam 28 Olimpiyat madalyası kazanan Amerikalı efsane yüzücü kimdir?",
+      "options": [
+        { "id": "o1", "text": "Michael Phelps", "isCorrect": true },
+        { "id": "o2", "text": "Usain Bolt", "isCorrect": false },
+        { "id": "o3", "text": "Ian Thorpe", "isCorrect": false },
+        { "id": "o4", "text": "Mark Spitz", "isCorrect": false }
+      ],
+      "explanation": "Michael Phelps yaz olimpiyatları tarihinin açık ara en çok madalya kazanan sporcusudur."
+    }
+  },
+  {
+    "id": "sports_8",
+    "categoryId": "sports",
+    "card": {
+      "title": "Atletizm - 100 Metre Dünya Rekoru",
+      "frontText": "Erkekler 100 metre dünya rekoru kime aittir ve dercesi kaçtır?",
+      "backText": "Usain Bolt - 9.58 saniye (2009 Berlin)."
+    },
+    "quiz": {
+      "questionText": "100 metrede 9.58 saniyelik derecesiyle 'Dünyanın En Hızlı İnsanı' unvanına sahip Jamaikalı atlet kimdir?",
+      "options": [
+        { "id": "o1", "text": "Usain Bolt", "isCorrect": true },
+        { "id": "o2", "text": "Tyson Gay", "isCorrect": false },
+        { "id": "o3", "text": "Yohan Blake", "isCorrect": false },
+        { "id": "o4", "text": "Justin Gatlin", "isCorrect": false }
+      ],
+      "explanation": "Usain Bolt 2009 Dünya Atletizm Şampiyonası'nda 9.58 ile tarihin en hızlı koşusunu gerçekleştirmiştir."
+    }
+  },
+  {
+    "id": "sports_9",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Bir Maçta En Çok Sayı Atan Oyuncu",
+      "frontText": "NBA'de tek bir maçta 100 sayı atarak rekor kıran efsane oyuncu kimdir?",
+      "backText": "Wilt Chamberlain (2 Mart 1962)."
+    },
+    "quiz": {
+      "questionText": "1962 yılında New York Knicks'e karşı oynanan maçta tek başına 100 sayı atan NBA efsanesi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Wilt Chamberlain", "isCorrect": true },
+        { "id": "o2", "text": "Kobe Bryant", "isCorrect": false },
+        { "id": "o3", "text": "Michael Jordan", "isCorrect": false },
+        { "id": "o4", "text": "Kareem Abdul-Jabbar", "isCorrect": false }
+      ],
+      "explanation": "Wilt Chamberlain tek maçta 100 sayı atan tek NBA oyuncusudur (Kobe Bryant 81 sayı ile 2. sıradadır)."
+    }
+  },
+  {
+    "id": "sports_10",
+    "categoryId": "sports",
+    "card": {
+      "title": "Boks - Tüm Zamanların En Büyüğü",
+      "frontText": "'The Greatest' (En Büyük) unvanlı efsanevi ağır sıklet boksörü kimdir?",
+      "backText": "Muhammad Ali (Cassius Clay)."
+    },
+    "quiz": {
+      "questionText": "'Kelebek gibi uçarım, arı gibi sokarım' sözüyle hafızalara kazınan boks efsanesi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Muhammad Ali", "isCorrect": true },
+        { "id": "o2", "text": "Mike Tyson", "isCorrect": false },
+        { "id": "o3", "text": "Joe Frazier", "isCorrect": false },
+        { "id": "o4", "text": "George Foreman", "isCorrect": false }
+      ],
+      "explanation": "Muhammad Ali, ringdeki üstün tekniği ve ring dışındaki karizmasıyla spor tarihinin en büyük figürlerindendir."
+    }
+  },
+  {
+    "id": "sports_11",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - İlk Dünya Kupası",
+      "frontText": "Tarihteki ilk FIFA Dünya Kupası kaç yılında ve hangi ülkede düzenlenmiştir?",
+      "backText": "1930 yılında Uruguay'da düzenlenmiş ve şampiyon Uruguay olmuştur."
+    },
+    "quiz": {
+      "questionText": "1930 yılında ilk kez düzenlenen FIFA Dünya Kupası'na ev sahipliği yapıp şampiyon olan ülke hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Uruguay", "isCorrect": true },
+        { "id": "o2", "text": "Arjantin", "isCorrect": false },
+        { "id": "o3", "text": "Brezilya", "isCorrect": false },
+        { "id": "o4", "text": "İtalya", "isCorrect": false }
+      ],
+      "explanation": "Uruguay, 1930'da ev sahibi olduğu ilk Dünya Kupası finalinde Arjantin'i yenerek ilk şampiyon olmuştur."
+    }
+  },
+  {
+    "id": "sports_12",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Türkiye Milli Takımı Dünya 3.'lüğü",
+      "frontText": "A Milli Futbol Takımımız Dünya Kupası 3.'lüğünü hangi yılda elde etmiştir?",
+      "backText": "2002 Kore-Japonya Dünya Kupası."
+    },
+    "quiz": {
+      "questionText": "Türkiye A Milli Futbol Takımı tarihi başarısını göstererek hangi yıl Dünya Kupası 3.'sü olmuştur?",
+      "options": [
+        { "id": "o1", "text": "2002", "isCorrect": true },
+        { "id": "o2", "text": "1996", "isCorrect": false },
+        { "id": "o3", "text": "2008", "isCorrect": false },
+        { "id": "o4", "text": "2004", "isCorrect": false }
+      ],
+      "explanation": "Şenol Güneş yönetimindeki A Milli Takım, 2002 Güney Kore & Japonya turnuvasında dunya 3.'sü olmuştur."
+    }
+  },
+  {
+    "id": "sports_13",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Galatasaray UEFA Kupası Zaferi",
+      "frontText": "Galatasaray UEFA Kupası'nı hangi tarihte ve kime karşı kazanmıştır?",
+      "backText": "17 Mayıs 2000 tarihinde Arsenal'i penaltılarda yenerek kazanmıştır."
+    },
+    "quiz": {
+      "questionText": "Galatasaray, 17 Mayıs 2000'de Kopenhag'da hangi İngiliz ekibini mağlup ederek UEFA Kupası'nı kaldırmıştır?",
+      "options": [
+        { "id": "o1", "text": "Arsenal", "isCorrect": true },
+        { "id": "o2", "text": "Manchester United", "isCorrect": false },
+        { "id": "o3", "text": "Leeds United", "isCorrect": false },
+        { "id": "o4", "text": "Chelsea", "isCorrect": false }
+      ],
+      "explanation": "Galatasaray, penaltı atışlarında Arsenal'i 4-1 mağlup ederek Türk futbol tarihinin ilk Avrupa kupasını kazanmıştır."
+    }
+  },
+  {
+    "id": "sports_14",
+    "categoryId": "sports",
+    "card": {
+      "title": "Voleybol - Filodakı Sultanlar",
+      "frontText": "Türkiye Kadın Milli Voleybol Takımı ilk Avrupa Şampiyonluğunu hangi yıl elde etmiştir?",
+      "backText": "2023 Avrupa Kadınlar Voleybol Şampiyonası."
+    },
+    "quiz": {
+      "questionText": "2023 yılında Sırbistan'ı finalde mağlup ederek Avrupa Şampiyonu olan Kadın Voleybol Takımımızın unvanı nedir?",
+      "options": [
+        { "id": "o1", "text": "Filenin Sultanları", "isCorrect": true },
+        { "id": "o2", "text": "Pota Sultanları", "isCorrect": false },
+        { "id": "o3", "text": "Ağların Perileri", "isCorrect": false },
+        { "id": "o4", "text": "File Perileri", "isCorrect": false }
+      ],
+      "explanation": "Filenin Sultanları 2023 yılında Milletler Ligi ve Avrupa Şampiyonluğu ile dünya 1 numarası olmuştur."
+    }
+  },
+  {
+    "id": "sports_15",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - EuroLeague Şampiyonu Türk Takımları",
+      "frontText": "EuroLeague kupasını kaldıran ilk Türk basketbol takımı hangisidir?",
+      "backText": "Fenerbahçe (2017 yılında Zeljko Obradovic önderliğinde kazanmıştır)."
+    },
+    "quiz": {
+      "questionText": "2017 yılında İstanbul'daki Final Four'da şampiyon olarak EuroLeague'i kazanan ilk Türk takımı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Fenerbahçe", "isCorrect": true },
+        { "id": "o2", "text": "Anadolu Efes", "isCorrect": false },
+        { "id": "o3", "text": "Galatasaray", "isCorrect": false },
+        { "id": "o4", "text": "Beşiktaş", "isCorrect": false }
+      ],
+      "explanation": "Fenerbahçe Erkek Basketbol Takımı 2017'de Olympiacos'u yenerek bu kupayı kazanan ilk temsilcimiz olmuştur."
+    }
+  },
+  {
+    "id": "sports_16",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Koraç Kupası",
+      "frontText": "Türk basketbol tarihinde Avrupa'da ilk kupa kazanan kulüp hangisidir?",
+      "backText": "Efes Pilsen (1996 Koraç Kupası)."
+    },
+    "quiz": {
+      "questionText": "1996 yılında Koraç Kupası'nı kazanarak Türk basketboluna ilk Avrupa kupasını getiren kulüp hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Efes Pilsen (Anadolu Efes)", "isCorrect": true },
+        { "id": "o2", "text": "Fenerbahçe", "isCorrect": false },
+        { "id": "o3", "text": "Galatasaray", "isCorrect": false },
+        { "id": "o4", "text": "Tofaş", "isCorrect": false }
+      ],
+      "explanation": "Aydın Örs yönetimindeki Efes Pilsen, Stefanel Milano'yu devirerek tarihi Koraç Kupası zaferine ulaşmıştır."
+    }
+  },
+  {
+    "id": "sports_17",
+    "categoryId": "sports",
+    "card": {
+      "title": "Ağırlık Kaldırma - Naim Süleymanoğlu",
+      "frontText": "'Cepte Herkül' lakaplı efsanevi haltercimiz kimdir?",
+      "backText": "Naim Süleymanoğlu (Kendi ağırlığının 3 katını kaldıran efsane)."
+    },
+    "quiz": {
+      "questionText": "Üst üste 3 kez Olimpiyat Şampiyonu olan ve 'Pocket Hercules' (Cep Herkülü) lakabıyla tanınan Türk halterci kimdir?",
+      "options": [
+        { "id": "o1", "text": "Naim Süleymanoğlu", "isCorrect": true },
+        { "id": "o2", "text": "Halil Mutlu", "isCorrect": false },
+        { "id": "o3", "text": "Taner Sağır", "isCorrect": false },
+        { "id": "o4", "text": "Daniyel Petrov", "isCorrect": false }
+      ],
+      "explanation": "Naim Süleymanoğlu, olimpiyatlarda kırdığı muazzam dünya rekorlarıyla halter tarihinin en büyüğü sayılır."
+    }
+  },
+  {
+    "id": "sports_18",
+    "categoryId": "sports",
+    "card": {
+      "title": "Ağırlık Kaldırma - Halil Mutlu",
+      "frontText": "Naim Süleymanoğlu gibi 3 Olimpiyat Altın Madalyası kazanan diğer efsane haltercimiz kimdir?",
+      "backText": "Halil Mutlu ('Dinamo' lakaplı şampiyon)."
+    },
+    "quiz": {
+      "questionText": "1996, 2000 ve 2004 Olimpiyatlarında altın madalya kazanarak tarih yazan Dünya Şampiyonu haltercimiz kimdir?",
+      "options": [
+        { "id": "o1", "text": "Halil Mutlu", "isCorrect": true },
+        { "id": "o2", "text": "Naim Süleymanoğlu", "isCorrect": false },
+        { "id": "o3", "text": "Nurcan Taylan", "isCorrect": false },
+        { "id": "o4", "text": "Mete Gazoz", "isCorrect": false }
+      ],
+      "explanation": "Halil Mutlu üst üste 3 olimpiyat altını kazanmış efsane sporcularımızdandır."
+    }
+  },
+  {
+    "id": "sports_19",
+    "categoryId": "sports",
+    "card": {
+      "title": "Okçuluk - Mete Gazoz",
+      "frontText": "Türkiye'ye okçuluk tarihindeki ilk Olimpiyat Altın Madalyasını kazandıran sporcumuz kimdir?",
+      "backText": "Mete Gazoz (2020 Tokyo Olimpiyatları)."
+    },
+    "quiz": {
+      "questionText": "2020 Tokyo Olimpiyatları'nda Erkekler Bireysel Okçulukta altın madalya kazanan gururumuz kimdir?",
+      "options": [
+        { "id": "o1", "text": "Mete Gazoz", "isCorrect": true },
+        { "id": "o2", "text": "Uğur Erdener", "isCorrect": false },
+        { "id": "o3", "text": "Yasemin Anagöz", "isCorrect": false },
+        { "id": "o4", "text": "Taha Akgül", "isCorrect": false }
+      ],
+      "explanation": "Mete Gazoz, Tokyo 2020 ve 2023 Dünya Şampiyonası altın madalyasıyla okçuluğun zirvesindedir."
+    }
+  },
+  {
+    "id": "sports_20",
+    "categoryId": "sports",
+    "card": {
+      "title": "Güreş - Buse Naz Çakıroğlu & Busenaz Sürmeneli",
+      "frontText": "Boks dalında Türkiye'ye kadınlardaki ilk Olimpiyat Altın Madalyasını getiren sporcu kimdir?",
+      "backText": "Busenaz Sürmeneli (2020 Tokyo Olimpiyatları)."
+    },
+    "quiz": {
+      "questionText": "Tokyo 2020 Olimpiyat Oyunları'nda kadınlar 69 kg boksta altın madalya kazanarak tarihe geçen sporcumuz kimdir?",
+      "options": [
+        { "id": "o1", "text": "Busenaz Sürmeneli", "isCorrect": true },
+        { "id": "o2", "text": "Buse Naz Çakıroğlu", "isCorrect": false },
+        { "id": "o3", "text": "Yasemin Adar", "isCorrect": false },
+        { "id": "o4", "text": "Hatice Akbaş", "isCorrect": false }
+      ],
+      "explanation": "Busenaz Sürmeneli Türk kadın boksu tarihindeki ilk olimpiyat altınını kazanmıştır."
+    }
+  },
+  {
+    "id": "sports_21",
+    "categoryId": "sports",
+    "card": {
+      "title": "Tenis - Toprak Kortun Kralı",
+      "frontText": "'King of Clay' (Toprak Kortun Kralı) olarak anılan İspanyol tenisçi kimdir?",
+      "backText": "Rafael Nadal (14 Fransa Açık / Roland Garros zaferi)."
+    },
+    "quiz": {
+      "questionText": "Fransa Açık (Roland Garros) turnuvasını 14 kez kazanarak toprak kortta kırılması güç bir rekor koyan raket kimdir?",
+      "options": [
+        { "id": "o1", "text": "Rafael Nadal", "isCorrect": true },
+        { "id": "o2", "text": "Roger Federer", "isCorrect": false },
+        { "id": "o3", "text": "Carlos Alcaraz", "isCorrect": false },
+        { "id": "o4", "text": "Andy Murray", "isCorrect": false }
+      ],
+      "explanation": "Rafael Nadal, Roland Garros'taki ezici üstünlüğü nedeniyle 'Toprak Kortun Kralı' adını almıştır."
+    }
+  },
+  {
+    "id": "sports_22",
+    "categoryId": "sports",
+    "card": {
+      "title": "Tenis - Çim Kort ve Zarafet",
+      "frontText": "Wimbledon'ı 8 kez kazanan İsviçreli tenis efsanesi kimdir?",
+      "backText": "Roger Federer."
+    },
+    "quiz": {
+      "questionText": "Korttaki estetik stiliyle tanınan ve 20 Grand Slam şampiyonluğu bulunan İsviçreli tenis ikonu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Roger Federer", "isCorrect": true },
+        { "id": "o2", "text": "Stan Wawrinka", "isCorrect": false },
+        { "id": "o3", "text": "Dominic Thiem", "isCorrect": false },
+        { "id": "o4", "text": "Alexander Zverev", "isCorrect": false }
+      ],
+      "explanation": "Roger Federer çim kortun en büyük ustası sayılır ve 8 Wimbledon zaferi vardır."
+    }
+  },
+  {
+    "id": "sports_23",
+    "categoryId": "sports",
+    "card": {
+      "title": "Tenis - Kadınlar Grand Slam Rekortmeni",
+      "frontText": "Açık Dönem kadınlar tenisinde 23 Grand Slam zaferi olan efsane raket kimdir?",
+      "backText": "Serena Williams."
+    },
+    "quiz": {
+      "questionText": "Açık Dönem kadın tenisinde 23 Grand Slam tekler şampiyonluğu kazanan Amerikalı efsane tenisçi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Serena Williams", "isCorrect": true },
+        { "id": "o2", "text": "Venus Williams", "isCorrect": false },
+        { "id": "o3", "text": "Steffi Graf", "isCorrect": false },
+        { "id": "o4", "text": "Martina Navratilova", "isCorrect": false }
+      ],
+      "explanation": "Serena Williams kadınlar tenisini fiziksel ve zihinsel gücüyle domine etmiş bir ikondur."
+    }
+  },
+  {
+    "id": "sports_24",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Michael Jordan ve Chicago Bulls",
+      "frontText": "Michael Jordan, Chicago Bulls ile kaç kez NBA Şampiyonu olmuştur?",
+      "backText": "6 kez (İki ayrı 3-peat / üçleme yaparak)."
+    },
+    "quiz": {
+      "questionText": "23 numaralı formasıyla tanınan Michael Jordan, Chicago Bulls takımıyla kaç kez NBA yüzüğü kazanmıştır?",
+      "options": [
+        { "id": "o1", "text": "6", "isCorrect": true },
+        { "id": "o2", "text": "5", "isCorrect": false },
+        { "id": "o3", "text": "7", "isCorrect": false },
+        { "id": "o4", "text": "4", "isCorrect": false }
+      ],
+      "explanation": "Jordan 1991-1993 ve 1996-1998 yılları arasında Chicago Bulls ile 6 NBA şampiyonluğu yaşamıştır."
+    }
+  },
+  {
+    "id": "sports_25",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - NBA Tüm Zamanların En Çok Sayı Atan Oyuncusu",
+      "frontText": "NBA tarihinde tüm zamanların en çok sayı atan oyuncusu unvanı kime aittir?",
+      "backText": "LeBron James (Kareem Abdul-Jabbar'ın rekorunu kırmıştır)."
+    },
+    "quiz": {
+      "questionText": "Kareem Abdul-Jabbar'ın efsanevi sayı rekorunu geçerek NBA tarihinin en skorer ismi olan basketbolcu kimdir?",
+      "options": [
+        { "id": "o1", "text": "LeBron James", "isCorrect": true },
+        { "id": "o2", "text": "Kobe Bryant", "isCorrect": false },
+        { "id": "o3", "text": "Kevin Durant", "isCorrect": false },
+        { "id": "o4", "text": "Stephen Curry", "isCorrect": false }
+      ],
+      "explanation": "LeBron James 2023 yılında attığı basketle NBA tarihinin toplamda en çok sayı üreten oyuncusu olmuştur."
+    }
+  },
+  {
+    "id": "sports_26",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Üçlük Kralı",
+      "frontText": "NBA tarihinde en çok 3 sayılık basket atan oyuncu kimdir?",
+      "backText": "Stephen Curry (Golden State Warriors)."
+    },
+    "quiz": {
+      "questionText": "Oyun stiliyle modern basketbolu değiştiren ve NBA tarihinin en çok üçlük atan oyuncusu olan isim kimdir?",
+      "options": [
+        { "id": "o1", "text": "Stephen Curry", "isCorrect": true },
+        { "id": "o2", "text": "Ray Allen", "isCorrect": false },
+        { "id": "o3", "text": "Reggie Miller", "isCorrect": false },
+        { "id": "o4", "text": "James Harden", "isCorrect": false }
+      ],
+      "explanation": "Stephen Curry, Ray Allen'ın rekorunu geride bırakarak NBA'in gelmiş geçmiş en büyük şutörü unvanını almıştır."
+    }
+  },
+  {
+    "id": "sports_27",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Pele ve Dünya Kupaları",
+      "frontText": "'Siyah İnci' lakaplı Pele kaç kez Dünya Kupası kazanmıştır?",
+      "backText": "3 kez (1958, 1962, 1970 - Dünyada bunu başaran tek oyuncudur)."
+    },
+    "quiz": {
+      "questionText": "Futbol tarihinde oyuncu olarak 3 kez Dünya Kupası kazanan tek isim kimdir?",
+      "options": [
+        { "id": "o1", "text": "Pelé", "isCorrect": true },
+        { "id": "o2", "text": "Diego Maradona", "isCorrect": false },
+        { "id": "o3", "text": "Ronaldo Nazário", "isCorrect": false },
+        { "id": "o4", "text": "Zinedine Zidane", "isCorrect": false }
+      ],
+      "explanation": "Brezilyalı efsane Pelé 1958, 1962 ve 1970 yıllarında kupayı kaldırarak benzersiz bir rekora imza atmıştır."
+    }
+  },
+  {
+    "id": "sports_28",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Tanrının Eli",
+      "frontText": "1986 Dünya Kupası'nda İngiltere'ye elle attığı golle 'Tanrı'nın Eli' deyimini çıkaran efsane kimdir?",
+      "backText": "Diego Armando Maradona."
+    },
+    "quiz": {
+      "questionText": "1986 çeyrek finalinde İngiltere'ye elle attığı gol sonrası 'O gol benim kafamla ve Tanrı'nın eliyle atıldı' diyen Arjantinli kimdir?",
+      "options": [
+        { "id": "o1", "text": "Diego Maradona", "isCorrect": true },
+        { "id": "o2", "text": "Gabriel Batistuta", "isCorrect": false },
+        { "id": "o3", "text": "Mario Kempes", "isCorrect": false },
+        { "id": "o4", "text": "Lionel Messi", "isCorrect": false }
+      ],
+      "explanation": "Maradona aynı maçta sahasından çıkıp 6 oyuncuyu çalımlayarak 'Yüzyılın Golü'nü de atmıştır."
+    }
+  },
+  {
+    "id": "sports_29",
+    "categoryId": "sports",
+    "card": {
+      "title": "Formula 1 - Senna vs Prost",
+      "frontText": "Formula 1 tarihinin en büyük rekabetlerinden birini yaşayan efsanevi Brezilyalı pilot kimdir?",
+      "backText": "Ayrton Senna (1994 Imola'da trajik şekilde vefat etmiştir)."
+    },
+    "quiz": {
+      "questionText": "3 kez F1 Dünya Şampiyonu olan ve İtalya Imola pistinde geçirdiği kazada hayatını kaybeden efsane Brezilyalı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Ayrton Senna", "isCorrect": true },
+        { "id": "o2", "text": "Nelson Piquet", "isCorrect": false },
+        { "id": "o3", "text": "Emerson Fittipaldi", "isCorrect": false },
+        { "id": "o4", "text": "Rubens Barrichello", "isCorrect": false }
+      ],
+      "explanation": "Ayrton Senna yağmurlu pistlerdeki sürüş yeteneği ve tutkusuyla motor sporları efsanesidir."
+    }
+  },
+  {
+    "id": "sports_30",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Süper Lig Rekortmeni",
+      "frontText": "Türkiye Süper Ligi tarihinde en çok şampiyon olan takım hangisidir?",
+      "backText": "Galatasaray (24+ şampiyonlukla lider durumdadır)."
+    },
+    "quiz": {
+      "questionText": "Türkiye Profesyonel Süper Ligi tarihinde en fazla şampiyonluk kazanan kulüp hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Galatasaray", "isCorrect": true },
+        { "id": "o2", "text": "Fenerbahçe", "isCorrect": false },
+        { "id": "o3", "text": "Beşiktaş", "isCorrect": false },
+        { "id": "o4", "text": "Trabzonspor", "isCorrect": false }
+      ],
+      "explanation": "Galatasaray Süper Lig'de kazandığı şampiyonluk sayısı ile ilk sırada yer almaktadır."
+    }
+  },
+  {
+    "id": "sports_31",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Süper Lig Gol Kralı",
+      "frontText": "Süper Lig tarihinde bir sezonda en çok gol atan futbolcu kimdir?",
+      "backText": "Tanju Çolak (1987-1988 sezonda Galatasaray formasıyla 39 gol)."
+    },
+    "quiz": {
+      "questionText": "1987-1988 sezonunda attığı 39 golle Süper Lig tarihinin bir sezondaki en skorer ismi olan oyuncu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Tanju Çolak", "isCorrect": true },
+        { "id": "o2", "text": "Hakan Şükür", "isCorrect": false },
+        { "id": "o3", "text": "Alex de Souza", "isCorrect": false },
+        { "id": "o4", "text": "Metin Oktay", "isCorrect": false }
+      ],
+      "explanation": "Tanju Çolak 39 golle aynı zamanda Avrupa Altın Ayakkabı Ödülü'nü de kazanmıştır."
+    }
+  },
+  {
+    "id": "sports_32",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Taçsız Kral",
+      "frontText": "Galatasaray ve Türk futbolunun 'Taçsız Kral' lakaplı efsane ismi kimdir?",
+      "backText": "Metin Oktay."
+    },
+    "quiz": {
+      "questionText": "Ağları delen golü ve jübilesinde Can Bartu ile forma değiştirmesiyle simgeleşen 'Taçsız Kral' kimdir?",
+      "options": [
+        { "id": "o1", "text": "Metin Oktay", "isCorrect": true },
+        { "id": "o2", "text": "Hakkı Yeten", "isCorrect": false },
+        { "id": "o3", "text": "Lefter Küçükandonyadis", "isCorrect": false },
+        { "id": "o4", "text": "Gündüz Kılıç", "isCorrect": false }
+      ],
+      "explanation": "Metin Oktay Türk futbolunun centilmenliği ve golcülüğüyle unutulmaz sembollerindendir."
+    }
+  },
+  {
+    "id": "sports_33",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Ver Lefter'e Yaz Deftere",
+      "frontText": "Fenerbahçe'nin 'Ordinaryüs' lakaplı efsanevi futbolcusu kimdir?",
+      "backText": "Lefter Küçükandonyadis."
+    },
+    "quiz": {
+      "questionText": "'Ver Lefter'e, Yaz Deftere' sloganıyla özdeşleşen Fenerbahçe ve milli takım efsanesi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Lefter Küçükandonyadis", "isCorrect": true },
+        { "id": "o2", "text": "Can Bartu", "isCorrect": false },
+        { "id": "o3", "text": "Cihat Arman", "isCorrect": false },
+        { "id": "o4", "text": "Selçik Yula", "isCorrect": false }
+      ],
+      "explanation": "Lefter, futbol zekası nedeniyle 'Ordinaryüs' unvanıyla anılan kulüp efsanesidir."
+    }
+  },
+  {
+    "id": "sports_34",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Baba Hakkı",
+      "frontText": "Beşiktaş kulübünün simge ismi 'Baba' lakaplı efsane kaptanı kimdir?",
+      "backText": "Hakkı Yeten."
+    },
+    "quiz": {
+      "questionText": "Beşiktaş tarihinde otoritesi ve kulübe bağlılığıyla 'Baba' unvanını alan efsane futbolcu ve başkan kimdir?",
+      "options": [
+        { "id": "o1", "text": "Hakkı Yeten", "isCorrect": true },
+        { "id": "o2", "text": "Süleyman Seba", "isCorrect": false },
+        { "id": "o3", "text": "Şeref Bey", "isCorrect": false },
+        { "id": "o4", "text": "Rıza Çalımbay", "isCorrect": false }
+      ],
+      "explanation": "Baba Hakkı Yeten Beşiktaş'ta hem oyuncu, hem teknik direktör hem de başkanlık yapmıştır."
+    }
+  },
+  {
+    "id": "sports_35",
+    "categoryId": "sports",
+    "card": {
+      "title": "Bisiklet - Fransa Bisiklet Turu (Tour de France)",
+      "frontText": "Fransa Bisiklet Turu'nda genel klasman liderinin giydiği mayo ne renktir?",
+      "backText": "Sarı Mayo (Maillot Jaune)."
+    },
+    "quiz": {
+      "questionText": "Tour de France yarışında yarışı toplam sürede lider götüren bisikletçinin giydiği ikonik mayo hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Sarı Mayo", "isCorrect": true },
+        { "id": "o2", "text": "Yeşil Mayo", "isCorrect": false },
+        { "id": "o3", "text": "Kırmızı Benekli Mayo", "isCorrect": false },
+        { "id": "o4", "text": "Pembe Mayo", "isCorrect": false }
+      ],
+      "explanation": "Sarı mayo tur genel klasman liderini; yeşil mayo puan (sprinter) liderini temsil eder."
+    }
+  },
+  {
+    "id": "sports_36",
+    "categoryId": "sports",
+    "card": {
+      "title": "Atletizm - Maraton Mesafesi",
+      "frontText": "Resmi bir maraton koşusunun tam mesafesi ne kadardır?",
+      "backText": "42 kilometre 195 metre (42.195 km)."
+    },
+    "quiz": {
+      "questionText": "Olimpiyatlarda da koşulan standart bir Maraton yarışının uzunluğu kaç km'dir?",
+      "options": [
+        { "id": "o1", "text": "42.195 km", "isCorrect": true },
+        { "id": "o2", "text": "40.000 km", "isCorrect": false },
+        { "id": "o3", "text": "50.000 km", "isCorrect": false },
+        { "id": "o4", "text": "21.097 km", "isCorrect": false }
+      ],
+      "explanation": "42 bin 195 metrelik mesafe 1908 Londra Olimpiyatları'nda kesinleştirilmiştir."
+    }
+  },
+  {
+    "id": "sports_37",
+    "categoryId": "sports",
+    "card": {
+      "title": "Kış Sporları - Buz Hokeyi Oyuncu Sayısı",
+      "frontText": "Buz hokeyi maçında bir takım sahada kaç oyuncuyla mücadele eder?",
+      "backText": "6 oyuncu (1 Kaleci, 5 Saha oyuncusu)."
+    },
+    "quiz": {
+      "questionText": "Bir buz hokeyi karşılaşmasında sahada bir takımdan aynı anda kaç oyuncu yer alır?",
+      "options": [
+        { "id": "o1", "text": "6", "isCorrect": true },
+        { "id": "o2", "text": "5", "isCorrect": false },
+        { "id": "o3", "text": "7", "isCorrect": false },
+        { "id": "o4", "text": "11", "isCorrect": false }
+      ],
+      "explanation": "Buz hokeyinde 1 kaleci ve 5 saha oyuncusu olmak üzere her takım 6 kişiyle buzda bulunur."
+    }
+  },
+  {
+    "id": "sports_38",
+    "categoryId": "sports",
+    "card": {
+      "title": "Buz Hokeyi - Disk Adı",
+      "frontText": "Buz hokeyinde kale atışı yapılan sert vulkanize kauçuk disk nesnesine ne denir?",
+      "backText": "Puk (Puck)."
+    },
+    "quiz": {
+      "questionText": "Buz hokeyi oyununda top yerine kullanılan siyah sert diske ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Puk (Puck)", "isCorrect": true },
+        { "id": "o2", "text": "Sopa", "isCorrect": false },
+        { "id": "o3", "text": "Rink", "isCorrect": false },
+        { "id": "o4", "text": "Stone", "isCorrect": false }
+      ],
+      "explanation": "Puk, dondurularak sekmesi engellenen ve saatte 160 km hıza ulaşabilen kauçuk disktir."
+    }
+  },
+  {
+    "id": "sports_39",
+    "categoryId": "sports",
+    "card": {
+      "title": "Golf - Par Kavramı",
+      "frontText": "Golf sporunda bir deliğin belirlenmiş standart vuruş sayısında tamamlanmasına ne denir?",
+      "backText": "Par (Parlar altında atmak başarıdır)."
+    },
+    "quiz": {
+      "questionText": "Golfte bir deliği belirlenen vuruş sayısından 1 vuruş az yapmak (Par - 1) nasıl adlandırılır?",
+      "options": [
+        { "id": "o1", "text": "Birdie", "isCorrect": true },
+        { "id": "o2", "text": "Eagle", "isCorrect": false },
+        { "id": "o3", "text": "Bogey", "isCorrect": false },
+        { "id": "o4", "text": "Albatross", "isCorrect": false }
+      ],
+      "explanation": "1 eksik vuruş 'Birdie', 2 eksik vuruş 'Eagle', 1 fazla vuruş ise 'Bogey' olarak tanımlanır."
+    }
+  },
+  {
+    "id": "sports_40",
+    "categoryId": "sports",
+    "card": {
+      "title": "Amerikan Futbolu - Sayı Değeri",
+      "frontText": "Amerikan Futbolu'nda topu rakip son alana (End Zone) taşıyarak yapılan 'Touchdown' kaç puandır?",
+      "backText": "6 Puan."
+    },
+    "quiz": {
+      "questionText": "Amerikan futbolunda 'Touchdown' yapan bir takım kaç ana puan kazanır?",
+      "options": [
+        { "id": "o1", "text": "6 Puan", "isCorrect": true },
+        { "id": "o2", "text": "3 Puan", "isCorrect": false },
+        { "id": "o3", "text": "7 Puan", "isCorrect": false },
+        { "id": "o4", "text": "2 Puan", "isCorrect": false }
+      ],
+      "explanation": "Touchdown 6 puandır ve sonrasında ekstra 1 puanlık şut veya 2 puanlık hücum denemesi yapılır."
+    }
+  },
+  {
+    "id": "sports_41",
+    "categoryId": "sports",
+    "card": {
+      "title": "Amerikan Futbolu - Super Bowl",
+      "frontText": "NFL şampiyonunu belirleyen ve ABD'nin en büyük spor organizasyonu olan finalin adı nedir?",
+      "backText": "Super Bowl."
+    },
+    "quiz": {
+      "questionText": "ABD'de her yıl milyonlarca izleyiciyi ekrana kilitleyen NFL Amerikan Futbolu final karşılaşması nedir?",
+      "options": [
+        { "id": "o1", "text": "Super Bowl", "isCorrect": true },
+        { "id": "o2", "text": "World Series", "isCorrect": false },
+        { "id": "o3", "text": "NBA Finals", "isCorrect": false },
+        { "id": "o4", "text": "Stanley Cup", "isCorrect": false }
+      ],
+      "explanation": "Super Bowl dev konser şovları ve reklam bütçeleriyle dünyanın en popüler spor etkinliğidir."
+    }
+  },
+  {
+    "id": "sports_42",
+    "categoryId": "sports",
+    "card": {
+      "title": "Beyzbol - Homerun",
+      "frontText": "Beyzbol oyununda vurucunun topu saha dışına göndererek tüm kaleleri dolaşıp sayı almasına ne denir?",
+      "backText": "Home Run."
+    },
+    "quiz": {
+      "questionText": "Beyzbolda vurucunun topu çitlerin dışına atıp doğrudan sayı turu yapmasına ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Home Run", "isCorrect": true },
+        { "id": "o2", "text": "Strike Out", "isCorrect": false },
+        { "id": "o3", "text": "Pitcher", "isCorrect": false },
+        { "id": "o4", "text": "Bunt", "isCorrect": false }
+      ],
+      "explanation": "Home Run atıldığında sahada bekleyen tüm koşucular ve vurucu tur atarak sayı kazanır."
+    }
+  },
+  {
+    "id": "sports_43",
+    "categoryId": "sports",
+    "card": {
+      "title": "Yüzme - Dört Temel Stil",
+      "frontText": "Yüzme sporundaki 4 temel stil hangileridir?",
+      "backText": "Serbest, Sırtüstü, Kurbağalama, Kelebek."
+    },
+    "quiz": {
+      "questionText": "Yüzmede teknik açıdan en eforlu ve zor kabul edilen stil hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Kelebek", "isCorrect": true },
+        { "id": "o2", "text": "Serbest", "isCorrect": false },
+        { "id": "o3", "text": "Kurbağalama", "isCorrect": false },
+        { "id": "o4", "text": "Sırtüstü", "isCorrect": false }
+      ],
+      "explanation": "Kelebek stili yüksek gövde gücü ve çift kol senkronizasyonu gerektiren zor bir tekniktir."
+    }
+  },
+  {
+    "id": "sports_44",
+    "categoryId": "sports",
+    "card": {
+      "title": "Ata Sporu - Yağlı Güreş",
+      "frontText": "Tarihi Kırkpınar Yağlı Güreşleri hangi ilimizde düzenlenmektedir?",
+      "backText": "Edirne (Sarayiçi Er Meydanı)."
+    },
+    "quiz": {
+      "questionText": "600 yılı aşkın süredir devam eden Tarihi Kırkpınar Yağlı Güreşleri hangi şehrimizde yapılır?",
+      "options": [
+        { "id": "o1", "text": "Edirne", "isCorrect": true },
+        { "id": "o2", "text": "Antalya", "isCorrect": false },
+        { "id": "o3", "text": "Kocaeli", "isCorrect": false },
+        { "id": "o4", "text": "Balıkesir", "isCorrect": false }
+      ],
+      "explanation": "Edirne Sarayiçi'nde düzenlenen Kırkpınar, dünyanın en eski kesintisiz spor organizasyonlarındandır."
+    }
+  },
+  {
+    "id": "sports_45",
+    "categoryId": "sports",
+    "card": {
+      "title": "Yağlı Güreş - Başpehlivanlık Altın Kemer",
+      "frontText": "Kırkpınar'da Altın Kemer'in daimi sahibi olmak için kaç yıl üst üste başpehlivan olunmalıdır?",
+      "backText": "3 yıl üst üste."
+    },
+    "quiz": {
+      "questionText": "Kırkpınar Altın Kemeri'ni ebedi olarak müzesine götürebilmek için pehlivanın kaç kez üst üste şampiyon olması gerekir?",
+      "options": [
+        { "id": "o1", "text": "3 Yıl Üst Üste", "isCorrect": true },
+        { "id": "o2", "text": "5 Yıl Üst Üste", "isCorrect": false },
+        { "id": "o3", "text": "2 Yıl Üst Üste", "isCorrect": false },
+        { "id": "o4", "text": "4 Yıl Üst Üste", "isCorrect": false }
+      ],
+      "explanation": "Üst üste 3 kez başpehlivan olan güreşçi altın kemerin kalıcı sahibi olur (Örn: Ahmet Taşçı)."
+    }
+  },
+  {
+    "id": "sports_46",
+    "categoryId": "sports",
+    "card": {
+      "title": "Satranç - Dünya Şampiyonu Magnus Carlsen",
+      "frontText": "Uzun yıllar satrançta ELO derecelendirme rekorunu elinde tutan Norveçli dahi kimdir?",
+      "backText": "Magnus Carlsen (2882 ELO rekoru)."
+    },
+    "quiz": {
+      "questionText": "Tarihin en yüksek ELO puanına (2882) ulaşan Norveçli satranç büyükustası (GM) kimdir?",
+      "options": [
+        { "id": "o1", "text": "Magnus Carlsen", "isCorrect": true },
+        { "id": "o2", "text": "Garry Kasparov", "isCorrect": false },
+        { "id": "o3", "text": "Anatoly Karpov", "isCorrect": false },
+        { "id": "o4", "text": "Hikaru Nakamura", "isCorrect": false }
+      ],
+      "explanation": "Magnus Carlsen, klasikten yıldırım satrança kadar tüm disiplinlerde döneme damga vurmuştur."
+    }
+  },
+  {
+    "id": "sports_47",
+    "categoryId": "sports",
+    "card": {
+      "title": "Satranç - Kasparov ve Deep Blue",
+      "frontText": "Garry Kasparov'u mağlup eden IBM yapay zeka bilgisayarının adı nedir?",
+      "backText": "Deep Blue (1997 yılındaki tarihi maçta yenmiştir)."
+    },
+    "quiz": {
+      "questionText": "1997'de efsanevi dünya şampiyonu Garry Kasparov'u yenen IBM üretimi satranç bilgisayarı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Deep Blue", "isCorrect": true },
+        { "id": "o2", "text": "AlphaZero", "isCorrect": false },
+        { "id": "o3", "text": "Stockfish", "isCorrect": false },
+        { "id": "o4", "text": "Watson", "isCorrect": false }
+      ],
+      "explanation": "Deep Blue'nun Kasparov'u yenmesi, yapay zekanın insan zekasına karşı kazandığı tarihi bir kırılmadır."
+    }
+  },
+  {
+    "id": "sports_48",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Altın Ayakkabı",
+      "frontText": "Avrupa liglerinde bir sezonda en çok gol atan futbolcuya verilen ödül nedir?",
+      "backText": "European Golden Shoe (Avrupa Altın Ayakkabı Ödülü)."
+    },
+    "quiz": {
+      "questionText": "Avrupa genelinde lig seviyelerine göre puanlandırılarak en golcü oyuncuya verilen ödül hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Avrupa Altın Ayakkabı Ödülü", "isCorrect": true },
+        { "id": "o2", "text": "Puşkaş Ödülü", "isCorrect": false },
+        { "id": "o3", "text": "Golden Boy", "isCorrect": false },
+        { "id": "o4", "text": "Yashin Ödülü", "isCorrect": false }
+      ],
+      "explanation": "Altın Ayakkabı, zorluk katsayısına göre gollerin puanlandığı gol krallığı ödülüdür."
+    }
+  },
+  {
+    "id": "sports_49",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Puskas Ödülü",
+      "frontText": "FIFA Puskás Ödülü neye göre kime verilir?",
+      "backText": "Yılın en estetik ve güzel golünü atan futbolcuya verilir."
+    },
+    "quiz": {
+      "questionText": "Macar efsane Ferenc Puskás adına düzenlenen FIFA ödülü hangi alanda takdim edilir?",
+      "options": [
+        { "id": "o1", "text": "Yılın En Güzel Golü", "isCorrect": true },
+        { "id": "o2", "text": "Yılın En İyi Kalecisi", "isCorrect": false },
+        { "id": "o3", "text": "En Fair-Play Takım", "isCorrect": false },
+        { "id": "o4", "text": "En İyi Genç Oyuncu", "isCorrect": false }
+      ],
+      "explanation": "Puskás Ödülü jüri ve taraftar oylarıyla yılın en jeneriklik golüne verilir (Örn: Hamit Altıntop 2010)."
+    }
+  },
+  {
+    "id": "sports_50",
+    "categoryId": "sports",
+    "card": {
+      "title": "Masa Tenisi - Ping Pong",
+      "frontText": "Masa tenisinin doğduğu ülke neresidir?",
+      "backText": "İngiltere (19. yüzyıl sonlarında kulüp oyunu olarak başlamıştır)."
+    },
+    "quiz": {
+      "questionText": "Günümüzde Çinlilerin domine ettiği Masa Tenisi (Ping-Pong) köken olarak hangi ülkede icat edilmiştir?",
+      "options": [
+        { "id": "o1", "text": "İngiltere", "isCorrect": true },
+        { "id": "o2", "text": "Çin", "isCorrect": false },
+        { "id": "o3", "text": "Japonya", "isCorrect": false },
+        { "id": "o4", "text": "Fransa", "isCorrect": false }
+      ],
+      "explanation": "Masa tenisi Victoria dönemi İngiltere'sinde akşam yemeği sonrası salon oyunu olarak ortaya çıkmıştır."
+    }
+  },
+  {
+    "id": "sports_51",
+    "categoryId": "sports",
+    "card": {
+      "title": "Hentbol - Oyuncu Sayısı",
+      "frontText": "Hentbol maçında bir takım sahaya kaç oyuncuyla çıkar?",
+      "backText": "7 oyuncu (1 Kaleci, 6 Saha oyuncusu)."
+    },
+    "quiz": {
+      "questionText": "Salon hentbolunda her takım sahada kaç oyuncu ile mücadele eder?",
+      "options": [
+        { "id": "o1", "text": "7", "isCorrect": true },
+        { "id": "o2", "text": "6", "isCorrect": false },
+        { "id": "o3", "text": "5", "isCorrect": false },
+        { "id": "o4", "text": "8", "isCorrect": false }
+      ],
+      "explanation": "Hentbol 6 oyuncu ve 1 kaleci olmak üzere 7'şer kişilik ekiplerle oynanır."
+    }
+  },
+  {
+    "id": "sports_52",
+    "categoryId": "sports",
+    "card": {
+      "title": "Su Topu - Oyuncu Sayısı",
+      "frontText": "Su topu maçında havuzda bir takımdan kaç oyuncu bulunur?",
+      "backText": "7 oyuncu (1 Kaleci, 6 Saha oyuncusu)."
+    },
+    "quiz": {
+      "questionText": "Su topu müsabakalarında bir takım maça havuzda kaç oyuncu ile başlar?",
+      "options": [
+        { "id": "o1", "text": "7", "isCorrect": true },
+        { "id": "o2", "text": "6", "isCorrect": false },
+        { "id": "o3", "text": "8", "isCorrect": false },
+        { "id": "o4", "text": "11", "isCorrect": false }
+      ],
+      "explanation": "Su topunda 1 kaleci ve 6 oyuncu havuzda aktif olarak görev yapar."
+    }
+  },
+  {
+    "id": "sports_53",
+    "categoryId": "sports",
+    "card": {
+      "title": "Ragbi - Oval Top ve Sayı",
+      "frontText": "Rugby sporunda topu rakip sayı çizgisinin arkasına bastırmaya ne denir?",
+      "backText": "Try (5 puan değerindedir)."
+    },
+    "quiz": {
+      "questionText": "Ragbi (Rugby) maçlarında en yüksek puan kazandıran hücum hücumu sayısı nedir?",
+      "options": [
+        { "id": "o1", "text": "Try (5 Puan)", "isCorrect": true },
+        { "id": "o2", "text": "Goal (3 Puan)", "isCorrect": false },
+        { "id": "o3", "text": "Penalty (2 Puan)", "isCorrect": false },
+        { "id": "o4", "text": "Touchdown (6 Puan)", "isCorrect": false }
+      ],
+      "explanation": "Try, topun rakip sayı bölgesine elle yere temas ettirilmesiyle 5 puan kazandırır."
+    }
+  },
+  {
+    "id": "sports_54",
+    "categoryId": "sports",
+    "card": {
+      "title": "Badminton - Tüy Top",
+      "frontText": "Badminton sporunda kullanılan kaz tüyünden yapılan özel topun adı nedir?",
+      "backText": "Kaz tüyü top / Şatılkok (Shuttlecock)."
+    },
+    "quiz": {
+      "questionText": "Badminton oyununda raketle vurulan ve tüylü yapısıyla tanınan nesnenin adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Şatılkok (Shuttlecock)", "isCorrect": true },
+        { "id": "o2", "text": "Puk", "isCorrect": false },
+        { "id": "o3", "text": "Lob", "isCorrect": false },
+        { "id": "o4", "text": "Spin", "isCorrect": false }
+      ],
+      "explanation": "Shuttlecock, kaz tüylerinin mantar bir başlığa dikilmesiyle oluşturulan hafif badminton topudur."
+    }
+  },
+  {
+    "id": "sports_55",
+    "categoryId": "sports",
+    "card": {
+      "title": "Snooker - En Yüksek Seri (Maximum Break)",
+      "frontText": "Snooker bilardosunda tek ıska yapmadan ulaşılabilecek maksimum seri puanı kaçtır?",
+      "backText": "147 Puan (Maximum Break)."
+    },
+    "quiz": {
+      "questionText": "Snooker bilardo masasında tüm kırmızı ve siyah topları sırayla sokarak yapılan maksimum break puanı kaçtır?",
+      "options": [
+        { "id": "o1", "text": "147", "isCorrect": true },
+        { "id": "o2", "text": "100", "isCorrect": false },
+        { "id": "o3", "text": "180", "isCorrect": false },
+        { "id": "o4", "text": "150", "isCorrect": false }
+      ],
+      "explanation": "15 Kırmızı + 15 Siyah ve ardından renkli topların temizlenmesiyle 147 Maximum Break yapılır."
+    }
+  },
+  {
+    "id": "sports_56",
+    "categoryId": "sports",
+    "card": {
+      "title": "Bilardo - Semih Saygıner",
+      "frontText": "'Mr. Magic' (Bay Sihir) ve 'The Turkish Prince' lakaplı dünya şampiyonu bilardocumuz kimdir?",
+      "backText": "Semih Saygıner (3 Bant Bilardo Ustası)."
+    },
+    "quiz": {
+      "questionText": "3 Bant Bilardoda dünya literatürüne giren vuruş teknikleri geliştiren efsane Türk sporcu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Semih Saygıner", "isCorrect": true },
+        { "id": "o2", "text": "Tayfun Taşdemir", "isCorrect": false },
+        { "id": "o3", "text": "Murat Naci Çoklu", "isCorrect": false },
+        { "id": "o4", "text": "Lütfi Çenet", "isCorrect": false }
+      ],
+      "explanation": "Semih Saygıner geliştirdiği 42 özel vuruş tekniği ve dünya şampiyonluklarıyla bilardonun efsanesidir."
+    }
+  },
+  {
+    "id": "sports_57",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - El Clasico",
+      "frontText": "Futbol dünyasında 'El Clásico' hangi iki dev kulübün derbisidir?",
+      "backText": "Real Madrid - Barcelona."
+    },
+    "quiz": {
+      "questionText": "Dünya futbolunun en çok izlenen derbisi olan 'El Clásico' hangi iki İspanyol takımının maçıdır?",
+      "options": [
+        { "id": "o1", "text": "Real Madrid - Barcelona", "isCorrect": true },
+        { "id": "o2", "text": "Atletico Madrid - Real Madrid", "isCorrect": false },
+        { "id": "o3", "text": "Sevilla - Real Betis", "isCorrect": false },
+        { "id": "o4", "text": "Valencia - Villareal", "isCorrect": false }
+      ],
+      "explanation": "Real Madrid ve Barcelona arasındaki rekabet, tarihsel ve kültürel derinliği olan 'El Clasico'dur."
+    }
+  },
+  {
+    "id": "sports_58",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Superclasico",
+      "frontText": "Güney Amerika'nın en ateşli derbisi 'Superclásico' hangi iki Arjantin ekibi arasındadır?",
+      "backText": "Boca Juniors - River Plate."
+    },
+    "quiz": {
+      "questionText": "Buenos Aires kentini ikiye bölen 'Superclásico' derbisi hangi takımlar arasında oynanır?",
+      "options": [
+        { "id": "o1", "text": "Boca Juniors - River Plate", "isCorrect": true },
+        { "id": "o2", "text": "Flamengo - Fluminense", "isCorrect": false },
+        { "id": "o3", "text": "Independiente - Racing", "isCorrect": false },
+        { "id": "o4", "text": "Penarol - Nacional", "isCorrect": false }
+      ],
+      "explanation": "Boca Juniors ve River Plate rekabeti, atmosferiyle dünyanın en tutkulu derbisi kabul edilir."
+    }
+  },
+  {
+    "id": "sports_59",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Ofsayt Kuralı",
+      "frontText": "Ofsayt kuralında kaleci dışında hücum oyuncusuna en yakın kaç rakip oyuncu olmalıdır?",
+      "backText": "Kaleden önde en az 2 rakip oyuncu (genelde 1 kaleci + 1 defans) olmalıdır."
+    },
+    "quiz": {
+      "questionText": "Bir hücum oyuncusunun pas verildiği anda rakip kale çizgisine toptan ve son rakip oyuncudan yakın olması durumuna ne denir?",
+      "options": [
+        { "id": "o1", "text": "Ofsayt", "isCorrect": true },
+        { "id": "o2", "text": "Faver", "isCorrect": false },
+        { "id": "o3", "text": "Taç", "isCorrect": false },
+        { "id": "o4", "text": "Korna", "isCorrect": false }
+      ],
+      "explanation": "Ofsayt, savunma arkasında haksız avantaj elde edilmesini önleyen temel futbol kuralıdır."
+    }
+  },
+  {
+    "id": "sports_60",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Kırmızı Kart ve Ceza",
+      "frontText": "Futbolda direkt kırmızı kart gören oyuncunun takımı maça nasıl devam eder?",
+      "backText": "Oyuncu oyundan ihraç edilir ve takım kalan süreyi 1 kişi eksik tamamlar (Yedek giremez)."
+    },
+    "quiz": {
+      "questionText": "Kırmızı kart görerek oyundan atılan bir futbolcunun yerine yedek kulübesinden oyuncu girebilir mi?",
+      "options": [
+        { "id": "o1", "text": "Hayır, takım maça 1 kişi eksik devam eder", "isCorrect": true },
+        { "id": "o2", "text": "Evet, hemen yedek oyuncu girer", "isCorrect": false },
+        { "id": "o3", "text": "5 dakika sonra yedek girebilir", "isCorrect": false },
+        { "id": "o4", "text": "Teknik direktör kararına bağlıdır", "isCorrect": false }
+      ],
+      "explanation": "Kırmızı kart cezalandırma yöntemidir; oyuncu sahayı terk eder ve yerine başkası dahil olamaz."
+    }
+  },
+  {
+    "id": "sports_61",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Hücum Süresi (Shot Clock)",
+      "frontText": "NBA ve FIBA maçlarında bir takımın hücumunu tamamlaması gereken süre kaç saniyedir?",
+      "backText": "24 Saniye."
+    },
+    "quiz": {
+      "questionText": "Basketbolda hücum eden takımın topu çembere fırlatması için tanınan toplam hücum süresi kaç saniyedir?",
+      "options": [
+        { "id": "o1", "text": "24 Saniye", "isCorrect": true },
+        { "id": "o2", "text": "30 Saniye", "isCorrect": false },
+        { "id": "o3", "text": "14 Saniye", "isCorrect": false },
+        { "id": "o4", "text": "20 Saniye", "isCorrect": false }
+      ],
+      "explanation": "24 saniye kuralı, basketbolun temposunu ve seyir zevkini artırmak için uygulanır."
+    }
+  },
+  {
+    "id": "sports_62",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Yarı Sahayı Geçme Süresi",
+      "frontText": "Basketbolda savunma ribaundunu alan takımın kendi yarı sahasını geçme süresi kaç saniyedir?",
+      "backText": "8 Saniye."
+    },
+    "quiz": {
+      "questionText": "Hücuma kalkan bir basketbol takımı topu kendi yarı sahasından en geç kaç saniyede çıkarmak zorundadır?",
+      "options": [
+        { "id": "o1", "text": "8 Saniye", "isCorrect": true },
+        { "id": "o2", "text": "5 Saniye", "isCorrect": false },
+        { "id": "o3", "text": "10 Saniye", "isCorrect": false },
+        { "id": "o4", "text": "12 Saniye", "isCorrect": false }
+      ],
+      "explanation": "Topu 8 saniye içinde rakip yarı sahaya geçiremeyen takım top kaybı yapar."
+    }
+  },
+  {
+    "id": "sports_63",
+    "categoryId": "sports",
+    "card": {
+      "title": "Voleybol - Libero Pozisyonu",
+      "frontText": "Voleybolda farklı renkte forma giyen savunma uzmanı oyuncuya ne ad verilir?",
+      "backText": "Libero (Servis atamaz, hücum bloğu yapamaz)."
+    },
+    "quiz": {
+      "questionText": "Voleybolda diğer takım arkadaşlarından farklı renkte forma giyen ve sadece arka hat savunması yapan oyuncu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Libero", "isCorrect": true },
+        { "id": "o2", "text": "Pasör", "isCorrect": false },
+        { "id": "o3", "text": "Smörşör", "isCorrect": false },
+        { "id": "o4", "text": "Orta Oyuncu", "isCorrect": false }
+      ],
+      "explanation": "Libero, manşet ve defans kapasitesini artırmak için oyuna giren özel forma giyen oyuncudur."
+    }
+  },
+  {
+    "id": "sports_64",
+    "categoryId": "sports",
+    "card": {
+      "title": "Voleybol - Set Kazanma Puanı",
+      "frontText": "Voleybolda bir seti kazanmak için kaç puana ulaşmak ve kaç fark açmak gerekir?",
+      "backText": "25 Puan (En az 2 sayı fark olması şartıyla)."
+    },
+    "quiz": {
+      "questionText": "Voleybolda uzatma (karar) seti hariç normal bir seti kazanmak için kaç sayıya ulaşmak gerekir?",
+      "options": [
+        { "id": "o1", "text": "25 Puan", "isCorrect": true },
+        { "id": "o2", "text": "21 Puan", "isCorrect": false },
+        { "id": "o3", "text": "15 Puan", "isCorrect": false },
+        { "id": "o4", "text": "30 Puan", "isCorrect": false }
+      ],
+      "explanation": "25 sayıya ulaşan ve rakibine en az 2 sayı fark atan takım seti kazanır. 5. karar seti ise 15 puandır."
+    }
+  },
+  {
+    "id": "sports_65",
+    "categoryId": "sports",
+    "card": {
+      "title": "Atletizm - Cirit Atma Rekoru",
+      "frontText": "Erkekler cirit atmada 98.48 metre ile kırılamayan dünya rekorunun sahibi kimdir?",
+      "backText": "Jan Zelezny (Çek atlet)."
+    },
+    "quiz": {
+      "questionText": "Cirit atma branşında 98.48 metrelik inanılmaz atışıyla dünya rekorunu elinde tutan efsane kimdir?",
+      "options": [
+        { "id": "o1", "text": "Jan Železný", "isCorrect": true },
+        { "id": "o2", "text": "Johannes Vetter", "isCorrect": false },
+        { "id": "o3", "text": "Neeraj Chopra", "isCorrect": false },
+        { "id": "o4", "text": "Aki Parviainen", "isCorrect": false }
+      ],
+      "explanation": "Jan Zelezny 1996 yılında yaptığı bu atışla atletizm tarihinin efsaneleri arasına girmiştir."
+    }
+  },
+  {
+    "id": "sports_66",
+    "categoryId": "sports",
+    "card": {
+      "title": "Atletizm - Sırıkla Atlama Kralı",
+      "frontText": "Sırıkla atlamada 6 metrenin üstüne çıkan ilk atlet ve günümüzün rekortmeni kimdir?",
+      "backText": "Sergey Bubka (Eski rekortmen) ve Armand Duplantis (Günümüz rekortmeni)."
+    },
+    "quiz": {
+      "questionText": "Sırıkla atlamada üst üste dünya rekorları kırarak 6.20m üzerine çıkan İsveçli fenomen atlet kimdir?",
+      "options": [
+        { "id": "o1", "text": "Armand Duplantis", "isCorrect": true },
+        { "id": "o2", "text": "Sergey Bubka", "isCorrect": false },
+        { "id": "o3", "text": "Renaud Lavillenie", "isCorrect": false },
+        { "id": "o4", "text": "Thiago Braz", "isCorrect": false }
+      ],
+      "explanation": "Armand 'Mondo' Duplantis genç yaşında sırıkla atlama branşını baştan tanımlamıştır."
+    }
+  },
+  {
+    "id": "sports_67",
+    "categoryId": "sports",
+    "card": {
+      "title": "Boks - Nakavt vs Teknik Nakavt",
+      "frontText": "Boksta hakemin 10'a kadar sayıp dövüşçünün kalkamamasına ne denir?",
+      "backText": "Knockout (KO / Nakavt)."
+    },
+    "quiz": {
+      "questionText": "Boksta hakemin sporcunun sağlığı için maçı bitirmesine veya köşenin havlu atmasına ne denir?",
+      "options": [
+        { "id": "o1", "text": "Teknik Nakavt (TKO)", "isCorrect": true },
+        { "id": "o2", "text": "Nakavt (KO)", "isCorrect": false },
+        { "id": "o3", "text": "Diskalifiye", "isCorrect": false },
+        { "id": "o4", "text": "Masa Kararı", "isCorrect": false }
+      ],
+      "explanation": "TKO (Teknik Nakavt) sporcu bilincini kaybetmese bile dövüşemeyecek haldeyse verilen karardır."
+    }
+  },
+  {
+    "id": "sports_68",
+    "categoryId": "sports",
+    "card": {
+      "title": "Motor Sporları - MotoGP Efsanesi",
+      "frontText": "'The Doctor' lakaplı 9 kez Dünya Şampiyonu olan İtalyan motosiklet efsanesi kimdir?",
+      "backText": "Valentino Rossi (46 Numara)."
+    },
+    "quiz": {
+      "questionText": "46 numaralı motoru ve 'The Doctor' lakabıyla bilinen MotoGP tarihinin simge ismi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Valentino Rossi", "isCorrect": true },
+        { "id": "o2", "text": "Marc Márquez", "isCorrect": false },
+        { "id": "o3", "text": "Jorge Lorenzo", "isCorrect": false },
+        { "id": "o4", "text": "Casey Stoner", "isCorrect": false }
+      ],
+      "explanation": "Valentino Rossi, kazandığı 9 dünya şampiyonluğu ile motosiklet yarışlarının küresel ikonu olmuştur."
+    }
+  },
+  {
+    "id": "sports_69",
+    "categoryId": "sports",
+    "card": {
+      "title": "Motor Sporları - Kenan Sofuoğlu",
+      "frontText": "Supersport Dünya Şampiyonası'nı 5 kez kazanan efsanevi Türk motosikletçi kimdir?",
+      "backText": "Kenan Sofuoğlu."
+    },
+    "quiz": {
+      "questionText": "Dünya Supersport Şampiyonası'nda 5 kez dünya şampiyonu olan tek pist yarışçımız kimdir?",
+      "options": [
+        { "id": "o1", "text": "Kenan Sofuoğlu", "isCorrect": true },
+        { "id": "o2", "text": "Toprak Razgatlıoğlu", "isCorrect": false },
+        { "id": "o3", "text": "Can Öncü", "isCorrect": false },
+        { "id": "o4", "text": "Deniz Öncü", "isCorrect": false }
+      ],
+      "explanation": "Kenan Sofuoğlu 2007, 2010, 2012, 2015 ve 2016 yıllarında 5 kez Dünya Şampiyonu olmuştur."
+    }
+  },
+  {
+    "id": "sports_70",
+    "categoryId": "sports",
+    "card": {
+      "title": "Motor Sporları - Toprak Razgatlıoğlu",
+      "frontText": "Dünya Superbike Şampiyonası'nda (WSBK) Dünya Şampiyonu olan ilk Türk pilot kimdir?",
+      "backText": "Toprak Razgatlıoğlu (2021 ve 2024 Şampiyonu)."
+    },
+    "quiz": {
+      "questionText": "WorldSBK (Dünya Superbike) şampiyonasında Rea'nin serisini kırıp Dünya Şampiyonu olan Türk motosikletçi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Toprak Razgatlıoğlu", "isCorrect": true },
+        { "id": "o2", "text": "Kenan Sofuoğlu", "isCorrect": false },
+        { "id": "o3", "text": "Bahattin Sofuoğlu", "isCorrect": false },
+        { "id": "o4", "text": "Aron Canet", "isCorrect": false }
+      ],
+      "explanation": "Toprak Razgatlıoğlu 'El Turco' lakabıyla Superbike kategorisinde dünya şampiyonluğu kazanmıştır."
+    }
+  },
+  {
+    "id": "sports_71",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Altın Jenerasyon ve Altın Gol",
+      "frontText": "Dünya Kupaları tarihindeki son 'Altın Gol'ü hangi ülke ve futbolcu atmıştır?",
+      "backText": "Laurent Blanc (Fransa - 1998) veya Ahn Jung-hwan (Güney Kore - 2002) ve İlhan Mansız."
+    },
+    "quiz": {
+      "questionText": "2002 Dünya Kupası çeyrek finalinde Senegal'e attığı Altın Gol ile Türkiye'yi yarı finale taşıyan futbolcu kimdir?",
+      "options": [
+        { "id": "o1", "text": "İlhan Mansız", "isCorrect": true },
+        { "id": "o2", "text": "Hasan Şaş", "isCorrect": false },
+        { "id": "o3", "text": "Ümit Davala", "isCorrect": false },
+        { "id": "o4", "text": "Hakan Şükür", "isCorrect": false }
+      ],
+      "explanation": "İlhan Mansız uzatmalarda attığı Altın Gol ile maçı bitirmiş ve Türkiye'yi yarı finale çıkarmıştır."
+    }
+  },
+  {
+    "id": "sports_72",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - En Hızlı Gol Rekoru",
+      "frontText": "Dünya Kupası tarihinin en hızlı golünü kim, kaçıncı saniyede atmıştır?",
+      "backText": "Hakan Şükür - 10.8. saniyede (2002 Türkiye - Güney Kore maçında)."
+    },
+    "quiz": {
+      "questionText": "FIFA Dünya Kupası tarihinin en hızlı golü rekoru kaçıncı saniyede atılmıştır?",
+      "options": [
+        { "id": "o1", "text": "10.8 Saniye (Hakan Şükür)", "isCorrect": true },
+        { "id": "o2", "text": "15.2 Saniye", "isCorrect": false },
+        { "id": "o3", "text": "8.5 Saniye", "isCorrect": false },
+        { "id": "o4", "text": "20.1 Saniye", "isCorrect": false }
+      ],
+      "explanation": "2002 Dünya Kupası 3.'lük maçında Hakan Şükür santradan 10.8 saniye sonra gol atarak dünya rekoru kırmıştır."
+    }
+  },
+  {
+    "id": "sports_73",
+    "categoryId": "sports",
+    "card": {
+      "title": "Kış Sporları - Curling",
+      "frontText": "Buz üzerinde ağır granit kayaları süpürgelerle yönlendirip hedefe yanaştırma sporunun adı nedir?",
+      "backText": "Körlíng (Curling - Satrancın buz üstündeki hali)."
+    },
+    "quiz": {
+      "questionText": "'Buz Üstünde Satranç' olarak bilinen granit taşlar ve süpürgelerle oynanan Olimpiyat sporu hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Curling (Körling)", "isCorrect": true },
+        { "id": "o2", "text": "Buz Dansı", "isCorrect": false },
+        { "id": "o3", "text": "Skeleton", "isCorrect": false },
+        { "id": "o4", "text": "Bobsled", "isCorrect": false }
+      ],
+      "explanation": "Curling, taşların hedef daireye (ev) yaklaşması için buzun süpürülerek sürtünmesinin ayarlandığı strateji sporudur."
+    }
+  },
+  {
+    "id": "sports_74",
+    "categoryId": "sports",
+    "card": {
+      "title": "Kış Sporları - Biatlon",
+      "frontText": "Biatlon sporu hangi iki kış disiplininin birleşmesinden oluşur?",
+      "backText": "Kross Kayak (Kayaklı Koşu) ve Tüfekle Hedef Atıcılığı."
+    },
+    "quiz": {
+      "questionText": "Sporcuların belli mesafelerde kayak yapıp ardından durarak tüfekle hedef vurduğu kış sporu nedir?",
+      "options": [
+        { "id": "o1", "text": "Biatlon", "isCorrect": true },
+        { "id": "o2", "text": "Triatlon", "isCorrect": false },
+        { "id": "o3", "text": "Nordik Kombine", "isCorrect": false },
+        { "id": "o4", "text": "Slalom", "isCorrect": false }
+      ],
+      "explanation": "Biatlon hem yüksek nabızda dayanıklılık hem de nefes kontrolü gerektiren atıcılığı birleştirir."
+    }
+  },
+  {
+    "id": "sports_75",
+    "categoryId": "sports",
+    "card": {
+      "title": "Su Sporları - Triatlon",
+      "frontText": "Triatlon yarışını oluşturan 3 ardışık spor hangileridir?",
+      "backText": "Yüzme, Bisiklet ve Koşu."
+    },
+    "quiz": {
+      "questionText": "Mola vermeksizin sırasıyla yapılan Yüzme, Bisiklet ve Koşu disiplinlerinden oluşan dayanıklılık sporu nedir?",
+      "options": [
+        { "id": "o1", "text": "Triatlon", "isCorrect": true },
+        { "id": "o2", "text": "Pentatlon", "isCorrect": false },
+        { "id": "o3", "text": "Biatlon", "isCorrect": false },
+        { "id": "o4", "text": "Ironman", "isCorrect": false }
+      ],
+      "explanation": "Triatlon sporcuları kesintisiz olarak yüzüp, bisiklete biner ve maraton koşarlar."
+    }
+  },
+  {
+    "id": "sports_76",
+    "categoryId": "sports",
+    "card": {
+      "title": "Extrem Sporlar - Ironman",
+      "frontText": "'Ironman' (Demir Adam) yarışındaki efsanevi parkur mesafeleri nedir?",
+      "backText": "3.8 km Yüzme, 180 km Bisiklet ve 42.2 km Koşu."
+    },
+    "quiz": {
+      "questionText": "Dünyanın en zorlu 1 günlük sporu kabul edilen Ironman şampiyonasının yapıldığı efsane ada hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Hawaii (Kona)", "isCorrect": true },
+        { "id": "o2", "text": "Madagaskar", "isCorrect": false },
+        { "id": "o3", "text": "İbiza", "isCorrect": false },
+        { "id": "o4", "text": "Mikonos", "isCorrect": false }
+      ],
+      "explanation": "Hawaii Kona'da yapılan Ironman Dünya Şampiyonası atletizmin en ağır sınavlarındandır."
+    }
+  },
+  {
+    "id": "sports_77",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Akrep Vuruşu (Scorpion Kick)",
+      "frontText": "1995 yılında Wembley'de topu zıplayarak topuklarıyla arkadan çıkaran efsanevi Kolombiyalı kaleci kimdir?",
+      "backText": "René Higuita."
+    },
+    "quiz": {
+      "questionText": "'Akrep Vuruşu' (Scorpion Kick) kurtarışıyla dünya futbol tarihine geçen çılgın Kolombiyalı kaleci kimdir?",
+      "options": [
+        { "id": "o1", "text": "René Higuita", "isCorrect": true },
+        { "id": "o2", "text": "José Luis Chilavert", "isCorrect": false },
+        { "id": "o3", "text": "Jorge Campos", "isCorrect": false },
+        { "id": "o4", "text": "Rogerio Ceni", "isCorrect": false }
+      ],
+      "explanation": "René Higuita, İngiltere maçında ceza sahasına gelen topu uçarak sırtının arkasındaki topuklarıyla çelmiştir."
+    }
+  },
+  {
+    "id": "sports_78",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - En Çok Gol Atan Kaleci",
+      "frontText": "Kariyerinde frikik ve penaltılardan 130'dan fazla gol atan kaleci kimdir?",
+      "backText": "Rogério Ceni (Brezilyalı São Paulo kalecisi)."
+    },
+    "quiz": {
+      "questionText": "Futbol tarihinde attığı 131 golle 'Tarihin En Skorer Kalecisi' unvanına sahip Brezilyalı isim kimdir?",
+      "options": [
+        { "id": "o1", "text": "Rogério Ceni", "isCorrect": true },
+        { "id": "o2", "text": "Chilavert", "isCorrect": false },
+        { "id": "o3", "text": "Higuita", "isCorrect": false },
+        { "id": "o4", "text": "Hans-Jörg Butt", "isCorrect": false }
+      ],
+      "explanation": "São Paulo kaptanı Rogério Ceni kullandığı harika frikiklerle yüzyılın en garip rekorlarından birini kırmıştır."
+    }
+  },
+  {
+    "id": "sports_79",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Harlem Globetrotters",
+      "frontText": "Show amaçlı basketbol hareketleri ve komedi mizansenleriyle dünyayı gezen ünlü ekip nedir?",
+      "backText": "Harlem Globetrotters."
+    },
+    "quiz": {
+      "questionText": "Akrobatik smaçları ve komik gösterileriyle basketbolu eğlenceye dönüştüren Amerikalı şov takımı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Harlem Globetrotters", "isCorrect": true },
+        { "id": "o2", "text": "And1 All-Stars", "isCorrect": false },
+        { "id": "o3", "text": "Washington Generals", "isCorrect": false },
+        { "id": "o4", "text": "LA Streetballers", "isCorrect": false }
+      ],
+      "explanation": "Harlem Globetrotters 1920'lerden beri dünyayı dolaşarak eğlenceli basketbol şovları sunar."
+    }
+  },
+  {
+    "id": "sports_80",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Kobe Bryant ve Mamba Mentality",
+      "frontText": "Los Angeles Lakers efsanesi Kobe Bryant'ın kendi çalışma hırsına verdiği isim nedir?",
+      "backText": "Mamba Mentality (Mamba Zihniyeti)."
+    },
+    "quiz": {
+      "questionText": "'Black Mamba' lakaplı Kobe Bryant'ın mükemmellik ve durmaksızın çalışma odaklı felsefesinin adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Mamba Mentality", "isCorrect": true },
+        { "id": "o2", "text": "Laker Spirit", "isCorrect": false },
+        { "id": "o3", "text": "Viper Drive", "isCorrect": false },
+        { "id": "o4", "text": "Kobe Code", "isCorrect": false }
+      ],
+      "explanation": "Mamba Mentality, her gün bir önceki günden daha iyi olmak için pes etmeden çalışma disiplinidir."
+    }
+  },
+  {
+    "id": "sports_81",
+    "categoryId": "sports",
+    "card": {
+      "title": "Tenis - Grand Slam Turnuvaları",
+      "frontText": "Yılın 4 büyük Grand Slam tenis turnuvası takvim sırasına göre hangileridir?",
+      "backText": "Avustralya Açık, Fransa Açık (Roland Garros), Wimbledon, Amerika Açık."
+    },
+    "quiz": {
+      "questionText": "Takvim yılında oynanan İLK Grand Slam tenis turnuvası hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Avustralya Açık", "isCorrect": true },
+        { "id": "o2", "text": "Roland Garros", "isCorrect": false },
+        { "id": "o3", "text": "Wimbledon", "isCorrect": false },
+        { "id": "o4", "text": "Amerika Açık", "isCorrect": false }
+      ],
+      "explanation": "Sezonun ilk Grand Slam'i ocak ayında Melbourne'de sert kortta yapılan Avustralya Açık'tır."
+    }
+  },
+  {
+    "id": "sports_82",
+    "categoryId": "sports",
+    "card": {
+      "title": "Tenis - Wimbledon Beyaz Kıyafet Kuralı",
+      "frontText": "Wimbledon tenis turnuvasındaki katı kıyafet kuralı nedir?",
+      "backText": "Tüm sporcuların baştan aşağı neredeyse tamamen BEYAZ giyinmesi zorunludur."
+    },
+    "quiz": {
+      "questionText": "İngiltere'de düzenlenen geleneksel Wimbledon turnuvasında oyuncuların kıyafet rengi ne olmak zorundadır?",
+      "options": [
+        { "id": "o1", "text": "Tamamen Beyaz", "isCorrect": true },
+        { "id": "o2", "text": "Yeşil ve Beyaz", "isCorrect": false },
+        { "id": "o3", "text": "Koyu Renkler", "isCorrect": false },
+        { "id": "o4", "text": "Serbesttir", "isCorrect": false }
+      ],
+      "explanation": "1877'den beri süren gelenek gereği ter lekelerini belli etmemek için beyaz giyinme kuralı uygulanır."
+    }
+  },
+  {
+    "id": "sports_83",
+    "categoryId": "sports",
+    "card": {
+      "title": "Olimpiyatlar - Meşale ve Antik Kent",
+      "frontText": "Olimpiyat meşalesi her olimpiyat öncesi nerede yakılır?",
+      "backText": "Yunanistan'ın antik Olympia kentindeki Hera Tapınağı'nda (Güneş aynasıyla)."
+    },
+    "quiz": {
+      "questionText": "Olimpiyat Oyunları başlamadan önce sembolik Olimpiyat Ateşi geleneksel olarak nerede yakılmaktadır?",
+      "options": [
+        { "id": "o1", "text": "Olympia / Yunanistan", "isCorrect": true },
+        { "id": "o2", "text": "Atina / Yunanistan", "isCorrect": false },
+        { "id": "o3", "text": "Oyunların yapılacağı ev sahibi şehirde", "isCorrect": false },
+        { "id": "o4", "text": "Cenevre / İsviçre", "isCorrect": false }
+      ],
+      "explanation": "Ateş, antik geleneklere uygun biçimde iç bükey aynayla güneş ışığından Olimpia'da tutuşturulur."
+    }
+  },
+  {
+    "id": "sports_84",
+    "categoryId": "sports",
+    "card": {
+      "title": "Olimpiyatlar - Halka Renkleri",
+      "frontText": "Olimpiyat bayrağında beyaz zemin üzerine kaç renkli halka bulunur?",
+      "backText": "5 Halka (Mavi, Sarı, Siyah, Yeşil, Kırmızı)."
+    },
+    "quiz": {
+      "questionText": "Olimpiyat sembolündeki 5 halkanın renkleri arasında hangisi YER ALMAZ?",
+      "options": [
+        { "id": "o1", "text": "Turuncu", "isCorrect": true },
+        { "id": "o2", "text": "Mavi", "isCorrect": false },
+        { "id": "o3", "text": "Siyah", "isCorrect": false },
+        { "id": "o4", "text": "Sarı", "isCorrect": false }
+      ],
+      "explanation": "Halkalar Mavi, Sarı, Siyah, Yeşil ve Kırmızı renklidir; turuncu renk yoktur."
+    }
+  },
+  {
+    "id": "sports_85",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Hakem Kartlarının İcadı",
+      "frontText": "Sarı ve Kırmızı kart uygulaması ilk kez hangi Dünya Kupası'nda kullanılmıştır?",
+      "backText": "1970 Meksika Dünya Kupası (Dil engelini aşmak için Ken Aston icat etmiştir)."
+    },
+    "quiz": {
+      "questionText": "Sürücülerin trafik ışıklarından esinlenilerek futbola kazandırılan ceza kartları ilk kez ne zaman uygulandı?",
+      "options": [
+        { "id": "o1", "text": "1970 Meksika Dünya Kupası", "isCorrect": true },
+        { "id": "o2", "text": "1966 İngiltere Dünya Kupası", "isCorrect": false },
+        { "id": "o3", "text": "1954 İsviçre Dünya Kupası", "isCorrect": false },
+        { "id": "o4", "text": "1982 İspanya Dünya Kupası", "isCorrect": false }
+      ],
+      "explanation": "Trafik lambalarının mantığıyla sarı ve kırmızı kartlar 1970'te resmen hayata geçmiştir."
+    }
+  },
+  {
+    "id": "sports_86",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Panenka Penaltısı",
+      "frontText": "Topun dibine girerek kalenin ortasına aşırtma vurulan penaltı stilinin mucidi kimdir?",
+      "backText": "Antonín Panenka (1976 Avrupa Şampiyonası finalinde Çekoslovakya adına atmıştır)."
+    },
+    "quiz": {
+      "questionText": "1976 EURO finalinde Alman kaleci Sepp Maier'i aşırtma penaltıyla avlayan teknik vuruşun adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Panenka Penaltısı", "isCorrect": true },
+        { "id": "o2", "text": "Rabona", "isCorrect": false },
+        { "id": "o3", "text": "Trivela", "isCorrect": false },
+        { "id": "o4", "text": "Rövaşata", "isCorrect": false }
+      ],
+      "explanation": "Antonín Panenka'nın bu cüretkar vuruşu günümüzde 'Panenka Penaltısı' olarak anılır."
+    }
+  },
+  {
+    "id": "sports_87",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Trivela ve Quaresma",
+      "frontText": "Ayağın dışıyla falso verilerek yapılan vuruş tekniğine ne denir ve kiminle özdeşleşmiştir?",
+      "backText": "Trivela - Ricardo Quaresma."
+    },
+    "quiz": {
+      "questionText": "Ayağın dış kısmıyla topa kavis kazandırarak yapılan 'Trivela' vuruşunun ustası olan Portekizli kimdir?",
+      "options": [
+        { "id": "o1", "text": "Ricardo Quaresma", "isCorrect": true },
+        { "id": "o2", "text": "Cristiano Ronaldo", "isCorrect": false },
+        { "id": "o3", "text": "Nani", "isCorrect": false },
+        { "id": "o4", "text": "Figo", "isCorrect": false }
+      ],
+      "explanation": "Quaresma, muazzam Trivela orta ve şutlarıyla tanınan ikonik kanat oyuncusudur."
+    }
+  },
+  {
+    "id": "sports_88",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Rabona Tekniği",
+      "frontText": "Bacakları çaprazlayarak vurulan şut/orta tekniğinin adı nedir?",
+      "backText": "Rabona."
+    },
+    "quiz": {
+      "questionText": "Vuran ayağın destek ayağının arkasından geçirilip çapraz vurulması esasına dayanan hareket nedir?",
+      "options": [
+        { "id": "o1", "text": "Rabona", "isCorrect": true },
+        { "id": "o2", "text": "Trivela", "isCorrect": false },
+        { "id": "o3", "text": "Sombrero", "isCorrect": false },
+        { "id": "o4", "text": "Bicycle Kick", "isCorrect": false }
+      ],
+      "explanation": "Rabona hareketinde oyuncu ters ayağını kullanmak yerine bacağını arkadan dolayarak vurur."
+    }
+  },
+  {
+    "id": "sports_89",
+    "categoryId": "sports",
+    "card": {
+      "title": "Güreş - Grekoromen ve Serbest Stil",
+      "frontText": "Grekoromen güreş stilinde belden aşağısına tutunmak serbest midir?",
+      "backText": "Hayır, Grekoromen stilde sadece belden yukarı bölgelere müdahale edilebilir (Bacak tutmak yasaktır)."
+    },
+    "quiz": {
+      "questionText": "Güreşte rakibin bacaklarına sarılmanın ve ayakla çelme takmanın YASAK olduğu disiplin hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Grekoromen Stil", "isCorrect": true },
+        { "id": "o2", "text": "Serbest Stil", "isCorrect": false },
+        { "id": "o3", "text": "Yağlı Güreş", "isCorrect": false },
+        { "id": "o4", "text": "Karakucak Güreşi", "isCorrect": false }
+      ],
+      "explanation": "Grekoromen stilde bacak kulanımı yasakken, Serbest stilde bacak kapma ve çelme serbesttir."
+    }
+  },
+  {
+    "id": "sports_90",
+    "categoryId": "sports",
+    "card": {
+      "title": "Güreş - Taha Akgül & Rıza Kayaalp",
+      "frontText": "Serbest stilde dünya ve olimpiyat şampiyonlukları bulunan ağır sıklet efsanemiz kimdir?",
+      "backText": "Taha Akgül (Serbest) ve Rıza Kayaalp (Grekoromen)."
+    },
+    "quiz": {
+      "questionText": "Olimpiyat Altın Madalyalı serbest stil 125 kg dev güreşçimiz kimdir?",
+      "options": [
+        { "id": "o1", "text": "Taha Akgül", "isCorrect": true },
+        { "id": "o2", "text": "Rıza Kayaalp", "isCorrect": false },
+        { "id": "o3", "text": "Hamza Yerlikaya", "isCorrect": false },
+        { "id": "o4", "text": "Mahmut Atalay", "isCorrect": false }
+      ],
+      "explanation": "Taha Akgül serbest stilde, Rıza Kayaalp ise grekoromende Türk güreşinin son dönemdeki iki dev adıdır."
+    }
+  },
+  {
+    "id": "sports_91",
+    "categoryId": "sports",
+    "card": {
+      "title": "Güreş - Yüzyılın Güreşçisi",
+      "frontText": "FILA tarafından 'Yüzyılın Güreşçisi' ilan edilen 17 yaşında dünya şampiyonu olmuş efsane kimdir?",
+      "backText": "Hamza Yerlikaya."
+    },
+    "quiz": {
+      "questionText": "17 yaşında büyükler dünya şampiyonu olarak rüzgar gibi esen ve 'Yüzyılın Güreşçisi' seçilen şampiyon kimdir?",
+      "options": [
+        { "id": "o1", "text": "Hamza Yerlikaya", "isCorrect": true },
+        { "id": "o2", "text": "Yaşar Doğu", "isCorrect": false },
+        { "id": "o3", "text": "Gazanfer Bilge", "isCorrect": false },
+        { "id": "o4", "text": "Mithat Bayrak", "isCorrect": false }
+      ],
+      "explanation": "Hamza Yerlikaya genç yaşta kazandığı olimpiyat ve dünya şampiyonluklarıyla yüzyılın güreşçisi seçilmiştir."
+    }
+  },
+  {
+    "id": "sports_92",
+    "categoryId": "sports",
+    "card": {
+      "title": "Güreş - Türk Güreşinin Babası",
+      "frontText": "Milli güreş ekolümüzün en büyük efsanesi kabul edilen 'Türk Gibi Kuvvetli' sözünü doğrulayan usta kimdir?",
+      "backText": "Yaşar Doğu."
+    },
+    "quiz": {
+      "questionText": "Güreşte rakiplerinin sırtını yere getirme hızıyla tanınan Türk güreşinin efsanevi hocası ve sporcusu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Yaşar Doğu", "isCorrect": true },
+        { "id": "o2", "text": "Koca Yusuf", "isCorrect": false },
+        { "id": "o3", "text": "Adalı Halil", "isCorrect": false },
+        { "id": "o4", "text": "Kel Aliço", "isCorrect": false }
+      ],
+      "explanation": "Yaşar Doğu hem sporculuğunda tuş rekorları kırmış hem de Türk güreş ekolünü yetiştirmiştir."
+    }
+  },
+  {
+    "id": "sports_93",
+    "categoryId": "sports",
+    "card": {
+      "title": "Judo ve Uzak Doğu Sporları - Dan / Kuşak",
+      "frontText": "Judo, Karate ve Taekwondo gibi dövüş sanatlarında en üst ustalığı simgeleyen kuşak rengi nedir?",
+      "backText": "Siyah Kuşak (Daha üst seviyelerde Dan dereceleri gelir)."
+    },
+    "quiz": {
+      "questionText": "Uzak Doğu dövüş sporlarında acemilikten ustalığa geçişte takılan en yüksek aşama kuşağı ne renktir?",
+      "options": [
+        { "id": "o1", "text": "Siyah", "isCorrect": true },
+        { "id": "o2", "text": "Kırmızı", "isCorrect": false },
+        { "id": "o3", "text": "Kahverengi", "isCorrect": false },
+        { "id": "o4", "text": "Sarı", "isCorrect": false }
+      ],
+      "explanation": "Siyah kuşak temel tekniklerin ustalık seviyesinde öğrenildiğini ifade eder."
+    }
+  },
+  {
+    "id": "sports_94",
+    "categoryId": "sports",
+    "card": {
+      "title": "Sumo Güreşi - Yokozuna",
+      "frontText": "Japon geleneksel Sumo güreşinde ulaşılabilen en yüksek şampiyonluk unvanı nedir?",
+      "backText": "Yokozuna."
+    },
+    "quiz": {
+      "questionText": "Sumo güreşçilerinin kazanabileceği en kutsal ve en yüksek unvan nedir?",
+      "options": [
+        { "id": "o1", "text": "Yokozuna", "isCorrect": true },
+        { "id": "o2", "text": "Ozeki", "isCorrect": false },
+        { "id": "o3", "text": "Sekiwake", "isCorrect": false },
+        { "id": "o4", "text": "Komusubi", "isCorrect": false }
+      ],
+      "explanation": "Yokozuna, 'Büyük Şampiyon' demektir ve bu unvan ömür boyu taşınır, düşürülmez."
+    }
+  },
+  {
+    "id": "sports_95",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Altın Jenerasyon Belçika",
+      "frontText": "Kırmızı Şeytanlar (Red Devils) lakaplı milli futbol takımı hangisidir?",
+      "backText": "Belçika Milli Futbol Takımı."
+    },
+    "quiz": {
+      "questionText": "'Kırmızı Şeytanlar' lakabıyla anılan Avrupa milli takımı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Belçika", "isCorrect": true },
+        { "id": "o2", "text": "İspanya", "isCorrect": false },
+        { "id": "o3", "text": "Portekiz", "isCorrect": false },
+        { "id": "o4", "text": "İsviçre", "isCorrect": false }
+      ],
+      "explanation": "Belçika Milli Takımı formalarının kırmızı rengi nedeniyle 'Red Devils' lakabını taşır."
+    }
+  },
+  {
+    "id": "sports_96",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Panzerler",
+      "frontText": "'Panzerler' lakabıyla bilinen milli takım hangisidir?",
+      "backText": "Almanya Milli Futbol Takımı."
+    },
+    "quiz": {
+      "questionText": "Disiplinli oyun stili nedeniyle 'Panzerler' lakabı takılan dünya devi milli takım hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Almanya", "isCorrect": true },
+        { "id": "o2", "text": "Hollanda", "isCorrect": false },
+        { "id": "o3", "text": "İsveç", "isCorrect": false },
+        { "id": "o4", "text": "Avusturya", "isCorrect": false }
+      ],
+      "explanation": "Almanya, maçı son düdüğe kadar bırakmayan dirençli yapısıyla 'Panzerler' olarak anılır."
+    }
+  },
+  {
+    "id": "sports_97",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Portakallar ve Total Futbol",
+      "frontText": "1970'lerde 'Total Futbol' felsefesiyle dünyayı büyüleyen ve 'Portakallar' denilen takım hangisidir?",
+      "backText": "Hollanda (Johan Cruyff öncülüğünde)."
+    },
+    "quiz": {
+      "questionText": "Rinus Michels ve Johan Cruyff'un 'Total Futbol' akımıyla bilinen turuncu formalı milli takım nedir?",
+      "options": [
+        { "id": "o1", "text": "Hollanda", "isCorrect": true },
+        { "id": "o2", "text": "Portekiz", "isCorrect": false },
+        { "id": "o3", "text": "İrlanda", "isCorrect": false },
+        { "id": "o4", "text": "Fildişi Sahili", "isCorrect": false }
+      ],
+      "explanation": "Total Futbol, kaleci hariç her oyuncunun her mevkide oynayabildiği Hollanda ekolüdür."
+    }
+  },
+  {
+    "id": "sports_98",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Gök Mavililer (Azzurri)",
+      "frontText": "'Azzurri' (Gök Mavililer) lakaplı 4 Dünya Kupası sahibi ülke hangisidir?",
+      "backText": "İtalya."
+    },
+    "quiz": {
+      "questionText": "Mavi formaları sebebiyle 'Azzurri' olarak çağrılan Avrupa milli takımı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "İtalya", "isCorrect": true },
+        { "id": "o2", "text": "Fransa", "isCorrect": false },
+        { "id": "o3", "text": "Yunanistan", "isCorrect": false },
+        { "id": "o4", "text": "İskoçya", "isCorrect": false }
+      ],
+      "explanation": "İtalya Savoy Hanedanı'nın rengi olan mavi renkli forması nedeniyle Azzurri lakabını almıştır."
+    }
+  },
+  {
+    "id": "sports_99",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Horozlar (Les Bleus)",
+      "frontText": "Simgesi 'Horoz' olan ve 1998, 2018 Dünya Şampiyonu olan takım hangisidir?",
+      "backText": "Fransa Milli Takımı."
+    },
+    "quiz": {
+      "questionText": "Armasında 'Galya Horozu' figürü taşıyan 'Les Bleus' lakaplı milli takım hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Fransa", "isCorrect": true },
+        { "id": "o2", "text": "İngiltere", "isCorrect": false },
+        { "id": "o3", "text": "Galler", "isCorrect": false },
+        { "id": "o4", "text": "Hırvatistan", "isCorrect": false }
+      ],
+      "explanation": "Fransa'nın tarihi sembolü olan Galya Horozu milli takımın da armasıdır."
+    }
+  },
+  {
+    "id": "sports_100",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Matadorlar (La Roja)",
+      "frontText": "2008, 2010, 2012 yıllarında dünyayı domine eden 'La Roja' (Kırmızılar) hangi takımdır?",
+      "backText": "İspanya Milli Futbol Takımı."
+    },
+    "quiz": {
+      "questionText": "'Tiki-Taka' pas oyunuyla 2010 Dünya Kupası'nı kazanan İspanya'nın lakabı nedir?",
+      "options": [
+        { "id": "o1", "text": "La Roja (Matadorlar)", "isCorrect": true },
+        { "id": "o2", "text": "Azzurri", "isCorrect": false },
+        { "id": "o3", "text": "Seleção", "isCorrect": false },
+        { "id": "o4", "text": "Die Mannschaft", "isCorrect": false }
+      ],
+      "explanation": "İspanya Milli Takımı kırmızı forması nedeniyle 'La Roja' olarak adlandırılır."
+    }
+  },
+  {
+    "id": "sports_101",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Tiki-Taka Oyunu",
+      "frontText": "Kısa paslar, yüksek topa sahip olma ve sürekli hareketliliğe dayanan oyun sistemine ne denir?",
+      "backText": "Tiki-Taka (Pep Guardiola ve Barcelona ile zirve yapmıştır)."
+    },
+    "quiz": {
+      "questionText": "Barcelona ve İspanya'nın altın döneminde uyguladığı, baş döndürücü kısa pas odaklı taktik nedir?",
+      "options": [
+        { "id": "o1", "text": "Tiki-Taka", "isCorrect": true },
+        { "id": "o2", "text": "Catenaccio", "isCorrect": false },
+        { "id": "o3", "text": "Gegenpressing", "isCorrect": false },
+        { "id": "o4", "text": "Park the Bus", "isCorrect": false }
+      ],
+      "explanation": "Tiki-Taka rakibe topu göstermeden sabırla boşluk arayan modern pas futboludur."
+    }
+  },
+  {
+    "id": "sports_102",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Catenaccio Savunması",
+      "frontText": "İtalyanların ünlü katı ve kilitli savunma taktiğine ne ad verilir?",
+      "backText": "Catenaccio (İtalyanca 'Kapı Sürgüsü' demektir)."
+    },
+    "quiz": {
+      "questionText": "1960'larda Inter ve İtalya'nın uyguladığı, 'Önce gol yememe' odaklı katı savunma taktiği nedir?",
+      "options": [
+        { "id": "o1", "text": "Catenaccio", "isCorrect": true },
+        { "id": "o2", "text": "Tiki-Taka", "isCorrect": false },
+        { "id": "o3", "text": "Kick and Rush", "isCorrect": false },
+        { "id": "o4", "text": "Samba Futbolu", "isCorrect": false }
+      ],
+      "explanation": "Catenaccio, kale önüne kilit vurur gibi adam adama markaj ve libero kullanan savunma sistemidir."
+    }
+  },
+  {
+    "id": "sports_103",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Gegenpressing",
+      "frontText": "Jürgen Klopp ile özdeşleşen, top kaybedildiği an yüksek tempoyla yapılan baskı taktiği nedir?",
+      "backText": "Gegenpressing (Karşı Baskı / Şok Pres)."
+    },
+    "quiz": {
+      "questionText": "Top rakibe geçer geçmez ilk 5 saniye içinde yapılan boğucu şok prese verilen Almanca isim nedir?",
+      "options": [
+        { "id": "o1", "text": "Gegenpressing", "isCorrect": true },
+        { "id": "o2", "text": "Catenaccio", "isCorrect": false },
+        { "id": "o3", "text": "Tiki-Taka", "isCorrect": false },
+        { "id": "o4", "text": "Total Futbol", "isCorrect": false }
+      ],
+      "explanation": "Jürgen Klopp 'En iyi oyun kurucu Gegenpressing'dir' diyerek topu rakip yarı sahada kapmayı amaçlar."
+    }
+  },
+  {
+    "id": "sports_104",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Hat-Trick ve Perfect Hat-Trick",
+      "frontText": "Bir futbolcunun maçta 3 gol atmasına Hat-Trick denir. 'Perfect Hat-Trick' nedir?",
+      "backText": "Aynı maçta bir golü sağ ayakla, bir golü sol ayakla, bir golü de kafayla atmaktır."
+    },
+    "quiz": {
+      "questionText": "Bir oyuncunun bir maçta sağ ayak, sol ayak ve kafa golü atarak yaptığı 3 gollü şov nasıl adlandırılır?",
+      "options": [
+        { "id": "o1", "text": "Mükemmel (Perfect) Hat-Trick", "isCorrect": true },
+        { "id": "o2", "text": "Mükemmel Dörtleme (Poker)", "isCorrect": false },
+        { "id": "o3", "text": "Golden Hat-Trick", "isCorrect": false },
+        { "id": "o4", "text": "Triple Double", "isCorrect": false }
+      ],
+      "explanation": "Her iki ayak ve kafa ile gol atmak eksiksiz golcülüğün simgesi sayılır."
+    }
+  },
+  {
+    "id": "sports_105",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - 4 Gol Atmak (Poker)",
+      "frontText": "Bir futbolcunun aynı maçta 4 gol birden atmasına ne ad verilir?",
+      "backText": "Poker yapması denir."
+    },
+    "quiz": {
+      "questionText": "Bir futbol karşılaşmasında tek maçta 4 gol atan oyuncunun yaptığı başarı nedir?",
+      "options": [
+        { "id": "o1", "text": "Poker", "isCorrect": true },
+        { "id": "o2", "text": "Hat-Trick", "isCorrect": false },
+        { "id": "o3", "text": "Double", "isCorrect": false },
+        { "id": "o4", "text": "Manita", "isCorrect": false }
+      ],
+      "explanation": "3 gol Hat-trick, 4 gol Poker, 5 gol ise Manita (veya Repoker) olarak tanımlanır."
+    }
+  },
+  {
+    "id": "sports_106",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Double-Double",
+      "frontText": "Basketbolda 5 olumlu istatistikten 2 tanesinde çift haneye (10 ve üzeri) ulaşmaya ne denir?",
+      "backText": "Double-Double (Örn: 15 Sayı, 12 Ribaund)."
+    },
+    "quiz": {
+      "questionText": "Basketbolda bir oyuncunun aynı maçta 12 Sayı ve 10 Asist yapması hangi başarıdır?",
+      "options": [
+        { "id": "o1", "text": "Double-Double", "isCorrect": true },
+        { "id": "o2", "text": "Triple-Double", "isCorrect": false },
+        { "id": "o3", "text": "Quadruple-Double", "isCorrect": false },
+        { "id": "o4", "text": "Hat-Trick", "isCorrect": false }
+      ],
+      "explanation": "Sayı, ribaund, asist, blok veya top çalma kategorilerinden 2 tanesinde en az 10 yapmak Double-Double'dır."
+    }
+  },
+  {
+    "id": "sports_107",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Triple-Double Kralı",
+      "frontText": "NBA tarihinde en çok Triple-Double yapan istatistik canavarı kimdir?",
+      "backText": "Russell Westbrook (Oscar Robertson'ı geçmiştir)."
+    },
+    "quiz": {
+      "questionText": "NBA'de bir sezonda ortalama Triple-Double yaparak rekor kıran ve toplamda en çok Triple-Double yapan kimdir?",
+      "options": [
+        { "id": "o1", "text": "Russell Westbrook", "isCorrect": true },
+        { "id": "o2", "text": "Nikola Jokic", "isCorrect": false },
+        { "id": "o3", "text": "Luka Doncic", "isCorrect": false },
+        { "id": "o4", "text": "Magic Johnson", "isCorrect": false }
+      ],
+      "explanation": "Russell Westbrook 190'dan fazla Triple-Double ile NBA tarihinin bu alandaki lideridir."
+    }
+  },
+  {
+    "id": "sports_108",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Magic Johnson ve Showtime Lakers",
+      "frontText": "1980'lerde LA Lakers'ın 'Showtime' dönemini yöneten dev guard kimdir?",
+      "backText": "Earvin 'Magic' Johnson."
+    },
+    "quiz": {
+      "questionText": "Bakmadan attığı estetik paslarla (No-look pass) 80'li yılların gösteri basketbolunu lideri olan Lakers efsanesi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Magic Johnson", "isCorrect": true },
+        { "id": "o2", "text": "Larry Bird", "isCorrect": false },
+        { "id": "o3", "text": "Isiah Thomas", "isCorrect": false },
+        { "id": "o4", "text": "Charles Barkley", "isCorrect": false }
+      ],
+      "explanation": "2.06m boyundaki gard Magic Johnson basketbol zekasıyla 'Showtime Lakers' devrini kurmuştur."
+    }
+  },
+  {
+    "id": "sports_109",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Larry Bird ve Boston Rekabeti",
+      "frontText": "Magic Johnson'ın en büyük rakibi olan Boston Celtics efsanesi kimdir?",
+      "backText": "Larry Bird ('Larry Legend')."
+    },
+    "quiz": {
+      "questionText": "3 kez üst üste NBA MVP'si seçilen ve keskin şutlarıyla tanınan Boston Celtics ikonu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Larry Bird", "isCorrect": true },
+        { "id": "o2", "text": "Kevin McHale", "isCorrect": false },
+        { "id": "o3", "text": "Bill Russell", "isCorrect": false },
+        { "id": "o4", "text": "John Havlicek", "isCorrect": false }
+      ],
+      "explanation": "Larry Bird, 80'li yıllarda Magic Johnson ile rekabet ederek NBA'in popülaritesini patlatmıştır."
+    }
+  },
+  {
+    "id": "sports_110",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - En Çok Şampiyonluk Yüzüğü Alan Oyuncu",
+      "frontText": "NBA oyuncusu olarak 11 şampiyonluk yüzüğü kazanan rekor sahibi isim kimdir?",
+      "backText": "Bill Russell (Boston Celtics)."
+    },
+    "quiz": {
+      "questionText": "13 yıllık kariyerine tam 11 NBA şampiyonluğu sığdıran rekor sahibi efsane stoper kimdir?",
+      "options": [
+        { "id": "o1", "text": "Bill Russell", "isCorrect": true },
+        { "id": "o2", "text": "Sam Jones", "isCorrect": false },
+        { "id": "o3", "text": "Michael Jordan", "isCorrect": false },
+        { "id": "o4", "text": "Robert Horry", "isCorrect": false }
+      ],
+      "explanation": "Bill Russell parmaklarına sığmayan 11 şampiyonluk yüzüğüyle NBA tarihinin en çok kazanan oyuncusudur."
+    }
+  },
+  {
+    "id": "sports_111",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Görünmez Kahramanlar (Libero / Stoper)",
+      "frontText": "Futbolda 'İmparator' (Der Kaiser) lakaplı, liberonun mucidi sayılan efsanevi Alman kimdir?",
+      "backText": "Franz Beckenbauer."
+    },
+    "quiz": {
+      "questionText": "Hem oyuncu hem teknik direktör olarak Dünya Kupası kazanan 'Der Kaiser' lakaplı efsane kimdir?",
+      "options": [
+        { "id": "o1", "text": "Franz Beckenbauer", "isCorrect": true },
+        { "id": "o2", "text": "Gerd Müller", "isCorrect": false },
+        { "id": "o3", "text": "Lothar Matthäus", "isCorrect": false },
+        { "id": "o4", "text": "Karl-Heinz Rummenigge", "isCorrect": false }
+      ],
+      "explanation": "Franz Beckenbauer, zarafeti ve oyunu geriden kurma yeteneğiyle futbol tarihinin en büyük savunmacısıdır."
+    }
+  },
+  {
+    "id": "sports_112",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Gerd Müller (Der Bomber)",
+      "frontText": "Almanların 'Der Bomber' (Bomba) lakaplı efsanevi ceza sahası golcüsü kimdir?",
+      "backText": "Gerd Müller."
+    },
+    "quiz": {
+      "questionText": "Bir takvim yılında 85 gol atarak rekor kıran (Messi kırmadan önce) unutulmaz Alman santrfor kimdir?",
+      "options": [
+        { "id": "o1", "text": "Gerd Müller", "isCorrect": true },
+        { "id": "o2", "text": "Miroslav Klose", "isCorrect": false },
+        { "id": "o3", "text": "Jürgen Klinsmann", "isCorrect": false },
+        { "id": "o4", "text": "Rudi Völler", "isCorrect": false }
+      ],
+      "explanation": "Gerd Müller, bitiricilik yeteneğiyle Bayern Münih ve Almanya'nın gol makinelerinden biridir."
+    }
+  },
+  {
+    "id": "sports_113",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Dünya Kupaları En Çok Gol Atan Oyuncu",
+      "frontText": "Dünya Kupası finalleri tarihinde toplam 16 golle en skorer oyuncu kimdir?",
+      "backText": "Miroslav Klose (Almanya)."
+    },
+    "quiz": {
+      "questionText": "Ronaldo Nazário'nun 15 gollük rekorunu geçerek Dünya Kupalarında 16 gol atan rekor sahibi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Miroslav Klose", "isCorrect": true },
+        { "id": "o2", "text": "Ronaldo Nazário", "isCorrect": false },
+        { "id": "o3", "text": "Pelé", "isCorrect": false },
+        { "id": "o4", "text": "Kylian Mbappé", "isCorrect": false }
+      ],
+      "explanation": "Klose, katıldığı 4 ayrı Dünya Kupası'nda (2002-2014) toplam 16 gole ulaşmıştır."
+    }
+  },
+  {
+    "id": "sports_114",
+    "categoryId": "sports",
+    "card": {
+      "title": "Boks - Mike Tyson ve Iron Mike",
+      "frontText": "En genç Ağır Sıklet Boks Şampiyonu olan 'Iron Mike' (Demir Mike) kimdir?",
+      "backText": "Mike Tyson (20 yaşındayken şampiyon olmuştur)."
+    },
+    "quiz": {
+      "questionText": "20 yaşında Trevor Berbick'i nakavt ederek tarihin en genç ağır sıklet boks şampiyonu olan boksör kimdir?",
+      "options": [
+        { "id": "o1", "text": "Mike Tyson", "isCorrect": true },
+        { "id": "o2", "text": "Evander Holyfield", "isCorrect": false },
+        { "id": "o3", "text": "Lennox Lewis", "isCorrect": false },
+        { "id": "o4", "text": "Riddick Bowe", "isCorrect": false }
+      ],
+      "explanation": "Mike Tyson nakavt gücü ve nakavt hızıyla boks dünyasında bir kasırga estirmiştir."
+    }
+  },
+  {
+    "id": "sports_115",
+    "categoryId": "sports",
+    "card": {
+      "title": "Boks - Kulak Isırma Vakası",
+      "frontText": "1997 yılındaki unutulmaz unvan maçında Evander Holyfield'ın kulağını ısıran boksör kimdir?",
+      "backText": "Mike Tyson (Maçtan diskalifiye edilmiştir)."
+    },
+    "quiz": {
+      "questionText": "1997'de yapılan ağır sıklet unvan rövanş maçında rakibi Evander Holyfield'ın kulağını ısıran kimdir?",
+      "options": [
+        { "id": "o1", "text": "Mike Tyson", "isCorrect": true },
+        { "id": "o2", "text": "Floyd Mayweather", "isCorrect": false },
+        { "id": "o3", "text": "Manny Pacquiao", "isCorrect": false },
+        { "id": "o4", "text": "Deontay Wilder", "isCorrect": false }
+      ],
+      "explanation": "Mike Tyson'ın bu davranışı spor tarihinin en skandallı sahnelerinden biri kabul edilir."
+    }
+  },
+  {
+    "id": "sports_116",
+    "categoryId": "sports",
+    "card": {
+      "title": "Boks - Yenilgisiz Şampiyon (50-0)",
+      "frontText": "Profesyonel kariyerini 50 maçta 50 galibiyetle namağlup tamamlayan boksör kimdir?",
+      "backText": "Floyd Mayweather Jr. ('Money')."
+    },
+    "quiz": {
+      "questionText": "50 profesyonel maçının tamamını kazanarak 50-0 ile kariyerini noktalandıran Amerikalı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Floyd Mayweather Jr.", "isCorrect": true },
+        { "id": "o2", "text": "Manny Pacquiao", "isCorrect": false },
+        { "id": "o3", "text": "Canelo Alvarez", "isCorrect": false },
+        { "id": "o4", "text": "Sugar Ray Leonard", "isCorrect": false }
+      ],
+      "explanation": "Floyd Mayweather, üstün savunma tekniği (shoulder roll) sayesinde sıfır yenilgiyle emekli olmuştur."
+    }
+  },
+  {
+    "id": "sports_117",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Zinedine Zidane Kafa Atma Vakası",
+      "frontText": "2006 Dünya Kupası finalinde Materazzi'ye kafa atarak kırmızı kart gören Fransız efsane kimdir?",
+      "backText": "Zinedine Zidane ('Zizou')."
+    },
+    "quiz": {
+      "questionText": "2006 Dünya Kupası Finali'nin uzatma dakikalarında İtalyan savunmacıya attığı kafayla maça damga vuran oyuncu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Zinedine Zidane", "isCorrect": true },
+        { "id": "o2", "text": "Thierry Henry", "isCorrect": false },
+        { "id": "o3", "text": "Patrick Vieira", "isCorrect": false },
+        { "id": "o4", "text": "Franck Ribéry", "isCorrect": false }
+      ],
+      "explanation": "Zidane, kariyerinin son profesyonel maçında gördüğü bu kartsı nedeniyle trajik bir veda yaşamıştır."
+    }
+  },
+  {
+    "id": "sports_118",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Miracle of Istanbul (İstanbul Mucizesi)",
+      "frontText": "2005 Şampiyonlar Ligi Finali'nde AC Milan karşısında 3-0'dan gelip kupayı alan İngiliz takımı hangisidir?",
+      "backText": "Liverpool (Atatürk Olimpiyat Stadyumu'nda kazanmıştır)."
+    },
+    "quiz": {
+      "questionText": "İstanbul'da oynanan 2005 UEFA Şampiyonlar Ligi finalinde Liverpool maçı kaç kaçtan çevirip kupayı almıştır?",
+      "options": [
+        { "id": "o1", "text": "3-0'dan 3-3'e getirip penaltılarla", "isCorrect": true },
+        { "id": "o2", "text": "2-0'dan 3-2'ye", "isCorrect": false },
+        { "id": "o3", "text": "4-0'dan 5-4'e", "isCorrect": false },
+        { "id": "o4", "text": "1-0'dan 2-1'e", "isCorrect": false }
+      ],
+      "explanation": "Steven Gerrard önderliğindeki Liverpool 3-0 gerideyken tarihi bir geri dönüşle kupaya ulaşmıştır."
+    }
+  },
+  {
+    "id": "sports_119",
+    "categoryId": "sports",
+    "card": {
+      "title": "Formula 1 - Pit Stop Rekoru",
+      "frontText": "Formula 1 tarihindeki en hızlı Pit Stop süresi ne kadardır?",
+      "backText": "1.80 Saniye (McLaren takımı - Lando Norris, 2023 Katar)."
+    },
+    "quiz": {
+      "questionText": "Formula 1'de 4 lastiğin birden değiştirildiği en hızlı Pit Stop rekoru hangi takıma aittir?",
+      "options": [
+        { "id": "o1", "text": "McLaren (1.80 Saniye)", "isCorrect": true },
+        { "id": "o2", "text": "Red Bull Racing (1.82 Saniye)", "isCorrect": false },
+        { "id": "o3", "text": "Ferrari (1.95 Saniye)", "isCorrect": false },
+        { "id": "o4", "text": "Mercedes (2.10 Saniye)", "isCorrect": false }
+      ],
+      "explanation": "McLaren ekibi 2023 Katar GP'sinde Lando Norris'in aracına 1.80 saniyede pit stop yapmıştır."
+    }
+  },
+  {
+    "id": "sports_120",
+    "categoryId": "sports",
+    "card": {
+      "title": "Formula 1 - En Çok Yarış Kazanan Pilot",
+      "frontText": "Formula 1 tarihinde 100'den fazla yarış galibiyeti olan tek sürücü kimdir?",
+      "backText": "Lewis Hamilton (103+ galibiyet)."
+    },
+    "quiz": {
+      "questionText": "Formula 1'de kariyeri boyunca 100 yarış galibiyeti barajını aşan ilk ve tek pilot kimdir?",
+      "options": [
+        { "id": "o1", "text": "Lewis Hamilton", "isCorrect": true },
+        { "id": "o2", "text": "Michael Schumacher", "isCorrect": false },
+        { "id": "o3", "text": "Max Verstappen", "isCorrect": false },
+        { "id": "o4", "text": "Ayrton Senna", "isCorrect": false }
+      ],
+      "explanation": "Lewis Hamilton, Schumacher'in 91 galibiyetlik rekorunu geçerek 100 barajını yıkmıştır."
+    }
+  },
+  {
+    "id": "sports_121",
+    "categoryId": "sports",
+    "card": {
+      "title": "Formula 1 - Bir Sezonda En Çok Yarış Kazanan Pilot",
+      "frontText": "Tek bir F1 sezonunda 19 yarış kazanarak rekor kıran pilot kimdir?",
+      "backText": "Max Verstappen (2023 Sezonunda 22 yarışın 19'unu kazanmıştır)."
+    },
+    "quiz": {
+      "questionText": "2023 Formula 1 sezonunda domine ederek 22 yarışın 19'unu kazanan Red Bull pilotu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Max Verstappen", "isCorrect": true },
+        { "id": "o2", "text": "Sergio Perez", "isCorrect": false },
+        { "id": "o3", "text": "Charles Leclerc", "isCorrect": false },
+        { "id": "o4", "text": "Lando Norris", "isCorrect": false }
+      ],
+      "explanation": "Max Verstappen %86'lık galibiyet oranıyla F1 tarihinin en baskın sezon rekorunu kırmıştır."
+    }
+  },
+  {
+    "id": "sports_122",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Arsenal Namaglup Şampiyonluk (The Invincibles)",
+      "frontText": "Premier League'i hiç yenilmeden (Namağlup) şampiyon tamamlayan tek takım hangisidir?",
+      "backText": "Arsenal (2003-2004 sezonu - Arsène Wenger)."
+    },
+    "quiz": {
+      "questionText": "İngiltere Premier Lig'de 2003-04 sezonunu 38 maçta 0 mağlubiyet ile bitiren 'Yenilmezler' (Invincibles) takımı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Arsenal", "isCorrect": true },
+        { "id": "o2", "text": "Manchester United", "isCorrect": false },
+        { "id": "o3", "text": "Chelsea", "isCorrect": false },
+        { "id": "o4", "text": "Manchester City", "isCorrect": false }
+      ],
+      "explanation": "Arsène Wenger'in Arsenal'i Premier Lig'i yenilgisiz bitiren tek kulüp olarak Altın Kupa almıştır."
+    }
+  },
+  {
+    "id": "sports_123",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Beşiktaş Namaglup Şampiyonluk",
+      "frontText": "Türkiye Süper Ligi'ni yenilgisiz şampiyon tamamlayan tek takım hangisidir?",
+      "backText": "Beşiktaş (1991-1992 sezonu - Gordon Milne)."
+    },
+    "quiz": {
+      "questionText": "Türkiye lig tarihinde bir sezonu hiç yenilgi almadan (namağlup) şampiyon tamamlayan tek kulüp hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Beşiktaş", "isCorrect": true },
+        { "id": "o2", "text": "Galatasaray", "isCorrect": false },
+        { "id": "o3", "text": "Fenerbahçe", "isCorrect": false },
+        { "id": "o4", "text": "Trabzonspor", "isCorrect": false }
+      ],
+      "explanation": "Gordon Milne yönetimindeki Beşiktaş 1991-92 sezonunu 23 galibiyet 7 beraberlikle namağlup kapatmıştır."
+    }
+  },
+  {
+    "id": "sports_124",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Metin Ali Feyyaz (MAF)",
+      "frontText": "Beşiktaş'ın 90'lı yıllara damga vuran efsanevi forvet üçlüsü kimlerdir?",
+      "backText": "Metin Tekin, Ali Gültiken, Feyyaz Uçar."
+    },
+    "quiz": {
+      "questionText": "Beşiktaş tribünlerinin adına besteler yaptığı 'Metin-Ali-Feyyaz' üçlüsünden 'Sarı Fırtına' lakaplı olan kimdir?",
+      "options": [
+        { "id": "o1", "text": "Metin Tekin", "isCorrect": true },
+        { "id": "o2", "text": "Ali Gültiken", "isCorrect": false },
+        { "id": "o3", "text": "Feyyaz Uçar", "isCorrect": false },
+        { "id": "o4", "text": "Rıza Çalımbay", "isCorrect": false }
+      ],
+      "explanation": "Metin Tekin uzun sarı saçları ve kanat bindirmeleriyle 'Sarı Fırtına' olarak anılmıştır."
+    }
+  },
+  {
+    "id": "sports_125",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Alex de Souza Alex Standı",
+      "frontText": "Fenerbahçe taraftarının Yoğurtçu Parkı'na heykelini diktiği Brezilyalı efsane kimdir?",
+      "backText": "Alex de Souza."
+    },
+    "quiz": {
+      "questionText": "Fenerbahçe'de 10 numaralı formayı giyen, asist ve gol krallıkları yaşayıp heykeli dikilen kaptan kimdir?",
+      "options": [
+        { "id": "o1", "text": "Alex de Souza", "isCorrect": true },
+        { "id": "o2", "text": "Pierre van Hooijdonk", "isCorrect": false },
+        { "id": "o3", "text": "Deivid de Souza", "isCorrect": false },
+        { "id": "o4", "text": "Stephen Appiah", "isCorrect": false }
+      ],
+      "explanation": "Alex de Souza, sol ayağı ve futbol zekasıyla Fenerbahçe tarihinin en büyük yabancı efsanesidir."
+    }
+  },
+  {
+    "id": "sports_126",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Gheorghe Hagi (Karpatların Maradonası)",
+      "frontText": "'Karpatların Maradonası' lakaplı Galatasaray ve Rumen futbolunun efsanesi kimdir?",
+      "backText": "Gheorghe Hagi."
+    },
+    "quiz": {
+      "questionText": "Galatasaray'da 10 numaralı formasıyla UEFA Kupası ve Süper Kupa zaferlerinin mimarı Rumen usta kimdir?",
+      "options": [
+        { "id": "o1", "text": "Gheorghe Hagi", "isCorrect": true },
+        { "id": "o2", "text": "Gheorghe Popescu", "isCorrect": false },
+        { "id": "o3", "text": "Adrian Ilie", "isCorrect": false },
+        { "id": "o4", "text": "Marius Niculae", "isCorrect": false }
+      ],
+      "explanation": "Hagi, uzak mesafeden attığı unutulmaz goller ve sol ayağıyla Türk futboluna damga vurmuştur."
+    }
+  },
+  {
+    "id": "sports_127",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Şenol Güneş ve Trabzonspor",
+      "frontText": "Trabzonspor'un efsanevi kalecisi olan ve stadyuma adı verilen teknik adam kimdir?",
+      "backText": "Şenol Güneş."
+    },
+    "quiz": {
+      "questionText": "Trabzonspor kalesinde 1112 dakika gol yemeyerek Türkiye rekoru kıran efsane kaleci ve teknik direktör kimdir?",
+      "options": [
+        { "id": "o1", "text": "Şenol Güneş", "isCorrect": true },
+        { "id": "o2", "text": "Turgay Semercioğlu", "isCorrect": false },
+        { "id": "o3", "text": "Necmi Perekli", "isCorrect": false },
+        { "id": "o4", "text": "Ali Kemal Denizci", "isCorrect": false }
+      ],
+      "explanation": "Şenol Güneş, kalesinde devleştiği yıllarla Trabzonspor'un Anadolu ihtilalindeki en büyük güçtür."
+    }
+  },
+  {
+    "id": "sports_128",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Bosman Kuralları",
+      "frontText": "Futbolcuların sözleşmesi bittiğinde bonservissiz transfer olabilmesini sağlayan tarihi hukuki karar nedir?",
+      "backText": "Bosman Kuralları (Jean-Marc Bosman - 1995)."
+    },
+    "quiz": {
+      "questionText": "1995 yılında Avrupa Adalet Divanı'nın aldığı ve futbolcuların sözleşme bitiminde serbest kalmasını sağlayan karar nedir?",
+      "options": [
+        { "id": "o1", "text": "Bosman Kuralları", "isCorrect": true },
+        { "id": "o2", "text": "Webster Kararı", "isCorrect": false },
+        { "id": "o3", "text": "Santini Yasası", "isCorrect": false },
+        { "id": "o4", "text": "UEFA Kriterleri", "isCorrect": false }
+      ],
+      "explanation": "Jean-Marc Bosman'ın açtığı dava, dünya futbolundaki transfer piyasasını kökten değiştirmiştir."
+    }
+  },
+  {
+    "id": "sports_129",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - EuroBasket 2001 İkinciliği",
+      "frontText": "'12 Dev Adam' lakabı ilk kez ne zaman ve nerede doğmuştur?",
+      "backText": "Türkiye'de düzenlenen 2001 Avrupa Basketbol Şampiyonası'nda (Gümüş Madalya)."
+    },
+    "quiz": {
+      "questionText": "Türkiye Erkek Basketbol Takımı '12 Dev Adam' lakabıyla ilk büyük tarihi başarısını nerede elde etmiştir?",
+      "options": [
+        { "id": "o1", "text": "2001 Avrupa Şampiyonası (EuroBasket) - 2.lik", "isCorrect": true },
+        { "id": "o2", "text": "2010 Dünya Şampiyonası - 2.lik", "isCorrect": false },
+        { "id": "o3", "text": "2006 Dünya Şampiyonası - 6.lık", "isCorrect": false },
+        { "id": "o4", "text": "2014 Dünya Şampiyonası - 8.lik", "isCorrect": false }
+      ],
+      "explanation": "2001'de yapılan reklam şarkısıyla '12 Dev Adam' olan milli takımımız Avrupa 2.'si olarak gümüş almıştır."
+    }
+  },
+  {
+    "id": "sports_130",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - 2010 Dünya Basketbol Şampiyonası",
+      "frontText": "12 Dev Adam Dünya 2.'liğini hangi yılda İstanbul'daki finalle elde etmiştir?",
+      "backText": "2010 FIBA Dünya Basketbol Şampiyonası (ABD arkasından 2. olduk)."
+    },
+    "quiz": {
+      "questionText": "2010 FIBA Dünya Şampiyonası yarı finalinde Kerem Tunçeri'nin son saniye turnikesiyle yendiğimiz ülke hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Sırbistan", "isCorrect": true },
+        { "id": "o2", "text": "Yunanistan", "isCorrect": false },
+        { "id": "o3", "text": "İspanya", "isCorrect": false },
+        { "id": "o4", "text": "Litvanya", "isCorrect": false }
+      ],
+      "explanation": "Sırbistan karşısında Kerem Tunçeri'nin çizgiden attığı son saniye basketiyle finale yükselip gümüş kazandık."
+    }
+  },
+  {
+    "id": "sports_131",
+    "categoryId": "sports",
+    "card": {
+      "title": "Olimpiyatlar - Dört Yılda Bir",
+      "frontText": "Yaz ve Kış Olimpiyat Oyunları kaç yılda bir düzenlenir?",
+      "backText": "4 yılda bir düzenlenir."
+    },
+    "quiz": {
+      "questionText": "Modern Olimpiyat Oyunları kural olarak kaç senelik periyotlarla organize edilir?",
+      "options": [
+        { "id": "o1", "text": "4 Yılda Bir", "isCorrect": true },
+        { "id": "o2", "text": "2 Yılda Bir", "isCorrect": false },
+        { "id": "o3", "text": "5 Yılda Bir", "isCorrect": false },
+        { "id": "o4", "text": "3 Yılda Bir", "isCorrect": false }
+      ],
+      "explanation": "Antik Yunan'dan beri gelen gelenekle olimpiyatlar 4 yıllık döngülerle (Olimpiyad) gerçekleştirilir."
+    }
+  },
+  {
+    "id": "sports_132",
+    "categoryId": "sports",
+    "card": {
+      "title": "Olimpiyatlar - İlk Modern Olimpiyatlar",
+      "frontText": "İlk Modern Olimpiyat Oyunları kaç yılında ve nerede yapılmıştır?",
+      "backText": "1896 yılında Yunanistan'ın Atina kentinde yapılmıştır."
+    },
+    "quiz": {
+      "questionText": "Pierre de Coubertin'in girişimleriyle başlatılan ilk Modern Olimpiyatlar 1896'da hangi şehirde kuruldu?",
+      "options": [
+        { "id": "o1", "text": "Atina", "isCorrect": true },
+        { "id": "o2", "text": "Paris", "isCorrect": false },
+        { "id": "o3", "text": "Londra", "isCorrect": false },
+        { "id": "o4", "text": "Roma", "isCorrect": false }
+      ],
+      "explanation": "1896 Atina Oyunları modern çağın ilk resmi uluslararası olimpiyat etkinliğidir."
+    }
+  },
+  {
+    "id": "sports_133",
+    "categoryId": "sports",
+    "card": {
+      "title": "Olimpiyatlar - Türkiye'nin İlk Altın Madalyası",
+      "frontText": "Olimpiyat tarihinde Türkiye'ye İLK ALTIN MADALYA kazandıran sporcu kimdir?",
+      "backText": "Yaşar Erkan (1936 Berlin Olimpiyatları - Güreş)."
+    },
+    "quiz": {
+      "questionText": "1936 Berlin Olimpiyatları'nda Grekoromen Güreşte şampiyon olarak Türkiye'ye ilk Olimpiyat Altınını getiren isim kimdir?",
+      "options": [
+        { "id": "o1", "text": "Yaşar Erkan", "isCorrect": true },
+        { "id": "o2", "text": "Mersinli Ahmet", "isCorrect": false },
+        { "id": "o3", "text": "Celal Atik", "isCorrect": false },
+        { "id": "o4", "text": "Gazimihal", "isCorrect": false }
+      ],
+      "explanation": "Yaşar Erkan 1936'da kazandığı şampiyonlukla Türk spor tarihinin ilk olimpiyat altın madalyalı sporcusudur."
+    }
+  },
+  {
+    "id": "sports_134",
+    "categoryId": "sports",
+    "card": {
+      "title": "E-Spor - League of Legends Worlds",
+      "frontText": "League of Legends Dünya Şampiyonası'nı (Worlds) 4+ kez kazanan efsanevi oyuncu kimdir?",
+      "backText": "Faker (Lee Sang-hyeok - 'Unkillable Demon King')."
+    },
+    "quiz": {
+      "questionText": "E-Spor dünyasının en büyük ikonu sayılan ve T1 takımıyla Worlds kupalarını kaldıran 'Faker' nerelidir?",
+      "options": [
+        { "id": "o1", "text": "Güney Kore", "isCorrect": true },
+        { "id": "o2", "text": "Çin", "isCorrect": false },
+        { "id": "o3", "text": "Tayvan", "isCorrect": false },
+        { "id": "o4", "text": "Japonya", "isCorrect": false }
+      ],
+      "explanation": "Faker, LoL e-spor tarihinin en çok kazanan ve orta koridordaki ustalığıyla bilinen efsanesidir."
+    }
+  },
+  {
+    "id": "sports_135",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Ballon d'Or Kazanan Tek Kaleci",
+      "frontText": "Futbol tarihinde Ballon d'Or (Yılın Futbolcusu) ödülünü kazanan tek kaleci kimdir?",
+      "backText": "Lev Yashin ('Örümcek' / 'Kara Panter' - 1963)."
+    },
+    "quiz": {
+      "questionText": "Kariyerinde 150'den fazla penaltı kurtaran ve 1963'te Ballon d'Or alan tek kaleci kimdir?",
+      "options": [
+        { "id": "o1", "text": "Lev Yashin", "isCorrect": true },
+        { "id": "o2", "text": "Dino Zoff", "isCorrect": false },
+        { "id": "o3", "text": "Gianluigi Buffon", "isCorrect": false },
+        { "id": "o4", "text": "Manuel Neuer", "isCorrect": false }
+      ],
+      "explanation": "Sovyet kaleci Lev Yashin siyah forması ve refleksleriyle Ballon d'Or kazanan yegane kalecidir."
+    }
+  },
+  {
+    "id": "sports_136",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Süper Kupa (Super Cup)",
+      "frontText": "UEFA Şampiyonlar Ligi şampiyonu ile UEFA Avrupa Ligi şampiyonunun karşılaştığı maç nedir?",
+      "backText": "UEFA Süper Kupa (UEFA Super Cup)."
+    },
+    "quiz": {
+      "questionText": "Galatasaray'ın 2000 yılında Real Madrid'i Jardel'in altın golüyle 2-1 yenerek kazandığı dev kupa hangisidir?",
+      "options": [
+        { "id": "o1", "text": "UEFA Süper Kupa", "isCorrect": true },
+        { "id": "o2", "text": "Kıtalararası Kupa", "isCorrect": false },
+        { "id": "o3", "text": "Kulüpler Dünya Kupası", "isCorrect": false },
+        { "id": "o4", "text": "Intertoto Kupası", "isCorrect": false }
+      ],
+      "explanation": "Galatasaray 25 Ağustos 2000'de Monako'da Şampiyonlar Ligi şampiyonu Real Madrid'i devirip Süper Kupa'yı almıştır."
+    }
+  },
+  {
+    "id": "sports_137",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - En Fazla Seyirci Rekoru Maçı",
+      "frontText": "Futbol tarihinde stadyumda en çok seyircinin (yaklaşık 200.000) izlediği maç hangisidir?",
+      "backText": "1950 Dünya Kupası Finali: Brezilya - Uruguay (Maracanã Stadyumu)."
+    },
+    "quiz": {
+      "questionText": "1950'de Maracana Stadyumu'nda 199.854 biletli seyircinin izlediği ve Uruguay'ın kazandığı tarihi trajik maç nedir?",
+      "options": [
+        { "id": "o1", "text": "Maracanazo (Brezilya - Uruguay)", "isCorrect": true },
+        { "id": "o2", "text": "Centenario faciası", "isCorrect": false },
+        { "id": "o3", "text": "Bernabeu Finali", "isCorrect": false },
+        { "id": "o4", "text": "Wembley Çöküşü", "isCorrect": false }
+      ],
+      "explanation": "'Maracanazo' olarak bilinen maçta Brezilya evinde Uruguay'a yenilip kupayı kaybetmiş ve şoka girmiştir."
+    }
+  },
+  {
+    "id": "sports_138",
+    "categoryId": "sports",
+    "card": {
+      "title": "Amerikan Futbolu - Tom Brady",
+      "frontText": "NFL tarihinde 7 kez Super Bowl kazanan efsanevi Oyun Kurucu (Quarterback) kimdir?",
+      "backText": "Tom Brady (New England Patriots ve Tampa Bay Buccaneers ile)."
+    },
+    "quiz": {
+      "questionText": "Amerikan Futbolu (NFL) tarihinin en büyük Quarterback'i kabul edilen ve 7 şampiyonluğu bulunan isim kimdir?",
+      "options": [
+        { "id": "o1", "text": "Tom Brady", "isCorrect": true },
+        { "id": "o2", "text": "Peyton Manning", "isCorrect": false },
+        { "id": "o3", "text": "Joe Montana", "isCorrect": false },
+        { "id": "o4", "text": "Aaron Rodgers", "isCorrect": false }
+      ],
+      "explanation": "Tom Brady kazandığı 7 Super Bowl ile NFL kulüplerinin tamamından daha fazla şampiyonluğa sahiptir."
+    }
+  },
+  {
+    "id": "sports_139",
+    "categoryId": "sports",
+    "card": {
+      "title": "Buz Pateni - Üçlü / Dörtlü Aksel",
+      "frontText": "Artistik buz pateninde geriye doğru havaya sıçranarak yapılan en zor atlayış nedir?",
+      "backText": "Axel (Aksel Atlayışı)."
+    },
+    "quiz": {
+      "questionText": "Artistik buz pateninde öne doğru çıkış yapılarak dönülen tek zorlu atlayış tekniği nedir?",
+      "options": [
+        { "id": "o1", "text": "Axel (Aksel)", "isCorrect": true },
+        { "id": "o2", "text": "Lutz", "isCorrect": false },
+        { "id": "o3", "text": "Salchow", "isCorrect": false },
+        { "id": "o4", "text": "Toe Loop", "isCorrect": false }
+      ],
+      "explanation": "Axel atlayışı yarım tur ekstra dönüş gerektirdiği için buz pateninin en zor hareketidir."
+    }
+  },
+  {
+    "id": "sports_140",
+    "categoryId": "sports",
+    "card": {
+      "title": "Boks - Filipinli Müttefik Manny Pacquiao",
+      "frontText": "8 farklı sıklette dünya şampiyonu olan tek boksör kimdir?",
+      "backText": "Manny Pacquiao ('PacMan')."
+    },
+    "quiz": {
+      "questionText": "Boks tarihinde 8 ayrı kitle sıkletinde dünya şampiyonluğu kemeri takmayı başaran efsane kimdir?",
+      "options": [
+        { "id": "o1", "text": "Manny Pacquiao", "isCorrect": true },
+        { "id": "o2", "text": "Oscar De La Hoya", "isCorrect": false },
+        { "id": "o3", "text": "Roy Jones Jr.", "isCorrect": false },
+        { "id": "o4", "text": "Roberto Duran", "isCorrect": false }
+      ],
+      "explanation": "Filipinli boksör ve politikacı Pacquiao, sinek sıkletten yarı orta sıklete kadar şampiyon olmuştur."
+    }
+  },
+  {
+    "id": "sports_141",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - En Fazla Resmi Gol Atan Oyuncu",
+      "frontText": "FIFA resmi kayıtlarına göre kariyerinde 900+ resmi gol atan lider futbolcu kimdir?",
+      "backText": "Cristiano Ronaldo."
+    },
+    "quiz": {
+      "questionText": "Kariyerinde resmi maçlarda 900 gol barajını geçen ilk profesyonel futbolcu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Cristiano Ronaldo", "isCorrect": true },
+        { "id": "o2", "text": "Lionel Messi", "isCorrect": false },
+        { "id": "o3", "text": "Pelé", "isCorrect": false },
+        { "id": "o4", "text": "Romario", "isCorrect": false }
+      ],
+      "explanation": "Cristiano Ronaldo kulüp ve milli takımda attığı gollerle tarihin en skorer ismidir."
+    }
+  },
+  {
+    "id": "sports_142",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Şampiyonlar Ligi En Çok Gol Atan",
+      "frontText": "UEFA Şampiyonlar Ligi tarihinin en çok gol atan oyuncusu kimdir?",
+      "backText": "Cristiano Ronaldo (140 Gol)."
+    },
+    "quiz": {
+      "questionText": "Şampiyonlar Ligi kulvarında 140 gol atarak 'Mr. Champions League' lakabını alan yıldız kimdir?",
+      "options": [
+        { "id": "o1", "text": "Cristiano Ronaldo", "isCorrect": true },
+        { "id": "o2", "text": "Lionel Messi", "isCorrect": false },
+        { "id": "o3", "text": "Robert Lewandowski", "isCorrect": false },
+        { "id": "o4", "text": "Raúl González", "isCorrect": false }
+      ],
+      "explanation": "Ronaldo Manchester United, Real Madrid ve Juventus formalarıyla Devler Ligi'nde 140 gol atmıştır."
+    }
+  },
+  {
+    "id": "sports_143",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Şampiyonlar Ligi Bir Sezonda En Çok Gol",
+      "frontText": "Şampiyonlar Ligi'nde tek bir sezonda 17 gol atarak rekor kıran futbolcu kimdir?",
+      "backText": "Cristiano Ronaldo (2013-2014 sezonu Real Madrid)."
+    },
+    "quiz": {
+      "questionText": "2013-14 sezonunda Real Madrid formasıyla Şampiyonlar Ligi'nde 17 gol atıp kırılması zor rekor kuran isim kimdir?",
+      "options": [
+        { "id": "o1", "text": "Cristiano Ronaldo", "isCorrect": true },
+        { "id": "o2", "text": "Lionel Messi", "isCorrect": false },
+        { "id": "o3", "text": "Erling Haaland", "isCorrect": false },
+        { "id": "o4", "text": "Karim Benzema", "isCorrect": false }
+      ],
+      "explanation": "Ronaldo bir sezonda attığı 17 golle Devler Ligi tek sezon gol rekorunu elinde tutmaktadır."
+    }
+  },
+  {
+    "id": "sports_144",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Altın Kafa (Headmaster)",
+      "frontText": "Kafa golleriyle tanınan ve sıçrama rekorları kıran Portekizli süper yıldız kimdir?",
+      "backText": "Cristiano Ronaldo (2.93 metreye kadar yükselip kafa golü atmıştır)."
+    },
+    "quiz": {
+      "questionText": "Sampdoria maçında 71 cm havaya sıçrayıp 2.56m yükseklikte kafayı vurarak gol atan isim kimdir?",
+      "options": [
+        { "id": "o1", "text": "Cristiano Ronaldo", "isCorrect": true },
+        { "id": "o2", "text": "Zlatan Ibrahimović", "isCorrect": false },
+        { "id": "o3", "text": "Gareth Bale", "isCorrect": false },
+        { "id": "o4", "text": "Didier Drogba", "isCorrect": false }
+      ],
+      "explanation": "Ronaldo fiziksel gücü ve sıçrama yüksekliğiyle futbol tarihinin en iyi kafa golcülerindendir."
+    }
+  },
+  {
+    "id": "sports_145",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Bir Takvim Yılında En Çok Gol",
+      "frontText": "Bir takvim yılında (2012) tam 91 gol atarak insanüstü rekor kıran kimdir?",
+      "backText": "Lionel Messi (Gerd Müller'in 85 gollük rekorunu kırmıştır)."
+    },
+    "quiz": {
+      "questionText": "2012 yılında Barcelona ve Arjantin formalarıyla toplam 91 gol atarak Guiness Rekorlar Kitabı'na giren kimdir?",
+      "options": [
+        { "id": "o1", "text": "Lionel Messi", "isCorrect": true },
+        { "id": "o2", "text": "Cristiano Ronaldo", "isCorrect": false },
+        { "id": "o3", "text": "Kylian Mbappé", "isCorrect": false },
+        { "id": "o4", "text": "Neymar Jr.", "isCorrect": false }
+      ],
+      "explanation": "Messi 2012 takvim yılında çıktığı maçlarda attığı 91 golle imkansız kabul edilen bir rekor kırmıştır."
+    }
+  },
+  {
+    "id": "sports_146",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Altın Çocuk (Golden Boy Ödülü)",
+      "frontText": "Avrupa'da 21 yaş altındaki en iyi genç futbolcuya verilen prestijli ödül nedir?",
+      "backText": "Golden Boy Ödülü (Tuttosport tarafından verilir)."
+    },
+    "quiz": {
+      "questionText": "2005'te Messi, 2017'de Mbappé, 2020'de Haaland ve 2023'te Jude Bellingham'ın kazandığı genç oyuncu ödülü nedir?",
+      "options": [
+        { "id": "o1", "text": "Golden Boy", "isCorrect": true },
+        { "id": "o2", "text": "Kopa Trophy", "isCorrect": false },
+        { "id": "o3", "text": "Bravo Ödülü", "isCorrect": false },
+        { "id": "o4", "text": "Ballon d'Or Youth", "isCorrect": false }
+      ],
+      "explanation": "Golden Boy ödülü geleceğin en büyük yıldızı olmaya aday U21 oyuncularına sunulur."
+    }
+  },
+  {
+    "id": "sports_147",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Lev Yashin Ödülü",
+      "frontText": "FIFA / France Football tarafından yılın en iyi kalecisine verilen ödül nedir?",
+      "backText": "Yashin Kupası (Yashin Trophy)."
+    },
+    "quiz": {
+      "questionText": "France Football'un Ballon d'Or gecesinde yılın en iyi kalecisine takdim ettiği ödül kime ithaf edilmiştir?",
+      "options": [
+        { "id": "o1", "text": "Lev Yashin", "isCorrect": true },
+        { "id": "o2", "text": "Oliver Kahn", "isCorrect": false },
+        { "id": "o3", "text": "Iker Casillas", "isCorrect": false },
+        { "id": "o4", "text": "Gordon Banks", "isCorrect": false }
+      ],
+      "explanation": "Tarihin tek Ballon d'Or sahibi kalecisi Lev Yashin'in anısına bu kupa en iyi kaleciye verilir."
+    }
+  },
+  {
+    "id": "sports_148",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Kopa Kupası (Kopa Trophy)",
+      "frontText": "Ballon d'Or töreninde verilen yılın en iyi 21 yaş altı futbolcusu ödülü nedir?",
+      "backText": "Kopa Kupası (Raymond Kopa adına)."
+    },
+    "quiz": {
+      "questionText": "Fransız efsane Raymond Kopa adına ihdas edilen ve U21 en iyi oyuncusuna verilen kupa hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Kopa Kupası", "isCorrect": true },
+        { "id": "o2", "text": "Puskas Ödülü", "isCorrect": false },
+        { "id": "o3", "text": "Yashin Kupası", "isCorrect": false },
+        { "id": "o4", "text": "Golden Foot", "isCorrect": false }
+      ],
+      "explanation": "Kopa Trophy, Ballon d'Or organizasyonu kapsamındaki genç yetenek ödülüdür."
+    }
+  },
+  {
+    "id": "sports_149",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Golden Foot Ödülü",
+      "frontText": "28 yaş üstü aktif başarılı oyunculara verilen ve ayak izlerinin Monako'da sergilendiği ödül nedir?",
+      "backText": "Golden Foot (Altın Ayak Ödülü)."
+    },
+    "quiz": {
+      "questionText": "Monako Krallığı himayesinde sadece 28 yaşını geçmiş efsane oyunculara bir kez verilen ödül nedir?",
+      "options": [
+        { "id": "o1", "text": "Golden Foot (Altın Ayak)", "isCorrect": true },
+        { "id": "o2", "text": "Ballon d'Or", "isCorrect": false },
+        { "id": "o3", "text": "FIFA The Best", "isCorrect": false },
+        { "id": "o4", "text": "UEFA Onur Ödülü", "isCorrect": false }
+      ],
+      "explanation": "Golden Foot kazanan oyuncular Monako'daki 'Champions Promenade' kaldırımlarına ayak izlerini bırakır."
+    }
+  },
+  {
+    "id": "sports_150",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Fatih Terim (İmparator)",
+      "frontText": "Türk futbolunda 'İmparator' lakabıyla anılan ve Fiorentina/AC Milan'ı çalıştıran efsane kimdir?",
+      "backText": "Fatih Terim."
+    },
+    "quiz": {
+      "questionText": "Galatasaray ile 2000 UEFA Kupası ve 8 Süper Lig şampiyonluğu kazanan 'İmparator' lakaplı hoca kimdir?",
+      "options": [
+        { "id": "o1", "text": "Fatih Terim", "isCorrect": true },
+        { "id": "o2", "text": "Mustafa Denizli", "isCorrect": false },
+        { "id": "o3", "text": "Şenol Güneş", "isCorrect": false },
+        { "id": "o4", "text": "Aykut Kocaman", "isCorrect": false }
+      ],
+      "explanation": "Fatih Terim, Lider karakteri ve kazandığı kupalarla Türk futbolunun simge teknik adamıdır."
+    }
+  },
+  {
+    "id": "sports_151",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Mustafa Denizli Rekoru",
+      "frontText": "Üç büyükler olarak bilinen Beşiktaş, Fenerbahçe ve Galatasaray ile şampiyon olan tek teknik adam kimdir?",
+      "backText": "Mustafa Denizli."
+    },
+    "quiz": {
+      "questionText": "Süper Lig tarihinde hem Galatasaray, hem Fenerbahçe hem Beşiktaş ile şampiyonluk yaşayan tek hoca kimdir?",
+      "options": [
+        { "id": "o1", "text": "Mustafa Denizli", "isCorrect": true },
+        { "id": "o2", "text": "Fatih Terim", "isCorrect": false },
+        { "id": "o3", "text": "Sergen Yalçın", "isCorrect": false },
+        { "id": "o4", "text": "Şenol Güneş", "isCorrect": false }
+      ],
+      "explanation": "Mustafa Denizli, 3 büyük İstanbul kulübünde de Süper Lig kupasını kaldırmış tek teknik direktördür."
+    }
+  },
+  {
+    "id": "sports_152",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Sergen Yalçın Sol Ayak",
+      "frontText": "Türk futbolunda doğuştan dahi kabul edilen harika sol ayaklı şampiyon oyuncu/hoca kimdir?",
+      "backText": "Sergen Yalçın."
+    },
+    "quiz": {
+      "questionText": "'Sergen attı, şampiyonluk geldi' sözüyle hatırda kalan ve Beşiktaş'la hem oyuncu hem hoca şampiyon olan kimdir?",
+      "options": [
+        { "id": "o1", "text": "Sergen Yalçın", "isCorrect": true },
+        { "id": "o2", "text": "Tümer Metin", "isCorrect": false },
+        { "id": "o3", "text": "Oğuz Çetin", "isCorrect": false },
+        { "id": "o4", "text": "Ayhan Akman", "isCorrect": false }
+      ],
+      "explanation": "Sergen Yalçın 100. yıl şampiyonluk golünü atarak unutulmazlar arasına girmiştir."
+    }
+  },
+  {
+    "id": "sports_153",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - İlhan Mansız ve Dünya Kupası Şovu",
+      "frontText": "2002 Dünya Kupası'nda Roberto Carlos'a attığı gökkuşağı çalımıyla (Rainbow Flick) ünlü olan kimdir?",
+      "backText": "İlhan Mansız."
+    },
+    "quiz": {
+      "questionText": "Brezilya maçında ünlü sol bek Roberto Carlos'un üstünden topu aşırtıp çalım atan Türk santrfor kimdir?",
+      "options": [
+        { "id": "o1", "text": "İlhan Mansız", "isCorrect": true },
+        { "id": "o2", "text": "Nihat Kahveci", "isCorrect": false },
+        { "id": "o3", "text": "Arda Turan", "isCorrect": false },
+        { "id": "o4", "text": "Tuncay Şanlı", "isCorrect": false }
+      ],
+      "explanation": "İlhan Mansız'ın sırtı dönükken topu Carlos'un üzerinden aşırttığı çalım Dünya Kupaları tarihine geçmiştir."
+    }
+  },
+  {
+    "id": "sports_154",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Nihat Kahveci ve Euro 2008 Mucizesi",
+      "frontText": "EURO 2008'de Çekya karşısında 2-0'dan gelip 3-2 kazandığımız maçın kahramanı kimdir?",
+      "backText": "Nihat Kahveci (Son dakikalarda 2 gol birden atmıştır)."
+    },
+    "quiz": {
+      "questionText": "EURO 2008'de Çekya kalecisi Cech'in hatasını değerlendirip attığı gollerle mucize galibiyeti getiren kimdir?",
+      "options": [
+        { "id": "o1", "text": "Nihat Kahveci", "isCorrect": true },
+        { "id": "o2", "text": "Semih Şentürk", "isCorrect": false },
+        { "id": "o3", "text": "Arda Turan", "isCorrect": false },
+        { "id": "o4", "text": "Hamit Altıntop", "isCorrect": false }
+      ],
+      "explanation": "Nihat Kahveci'nin son dakikalardaki 2 golüyle Türkiye maçı 3-2 kazanarak gruptan çıkmıştır."
+    }
+  },
+  {
+    "id": "sports_155",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Semih Şentürk (Nöbetçi Golcü)",
+      "frontText": "'Nöbetçi Golcü' lakaplı EURO 2008 Hırvatistan maçının son saniye kahramanı kimdir?",
+      "backText": "Semih Şentürk (120+1. dakikada gol atmıştır)."
+    },
+    "quiz": {
+      "questionText": "EURO 2008 çeyrek finalinde Hırvatistan'a 120+1'de attığı golle maçı penaltılara taşıyan 'Nöbetçi Golcü' kimdir?",
+      "options": [
+        { "id": "o1", "text": "Semih Şentürk", "isCorrect": true },
+        { "id": "o2", "text": "Uğur Boral", "isCorrect": false },
+        { "id": "o3", "text": "Gökdeniz Karadeniz", "isCorrect": false },
+        { "id": "o4", "text": "Mevlüt Erdinç", "isCorrect": false }
+      ],
+      "explanation": "Semih Şentürk yedekten girip attığı kritik goller sebebiyle 'Nöbetçi Golcü' unvanını kazanmıştır."
+    }
+  },
+  {
+    "id": "sports_156",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Arda Turan ve Atletico / Barcelona",
+      "frontText": "Atletico Madrid ile La Liga ve UEFA Kupası kazanıp Barcelona'ya transfer olan Türk yıldız kimdir?",
+      "backText": "Arda Turan."
+    },
+    "quiz": {
+      "questionText": "Simeone'nin Atletico Madrid'i ile lig şampiyonluğu yaşayıp 34 milyon Euro'ya Barcelona'ya giden futbolcu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Arda Turan", "isCorrect": true },
+        { "id": "o2", "text": "Hakan Çalhanoğlu", "isCorrect": false },
+        { "id": "o3", "text": "Cengiz Ünder", "isCorrect": false },
+        { "id": "o4", "text": "Enes Ünal", "isCorrect": false }
+      ],
+      "explanation": "Arda Turan La Liga şampiyonluğu yaşayan ve Barcelona forması giyen ilk Türk oyuncudur."
+    }
+  },
+  {
+    "id": "sports_157",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Hakan Çalhanoğlu Frikik Ustası",
+      "frontText": "Almanya ve İtalya'da attığı inanılmaz frikik golleriyle tanınan milli takım kaptanımız kimdir?",
+      "backText": "Hakan Çalhanoğlu (Inter forması giymektedir)."
+    },
+    "quiz": {
+      "questionText": "Hamburg formasıyla Borussia Dortmund'a 41 metreden attığı frikik golüyle dünya çapında ünlenen yıldız kimdir?",
+      "options": [
+        { "id": "o1", "text": "Hakan Çalhanoğlu", "isCorrect": true },
+        { "id": "o2", "text": "Orkun Kökçü", "isCorrect": false },
+        { "id": "o3", "text": "Nuri Şahin", "isCorrect": false },
+        { "id": "o4", "text": "Yufus Yazıcı", "isCorrect": false }
+      ],
+      "explanation": "Hakan Çalhanoğlu topa kavis verme yeteneğiyle Avrupa'nın en iyi duran top ustalarındandır."
+    }
+  },
+  {
+    "id": "sports_158",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Arda Güler ve Real Madrid",
+      "frontText": "Fenerbahçe'den Real Madrid'e transfer olarak Şampiyonlar Ligi kupasını kazanan ilk Türk kimdir?",
+      "backText": "Arda Güler."
+    },
+    "quiz": {
+      "questionText": "2023 yılında Fenerbahçe'den Real Madrid'e transfer olan ve La Liga'da dakikaya göre gol rekoru kıran genç yetenek kimdir?",
+      "options": [
+        { "id": "o1", "text": "Arda Güler", "isCorrect": true },
+        { "id": "o2", "text": "Kenan Yıldız", "isCorrect": false },
+        { "id": "o3", "text": "Semih Kılıçsoy", "isCorrect": false },
+        { "id": "o4", "text": "Can Uzun", "isCorrect": false }
+      ],
+      "explanation": "Arda Güler sol ayağındaki kaliteyle Real Madrid'de Şampiyonlar Ligi şampiyonluğu tadan ilk Türk oyuncudur."
+    }
+  },
+  {
+    "id": "sports_159",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Kenan Yıldız ve Juventus 10 Numara",
+      "frontText": "Juventus'ta Del Piero'nun efsanevi 10 numaralı formasını giyen genç Türk yıldız kimdir?",
+      "backText": "Kenan Yıldız."
+    },
+    "quiz": {
+      "questionText": "İtalyan devi Juventus'un ikonik 10 numaralı formasını giyen milli futbolcumuz hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Kenan Yıldız", "isCorrect": true },
+        { "id": "o2", "text": "Merih Demiral", "isCorrect": false },
+        { "id": "o3", "text": "Arda Güler", "isCorrect": false },
+        { "id": "o4", "text": "Zeki Çelik", "isCorrect": false }
+      ],
+      "explanation": "Kenan Yıldız, Del Piero tarzı dil çıkarma sevinci ve golleriyle Juventus'un yeni 10 numarası olmuştur."
+    }
+  },
+  {
+    "id": "sports_160",
+    "categoryId": "sports",
+    "card": {
+      "title": "Voleybol - Melissa Vargas (Vargas Air)",
+      "frontText": "Kübave asıllı olup Türk vatandaşı olan ve 'Vargas Air' denilen Voleybolcumuz kimdir?",
+      "backText": "Melissa Vargas (Pasör Çaprazı)."
+    },
+    "quiz": {
+      "questionText": "2023 Avrupa Şampiyonası'nın MVP'si seçilen ve muazzam smaç servisiyle bilinen milli voleybolcumuz kimdir?",
+      "options": [
+        { "id": "o1", "text": "Melissa Vargas", "isCorrect": true },
+        { "id": "o2", "text": "Ebrar Karakurt", "isCorrect": false },
+        { "id": "o3", "text": "Zehra Güneş", "isCorrect": false },
+        { "id": "o4", "text": "Cansu Özbay", "isCorrect": false }
+      ],
+      "explanation": "Melissa Vargas 112 km/s üzeri smaç servisleriyle Filenin Sultanları'nın en hücum gücüdür."
+    }
+  },
+  {
+    "id": "sports_161",
+    "categoryId": "sports",
+    "card": {
+      "title": "Voleybol - Ebrar Karakurt",
+      "frontText": "'Savaşçı ruhu' ve pembe saçlarıyla simgeleşen milli voleybolcumuz kimdir?",
+      "backText": "Ebrar Karakurt."
+    },
+    "quiz": {
+      "questionText": "İtalya ve Rusya liglerinde sergilediği tutkulu oyunla tanınan milli pasör çaprazı/smaçör kimdir?",
+      "options": [
+        { "id": "o1", "text": "Ebrar Karakurt", "isCorrect": true },
+        { "id": "o2", "text": "Hande Baladın", "isCorrect": false },
+        { "id": "o3", "text": "Meliha Diken", "isCorrect": false },
+        { "id": "o4", "text": "Simge Aköz", "isCorrect": false }
+      ],
+      "explanation": "Ebrar Karakurt hırsı ve yüksek bloğu geçebilen sert smaçlarıyla takımın neşesidir."
+    }
+  },
+  {
+    "id": "sports_162",
+    "categoryId": "sports",
+    "card": {
+      "title": "Voleybol - Eda Erdem Dündar (Kaptan)",
+      "frontText": "Fenerbahçe ve A Milli Voleybol Takımımızın efsanevi kaptanı kimdir?",
+      "backText": "Eda Erdem Dündar (Heykeli dikilmiştir)."
+    },
+    "quiz": {
+      "questionText": "Fenerbahçe Şükrü Saracoğlu Spor Kompleksi alanına heykeli dikilen milli voleybol kaptanımız kimdir?",
+      "options": [
+        { "id": "o1", "text": "Eda Erdem Dündar", "isCorrect": true },
+        { "id": "o2", "text": "Naz Aydemir Akyol", "isCorrect": false },
+        { "id": "o3", "text": "Gözde Kırdar", "isCorrect": false },
+        { "id": "o4", "text": "Neslihan Demir", "isCorrect": false }
+      ],
+      "explanation": "Eda Erdem duruşu, tek ayak hücumları ve liderliğiyle Türk voleybolunun anıt isimlerindendir."
+    }
+  },
+  {
+    "id": "sports_163",
+    "categoryId": "sports",
+    "card": {
+      "title": "Voleybol - Neslihan Demir (Demir Demir)",
+      "frontText": "Türk kadın voleybolunun dünya çapında tanınmasını sağlayan 'Demir Demir' lakaplı solak voleybolcu kimdir?",
+      "backText": "Neslihan Demir."
+    },
+    "quiz": {
+      "questionText": "2012 Londra Olimpiyatları bayrak taşıyıcımız olan 'Türk Voleybolunun Demir Leydisi' kimdir?",
+      "options": [
+        { "id": "o1", "text": "Neslihan Demir", "isCorrect": true },
+        { "id": "o2", "text": "Esra Gümüş", "isCorrect": false },
+        { "id": "o3", "text": "Bahar Mert", "isCorrect": false },
+        { "id": "o4", "text": "Aysun Özbek", "isCorrect": false }
+      ],
+      "explanation": "Neslihan Demir sol el smaçları ve yüksek skor kapasitesiyle Türk voleyboluna çağ atlatmıştır."
+    }
+  },
+  {
+    "id": "sports_164",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Süper Lig En Çok Maç Yapan Oyuncu",
+      "frontText": "Süper Lig tarihinde 503 maçla en çok sahaya çıkan oyuncu kimdir?",
+      "backText": "Uğur Boral / Umut Bulut."
+    },
+    "quiz": {
+      "questionText": "Süper Lig kariyerinde 515 maça çıkarak lig tarihinin en çok forma giyen futbolcusu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Umut Bulut", "isCorrect": true },
+        { "id": "o2", "text": "Oğuz Çetin", "isCorrect": false },
+        { "id": "o3", "text": "Rıza Çalımbay", "isCorrect": false },
+        { "id": "o4", "text": "Hakan Şükür", "isCorrect": false }
+      ],
+      "explanation": "Umut Bulut istikrarıyla Süper Lig'in en çok maça çıkan futbolcusu unvanına sahiptir."
+    }
+  },
+  {
+    "id": "sports_165",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Süper Lig En Çok Gol Atan (Tüm Zamanlar)",
+      "frontText": "Süper Lig tarihinin en skorer ismi (249 gol) kimdir?",
+      "backText": "Hakan Şükür."
+    },
+    "quiz": {
+      "questionText": "Süper Lig'de toplam 249 gol atarak tüm zamanların en golcü futbolcusu olan kimdir?",
+      "options": [
+        { "id": "o1", "text": "Hakan Şükür", "isCorrect": true },
+        { "id": "o2", "text": "Tanju Çolak", "isCorrect": false },
+        { "id": "o3", "text": "Hami Mandıralı", "isCorrect": false },
+        { "id": "o4", "text": "Aykut Kocaman", "isCorrect": false }
+      ],
+      "explanation": "Hakan Şükür attığı 249 lig golüyle krallar krallığı listesinin zirvesindedir."
+    }
+  },
+  {
+    "id": "sports_166",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Hami Mandıralı (Bombacı)",
+      "frontText": "Trabzonspor'da füze gibi şutlarıyla tanınan 'Bombacı' lakaplı efsane kimdir?",
+      "backText": "Hami Mandıralı (219 gol)."
+    },
+    "quiz": {
+      "questionText": "Frikiklerde topa 130 km/s üzeri hız kazandıran ve 219 golle Süper Lig 3.'sü olan Trabzonlu efsane kimdir?",
+      "options": [
+        { "id": "o1", "text": "Hami Mandıralı", "isCorrect": true },
+        { "id": "o2", "text": "Aykut Kocaman", "isCorrect": false },
+        { "id": "o3", "text": "Feyyaz Uçar", "isCorrect": false },
+        { "id": "o4", "text": "Sergen Yalçın", "isCorrect": false }
+      ],
+      "explanation": "Hami Mandıralı mesafe tanımaksızın attığı sert şut ve frikik golleriyle 'Bombacı' adını almıştır."
+    }
+  },
+  {
+    "id": "sports_167",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Selçuk İnan ve Frikik Dönemi",
+      "frontText": "Galatasaray'ın 2011-12 şampiyonluğunda unutulmaz frikik gollerine imza atan kaptanı kimdir?",
+      "backText": "Selçuk İnan."
+    },
+    "quiz": {
+      "questionText": "2011-12 sezonunda orta saha olmasına rağmen 13 gol 16 asistle oynayıp frikikleriyle maça yön veren kimdir?",
+      "options": [
+        { "id": "o1", "text": "Selçuk İnan", "isCorrect": true },
+        { "id": "o2", "text": "Felipe Melo", "isCorrect": false },
+        { "id": "o3", "text": "Wesley Sneijder", "isCorrect": false },
+        { "id": "o4", "text": "Hamit Altıntop", "isCorrect": false }
+      ],
+      "explanation": "Selçuk İnan 'Xelçuk' lakabıyla frikiklerin arkasına geçtiğinde penaltı gibi gol atan ustaydı."
+    }
+  },
+  {
+    "id": "sports_168",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Sneijder ve Kadıköy / Arenadaki Füze",
+      "frontText": "Galatasaray'ın Fenerbahçe maçlarında attığı 2 ceza sahası dışı füze golüyle özdeşleşen Hollandalı kimdir?",
+      "backText": "Wesley Sneijder."
+    },
+    "quiz": {
+      "questionText": "2010 Inter ile Champions League kazanan ve Galatasaray'da 10 numarayı giyen Hollandalı yıldız kimdir?",
+      "options": [
+        { "id": "o1", "text": "Wesley Sneijder", "isCorrect": true },
+        { "id": "o2", "text": "Robin van Persie", "isCorrect": false },
+        { "id": "o3", "text": "Dirk Kuyt", "isCorrect": false },
+        { "id": "o4", "text": "Nigel de Jong", "isCorrect": false }
+      ],
+      "explanation": "Sneijder uzak şut yeteneği ve oyun kuruculuğuyla Galatasaray taraftarının sevgilisi olmuştur."
+    }
+  },
+  {
+    "id": "sports_169",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Drogba (The King)",
+      "frontText": "Real Madrid'e attığı topuk golüyle bilinen Fildişili efsane santrfor kimdir?",
+      "backText": "Didier Drogba."
+    },
+    "quiz": {
+      "questionText": "Chelsea ile Şampiyonlar Ligi'ni alıp Galatasaray'a gelen dünyaca ünlü Afrika efsanesi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Didier Drogba", "isCorrect": true },
+        { "id": "o2", "text": "Samuel Eto'o", "isCorrect": false },
+        { "id": "o3", "text": "Michael Essien", "isCorrect": false },
+        { "id": "o4", "text": "Yaya Touré", "isCorrect": false }
+      ],
+      "explanation": "Drogba fizik gücü, liderliği ve kafa golleriyle dünya futbolunun en büyük santrforlarındandır."
+    }
+  },
+  {
+    "id": "sports_170",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Samuel Eto'o Türkiye Macerası",
+      "frontText": "Barcelona ve Inter ile back-to-back 3 kupa kazanan, Antalyaspor'da oynayan Afrikalı golcü kimdir?",
+      "backText": "Samuel Eto'o."
+    },
+    "quiz": {
+      "questionText": "3 kez Şampiyonlar Ligi şampiyonu olan ve Antalyaspor ile Konyaspor formaları giyen kamerunlu efsane kimdir?",
+      "options": [
+        { "id": "o1", "text": "Samuel Eto'o", "isCorrect": true },
+        { "id": "o2", "text": "Emmanuel Adebayor", "isCorrect": false },
+        { "id": "o3", "text": "Demba Ba", "isCorrect": false },
+        { "id": "o4", "text": "Vincent Aboubakar", "isCorrect": false }
+      ],
+      "explanation": "Samuel Eto'o hızı ve bitiriciliğiyle 4 kez Afrika'da Yılın Futbolcusu seçilmiştir."
+    }
+  },
+  {
+    "id": "sports_171",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Pierre van Hooijdonk Frikikler",
+      "frontText": "2003-04 sezonunda Fenerbahçe'yi frikik golleriyle şampiyon yapan Hollandalı kimdir?",
+      "backText": "Pierre van Hooijdonk."
+    },
+    "quiz": {
+      "questionText": "Fenerbahçe'deki ilk sezonunda tek başına 24 gol atıp duran topların ustası olan Hollandalı forvet kimdir?",
+      "options": [
+        { "id": "o1", "text": "Pierre van Hooijdonk", "isCorrect": true },
+        { "id": "o2", "text": "Dirk Kuyt", "isCorrect": false },
+        { "id": "o3", "text": "Mateja Kežman", "isCorrect": false },
+        { "id": "o4", "text": "Daniel Güiza", "isCorrect": false }
+      ],
+      "explanation": "Van Hooijdonk frikik kullanırken topun arkasına geçtiğinde neredeyse tüm şutları ağlara gönderirdi."
+    }
+  },
+  {
+    "id": "sports_172",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Mario Jardel (Super Mario)",
+      "frontText": "Galatasaray'a Süper Kupa'yı getiren ve 'Super Mario' denilen Brezilyalı golcü kimdir?",
+      "backText": "Mario Jardel."
+    },
+    "quiz": {
+      "questionText": "Porto ve Galatasaray'da ceza sahası içindeki müthiş kafa golleriyle tanınan Altın Ayakkabılı santrfor kimdir?",
+      "options": [
+        { "id": "o1", "text": "Mário Jardel", "isCorrect": true },
+        { "id": "o2", "text": "Marcio Nobre", "isCorrect": false },
+        { "id": "o3", "text": "Bobô", "isCorrect": false },
+        { "id": "o4", "text": "Welliton", "isCorrect": false }
+      ],
+      "explanation": "Mário Jardel, Galatasaray formasıyla Real Madrid'e attığı 2 golle Süper Kupa'yı kazandırmıştır."
+    }
+  },
+  {
+    "id": "sports_173",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Vincent Aboubakar",
+      "frontText": "Beşiktaş'ın 2017 ve 2021 şampiyonluklarında başrol oynayan Kamerunlu forvet kimdir?",
+      "backText": "Vincent Aboubakar."
+    },
+    "quiz": {
+      "questionText": "Napoli deplasmanındaki ve ligdeki sürpriz golleriyle Beşiktaş taraftarının sevgilisi olan Kamerunlu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Vincent Aboubakar", "isCorrect": true },
+        { "id": "o2", "text": "Cenk Tosun", "isCorrect": false },
+        { "id": "o3", "text": "Demba Ba", "isCorrect": false },
+        { "id": "o4", "text": "Mario Gomez", "isCorrect": false }
+      ],
+      "explanation": "Aboubakar bilek hareketleri ve güçlü şutlarıyla Beşiktaş'ın unutulmaz yabancılarındandır."
+    }
+  },
+  {
+    "id": "sports_174",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Mario Gomez (Cha Cha)",
+      "frontText": "Beşiktaş'ın Vodafone Park'taki ilk golünü atan ve gol kralı olan Alman panzer kimdir?",
+      "backText": "Mario Gómez (26 gol)."
+    },
+    "quiz": {
+      "questionText": "2015-16 sezonunda Beşiktaş formasıyla 26 gol atıp gol kralı olan ve staddaki şarkısıyla bilinen Alman kimdir?",
+      "options": [
+        { "id": "o1", "text": "Mario Gómez", "isCorrect": true },
+        { "id": "o2", "text": "Lukas Podolski", "isCorrect": false },
+        { "id": "o3", "text": "Max Kruse", "isCorrect": false },
+        { "id": "o4", "text": "Roberto Hilbert", "isCorrect": false }
+      ],
+      "explanation": "Mario Gomez harika kafa golleri ve tek vuruş yeteneğiyle şampiyonluk yolunu açmıştır."
+    }
+  },
+  {
+    "id": "sports_175",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Mauro Icardi ve Aşkın Olayım",
+      "frontText": "'Aşkın Olayım' şarkısıyla bütünleşen Galatasaray'ın Arjantinli yıldız santrforu kimdir?",
+      "backText": "Mauro Icardi."
+    },
+    "quiz": {
+      "questionText": "Galatasaray'ın üst üste şampiyonluklarında derbi golleriyle öne çıkan ve saç stiliyle moda yaratan Arjantinli kimdir?",
+      "options": [
+        { "id": "o1", "text": "Mauro Icardi", "isCorrect": true },
+        { "id": "o2", "text": "Lautaro Martínez", "isCorrect": false },
+        { "id": "o3", "text": "Paulo Dybala", "isCorrect": false },
+        { "id": "o4", "text": "Angel Di Maria", "isCorrect": false }
+      ],
+      "explanation": "Mauro Icardi, ceza sahası içindeki dokunuşları ve 'Aşkın Olayım' şarkısıyla bir fenomen olmuştur."
+    }
+  },
+  {
+    "id": "sports_176",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Ergin Ataman EuroLeague Zaferleri",
+      "frontText": "Anadolu Efes ve Panathinaikos ile toplam 3 kez EuroLeague şampiyonu olan koçumuz kimdir?",
+      "backText": "Ergin Ataman (2021, 2022 Anadolu Efes & 2024 Panathinaikos)."
+    },
+    "quiz": {
+      "questionText": "Farklı takımlarla (Anadolu Efes ve Panathinaikos) EuroLeague şampiyonu olan ilk Türk koç kimdir?",
+      "options": [
+        { "id": "o1", "text": "Ergin Ataman", "isCorrect": true },
+        { "id": "o2", "text": "Ufuk Sarıca", "isCorrect": false },
+        { "id": "o3", "text": "Oktay Mahmuti", "isCorrect": false },
+        { "id": "o4", "text": "Orhun Ene", "isCorrect": false }
+      ],
+      "explanation": "Ergin Ataman iddialı açıklamaları ve 3 EuroLeague kupasıyla Avrupa basketbolunun en başarılı koçlarındandır."
+    }
+  },
+  {
+    "id": "sports_177",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Zeljko Obradovic (Avrupa'nın En Büyüğü)",
+      "frontText": "Fenerbahçe dahil 5 farklı takımla toplam 9 EuroLeague kupası kazanan koç kimdir?",
+      "backText": "Željko Obradović."
+    },
+    "quiz": {
+      "questionText": "Avrupa basketbolu tarihinin 9 şampiyonlukla açık ara en çok EuroLeague kazanan efsanevi Sırp koçu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Željko Obradović", "isCorrect": true },
+        { "id": "o2", "text": "Ettore Messina", "isCorrect": false },
+        { "id": "o3", "text": "Dusan Ivkovic", "isCorrect": false },
+        { "id": "o4", "text": "Pablo Laso", "isCorrect": false }
+      ],
+      "explanation": "Obradovic 2017'de Fenerbahçe'yi de şampiyon yaparak Türk basketbol tarihine adını altın harflerle yazdırmıştır."
+    }
+  },
+  {
+    "id": "sports_178",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Shane Larkin ve 49 Sayı Rekoru",
+      "frontText": "EuroLeague tarihinde tek maçta en çok sayı atan (49 Sayı) oyuncu kimdir?",
+      "backText": "Shane Larkin (Anadolu Efes - Bayern Münih maçında)."
+    },
+    "quiz": {
+      "questionText": "Anadolu Efes formasıyla Bayern Münih'e 49 sayı atarak EuroLeague tek maç sayı rekorunu kıran kimdir?",
+      "options": [
+        { "id": "o1", "text": "Shane Larkin", "isCorrect": true },
+        { "id": "o2", "text": "Vasilije Micic", "isCorrect": false },
+        { "id": "o3", "text": "Mike James", "isCorrect": false },
+        { "id": "o4", "text": "Nando de Colo", "isCorrect": false }
+      ],
+      "explanation": "Shane Larkin 29 Kasım 2019'da attığı 49 sayı ile EuroLeague tarihinin bir maçtaki en skorer ismidir."
+    }
+  },
+  {
+    "id": "sports_179",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Vasilije Micic ve Final Four MVP",
+      "frontText": "Anadolu Efes'in iki EuroLeague şampiyonluğunda da Final Four MVP'si seçilen Sırp oyun kurucu kimdir?",
+      "backText": "Vasilije Micić."
+    },
+    "quiz": {
+      "questionText": "Anadolu Efes ile üst üste iki kez EuroLeague şampiyonu olup ikisinde de Dörtlü Final MVP'si olan isim kimdir?",
+      "options": [
+        { "id": "o1", "text": "Vasilije Micić", "isCorrect": true },
+        { "id": "o2", "text": "Bogdan Bogdanović", "isCorrect": false },
+        { "id": "o3", "text": "Miloš Teodosić", "isCorrect": false },
+        { "id": "o4", "text": "Nemanja Bjelica", "isCorrect": false }
+      ],
+      "explanation": "Micic, son saniye basketleri ve oyun zekasıyla Anadolu Efes zaferlerinin mimarıdır."
+    }
+  },
+  {
+    "id": "sports_180",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Bogdan Bogdanovic",
+      "frontText": "Fenerbahçe ile 2017'de EuroLeague şampiyonu olup NBA'e giden Sırp şutör kimdir?",
+      "backText": "Bogdan Bogdanović."
+    },
+    "quiz": {
+      "questionText": "Fenerbahçe'nin EuroLeague şampiyonluğunda büyük pay sahibi olup ardından NBA'e transfer olan yetenek kimdir?",
+      "options": [
+        { "id": "o1", "text": "Bogdan Bogdanović", "isCorrect": true },
+        { "id": "o2", "text": "Bojan Bogdanović", "isCorrect": false },
+        { "id": "o3", "text": "Jan Vesely", "isCorrect": false },
+        { "id": "o4", "text": "Luigi Datome", "isCorrect": false }
+      ],
+      "explanation": "Bogdan Bogdanovic kritik anlardaki soğukkanlı şutlarıyla Obradovic sisteminin en büyük silahıydı."
+    }
+  },
+  {
+    "id": "sports_181",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Jan Vesely (Uçan Çek)",
+      "frontText": "Fenerbahçe'de smaçları ve bloklarıyla efsaneleşen 'Uçan Çek' lakaplı pivot kimdir?",
+      "backText": "Jan Vesely."
+    },
+    "quiz": {
+      "questionText": "Fenerbahçe Beko'da uzun yıllar oynayıp 2019 EuroLeague MVP'si seçilen Çek yıldız kimdir?",
+      "options": [
+        { "id": "o1", "text": "Jan Vesely", "isCorrect": true },
+        { "id": "o2", "text": "Ekpe Udoh", "isCorrect": false },
+        { "id": "o3", "text": "Pero Antic", "isCorrect": false },
+        { "id": "o4", "text": "Joffrey Lauvergne", "isCorrect": false }
+      ],
+      "explanation": "Jan Vesely atletizmi, spektaküler smaçları ve taraftarla kurduğu bağla kulüp sembolüdür."
+    }
+  },
+  {
+    "id": "sports_182",
+    "categoryId": "sports",
+    "card": {
+      "title": "Basketbol - Ekpe Udoh ve 2017 Final Four MVP",
+      "frontText": "2017 İstanbul Final Four'da blok şov yaparak MVP seçilen Fenerbahçeli pivot kimdir?",
+      "backText": "Ekpe Udoh."
+    },
+    "quiz": {
+      "questionText": "2017 EuroLeague Final Four'unda savunması ve bloklarıyla 'MVP' seçilen Amerikalı pivot kimdir?",
+      "options": [
+        { "id": "o1", "text": "Ekpe Udoh", "isCorrect": true },
+        { "id": "o2", "text": "Kyle Hines", "isCorrect": false },
+        { "id": "o3", "text": "Bryant Dunston", "isCorrect": false },
+        { "id": "o4", "text": "Walter Tavares", "isCorrect": false }
+      ],
+      "explanation": "Ekpe Udoh pota altını tamamen karartarak Fenerbahçe'nin ilk EuroLeague kupasını almasında anahtar rol oynadı."
+    }
+  },
+  {
+    "id": "sports_183",
+    "categoryId": "sports",
+    "card": {
+      "title": "Ağırlık Kaldırma - Naim Süleymanoğlu Seul 1988",
+      "frontText": "Naim Süleymanoğlu 1988 Seul Olimpiyatları'nda silkmede kaç kilo kaldırmıştır?",
+      "backText": "190 kg (Kendi ağırlığının 3.15 katı - İnanılmaz Dünya Rekoru)."
+    },
+    "quiz": {
+      "questionText": "60 kg sıkletinde yarışan Naim Süleymanoğlu'nun 1988 Seul'de silkmede kaldırdığı dünya rekoru ağırlık kaç kg'dır?",
+      "options": [
+        { "id": "o1", "text": "190 kg", "isCorrect": true },
+        { "id": "o2", "text": "170 kg", "isCorrect": false },
+        { "id": "o3", "text": "210 kg", "isCorrect": false },
+        { "id": "o4", "text": "150 kg", "isCorrect": false }
+      ],
+      "explanation": "Kendi vücut ağırlığının 3 katından fazlasını kaldıran tek insan olarak Seul 1988 destanını yazmıştır."
+    }
+  },
+  {
+    "id": "sports_184",
+    "categoryId": "sports",
+    "card": {
+      "title": "Atıcılık - Yusuf Dikeç (Kulaksız ve Gözlüksüz Poz)",
+      "frontText": "2024 Paris Olimpiyatları'nda teçhizatsız, eli cebinde atış yaparak dünya fenomeni olan Jandarma astsubayımız kimdir?",
+      "backText": "Yusuf Dikeç (Şevval İlayda Tarhan ile Havalı Tabanca Gümüş Madalya)."
+    },
+    "quiz": {
+      "questionText": "2024 Paris Olimpiyatları'nda özel gözlük ve kulaklık takmadan, eli cebinde gümüş madalya kazanıp viral olan sporcumuz kimdir?",
+      "options": [
+        { "id": "o1", "text": "Yusuf Dikeç", "isCorrect": true },
+        { "id": "o2", "text": "İsmail Keleş", "isCorrect": false },
+        { "id": "o3", "text": "Ömer Akgün", "isCorrect": false },
+        { "id": "o4", "text": "Buğra Ünal", "isCorrect": false }
+      ],
+      "explanation": "Yusuf Dikeç rahat duruşu ve ekipmansız doğallığıyla 2024 Olimpiyatları'nın en büyük internet ikonu olmuştur."
+    }
+  },
+  {
+    "id": "sports_185",
+    "categoryId": "sports",
+    "card": {
+      "title": "Atletizm - Kimia Alizadeh / Taha / Mete Paris 2024",
+      "frontText": "2024 Paris Olimpiyatları'nda Türkiye toplam kaç madalya kazanmıştır?",
+      "backText": "8 Madalya (3 Gümüş, 5 Bronz)."
+    },
+    "quiz": {
+      "questionText": "2024 Paris Olimpiyat Oyunları'nda Türkiye Olimpiyat Takımı toplam kaç madalya elde etmiştir?",
+      "options": [
+        { "id": "o1", "text": "8 Madalya", "isCorrect": true },
+        { "id": "o2", "text": "13 Madalya", "isCorrect": false },
+        { "id": "o3", "text": "5 Madalya", "isCorrect": false },
+        { "id": "o4", "text": "10 Madalya", "isCorrect": false }
+      ],
+      "explanation": "Türkiye Paris 2024'ü 3 gümüş ve 5 bronz madalya ile tamamlamıştır."
+    }
+  },
+  {
+    "id": "sports_186",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Yüzyılın Kulübü",
+      "frontText": "FIFA tarafından '20. Yüzyılın En İyi Kulübü' seçilen takım hangisidir?",
+      "backText": "Real Madrid."
+    },
+    "quiz": {
+      "questionText": "FIFA tarafından resmi olarak '20. Yüzyılın En Başarılı Futbol Kulübü' (Club of the Century) ilan edilen takım hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Real Madrid", "isCorrect": true },
+        { "id": "o2", "text": "Manchester United", "isCorrect": false },
+        { "id": "o3", "text": "Bayern Münih", "isCorrect": false },
+        { "id": "o4", "text": "Santos", "isCorrect": false }
+      ],
+      "explanation": "Real Madrid 20. yüzyılda kazandığı 8 Şampiyon Kulüpler Kupası ve ulusal başarılarıyla bu unvanı almıştır."
+    }
+  },
+  {
+    "id": "sports_187",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Treble (Üçleme) Yapmak",
+      "frontText": "Bir sezonda Kendi Ligi, Kendi Kupası ve Şampiyonlar Ligi'ni kazanmaya ne denir?",
+      "backText": "Treble (Üçleme) başarmak (Örn: Manchester City 2023, Bayern 2020, Barca 2009/2015)."
+    },
+    "quiz": {
+      "questionText": "Aynı sezonda Ulusal Lig, Ulusal Kupa ve Şampiyonlar Ligi'ni birden kazanan takım ne yapmış sayılır?",
+      "options": [
+        { "id": "o1", "text": "Treble (Üç Kupa Zaferi)", "isCorrect": true },
+        { "id": "o2", "text": "Double-Double", "isCorrect": false },
+        { "id": "o3", "text": "Grand Slam", "isCorrect": false },
+        { "id": "o4", "text": "Süper Treble", "isCorrect": false }
+      ],
+      "explanation": "Treble yapmak bir futbol kulübünün bir sezonda ulaşabileceği en büyük başarı zirvesidir."
+    }
+  },
+  {
+    "id": "sports_188",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Pep Guardiola Sextuple (6 Kupa)",
+      "frontText": "2009 yılında Barcelona ile bir takvim yılında kazanılabilecek 6 kupanın tamamını alan hoca kimdir?",
+      "backText": "Pep Guardiola (Sextuple başaran ilk teknik direktör)."
+    },
+    "quiz": {
+      "questionText": "2009 yılında Barcelona'nın başında La Liga, Kral Kupası, Şampiyonlar Ligi, İspanya Süper Kupa, UEFA Süper Kupa ve Kulüpler Dünya Kupası'nı alan kimdir?",
+      "options": [
+        { "id": "o1", "text": "Pep Guardiola", "isCorrect": true },
+        { "id": "o2", "text": "Jose Mourinho", "isCorrect": false },
+        { "id": "o3", "text": "Carlo Ancelotti", "isCorrect": false },
+        { "id": "o4", "text": "Luis Enrique", "isCorrect": false }
+      ],
+      "explanation": "Guardiola ilk teknik direktörlük senesinde 6 kupanın 6'sını da alarak tarihe geçmiştir."
+    }
+  },
+  {
+    "id": "sports_189",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Jose Mourinho (The Special One)",
+      "frontText": "Kendisine 'The Special One' (Özel Biri) lakabını takan Portekizli efsane teknik adam kimdir?",
+      "backText": "José Mourinho."
+    },
+    "quiz": {
+      "questionText": "Porto ve Inter ile Şampiyonlar Ligi'ni kazanan, Chelsea toplantısında 'Ben özel biriyim' diyen teknik adam kimdir?",
+      "options": [
+        { "id": "o1", "text": "José Mourinho", "isCorrect": true },
+        { "id": "o2", "text": "Jorge Jesus", "isCorrect": false },
+        { "id": "o3", "text": "Vítor Pereira", "isCorrect": false },
+        { "id": "o4", "text": "André Villas-Boas", "isCorrect": false }
+      ],
+      "explanation": "Mourinho basın toplantısındaki 'Please don't call me arrogant, I'm European champion and I think I'm a special one' sözüyle anılır."
+    }
+  },
+  {
+    "id": "sports_190",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Carlo Ancelotti (Don Carlo)",
+      "frontText": "Teknik direktör olarak Şampiyonlar Ligi'ni en çok kazanan (5 kez) hoca kimdir?",
+      "backText": "Carlo Ancelotti (AC Milan ve Real Madrid ile)."
+    },
+    "quiz": {
+      "questionText": "Teknik adamlık kariyerinde tam 5 kez UEFA Şampiyonlar Ligi kupasını kaldıran rekor sahibi İtalyan kimdir?",
+      "options": [
+        { "id": "o1", "text": "Carlo Ancelotti", "isCorrect": true },
+        { "id": "o2", "text": "Zinedine Zidane", "isCorrect": false },
+        { "id": "o3", "text": "Bob Paisley", "isCorrect": false },
+        { "id": "o4", "text": "Pep Guardiola", "isCorrect": false }
+      ],
+      "explanation": "Ancelotti 2003 ve 2007'de Milan'la, 2014, 2022 ve 2024'te Real Madrid'le 5 kez Devler Ligi'ni almıştır."
+    }
+  },
+  {
+    "id": "sports_191",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Alex Ferguson ve Manchester United",
+      "frontText": "Manchester United'ı 26 yıl yönetip 38 kupa kazanan efsanevi İskoç menajer kimdir?",
+      "backText": "Sir Alex Ferguson."
+    },
+    "quiz": {
+      "questionText": "Old Trafford Stadyumu'nda bir tribüne adı verilen, Kraliçe tarafından 'Sir' unvanı alan unutulmaz teknik direktör kimdir?",
+      "options": [
+        { "id": "o1", "text": "Sir Alex Ferguson", "isCorrect": true },
+        { "id": "o2", "text": "Sir Bobby Robson", "isCorrect": false },
+        { "id": "o3", "text": "Matt Busby", "isCorrect": false },
+        { "id": "o4", "text": "Arsène Wenger", "isCorrect": false }
+      ],
+      "explanation": "Sir Alex Ferguson Manchester United'ı İngiliz ve dünya futbolunun en büyük markası yapmıştır."
+    }
+  },
+  {
+    "id": "sports_192",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Cantona ve Yaka Kaldırma",
+      "frontText": "Formasının yakasını dikleştirmesi ve taraftara kung-fu teจับ hamlesiyle tanınan Manchesterli kimdir?",
+      "backText": "Eric Cantona ('King Eric')."
+    },
+    "quiz": {
+      "questionText": "Manchester United'da 7 numarayı giyen, dik yakası ve karizmatik tavırlarıyla bilinen Fransız efsane kimdir?",
+      "options": [
+        { "id": "o1", "text": "Eric Cantona", "isCorrect": true },
+        { "id": "o2", "text": "David Beckham", "isCorrect": false },
+        { "id": "o3", "text": "George Best", "isCorrect": false },
+        { "id": "o4", "text": "Roy Keane", "isCorrect": false }
+      ],
+      "explanation": "Eric Cantona 90'larda Manchester United'ın efsanevi 7 numaralı 'Kral' lakaplı lideriydi."
+    }
+  },
+  {
+    "id": "sports_193",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - George Best",
+      "frontText": "'Parayı kadınlara, hızlı arabalara harcadım; gerisini boşa harcadım' diyen Kuzey İrlandalı deha kimdir?",
+      "backText": "George Best."
+    },
+    "quiz": {
+      "questionText": "Futbol yeteneği ve renkli bohem yaşam tarzıyla 'Beşinci Beatles' olarak anılan efsanevi kanat oyuncusu kimdir?",
+      "options": [
+        { "id": "o1", "text": "George Best", "isCorrect": true },
+        { "id": "o2", "text": "Denis Law", "isCorrect": false },
+        { "id": "o3", "text": "Kevin Keegan", "isCorrect": false },
+        { "id": "o4", "text": "Paul Gascoigne", "isCorrect": false }
+      ],
+      "explanation": "George Best, akıl almaz çalımları ve renkli yaşamıyla 1968'de Ballon d'Or kazanan bir futbol ikonudur."
+    }
+  },
+  {
+    "id": "sports_194",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Ronaldinho ve Gülümseyen Sanatçı",
+      "frontText": "Samba çalımları, dişlek gülüşü ve Bernabeu'da Real Madrid taraftarına kendisini alkışlatan Brezilyalı kimdir?",
+      "backText": "Ronaldinho (Ronaldinho Gaúcho)."
+    },
+    "quiz": {
+      "questionText": "El Clasico'da sergilediği şov sonrası ezeli rakip Real Madrid tribünlerince ayakta alkışlanan fantezi futbol ustası kimdir?",
+      "options": [
+        { "id": "o1", "text": "Ronaldinho", "isCorrect": true },
+        { "id": "o2", "text": "Ronaldo Nazário", "isCorrect": false },
+        { "id": "o3", "text": "Rivaldo", "isCorrect": false },
+        { "id": "o4", "text": "Robinho", "isCorrect": false }
+      ],
+      "explanation": "Ronaldinho, sahada eğlenerek oynadığı estetik futboluyla tüm sporseverlerin sevgisini kazanmıştır."
+    }
+  },
+  {
+    "id": "sports_195",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Fenomen Ronaldo (R9)",
+      "frontText": "'O Fenômeno' (Fenomen) lakaplı 2002 Dünya Kupası yıldızı Brezilyalı santrfor kimdir?",
+      "backText": "Ronaldo Nazário (Ronaldo Luís Nazário de Lima)."
+    },
+    "quiz": {
+      "questionText": "Inter, Barcelona, Real Madrid formaları giyen, patlayıcı hızı ve elastik çalımlarıyla 'El Fenomeno' adını alan golcü kimdir?",
+      "options": [
+        { "id": "o1", "text": "Ronaldo Nazário", "isCorrect": true },
+        { "id": "o2", "text": "Cristiano Ronaldo", "isCorrect": false },
+        { "id": "o3", "text": "Romário", "isCorrect": false },
+        { "id": "o4", "text": "Adriano", "isCorrect": false }
+      ],
+      "explanation": "R9 lakaplı Ronaldo Nazário geçirdiği ağır diz sakatlıklarına rağmen tarihin en yetenekli santrforudur."
+    }
+  },
+  {
+    "id": "sports_196",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Zlatan Ibrahimović",
+      "frontText": "'Zlatan gelmedi, Zlatan ayağınıza geldi' tarzı özgüvenli açıklamalarıyla bilinen İsveçli dev kimdir?",
+      "backText": "Zlatan Ibrahimović (Taekwondo geçmişli estetik rövaşata golleri atar)."
+    },
+    "quiz": {
+      "questionText": "İngiltere'ye 30 metreden attığı rövaşata golüyle Puskas ödülü alan ve kendine has özgüveniyle tanınan İsveçli kimdir?",
+      "options": [
+        { "id": "o1", "text": "Zlatan Ibrahimović", "isCorrect": true },
+        { "id": "o2", "text": "Henrik Larsson", "isCorrect": false },
+        { "id": "o3", "text": "Christian Eriksen", "isCorrect": false },
+        { "id": "o4", "text": "Erling Haaland", "isCorrect": false }
+      ],
+      "explanation": "Zlatan Ibrahimović Ajax, Juventus, Inter, Barca, Milan, PSG, Man Utd formaları giyip hepsinde kupalar kazanmıştır."
+    }
+  },
+  {
+    "id": "sports_197",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Erling Haaland (Gol Makinesi)",
+      "frontText": "Dortmund ve Man City'de maç başına 1 gol ortalamasıyla oynayan Norveçli 'Viking' kimdir?",
+      "backText": "Erling Haaland."
+    },
+    "quiz": {
+      "questionText": "Premier Lig'deki ilk sezonunda 36 gol atarak lig tarihinin bir sezondaki rekorunu kıran Norveçli santrfor kimdir?",
+      "options": [
+        { "id": "o1", "text": "Erling Haaland", "isCorrect": true },
+        { "id": "o2", "text": "Martin Ødegaard", "isCorrect": false },
+        { "id": "o3", "text": "Alexander Sørloth", "isCorrect": false },
+        { "id": "o4", "text": "Rasmus Højlund", "isCorrect": false }
+      ],
+      "explanation": "Erling Haaland fiziği, hızı ve bitiriciliğiyle modern futbolun en yıkıcı gol silahıdır."
+    }
+  },
+  {
+    "id": "sports_198",
+    "categoryId": "sports",
+    "card": {
+      "title": "Futbol - Kylian Mbappé",
+      "frontText": "2018 Dünya Kupası'nı 19 yaşında kazanan ve 2022 Finalinde hat-trick yapan Fransız süper yıldız kimdir?",
+      "backText": "Kylian Mbappé (Real Madrid)."
+    },
+    "quiz": {
+      "questionText": "2022 Dünya Kupası finalinde Arjantin'e karşı 3 gol atarak finalde hat-trick yapan tarihteki 2. oyuncu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Kylian Mbappé", "isCorrect": true },
+        { "id": "o2", "text": "Antoine Griezmann", "isCorrect": false },
+        { "id": "o3", "text": "Karim Benzema", "isCorrect": false },
+        { "id": "o4", "text": "Ousmane Dembélé", "isCorrect": false }
+      ],
+      "explanation": "Mbappé patlayıcı ivmelenmesi ve golcülüğü ile geleceğin Ballon d'Or adaylarının başında gelir."
+    }
+  },
+  {
+    "id": "sports_199",
+    "categoryId": "sports",
+    "card": {
+      "title": "Tenis - Carlos Alcaraz ve Yeni Nesil",
+      "frontText": "19 yaşında ATP 1 Numarası olan tarihteki en genç erkek tenisçi kimdir?",
+      "backText": "Carlos Alcaraz (İspanyol tenisçi)."
+    },
+    "quiz": {
+      "questionText": "Wimbledon ve Amerika Açık zaferleriyle 'Big 3' sonrası dönemin ilk dominatörü olan genç İspanyol raket kimdir?",
+      "options": [
+        { "id": "o1", "text": "Carlos Alcaraz", "isCorrect": true },
+        { "id": "o2", "text": "Jannik Sinner", "isCorrect": false },
+        { "id": "o3", "text": "Holger Rune", "isCorrect": false },
+        { "id": "o4", "text": "Stefanos Tsitsipas", "isCorrect": false }
+      ],
+      "explanation": "Carlos Alcaraz atletizmi, drop shot vuruşları ve gücüyle tenis dünyasının yeni yıldızıdır."
+    }
+  },
+  {
+    "id": "sports_200",
+    "categoryId": "sports",
+    "card": {
+      "title": "Tenis - Jannik Sinner",
+      "frontText": "2024 Avustralya Açık'ı kazanarak İtalya'ya yıllar sonra tekler Grand Slam'i getiren tenisçi kimdir?",
+      "backText": "Jannik Sinner."
+    },
+    "quiz": {
+      "questionText": "2024 yılı itibarıyla ATP Dünya sıralamasında 1 numaraya yükselen ilk İtalyan erkek tenisçi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Jannik Sinner", "isCorrect": true },
+        { "id": "o2", "text": "Matteo Berrettini", "isCorrect": false },
+        { "id": "o3", "text": "Lorenzo Musetti", "isCorrect": false },
+        { "id": "o4", "text": "Fabio Fognini", "isCorrect": false }
+      ],
+      "explanation": "Jannik Sinner kort arkasındaki güçlü baseline vuruşlarıyla İtalyan tenis tarihinin en tepe noktasına çıkmıştır."
+    }
+  }
+]

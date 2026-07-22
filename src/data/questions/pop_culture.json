@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "pop_1",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema Tarihi - Yüzüklerin Efendisi",
+      "frontText": "Yüzüklerin Efendisi serisinde Tek Yüzük'ün yok edildiği yer neresidir?",
+      "backText": "Hüküm Dağı (Mount Doom / Orodruin)."
+    },
+    "quiz": {
+      "questionText": "Yüzüklerin Efendisi serisinde 'Tek Yüzük' hangi dağın lavlarına atılarak yok edilmiştir?",
+      "options": [
+        { "id": "o1", "text": "Erebor Dağı", "isCorrect": false },
+        { "id": "o2", "text": "Hüküm Dağı (Mount Doom)", "isCorrect": true },
+        { "id": "o3", "text": "Sisli Dağlar", "isCorrect": false },
+        { "id": "o4", "text": "Gundabad Dağı", "isCorrect": false }
+      ],
+      "explanation": "Tek Yüzük sadece dövüldüğü yer olan Mordor'daki Hüküm Dağı'nın lavlarında yok edilebilir."
+    }
+  },
+  {
+    "id": "pop_2",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema Tarihi - Star Wars",
+      "frontText": "Star Wars serisinde 'Güç Seninle Olsun' repliğinin İngilizce aslı nedir?",
+      "backText": "'May the Force be with you.' (Ayrıca 4 Mayıs 'Star Wars Günü' olarak kutlanır)."
+    },
+    "quiz": {
+      "questionText": "Star Wars evreninde Jedi'ların birbirine dilek dilerken kullandığı efsanevi slogan hangisidir?",
+      "options": [
+        { "id": "o1", "text": "May the Force be with you", "isCorrect": true },
+        { "id": "o2", "text": "Live long and prosper", "isCorrect": false },
+        { "id": "o3", "text": "To infinity and beyond", "isCorrect": false },
+        { "id": "o4", "text": "Winter is coming", "isCorrect": false }
+      ],
+      "explanation": "'May the Force be with you' cümlesindeki kelime oyunu (May the 4th) nedeniyle 4 Mayıs Star Wars günüdür."
+    }
+  },
+  {
+    "id": "pop_3",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Edebiyat / Sinema - Harry Potter",
+      "frontText": "Harry Potter serisinde Lord Voldemort'un gerçek adı nedir?",
+      "backText": "Tom Marvolo Riddle (Tom Marvolo Riddle harflerinin yeri değiştirilerek 'I am Lord Voldemort' elde edilir)."
+    },
+    "quiz": {
+      "questionText": "Harry Potter evrenindeki ana kötü Lord Voldemort'un Hogwarts yıllarındaki gerçek adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Tom Marvolo Riddle", "isCorrect": true },
+        { "id": "o2", "text": "Gellert Grindelwald", "isCorrect": false },
+        { "id": "o3", "text": "Severus Snape", "isCorrect": false },
+        { "id": "o4", "text": "Lucius Malfoy", "isCorrect": false }
+      ],
+      "explanation": "Voldemort, muggle babasından gelen 'Tom Riddle' ismini reddedip anagram ile Lord Voldemort adını oluşturmuştur."
+    }
+  },
+  {
+    "id": "pop_4",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon Dizileri - Game of Thrones",
+      "frontText": "Game of Thrones dizisinde Stark Hanesi'nin efsanevi sloganı nedir?",
+      "backText": "'Winter is Coming' (Kış Geliyor)."
+    },
+    "quiz": {
+      "questionText": "Game of Thrones dizisinde Kuzey'i yöneten Stark Hanesi'nin resmi sözü hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Winter is Coming", "isCorrect": true },
+        { "id": "o2", "text": "Hear Me Roar", "isCorrect": false },
+        { "id": "o3", "text": "Fire and Blood", "isCorrect": false },
+        { "id": "o4", "text": "Growing Strong", "isCorrect": false }
+      ],
+      "explanation": "Starklar diğer hanelerin aksine övünç mesajı değil, yaklaşan tehlikeyi hatırlatan 'Winter is Coming' sözünü kullanır."
+    }
+  },
+  {
+    "id": "pop_5",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Marvel Sinematik Evreni",
+      "frontText": "Marvel evreninde Yenilmezler (Avengers) ekibini ilk kuran SHIELD yöneticisi kimdir?",
+      "backText": "Nick Fury (Samuel L. Jackson tarafından canlandırılmıştır)."
+    },
+    "quiz": {
+      "questionText": "Marvel Sinematik Evreni'nde 'Avengers Girişimi' fikrini ortaya atan S.H.I.E.L.D. direktörü kimdir?",
+      "options": [
+        { "id": "o1", "text": "Nick Fury", "isCorrect": true },
+        { "id": "o2", "text": "Phil Coulson", "isCorrect": false },
+        { "id": "o3", "text": "Alexander Pierce", "isCorrect": false },
+        { "id": "o4", "text": "Maria Hill", "isCorrect": false }
+      ],
+      "explanation": "Nick Fury, dünyayı olağanüstü tehditlerden korumak için süper kahramanları bir araya getiren ilk kişidir."
+    }
+  },
+  {
+    "id": "pop_6",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Çizgi Roman - Batman",
+      "frontText": "Batman'in koruduğu hayali kentin adı nedir?",
+      "backText": "Gotham Şehri (Gotham City)."
+    },
+    "quiz": {
+      "questionText": "DC Comics evreninde Batman'in suçla mücadele ettiği kurgusal şehir hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Gotham City", "isCorrect": true },
+        { "id": "o2", "text": "Metropolis", "isCorrect": false },
+        { "id": "o3", "text": "Star City", "isCorrect": false },
+        { "id": "o4", "text": "Central City", "isCorrect": false }
+      ],
+      "explanation": "Batman, karanlık ve kasvetli atmosferiyle bilinen Gotham Şehri'nin koruyucusudur."
+    }
+  },
+  {
+    "id": "pop_7",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Çizgi Roman - Superman",
+      "frontText": "Superman'in güçlerini tamamen yok eden yeşil minerale ne denir?",
+      "backText": "Kriptonit (Kryptonite - Doğduğu Kripton gezegeninin kalıntısıdır)."
+    },
+    "quiz": {
+      "questionText": "Superman'i zayıflatan ve radyasyonuna maruz kaldığında güçlerini elinden alan madde hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Kriptonit", "isCorrect": true },
+        { "id": "o2", "text": "Vibranyum", "isCorrect": false },
+        { "id": "o3", "text": "Adamantiyum", "isCorrect": false },
+        { "id": "o4", "text": "Unobtainium", "isCorrect": false }
+      ],
+      "explanation": "Kriptonit, yok olan Kripton gezegeninden kalan ve Superman'in en büyük zaafı olan radyoaktif mineraldir."
+    }
+  },
+  {
+    "id": "pop_8",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Mario",
+      "frontText": "Nintendo'nun simgesi Mario'nun mesleği nedir ve kimi kurtarmaya çalışır?",
+      "backText": "Tesisatçıdır ve Prenses Peach'i Bowser'dan kurtarmaya çalışır."
+    },
+    "quiz": {
+      "questionText": "Nintendo efsanesi Mario oyunlarında ana karakterin kurtarmaya çalıştığı prensesin adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Prenses Peach", "isCorrect": true },
+        { "id": "o2", "text": "Prenses Zelda", "isCorrect": false },
+        { "id": "o3", "text": "Prenses Daisy", "isCorrect": false },
+        { "id": "o4", "text": "Prenses Rosalina", "isCorrect": false }
+      ],
+      "explanation": "Mario her oyunda Bowser tarafından kaçırılan Mantar Krallığı prensesi Peach'i kurtarır."
+    }
+  },
+  {
+    "id": "pop_9",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Pokémon",
+      "frontText": "Pokémon serisinin maskotu olan elektrik tipli sarı sevimli yaratık hangisidir?",
+      "backText": "Pikachu."
+    },
+    "quiz": {
+      "questionText": "Ash Ketchum'ın ilk ve en yakın dostu olan 025 numaralı elektrikli Pokémon hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Pikachu", "isCorrect": true },
+        { "id": "o2", "text": "Charmander", "isCorrect": false },
+        { "id": "o3", "text": "Squirtle", "isCorrect": false },
+        { "id": "o4", "text": "Bulbasaur", "isCorrect": false }
+      ],
+      "explanation": "Pikachu, hem çizgi dizinin hem de küresel oyun markasının dünyaca ünlü maskotudur."
+    }
+  },
+  {
+    "id": "pop_10",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon Dizileri - Breaking Bad",
+      "frontText": "Breaking Bad dizisinde Walter White'ın suç dünyasında kullandığı takma adı nedir?",
+      "backText": "Heisenberg (Ünlü Alman fizikçi Werner Heisenberg'e atıftır)."
+    },
+    "quiz": {
+      "questionText": "Breaking Bad dizisinde kimya öğretmeni Walter White'ın uyuşturucu baronu olarak kullandığı takma ad nedir?",
+      "options": [
+        { "id": "o1", "text": "Heisenberg", "isCorrect": true },
+        { "id": "o2", "text": "Saul Goodman", "isCorrect": false },
+        { "id": "o3", "text": "Gus Fring", "isCorrect": false },
+        { "id": "o4", "text": "Cap'n Cook", "isCorrect": false }
+      ],
+      "explanation": "Walter White, karanlık işlerini yürütürken kimliğini gizlemek için 'Heisenberg' adını seçmiştir."
+    }
+  },
+  {
+    "id": "pop_11",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon Dizileri - Friends",
+      "frontText": "Friends dizisindeki ünlü kahve dükkanının adı nedir?",
+      "backText": "Central Perk."
+    },
+    "quiz": {
+      "questionText": "Friends dizisi karakterlerinin sürekli vakit geçirdiği kurgusal kafe hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Central Perk", "isCorrect": true },
+        { "id": "o2", "text": "Monk's Diner", "isCorrect": false },
+        { "id": "o3", "text": "Luke's Diner", "isCorrect": false },
+        { "id": "o4", "text": "MacLaren's Pub", "isCorrect": false }
+      ],
+      "explanation": "Central Perk, turuncu koltuğu ve Gunther karakteriyle efsaneleşmiş sitcom mekanıdır."
+    }
+  },
+  {
+    "id": "pop_12",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Matrix",
+      "frontText": "Matrix filminde Neo'ya gerçek dünyayı gösteren kırmızı hapı sunan karakter kimdir?",
+      "backText": "Morpheus (Laurence Fishburne)."
+    },
+    "quiz": {
+      "questionText": "Matrix filminde Neo'ya Mavi Hap ve Kırmızı Hap arasında seçim yaptıran lider kimdir?",
+      "options": [
+        { "id": "o1", "text": "Morpheus", "isCorrect": true },
+        { "id": "o2", "text": "Ajan Smith", "isCorrect": false },
+        { "id": "o3", "text": "Cypher", "isCorrect": false },
+        { "id": "o4", "text": "Oracle", "isCorrect": false }
+      ],
+      "explanation": "Morpheus, Nebuchadnezzar gemisinin kaptanı olup 'Seçilmiş Kişi'ye inanan liderdir."
+    }
+  },
+  {
+    "id": "pop_13",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Titanik",
+      "frontText": "Titanik filminde Jack ve Rose karakterlerini canlandıran oyuncular kimlerdir?",
+      "backText": "Leonardo DiCaprio ve Kate Winslet."
+    },
+    "quiz": {
+      "questionText": "1997 yapımı Titanic filminde Jack Dawson rolünü oynayan dünyaca ünlü aktör kimdir?",
+      "options": [
+        { "id": "o1", "text": "Leonardo DiCaprio", "isCorrect": true },
+        { "id": "o2", "text": "Brad Pitt", "isCorrect": false },
+        { "id": "o3", "text": "Tom Cruise", "isCorrect": false },
+        { "id": "o4", "text": "Johnny Depp", "isCorrect": false }
+      ],
+      "explanation": "Leonardo DiCaprio ve Kate Winslet, James Cameron'ın rekorlar kıran Titanic filminde başrolü paylaşmıştır."
+    }
+  },
+  {
+    "id": "pop_14",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Geleceğe Dönüş",
+      "frontText": "Geleceğe Dönüş (Back to the Future) filmindeki zaman makinesine dönüştürülen araba modeli nedir?",
+      "backText": "DeLorean DMC-12."
+    },
+    "quiz": {
+      "questionText": "Dr. Emmett Brown'ın Geleceğe Dönüş filminde zaman makinesi yapmak için kullandığı ikonik araç hangisidir?",
+      "options": [
+        { "id": "o1", "text": "DeLorean DMC-12", "isCorrect": true },
+        { "id": "o2", "text": "Ford Mustang", "isCorrect": false },
+        { "id": "o3", "text": "Chevrolet Impala", "isCorrect": false },
+        { "id": "o4", "text": "Dodge Charger", "isCorrect": false }
+      ],
+      "explanation": "Marty McFly ve Doc Brown, 88 mil hıza ulaştığında zaman yolculuğu yapan DeLorean ile seyahat eder."
+    }
+  },
+  {
+    "id": "pop_15",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Anime - Dragon Ball",
+      "frontText": "Dragon Ball animesinin ana kahramanı olan Saiyan savaşçısı kimdir?",
+      "backText": "Goku (Son Goku)."
+    },
+    "quiz": {
+      "questionText": "Kamehameha dalgası saldırısıyla tanınan efsanevi Dragon Ball karakteri kimdir?",
+      "options": [
+        { "id": "o1", "text": "Goku", "isCorrect": true },
+        { "id": "o2", "text": "Vegeta", "isCorrect": false },
+        { "id": "o3", "text": "Gohan", "isCorrect": false },
+        { "id": "o4", "text": "Piccolo", "isCorrect": false }
+      ],
+      "explanation": "Akira Toriyama'nın yarattığı Goku, anime dünyasının en bilinen dövüşçü figürlerindendir."
+    }
+  },
+  {
+    "id": "pop_16",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Anime - Naruto",
+      "frontText": "Naruto Uzumaki'nin hayali nedir?",
+      "backText": "Hokage olmak (Köyün lideri ve en güçlü koruyucusu)."
+    },
+    "quiz": {
+      "questionText": "Naruto'nun Gizli Yaprak Köyü'nde ulaşmak istediği unvan / makam nedir?",
+      "options": [
+        { "id": "o1", "text": "Hokage", "isCorrect": true },
+        { "id": "o2", "text": "Kazekage", "isCorrect": false },
+        { "id": "o3", "text": "Mizukage", "isCorrect": false },
+        { "id": "o4", "text": "Raikage", "isCorrect": false }
+      ],
+      "explanation": "Naruto herkes tarafından tanınmak ve saygı görmek için Hokage olmayı hedeflemiştir."
+    }
+  },
+  {
+    "id": "pop_17",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Anime - One Piece",
+      "frontText": "One Piece animesinde Monkey D. Luffy'nin hayali nedir?",
+      "backText": "Korsanlar Kralı olmak ve One Piece hazinesini bulmak."
+    },
+    "quiz": {
+      "questionText": "Hasır Şapka Korsanları'nın kaptanı Luffy'nin en büyük amacı nedir?",
+      "options": [
+        { "id": "o1", "text": "Korsanlar Kralı Olmak", "isCorrect": true },
+        { "id": "o2", "text": "Dünya Hükümetini Yıkmak", "isCorrect": false },
+        { "id": "o3", "text": "En Zengin Tüccar Olmak", "isCorrect": false },
+        { "id": "o4", "text": "Amiral Olmak", "isCorrect": false }
+      ],
+      "explanation": "Luffy, Gol D. Roger'ın bıraktığı efsanevi hazineyi bularak Korsanlar Kralı olmayı amaçlar."
+    }
+  },
+  {
+    "id": "pop_18",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Minecraft",
+      "frontText": "Minecraft'ın yaratıcısı kimdir?",
+      "backText": "Markus Persson (Notch)."
+    },
+    "quiz": {
+      "questionText": "Tüm zamanların en çok satan oyunu Minecraft'ı geliştiren ve 'Notch' takma adıyla tanınan yazılımcı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Markus Persson", "isCorrect": true },
+        { "id": "o2", "text": "Gabe Newell", "isCorrect": false },
+        { "id": "o3", "text": "Hideo Kojima", "isCorrect": false },
+        { "id": "o4", "text": "Shigeru Miyamoto", "isCorrect": false }
+      ],
+      "explanation": "Markus Persson (Notch), Mojang firmasını kurup Minecraft'ı küresel bir fenomene dönüştürmüştür."
+    }
+  },
+  {
+    "id": "pop_19",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Grand Theft Auto (GTA)",
+      "frontText": "GTA San Andreas oyununun efsanevi ana karakteri kimdir?",
+      "backText": "Carl Johnson (CJ)."
+    },
+    "quiz": {
+      "questionText": "Los Santos sokaklarına geri dönen ve Grove Street çetesini yöneten GTA San Andreas ana karakteri kimdir?",
+      "options": [
+        { "id": "o1", "text": "Carl Johnson (CJ)", "isCorrect": true },
+        { "id": "o2", "text": "Tommy Vercetti", "isCorrect": false },
+        { "id": "o3", "text": "Niko Bellic", "isCorrect": false },
+        { "id": "o4", "text": "Trevor Philips", "isCorrect": false }
+      ],
+      "explanation": "CJ, annesinin vefatı üzerine Los Santos'a dönen unutulmaz oyun kahramanıdır."
+    }
+  },
+  {
+    "id": "pop_20",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - The Witcher",
+      "frontText": "The Witcher evrenindeki ana karakter 'Rivialı Geralt'ın unvanı/lakabı nedir?",
+      "backText": "Aç Kurt (White Wolf - Gwynbleidd)."
+    },
+    "quiz": {
+      "questionText": "Mutasyona uğramış canavar avcısı Rivialı Geralt'ın bilinen unvanı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Gwynbleidd / Ak Kurt", "isCorrect": true },
+        { "id": "o2", "text": "Ejderha Doğan", "isCorrect": false },
+        { "id": "o3", "text": "Karanlık Şövalye", "isCorrect": false },
+        { "id": "o4", "text": "Gölge Avcısı", "isCorrect": false }
+      ],
+      "explanation": "Geralt, beyaz saçları ve kurt madalyonu nedeniyle 'Ak Kurt' (White Wolf) olarak anılır."
+    }
+  },
+  {
+    "id": "pop_21",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Müzik - Popun Kralı",
+      "frontText": "'Popun Kralı' (King of Pop) unvanına sahip efsanevi müzisyen kimdir?",
+      "backText": "Michael Jackson."
+    },
+    "quiz": {
+      "questionText": "'Thriller', 'Billie Jean' ve 'Smooth Criminal' gibi hits parçaların sahibi Popun Kralı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Michael Jackson", "isCorrect": true },
+        { "id": "o2", "text": "Elvis Presley", "isCorrect": false },
+        { "id": "o3", "text": "Prince", "isCorrect": false },
+        { "id": "o4", "text": "George Michael", "isCorrect": false }
+      ],
+      "explanation": "Michael Jackson 'Moonwalk' dansı ve albüm satış rekorlarıyla Popun Kralı unvanını kazanmıştır."
+    }
+  },
+  {
+    "id": "pop_22",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Müzik - Rock n Roll'un Kralı",
+      "frontText": "'Rock n Roll'un Kralı' olarak anılan Amerikalı şarkıcı kimdir?",
+      "backText": "Elvis Presley."
+    },
+    "quiz": {
+      "questionText": "'Jailhouse Rock' ve 'Love Me Tender' şarkılarıyla tanınan Rock n Roll kralı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Elvis Presley", "isCorrect": true },
+        { "id": "o2", "text": "John Lennon", "isCorrect": false },
+        { "id": "o3", "text": "Freddie Mercury", "isCorrect": false },
+        { "id": "o4", "text": "Chuck Berry", "isCorrect": false }
+      ],
+      "explanation": "Elvis Presley, 20. yüzyıl müzik ve sahne kültürünü değiştiren Rock n Roll ikonudur."
+    }
+  },
+  {
+    "id": "pop_23",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Müzik - Queen ve Freddie Mercury",
+      "frontText": "Queen grubunun efsanevi solisti kimdir?",
+      "backText": "Freddie Mercury."
+    },
+    "quiz": {
+      "questionText": "'Bohemian Rhapsody' ve 'We Are the Champions' şarkılarını seslendiren Queen vokali kimdir?",
+      "options": [
+        { "id": "o1", "text": "Freddie Mercury", "isCorrect": true },
+        { "id": "o2", "text": "David Bowie", "isCorrect": false },
+        { "id": "o3", "text": "Robert Plant", "isCorrect": false },
+        { "id": "o4", "text": "Mick Jagger", "isCorrect": false }
+      ],
+      "explanation": "Freddie Mercury benzersiz 4 oktavlık sesi ve sahne karizmasıyla efsaneleşmiştir."
+    }
+  },
+  {
+    "id": "pop_24",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Müzik - The Beatles",
+      "frontText": "İngiltere Liverpool'da kurulan ve müzik tarihini değiştiren grup hangisidir?",
+      "backText": "The Beatles (John Lennon, Paul McCartney, George Harrison, Ringo Starr)."
+    },
+    "quiz": {
+      "questionText": "Abbey Road albüm kapağındaki yaya geçidi fotoğrafıyla ölümsüzleşen efsanevi İngiliz müzik grubu hangisidir?",
+      "options": [
+        { "id": "o1", "text": "The Beatles", "isCorrect": true },
+        { "id": "o2", "text": "The Rolling Stones", "isCorrect": false },
+        { "id": "o3", "text": "Pink Floyd", "isCorrect": false },
+        { "id": "o4", "text": "Led Zeppelin", "isCorrect": false }
+      ],
+      "explanation": "The Beatles, 1960'larda pop ve rock müziğin küreselleşmesini sağlayan en büyük gruptur."
+    }
+  },
+  {
+    "id": "pop_25",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Karayip Korsanları",
+      "frontText": "Karayip Korsanları serisinde 'Kaptan Jack Sparrow' rolünü oynayan kimdir?",
+      "backText": "Johnny Depp."
+    },
+    "quiz": {
+      "questionText": "Siyah İnci'nin kaptanı Jack Sparrow karakteriyle bütünleşen ünlü oyuncu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Johnny Depp", "isCorrect": true },
+        { "id": "o2", "text": "Orlando Bloom", "isCorrect": false },
+        { "id": "o3", "text": "Geoffrey Rush", "isCorrect": false },
+        { "id": "o4", "text": "Javier Bardem", "isCorrect": false }
+      ],
+      "explanation": "Johnny Depp sıra dışı oyunculuk performansıyla Jack Sparrow karakterini unutulmaz yapmıştır."
+    }
+  },
+  {
+    "id": "pop_26",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Harry Potter Binaları",
+      "frontText": "Hogwarts Şatosu'ndaki 4 bina hangileridir?",
+      "backText": "Gryffindor, Slytherin, Ravenclaw, Hufflepuff."
+    },
+    "quiz": {
+      "questionText": "Cesaret ve yiğitliği temsil eden, simgesi Aslan olan Hogwarts binası hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Gryffindor", "isCorrect": true },
+        { "id": "o2", "text": "Slytherin", "isCorrect": false },
+        { "id": "o3", "text": "Ravenclaw", "isCorrect": false },
+        { "id": "o4", "text": "Hufflepuff", "isCorrect": false }
+      ],
+      "explanation": "Gryffindor binasının kurucusu Godric Gryffindor'dur ve simgesi cesur aslandır."
+    }
+  },
+  {
+    "id": "pop_27",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Forrest Gump",
+      "frontText": "'Hayat bir kutu çikolata gibidir' repliğiyle ünlü Forrest Gump filminin başrolü kimdir?",
+      "backText": "Tom Hanks."
+    },
+    "quiz": {
+      "questionText": "Forrest Gump rolüyle en iyi erkek oyuncu Oscar'ını kazanan usta aktör kimdir?",
+      "options": [
+        { "id": "o1", "text": "Tom Hanks", "isCorrect": true },
+        { "id": "o2", "text": "Robin Williams", "isCorrect": false },
+        { "id": "o3", "text": "Jim Carrey", "isCorrect": false },
+        { "id": "o4", "text": "John Travolta", "isCorrect": false }
+      ],
+      "explanation": "Tom Hanks, IQ seviyesi düşük ama kalbi büyük Forrest Gump karakterini mükemmel canlandırmıştır."
+    }
+  },
+  {
+    "id": "pop_28",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon Dizileri - How I Met Your Mother",
+      "frontText": "HIMYM dizisinde 'Legen-wait for it-dary' sözüyle meşhur çapkın karakter kimdir?",
+      "backText": "Barney Stinson (Neil Patrick Harris)."
+    },
+    "quiz": {
+      "questionText": "How I Met Your Mother dizisinde takım elbise giyme takıntısı olan Barney Stinson'ı canlandıran kimdir?",
+      "options": [
+        { "id": "o1", "text": "Neil Patrick Harris", "isCorrect": true },
+        { "id": "o2", "text": "Josh Radnor", "isCorrect": false },
+        { "id": "o3", "text": "Jason Segel", "isCorrect": false },
+        { "id": "o4", "text": "Paul Rudd", "isCorrect": false }
+      ],
+      "explanation": "Neil Patrick Harris, 'Suit Up!' ve 'Legendary' sözleriyle tanınan Barney Stinson'a hayat vermiştir."
+    }
+  },
+  {
+    "id": "pop_29",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon Dizileri - Sherlock",
+      "frontText": "BBC yapımı Sherlock dizisinde Sherlock Holmes karakterini oynayan aktör kimdir?",
+      "backText": "Benedict Cumberbatch."
+    },
+    "quiz": {
+      "questionText": "Modern Londra'da geçen BBC Sherlock dizisinde dahi dedektifi canlandıran usta aktör kimdir?",
+      "options": [
+        { "id": "o1", "text": "Benedict Cumberbatch", "isCorrect": true },
+        { "id": "o2", "text": "Robert Downey Jr.", "isCorrect": false },
+        { "id": "o3", "text": "Martin Freeman", "isCorrect": false },
+        { "id": "o4", "text": "Tom Hiddleston", "isCorrect": false }
+      ],
+      "explanation": "Benedict Cumberbatch hızlı konuşması ve üstün gözlem yetenekli Sherlock rolüyle küresel ün kazanmıştır."
+    }
+  },
+  {
+    "id": "pop_30",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Baba (The Godfather)",
+      "frontText": "'Baba' (The Godfather) filminde Don Vito Corleone rolünü canlandıran efsane oyuncu kimdir?",
+      "backText": "Marlon Brando."
+    },
+    "quiz": {
+      "questionText": "'Reddedemeyeceği bir teklif yapacağım' repliğiyle bilinen Vito Corleone kim tarafından canlandırılmıştır?",
+      "options": [
+        { "id": "o1", "text": "Marlon Brando", "isCorrect": true },
+        { "id": "o2", "text": "Al Pacino", "isCorrect": false },
+        { "id": "o3", "text": "Robert De Niro", "isCorrect": false },
+        { "id": "o4", "text": "Joe Pesci", "isCorrect": false }
+      ],
+      "explanation": "Marlon Brando 1972 yapımı The Godfather filmindeki performansıyla En İyi Erkek Oyuncu Oscar'ını almıştır."
+    }
+  },
+  {
+    "id": "pop_31",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Çizgi Roman - Spider-Man",
+      "frontText": "Spider-Man'e gücünü ve sorumluluğunu öğreten efsanevi amcası kimdir?",
+      "backText": "Ben Amca (Uncle Ben - 'Büyük güç büyük sorumluluk getirir')."
+    },
+    "quiz": {
+      "questionText": "'Büyük güç, büyük sorumluluk getirir' öğüdünü Peter Parker'a veren karakter kimdir?",
+      "options": [
+        { "id": "o1", "text": "Ben Amca (Ben Parker)", "isCorrect": true },
+        { "id": "o2", "text": "J. Jonah Jameson", "isCorrect": false },
+        { "id": "o3", "text": "Tony Stark", "isCorrect": false },
+        { "id": "o4", "text": "Norman Osborn", "isCorrect": false }
+      ],
+      "explanation": "Ben Amca'nın trajik ölümü, Peter Parker'ın suçla mücadele eden Örümcek Adam olmasının ana sebebidir."
+    }
+  },
+  {
+    "id": "pop_32",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Çizgi Roman - Iron Man",
+      "frontText": "Iron Man zırhının içerisindeki milyarder mucit kimdir?",
+      "backText": "Tony Stark."
+    },
+    "quiz": {
+      "questionText": "Marvel dünyasında 'Dahi, milyarder, hovarda, hayırsever' olarak kendisini tanımlayan süper kahraman kimdir?",
+      "options": [
+        { "id": "o1", "text": "Tony Stark (Iron Man)", "isCorrect": true },
+        { "id": "o2", "text": "Bruce Wayne (Batman)", "isCorrect": false },
+        { "id": "o3", "text": "Reed Richards", "isCorrect": false },
+        { "id": "o4", "text": "Steve Rogers", "isCorrect": false }
+      ],
+      "explanation": "Stark Endüstrileri'nin dahi sahibi Tony Stark zırhıyla dünyayı koruyan Iron Man'dir."
+    }
+  },
+  {
+    "id": "pop_33",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Dövüş Kulübü (Fight Club)",
+      "frontText": "Dövüş Kulübü'nün 1. Kuralı nedir?",
+      "backText": "Dövüş Kulübü hakkında konuşmamaktır (You do not talk about Fight Club)."
+    },
+    "quiz": {
+      "questionText": "Chuck Palahniuk eserinden uyarlanan Fight Club filminde kulübün 1. ve 2. kuralı nedir?",
+      "options": [
+        { "id": "o1", "text": "Dövüş Kulübü hakkında konuşmamak", "isCorrect": true },
+        { "id": "o2", "text": "Her zaman bir kask takmak", "isCorrect": false },
+        { "id": "o3", "text": "Asla pes etmemek", "isCorrect": false },
+        { "id": "o4", "text": "Sadece salı günleri dövüşmek", "isCorrect": false }
+      ],
+      "explanation": "Tyler Durden'ın ilk iki kuralı kesin bir dille Dövüş Kulübü hakkında konuşulmamasını emreder."
+    }
+  },
+  {
+    "id": "pop_34",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - God of War",
+      "frontText": "God of War serisinde Yunan ve İskandinav tanrılarıyla savaşan ana karakter kimdir?",
+      "backText": "Kratos (Spartalı Savaşçı)."
+    },
+    "quiz": {
+      "questionText": "'Sparta'nın Hayaleti' olarak bilinen ve Kaos Bıçakları ile tanınan oyun kahramanı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Kratos", "isCorrect": true },
+        { "id": "o2", "text": "Atreus", "isCorrect": false },
+        { "id": "o3", "text": "Ares", "isCorrect": false },
+        { "id": "o4", "text": "Zeus", "isCorrect": false }
+      ],
+      "explanation": "Kratos, ailesinin intikamını almak için Olimpos tanrılarını ve ardından İskandinav panteonunu dize getiren karakterdir."
+    }
+  },
+  {
+    "id": "pop_35",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Tomb Raider",
+      "frontText": "Tomb Raider oyun serisinin maceraperest kadın arkeolog kahramanı kimdir?",
+      "backText": "Lara Croft."
+    },
+    "quiz": {
+      "questionText": "Çift tabancası ve antik kalıntı macerasıyla tanınan kadın oyun ikonu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Lara Croft", "isCorrect": true },
+        { "id": "o2", "text": "Jill Valentine", "isCorrect": false },
+        { "id": "o3", "text": "Ada Wong", "isCorrect": false },
+        { "id": "o4", "text": "Ellie", "isCorrect": false }
+      ],
+      "explanation": "Lara Croft, 1996'dan beri oyun dünyasının en ikonik kadın kahramanlarından biridir."
+    }
+  },
+  {
+    "id": "pop_36",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon - The Office",
+      "frontText": "The Office (US) dizisindeki kurgusal kağıt şirketinin adı nedir?",
+      "backText": "Dunder Mifflin (Scranton şubesi)."
+    },
+    "quiz": {
+      "questionText": "Michael Scott'ın müdürlük yaptığı The Office dizisindeki kağıt şirketinin adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Dunder Mifflin", "isCorrect": true },
+        { "id": "o2", "text": "Initech", "isCorrect": false },
+        { "id": "o3", "text": "Sabre", "isCorrect": false },
+        { "id": "o4", "text": "Sterling Cooper", "isCorrect": false }
+      ],
+      "explanation": "Dunder Mifflin Paper Company, dizinin geçtiği mizahi ofis ortamının merkezidir."
+    }
+  },
+  {
+    "id": "pop_37",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon - Stranger Things",
+      "frontText": "Stranger Things dizisinde çocukların paralel evrene verdikleri isim nedir?",
+      "backText": "The Upside Down (Alt Üst Evren)."
+    },
+    "quiz": {
+      "questionText": "Hawkins kasabasının altında yatan ve canavarların yaşadığı karanlık paralel boyut hangisidir?",
+      "options": [
+        { "id": "o1", "text": "The Upside Down", "isCorrect": true },
+        { "id": "o2", "text": "Nether", "isCorrect": false },
+        { "id": "o3", "text": "The End", "isCorrect": false },
+        { "id": "o4", "text": "Outworld", "isCorrect": false }
+      ],
+      "explanation": "Eleven ve arkadaşları, Dungeons & Dragons oyunundan esinlenerek bu boyuta 'Upside Down' demişlerdir."
+    }
+  },
+  {
+    "id": "pop_38",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Yıldızlararası (Interstellar)",
+      "frontText": "Interstellar filmindeki kara deliğin adı nedir?",
+      "backText": "Gargantua."
+    },
+    "quiz": {
+      "questionText": "Christopher Nolan'ın Interstellar filminde astronotların etrafında döndüğü devasa kara delik hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Gargantua", "isCorrect": true },
+        { "id": "o2", "text": "Miller", "isCorrect": false },
+        { "id": "o3", "text": "Endurance", "isCorrect": false },
+        { "id": "o4", "text": "TARS", "isCorrect": false }
+      ],
+      "explanation": "Gargantua, gerçek fizik simülasyonlarıyla tasarlanmış görsel şölen sunan dev bir kara deliktir."
+    }
+  },
+  {
+    "id": "pop_39",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Başlangıç (Inception)",
+      "frontText": "Inception filminde rüyada olup olmadığını anlamak için kullanılan nesnelere ne denir?",
+      "backText": "Totem (Cobb'un totemi dönen topaçtır)."
+    },
+    "quiz": {
+      "questionText": "Inception filminde Dom Cobb'un (Leonardo DiCaprio) gerçeklik kontrolü yaptığı totem nesnesi nedir?",
+      "options": [
+        { "id": "o1", "text": "Topaç", "isCorrect": true },
+        { "id": "o2", "text": "Zar", "isCorrect": false },
+        { "id": "o3", "text": "Satranç Taş", "isCorrect": false },
+        { "id": "o4", "text": "Madeni Para", "isCorrect": false }
+      ],
+      "explanation": "Eğer topaç rüyada durmaksızın dönüyorsa kişi rüyadadır, devrilirse gerçek dünyadadır."
+    }
+  },
+  {
+    "id": "pop_40",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Anime - Death Note",
+      "frontText": "Death Note animesindeki ölüm defterinin sahibi olan Şinigami (Ölüm Meleği) kimdir?",
+      "backText": "Ryuk (Elma yemeyi çok sever)."
+    },
+    "quiz": {
+      "questionText": "Light Yagami'ye Ölüm Defterini düşüren ve elmaya düşkün olan Şinigami kimdir?",
+      "options": [
+        { "id": "o1", "text": "Ryuk", "isCorrect": true },
+        { "id": "o2", "text": "Rem", "isCorrect": false },
+        { "id": "o3", "text": "Sidoh", "isCorrect": false },
+        { "id": "o4", "text": "Gelus", "isCorrect": false }
+      ],
+      "explanation": "Ryuk, sıkıldığı için dünyadaki insanların arasına ölüm defterini atmış kahkaha dolu bir Şinigamidir."
+    }
+  },
+  {
+    "id": "pop_41",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Jurassic Park",
+      "frontText": "Jurassic Park fikrini ve adayı tasarlayan vizyoner iş insanı kimdir?",
+      "backText": "John Hammond."
+    },
+    "quiz": {
+      "questionText": "Kehribar içindeki sivrisinek kanından dinozor geni klonlayarak park açan karakter kimdir?",
+      "options": [
+        { "id": "o1", "text": "John Hammond", "isCorrect": true },
+        { "id": "o2", "text": "Alan Grant", "isCorrect": false },
+        { "id": "o3", "text": "Ian Malcolm", "isCorrect": false },
+        { "id": "o4", "text": "Dennis Nedry", "isCorrect": false }
+      ],
+      "explanation": "John Hammond 'Hiçbir masraftan kaçınmadım' sloganıyla Jurassic Park'ı kurmuştur."
+    }
+  },
+  {
+    "id": "pop_42",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Pixar / Toy Story",
+      "frontText": "Toy Story (Oyuncak Hikayesi) filmindeki iki ana oyuncak kimdir?",
+      "backText": "Woody (Kovboy) ve Buzz Lightyear (Uzay Koruyucusu)."
+    },
+    "quiz": {
+      "questionText": "'Sonsuzluğa ve ötesine!' repliği hangi efsanevi Pixar karakterine aittir?",
+      "options": [
+        { "id": "o1", "text": "Buzz Lightyear", "isCorrect": true },
+        { "id": "o2", "text": "Sheriff Woody", "isCorrect": false },
+        { "id": "o3", "text": "Lightning McQueen", "isCorrect": false },
+        { "id": "o4", "text": "Mr. Potato Head", "isCorrect": false }
+      ],
+      "explanation": "Buzz Lightyear kendisini gerçek bir uzay koruyucusu sanan roket kanatlı oyuncaktır."
+    }
+  },
+  {
+    "id": "pop_43",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Çizgi Film - Shrek",
+      "frontText": "Shrek'in en yakın geveze dostu hangi hayvandır?",
+      "backText": "Eşek (Donkey)."
+    },
+    "quiz": {
+      "questionText": "Shrek'in Bataklığı'nda beliren ve yanından hiç ayrılmayan tatlı belası konuşan hayvan hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Eşek", "isCorrect": true },
+        { "id": "o2", "text": "Çizmeli Kedi", "isCorrect": false },
+        { "id": "o3", "text": "Ejderha", "isCorrect": false },
+        { "id": "o4", "text": "Kurabiye Adam", "isCorrect": false }
+      ],
+      "explanation": "Eşek (Donkey), Eddie Murphy'nin (Türkçe'de Sezai Aydın) seslendirdiği neşeli karakterdir."
+    }
+  },
+  {
+    "id": "pop_44",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Çizgi Film - Avatar: Son Hava Bükücü",
+      "frontText": "Son Hava Bükücü olan Avatar çocuğun adı nedir?",
+      "backText": "Aang (Uçan bizonu Appa ile seyahat eder)."
+    },
+    "quiz": {
+      "questionText": "100 yıl buzda kaldıktan sonra uyanıp 4 elementi öğrenmeye çalışan Avatar kimdir?",
+      "options": [
+        { "id": "o1", "text": "Aang", "isCorrect": true },
+        { "id": "o2", "text": "Zuko", "isCorrect": false },
+        { "id": "o3", "text": "Sokka", "isCorrect": false },
+        { "id": "o4", "text": "Toph", "isCorrect": false }
+      ],
+      "explanation": "Aang, Ateş Ulusu'nun dünyayı ele geçirmesini önlemekle görevli son hava bükücüdür."
+    }
+  },
+  {
+    "id": "pop_45",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - League of Legends (LoL)",
+      "frontText": "LoL oyununun geçtiği ana kurgusal evrenin / kıtanın adı nedir?",
+      "backText": "Runeterra."
+    },
+    "quiz": {
+      "questionText": "League of Legends karakterlerinin ve hikayelerinin yer aldığı fantastik evrenin adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Runeterra", "isCorrect": true },
+        { "id": "o2", "text": "Azeroth", "isCorrect": false },
+        { "id": "o3", "text": "Tamriel", "isCorrect": false },
+        { "id": "o4", "text": "Sanctuary", "isCorrect": false }
+      ],
+      "explanation": "Riot Games'in geliştirdiği Runeterra evreni Piltover, Zaun, Noxus gibi şehir devletlerini barındırır."
+    }
+  },
+  {
+    "id": "pop_46",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - World of Warcraft",
+      "frontText": "Warcraft evrenindeki iki düşman ana birlik/faktör hangileridir?",
+      "backText": "Alliance (İttifak) ve Horde (Sürü)."
+    },
+    "quiz": {
+      "questionText": "World of Warcraft oyununda oyuncuların seçebildiği iki ana küresel grup hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Alliance - Horde", "isCorrect": true },
+        { "id": "o2", "text": "Jedi - Sith", "isCorrect": false },
+        { "id": "o3", "text": "Templar - Assassin", "isCorrect": false },
+        { "id": "o4", "text": "Autobot - Decepticon", "isCorrect": false }
+      ],
+      "explanation": "Azeroth dünyasında barış ve savaş dengesi Alliance ve Horde arasındaki çekişmeye dayanır."
+    }
+  },
+  {
+    "id": "pop_47",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Assassin's Creed",
+      "frontText": "Assassin's Creed serisinde geçmişteki ataların anılarını yaşamayı sağlayan makine nedir?",
+      "backText": "Animus."
+    },
+    "quiz": {
+      "questionText": "Genetik hafızayı okuyarak kişiyi geçmişe simüle eden Assassin's Creed makinesi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Animus", "isCorrect": true },
+        { "id": "o2", "text": "Abstergo", "isCorrect": false },
+        { "id": "o3", "text": "Helios", "isCorrect": false },
+        { "id": "o4", "text": "Eden", "isCorrect": false }
+      ],
+      "explanation": "Animus cihazı sayesinde günümüzdeki karakterler suikastçı atalarının anılarını tecrübe eder."
+    }
+  },
+  {
+    "id": "pop_48",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Müzik - King of Rock / Metal",
+      "frontText": "Metallica grubunun efsanevi kurucusu ve ritim gitaristi/vokali kimdir?",
+      "backText": "James Hetfield."
+    },
+    "quiz": {
+      "questionText": "'Master of Puppets' ve 'Enter Sandman' şarkılarının sahibi Metallica'nın vokalisti kimdir?",
+      "options": [
+        { "id": "o1", "text": "James Hetfield", "isCorrect": true },
+        { "id": "o2", "text": "Lars Ulrich", "isCorrect": false },
+        { "id": "o3", "text": "Kirk Hammett", "isCorrect": false },
+        { "id": "o4", "text": "Dave Mustaine", "isCorrect": false }
+      ],
+      "explanation": "James Hetfield sert ritim kalıpları ve vokaliyle Trash Metal müziğin simgesidir."
+    }
+  },
+  {
+    "id": "pop_49",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Müzik - Nirvana ve Kurt Cobain",
+      "frontText": "90'ların başında Grunge akımını ve Nirvana grubunu zirveye taşıyan solist kimdir?",
+      "backText": "Kurt Cobain."
+    },
+    "quiz": {
+      "questionText": "'Smells Like Teen Spirit' marşıyla bilinen 1994'te hayatını kaybeden Nirvana lideri kimdir?",
+      "options": [
+        { "id": "o1", "text": "Kurt Cobain", "isCorrect": true },
+        { "id": "o2", "text": "Eddie Vedder", "isCorrect": false },
+        { "id": "o3", "text": "Chris Cornell", "isCorrect": false },
+        { "id": "o4", "text": "Layne Staley", "isCorrect": false }
+      ],
+      "explanation": "Kurt Cobain Seattle çıkışlı Grunge kültürünün ve 27'ler Kulübü'nün sembol ismidir."
+    }
+  },
+  {
+    "id": "pop_50",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Müzik - K-Pop Fenomeni",
+      "frontText": "'Gangnam Style' şarkısıyla YouTube'da 1 milyar izlenmeyi geçen ilk klip sanatçısı kimdir?",
+      "backText": "Psy (Güney Koreli şarkıcı - 2012)."
+    },
+    "quiz": {
+      "questionText": "At binme dansıyla 2012 yılında dünyayı kasıp kavuran 'Gangnam Style' klibinin sahibi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Psy", "isCorrect": true },
+        { "id": "o2", "text": "BTS", "isCorrect": false },
+        { "id": "o3", "text": "BLACKPINK", "isCorrect": false },
+        { "id": "o4", "text": "Rain", "isCorrect": false }
+      ],
+      "explanation": "Psy'ın Gangnam Style şarkısı YouTube sayacını bozacak kadar rekor izlenme almıştır."
+    }
+  },
+  {
+    "id": "pop_51",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Quentin Tarantino",
+      "frontText": "'Pulp Fiction' ve 'Kill Bill' filmlerinin efsanevi aykırı yönetmeni kimdir?",
+      "backText": "Quentin Tarantino."
+    },
+    "quiz": {
+      "questionText": "Dorğusal olmayan kurgu dili ve kanlı sahneleriyle bilinen Ucuz Roman (Pulp Fiction) yönetmeni kimdir?",
+      "options": [
+        { "id": "o1", "text": "Quentin Tarantino", "isCorrect": true },
+        { "id": "o2", "text": "Guy Ritchie", "isCorrect": false },
+        { "id": "o3", "text": "David Fincher", "isCorrect": false },
+        { "id": "o4", "text": "Martin Scorsese", "isCorrect": false }
+      ],
+      "explanation": "Quentin Tarantino diyalog ağırlıklı sinemasıyla popüler kültürün en özgün yönetmenlerindendir."
+    }
+  },
+  {
+    "id": "pop_52",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Şrek ve Çizmeli Kedi",
+      "frontText": "Şrek evrenindeki 'Çizmeli Kedi' (Puss in Boots) karakterini seslendiren dünyaca ünlü aktör kimdir?",
+      "backText": "Antonio Banderas."
+    },
+    "quiz": {
+      "questionText": "Çizmeli Kedi'nin karizmatik ve İspanyol aksanlı seslendirmesini yapan oyuncu kimdir?",
+      "options": [
+        { "id": "o1", "text": "Antonio Banderas", "isCorrect": true },
+        { "id": "o2", "text": "Javier Bardem", "isCorrect": false },
+        { "id": "o3", "text": "Penélope Cruz", "isCorrect": false },
+        { "id": "o4", "text": "Benicio del Toro", "isCorrect": false }
+      ],
+      "explanation": "Antonio Banderas seslendirmesiyle Çizmeli Kedi figürünü dünya çapında sevdirmiştir."
+    }
+  },
+  {
+    "id": "pop_53",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon - Squid Game",
+      "frontText": "Güney Kore yapımı 'Squid Game' dizisindeki ikonik kırmızı elbiseli yüzü maskeli görevlilerin rütbe simgeleri nedir?",
+      "backText": "Daire (İşçi), Üçgen (Asker) ve Kare (Yönetici)."
+    },
+    "quiz": {
+      "questionText": "Squid Game dizisinde maskesinde 'Kare' olan görevli neyi temsil eder?",
+      "options": [
+        { "id": "o1", "text": "Yönetici / Üst Düzey Görevli", "isCorrect": true },
+        { "id": "o2", "text": "Sıradan İşçi", "isCorrect": false },
+        { "id": "o3", "text": "Silahlı Asker", "isCorrect": false },
+        { "id": "o4", "text": "Oyuncu", "isCorrect": false }
+      ],
+      "explanation": "Maske şekillerine göre hiyerarşi belirlenir; Daire işçi, Üçgen koruma/asker, Kare yöneticidir."
+    }
+  },
+  {
+    "id": "pop_54",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon - La Casa de Papel",
+      "frontText": "La Casa de Papel dizisindeki soyguncuların taktığı ressam maskesi kime aittir?",
+      "backText": "Salvador Dalí."
+    },
+    "quiz": {
+      "questionText": "İspanya Kraliyet Darphanesi soygununu konu alan La Casa de Papel dizisinde kullanılan maskeler kime aittir?",
+      "options": [
+        { "id": "o1", "text": "Salvador Dalí", "isCorrect": true },
+        { "id": "o2", "text": "Pablo Picasso", "isCorrect": false },
+        { "id": "o3", "text": "Guy Fawkes", "isCorrect": false },
+        { "id": "o4", "text": "Frida Kahlo", "isCorrect": false }
+      ],
+      "explanation": "Dizideki çete üyeleri Dalí'nin ikonik bıyıklı yüzünü içeren maskeler takmaktadır."
+    }
+  },
+  {
+    "id": "pop_55",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Avatar (2009)",
+      "frontText": "James Cameron'ın Avatar filmindeki mavi tenli insansı ırkın adı nedir?",
+      "backText": "Na'vi (Pandora uydusunda yaşarlar)."
+    },
+    "quiz": {
+      "questionText": "Pandora gezegeninde doğayla uyum içinde yaşayan 3 metre boyundaki mavi ırkın adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Na'vi", "isCorrect": true },
+        { "id": "o2", "text": "Vulcan", "isCorrect": false },
+        { "id": "o3", "text": "Wookiee", "isCorrect": false },
+        { "id": "o4", "text": "Ewok", "isCorrect": false }
+      ],
+      "explanation": "Na'vi yerlileri, Pandora gezegeninin kaynaklarını korumak için insanlara karşı direnmiştir."
+    }
+  },
+  {
+    "id": "pop_56",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Wall-E",
+      "frontText": "Pixar yapımı Wall-E filminde Dünya'da tek başına çöp toplayan sevimli robotun âşık olduğu beyaz robot kimdir?",
+      "backText": "EVE (Extraterrestrial Vegetation Evaluator)."
+    },
+    "quiz": {
+      "questionText": "Wall-E robotunun Dünya'da bitki aramak için gelen yüksek teknolojili robota verdiği isim nedir?",
+      "options": [
+        { "id": "o1", "text": "EVE", "isCorrect": true },
+        { "id": "o2", "text": "AUTO", "isCorrect": false },
+        { "id": "o3", "text": "ROB", "isCorrect": false },
+        { "id": "o4", "text": "BAYMAX", "isCorrect": false }
+      ],
+      "explanation": "Wall-E, EVE'e duyduğu sevgi uğruna uzay gemisi Axiom'a kadar seyahat eder."
+    }
+  },
+  {
+    "id": "pop_57",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - The Last of Us",
+      "frontText": "The Last of Us oyununda dünyayı felakete sürükleyen mantar enfeksiyonunun adı nedir?",
+      "backText": "Cordyceps Mantarı."
+    },
+    "quiz": {
+      "questionText": "The Last of Us evreninde insanları saldırgan zombimsi yaratıklara dönüştüren salgının kaynağı nedir?",
+      "options": [
+        { "id": "o1", "text": "Cordyceps Mantarı", "isCorrect": true },
+        { "id": "o2", "text": "T-Virüsü", "isCorrect": false },
+        { "id": "o3", "text": "Solanum Virüsü", "isCorrect": false },
+        { "id": "o4", "text": "Nefret Virüsü", "isCorrect": false }
+      ],
+      "explanation": "Cordyceps mutasyon geçirerek insan beynini ele geçiren korkunç bir parazite dönüşür."
+    }
+  },
+  {
+    "id": "pop_58",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Resident Evil",
+      "frontText": "Resident Evil serisinde zombi virüslerini üreten biyoteknoloji şirketinin adı nedir?",
+      "backText": "Umbrella Corporation."
+    },
+    "quiz": {
+      "questionText": "T-Virüsünü geliştirip Raccoon City felaketine sebep olan kötücül şirket hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Umbrella Corporation", "isCorrect": true },
+        { "id": "o2", "text": "Aperture Science", "isCorrect": false },
+        { "id": "o3", "text": "Vault-Tec", "isCorrect": false },
+        { "id": "o4", "text": "Shinra", "isCorrect": false }
+      ],
+      "explanation": "Kırmızı-beyaz şemsiye logolu Umbrella Şirketi zombi felaketinin baş sorumlusudur."
+    }
+  },
+  {
+    "id": "pop_59",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Half-Life",
+      "frontText": "Half-Life oyununun levyesiyle tanınan teorik fizikçi ana karakteri kimdir?",
+      "backText": "Gordon Freeman."
+    },
+    "quiz": {
+      "questionText": "Black Mesa tesisinde boyutsal felakete yol açan deney sonrası uzaylılarla savaşan konuşmayan kahraman kimdir?",
+      "options": [
+        { "id": "o1", "text": "Gordon Freeman", "isCorrect": true },
+        { "id": "o2", "text": "Barney Calhoun", "isCorrect": false },
+        { "id": "o3", "text": "Adrian Shephard", "isCorrect": false },
+        { "id": "o4", "text": "G-Man", "isCorrect": false }
+      ],
+      "explanation": "Gordon Freeman HEV giysisi ve kırmızı levyesiyle oyun dünyasının efsanevi karakteridir."
+    }
+  },
+  {
+    "id": "pop_60",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Portal",
+      "frontText": "Portal oyununda oyuncuyu sürekli sınayan yapay zeka antagonistin adı nedir?",
+      "backText": "GLaDOS."
+    },
+    "quiz": {
+      "questionText": "'The cake is a lie' (Pasta bir yalan) sözüyle özdeşleşen Portal yapay zekası hangisidir?",
+      "options": [
+        { "id": "o1", "text": "GLaDOS", "isCorrect": true },
+        { "id": "o2", "text": "HAL 9000", "isCorrect": false },
+        { "id": "o3", "text": "Cortana", "isCorrect": false },
+        { "id": "o4", "text": "Wheatley", "isCorrect": false }
+      ],
+      "explanation": "GLaDOS, soğuk mizahı ve meşhur şarkılarıyla Aperture Science test odalarını yöneten yapay zekadır."
+    }
+  },
+  {
+    "id": "pop_61",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Geleceğe Dönüş 2",
+      "frontText": "Geleceğe Dönüş 2 filminde Marty McFly'ın gittiği gelecek yılı hangisidir?",
+      "backText": "2015 Yılı (21 Ekim 2015)."
+    },
+    "quiz": {
+      "questionText": "Marty McFly ve Doc Brown'ın uçan kaykaylar kullandığı 'Gelecek' tarihi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "21 Ekim 2015", "isCorrect": true },
+        { "id": "o2", "text": "1 Ocak 2000", "isCorrect": false },
+        { "id": "o3", "text": "12 Kasım 2020", "isCorrect": false },
+        { "id": "o4", "text": "4 Temmuz 2010", "isCorrect": false }
+      ],
+      "explanation": "1989 yapımı filmde gelecek olarak 2015 yılı tasvir edilmiştir."
+    }
+  },
+  {
+    "id": "pop_62",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Hızlı ve Öfkeli",
+      "frontText": "Hızlı ve Öfkeli serisinde 'Dominic Toretto' karakterinin en çok önem verdiği kavram nedir?",
+      "backText": "Aile (Family)."
+    },
+    "quiz": {
+      "questionText": "Vin Diesel'in canlandırdığı Dominic Toretto'nun sürekli vurguladığı slogan kavram nedir?",
+      "options": [
+        { "id": "o1", "text": "Aile (Family)", "isCorrect": true },
+        { "id": "o2", "text": "Para (Money)", "isCorrect": false },
+        { "id": "o3", "text": "Hız (Speed)", "isCorrect": false },
+        { "id": "o4", "text": "Şöhret (Fame)", "isCorrect": false }
+      ],
+      "explanation": "Dominic Toretto 'Hiçbir şey aileden önemli değildir' felsefesiyle ekibini korur."
+    }
+  },
+  {
+    "id": "pop_63",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - John Wick",
+      "frontText": "John Wick'in intikam yemini etmesine sebep olan olay nedir?",
+      "backText": "Vefat eden eşinden kalan köpeğinin öldürülmesi ve arabasının çalınması."
+    },
+    "quiz": {
+      "questionText": "Keanu Reeves'in canlandırdığı John Wick karakterini emeklilikten döndüren tetikleyici olay nedir?",
+      "options": [
+        { "id": "o1", "text": "Köpeğinin öldürülmesi", "isCorrect": true },
+        { "id": "o2", "text": "Evinin yanması", "isCorrect": false },
+        { "id": "o3", "text": "Banka hesabının boşaltılması", "isCorrect": false },
+        { "id": "o4", "text": "Arkadaşının kaçırılması", "isCorrect": false }
+      ],
+      "explanation": "Eşinin hediyesi olan Beagle cinsi köpeğinin öldürülmesi John Wick'i durdurulamaz bir intikam makinesine çevirir."
+    }
+  },
+  {
+    "id": "pop_64",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Çizgi Roman - Deadpool",
+      "frontText": "Deadpool'un çizgi romanlarda okuyucuyla doğrudan konuşmasına verilen terim nedir?",
+      "backText": "4. Duvarı Yıkmak (Breaking the fourth wall)."
+    },
+    "quiz": {
+      "questionText": "Deadpool karakterinin kurgu olduğunu bilip doğrudan izleyiciye/okuyucuya seslenmesine ne denir?",
+      "options": [
+        { "id": "o1", "text": "4. Duvarı Yıkmak", "isCorrect": true },
+        { "id": "o2", "text": "Telepati", "isCorrect": false },
+        { "id": "o3", "text": "Monolog", "isCorrect": false },
+        { "id": "o4", "text": "Flashback", "isCorrect": false }
+      ],
+      "explanation": "Wade Wilson (Deadpool) çizgi roman karakteri olduğunun bilincindedir ve dördüncü duvarı kırar."
+    }
+  },
+  {
+    "id": "pop_65",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Çizgi Roman - Wolverine",
+      "frontText": "Wolverine'in iskeletine ve pençelerine enjekte edilen kırılmaz kurgusal metal nedir?",
+      "backText": "Adamantiyum (Adamantium)."
+    },
+    "quiz": {
+      "questionText": "X-Men üyesi Wolverine'in (Logan) kemiklerini kaplayan aşırı sert hayali metal nedir?",
+      "options": [
+        { "id": "o1", "text": "Adamantiyum", "isCorrect": true },
+        { "id": "o2", "text": "Vibranyum", "isCorrect": false },
+        { "id": "o3", "text": "Beskar", "isCorrect": false },
+        { "id": "o4", "text": "Kriptonit", "isCorrect": false }
+      ],
+      "explanation": "Weapon X projesinde Wolverine'in vücuduna Adamantiyum enjekte edilmiştir."
+    }
+  },
+  {
+    "id": "pop_66",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Çizgi Roman - Captain America",
+      "frontText": "Kaptan Amerika'nın kalkanı hangi nadir metalden yapılmıştır?",
+      "backText": "Vibranyum (Wakanda menşeilidir)."
+    },
+    "quiz": {
+      "questionText": "Steve Rogers'ın darbeleri emen ikonik kalkanının ham maddesi nedir?",
+      "options": [
+        { "id": "o1", "text": "Vibranyum", "isCorrect": true },
+        { "id": "o2", "text": "Adamantiyum", "isCorrect": false },
+        { "id": "o3", "text": "Titanyum", "isCorrect": false },
+        { "id": "o4", "text": "Platin", "isCorrect": false }
+      ],
+      "explanation": "Howard Stark tarafından üretilen kalkan Wakanda'dan elde edilen Vibranyumdan yapılmıştır."
+    }
+  },
+  {
+    "id": "pop_67",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon - The Big Bang Theory",
+      "frontText": "The Big Bang Theory dizisinde Sheldon Cooper'ın şaka yaptıktan sonra söylediği kelime nedir?",
+      "backText": "Bazinga!"
+    },
+    "quiz": {
+      "questionText": "Teorik fizikçi Sheldon Cooper'ın esprilerinin ardından kullandığı meşhur kelime hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Bazinga!", "isCorrect": true },
+        { "id": "o2", "text": "Eureka!", "isCorrect": false },
+        { "id": "o3", "text": "Bingo!", "isCorrect": false },
+        { "id": "o4", "text": "Checkmate!", "isCorrect": false }
+      ],
+      "explanation": "Sheldon Cooper başkalarıyla dalga geçtiğini bildirmek için 'Bazinga!' ifadesini kullanır."
+    }
+  },
+  {
+    "id": "pop_68",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon - Simpsons",
+      "frontText": "Simpsons ailesinin yaşadığı kurgusal kasabanın adı nedir?",
+      "backText": "Springfield."
+    },
+    "quiz": {
+      "questionText": "Homer, Marge, Bart, Lisa ve Maggie Simpson'ın yaşadığı kasaba hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Springfield", "isCorrect": true },
+        { "id": "o2", "text": "Quahog", "isCorrect": false },
+        { "id": "o3", "text": "South Park", "isCorrect": false },
+        { "id": "o4", "text": "Bedrock", "isCorrect": false }
+      ],
+      "explanation": "Matt Groening'in yarattığı Simpsons serisi Springfield kasabasında geçer."
+    }
+  },
+  {
+    "id": "pop_69",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Çizgi Film - SüngerBob KareŞort",
+      "frontText": "SüngerBob'un çalıştığı restoranın ve sattığı ünlü burgerin adı nedir?",
+      "backText": "Yengeç Restoran (Krusty Krab) - Yengeç Köftesi (Krabby Patty)."
+    },
+    "quiz": {
+      "questionText": "Bikini Kasabası'nda SüngerBob'un yaptığı gizli tarifli burgerin adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Yengeç Köftesi (Krabby Patty)", "isCorrect": true },
+        { "id": "o2", "text": "Chum Burger", "isCorrect": false },
+        { "id": "o3", "text": "Kelp Shake", "isCorrect": false },
+        { "id": "o4", "text": "Sünger Burger", "isCorrect": false }
+      ],
+      "explanation": "Plankton, Bay Yengeç'in sakladığı gizli Yengeç Köftesi tarifini çalmaya çalışır."
+    }
+  },
+  {
+    "id": "pop_70",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Anime - Attack on Titan (Shingeki no Kyojin)",
+      "frontText": "Attack on Titan animesindeki üç koruyucu surun adı sırasıyla nedir?",
+      "backText": "Wall Maria, Wall Rose, Wall Sina."
+    },
+    "quiz": {
+      "questionText": "Eren Yeager ve insanlığın Devlerden korunmak için ardına sığındığı en dıştaki sur hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Wall Maria", "isCorrect": true },
+        { "id": "o2", "text": "Wall Rose", "isCorrect": false },
+        { "id": "o3", "text": "Wall Sina", "isCorrect": false },
+        { "id": "o4", "text": "Wall Titus", "isCorrect": false }
+      ],
+      "explanation": "Dehşet verici Devasa Dev'in ilk yıktığı sur en dıştaki Wall Maria'dır."
+    }
+  },
+  {
+    "id": "pop_71",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Müzik - Michael Jackson Moonwalk",
+      "frontText": "Michael Jackson 'Moonwalk' (Ay Yürüyüşü) dansını ilk kez hangi şarkıyı söylerken yapmıştır?",
+      "backText": "Billie Jean (1983 - Motown 25 gösterisinde)."
+    },
+    "quiz": {
+      "questionText": "Michael Jackson ikonik kayma dansı Moonwalk'u ilk kez canlı yayında hangi şarkısında sergilemiştir?",
+      "options": [
+        { "id": "o1", "text": "Billie Jean", "isCorrect": true },
+        { "id": "o2", "text": "Thriller", "isCorrect": false },
+        { "id": "o3", "text": "Beat It", "isCorrect": false },
+        { "id": "o4", "text": "Bad", "isCorrect": false }
+      ],
+      "explanation": "25 Mart 1983 Motown kutlamasında Billie Jean söylerken yaptığı dans tarihe geçmiştir."
+    }
+  },
+  {
+    "id": "pop_72",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Müzik - Spotify En Çok Dinlenenler",
+      "frontText": "Tüm zamanların ilk 3 milyar dinlenmeyi geçen Spotify şarkısı hangisidir?",
+      "backText": "'Blinding Lights' - The Weeknd."
+    },
+    "quiz": {
+      "questionText": "The Weeknd'in Spotify akış rekorları kıran ve milyarlarca dinlenen hit şarkısı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Blinding Lights", "isCorrect": true },
+        { "id": "o2", "text": "Shape of You", "isCorrect": false },
+        { "id": "o3", "text": "Starboy", "isCorrect": false },
+        { "id": "o4", "text": "Despacito", "isCorrect": false }
+      ],
+      "explanation": "Blinding Lights, 80'ler synth-pop esintili ritmiyle küresel müzik listelerini kasıp kavurmuştur."
+    }
+  },
+  {
+    "id": "pop_73",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Müzik - EUROVISION Zaferi",
+      "frontText": "Türkiye'ye tek Eurovision birinciliğini getiren şarkıcı ve şarkı hangisidir?",
+      "backText": "Sertab Erener - 'Everyway That I Can' (2003 Riga)."
+    },
+    "quiz": {
+      "questionText": "2003 yılında Letonya'da yapılan Eurovision Şarkı Yarışması'nı birinci bitiren Türk sanatçı kimdir?",
+      "options": [
+        { "id": "o1", "text": "Sertab Erener", "isCorrect": true },
+        { "id": "o2", "text": "Şebnem Paker", "isCorrect": false },
+        { "id": "o3", "text": "Athena", "isCorrect": false },
+        { "id": "o4", "text": "Manga", "isCorrect": false }
+      ],
+      "explanation": "Sertab Erener 'Everyway That I Can' şarkısıyla 167 puan alarak Türkiye'ye şampiyonluk kazandırmıştır."
+    }
+  },
+  {
+    "id": "pop_74",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Pac-Man",
+      "frontText": "Pac-Man oyununda sarı karakterimizi kovalayan renkli hayaletlerin genel adı nedir?",
+      "backText": "Blinky (Kırmızı), Pinky (Pembe), Inky (Mavi), Clyde (Turuncu)."
+    },
+    "quiz": {
+      "questionText": "Pac-Man oyunundaki 'Kırmızı' renkli hayaletin adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Blinky", "isCorrect": true },
+        { "id": "o2", "text": "Pinky", "isCorrect": false },
+        { "id": "o3", "text": "Inky", "isCorrect": false },
+        { "id": "o4", "text": "Clyde", "isCorrect": false }
+      ],
+      "explanation": "Blinky oyundaki en agresif ve oyuncuyu doğrudan takip eden kırmızı hayalettir."
+    }
+  },
+  {
+    "id": "pop_75",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Tetris",
+      "frontText": "Efsanevi bulmaca oyunu Tetris hangi ülkede icat edilmiştir?",
+      "backText": "Sovyetler Birliği (Aleksey Pajitnov tarafından 1984'te yapılmıştır)."
+    },
+    "quiz": {
+      "questionText": "Düşen blokları dizme üzerine kurulu efsanevi Tetris oyununun mucidi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Aleksey Pajitnov", "isCorrect": true },
+        { "id": "o2", "text": "Hideo Kojima", "isCorrect": false },
+        { "id": "o3", "text": "Satoru Iwata", "isCorrect": false },
+        { "id": "o4", "text": "John Carmack", "isCorrect": false }
+      ],
+      "explanation": "Rus bilgisayar mühendisi Aleksey Pajitnov Tetris'i Yapay Zeka akademisinde çalışırken tasarlamıştır."
+    }
+  },
+  {
+    "id": "pop_76",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Karayip Korsanları Gemisi",
+      "frontText": "Jack Sparrow'un aşık olduğu siyah yelkenli geminin adı nedir?",
+      "backText": "Siyah İnci (Black Pearl)."
+    },
+    "quiz": {
+      "questionText": "Karayip Korsanları serisinde lanetli hızıyla bilinen efsanevi gemi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Siyah İnci (Black Pearl)", "isCorrect": true },
+        { "id": "o2", "text": "Uçan Hollandalı (Flying Dutchman)", "isCorrect": false },
+        { "id": "o3", "text": "Queen Anne's Revenge", "isCorrect": false },
+        { "id": "o4", "text": "HMS Endeavour", "isCorrect": false }
+      ],
+      "explanation": "Siyah İnci, denizlerdeki en hızlı ve esrarengiz korsan gemisidir."
+    }
+  },
+  {
+    "id": "pop_77",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Terminatör",
+      "frontText": "Terminatör 2 filminde T-800'ün lavlara batarken yaptığı ikonik el hareketi nedir?",
+      "backText": "Başparmak yukarıda (Thumbs Up) hareketi."
+    },
+    "quiz": {
+      "questionText": "Arnold Schwarzenegger'in Terminatör rolünde lavlara erimeden önce yaptığı vedalaşma işareti nedir?",
+      "options": [
+        { "id": "o1", "text": "Başparmak Yukarı (Thumbs Up)", "isCorrect": true },
+        { "id": "o2", "text": "Zafer İşareti (V)", "isCorrect": false },
+        { "id": "o3", "text": "Yumruk Kaldırma", "isCorrect": false },
+        { "id": "o4", "text": "El Sallama", "isCorrect": false }
+      ],
+      "explanation": "T-800 insan duygularını öğrendiğini göstererek John Connor'a başparmağıyla veda eder."
+    }
+  },
+  {
+    "id": "pop_78",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Star Wars Darth Vader",
+      "frontText": "Darth Vader'ın Luke Skywalker'a babası olduğunu açıkladığı sahnedeki orijinal replik nedir?",
+      "backText": "'No, I am your father.' (Sıklıkla yanlış olarak 'Luke, I am your father' bilinir)."
+    },
+    "quiz": {
+      "questionText": "Empire Strikes Back filminde Darth Vader'ın Luke'a söylediği doğru replik nedir?",
+      "options": [
+        { "id": "o1", "text": "No, I am your father", "isCorrect": true },
+        { "id": "o2", "text": "Luke, I am your father", "isCorrect": false },
+        { "id": "o3", "text": "I am Anakin Skywalker", "isCorrect": false },
+        { "id": "o4", "text": "You are my son", "isCorrect": false }
+      ],
+      "explanation": "Popüler kültür hafızasında 'Luke, I am your father' olarak kalsa da filmde 'No, I am your father' der."
+    }
+  },
+  {
+    "id": "pop_79",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Geleceğe Dönüş Zaman Makinesi Gücü",
+      "frontText": "DeLorean zaman makinesinin zaman sıçraması için ihtiyaç duyduğu elektrik gücü miktarı nedir?",
+      "backText": "1.21 Gigawatt (1.21 Jigawatts)."
+    },
+    "quiz": {
+      "questionText": "Doc Brown'ın zaman makinesini çalıştırmak için ihtiyaç duyduğu devasa enerji miktarı kaç Gigawatt'tır?",
+      "options": [
+        { "id": "o1", "text": "1.21 Gigawatt", "isCorrect": true },
+        { "id": "o2", "text": "5.00 Gigawatt", "isCorrect": false },
+        { "id": "o3", "text": "100 Megawatt", "isCorrect": false },
+        { "id": "o4", "text": "0.50 Gigawatt", "isCorrect": false }
+      ],
+      "explanation": "1.21 Gigawatt gücü elde etmek için yıldırım çarpmasını veya plütonyum reaktörünü kullanırlar."
+    }
+  },
+  {
+    "id": "pop_80",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Edebiyat / Sinema - Yüzüklerin Efendisi Hobbit",
+      "frontText": "Yüzüklerin Efendisi'nde Bilbo ve Frodo Baggins'in yaşadığı köyün adı nedir?",
+      "backText": "Hobbitköy (Hobbiton / The Shire)."
+    },
+    "quiz": {
+      "questionText": "Hobbitlerin yeşillikler içindeki huzurlu memleketine verilen isim hangisidir?",
+      "options": [
+        { "id": "o1", "text": "The Shire (Koy)", "isCorrect": true },
+        { "id": "o2", "text": "Rivendell", "isCorrect": false },
+        { "id": "o3", "text": "Bree", "isCorrect": false },
+        { "id": "o4", "text": "Gondor", "isCorrect": false }
+      ],
+      "explanation": "Shire, Orta Dünya'nın batısında yer alan sakin Hobbit diyarıdır."
+    }
+  },
+  {
+    "id": "pop_81",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Çizgi Roman - Joker",
+      "frontText": "Dark Knight (2008) filminde Joker rolünü oynayıp Oscar kazanan merhum oyuncu kimdir?",
+      "backText": "Heath Ledger."
+    },
+    "quiz": {
+      "questionText": "'Why so serious?' repliğiyle hafızalara kazınan Christopher Nolan Joker'ini oynayan aktör kimdir?",
+      "options": [
+        { "id": "o1", "text": "Heath Ledger", "isCorrect": true },
+        { "id": "o2", "text": "Joaquin Phoenix", "isCorrect": false },
+        { "id": "o3", "text": "Jack Nicholson", "isCorrect": false },
+        { "id": "o4", "text": "Jared Leto", "isCorrect": false }
+      ],
+      "explanation": "Heath Ledger, trajik vefatının ardından Joker performansıyla En İyi Yardımcı Erkek Oyuncu Oscar'ını almıştır."
+    }
+  },
+  {
+    "id": "pop_82",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon - Better Call Saul",
+      "frontText": "Saul Goodman karakterinin gerçek adı nedir?",
+      "backText": "Jimmy McGill (James Morgan McGill)."
+    },
+    "quiz": {
+      "questionText": "Breaking Bad ve Better Call Saul dizilerindeki kurnaz avukat Saul Goodman'ın asıl adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Jimmy McGill", "isCorrect": true },
+        { "id": "o2", "text": "Chuck McGill", "isCorrect": false },
+        { "id": "o3", "text": "Howard Hamlin", "isCorrect": false },
+        { "id": "o4", "text": "Lalo Salamanca", "isCorrect": false }
+      ],
+      "explanation": "Jimmy McGill, mahkemelerde öne çıkmak için 'It's all good, man' tamlamasından türettiği Saul Goodman adını almıştır."
+    }
+  },
+  {
+    "id": "pop_83",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Fallout",
+      "frontText": "Fallout kıyamet sonrası oyun serisindeki gülen sarı saçlı maskot karakterin adı nedir?",
+      "backText": "Vault Boy."
+    },
+    "quiz": {
+      "questionText": "Fallout evreninde başparmağını havaya kaldıran çizgi maskotun adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Vault Boy", "isCorrect": true },
+        { "id": "o2", "text": "Pip-Boy", "isCorrect": false },
+        { "id": "o3", "text": "Nuka Boy", "isCorrect": false },
+        { "id": "o4", "text": "Atom Boy", "isCorrect": false }
+      ],
+      "explanation": "Vault Boy, Vault-Tec şirketinin neşeli reklamlarda kullandığı maskottur (Pip-Boy ise koldaki cihazdır)."
+    }
+  },
+  {
+    "id": "pop_84",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Skyrim",
+      "frontText": "The Elder Scrolls V: Skyrim oyunundaki Ejderha Lisanındaki kehanet kahramanı nedir?",
+      "backText": "Dovahkiin (Dragonborn / Ejderha Doğan)."
+    },
+    "quiz": {
+      "questionText": "'Fus Ro Dah' haykırışıyla tanınan Skyrim ana karakterinin unvanı nedir?",
+      "options": [
+        { "id": "o1", "text": "Dovahkiin (Dragonborn)", "isCorrect": true },
+        { "id": "o2", "text": "Nerevarine", "isCorrect": false },
+        { "id": "o3", "text": "Champion of Cyrodiil", "isCorrect": false },
+        { "id": "o4", "text": "Alduin", "isCorrect": false }
+      ],
+      "explanation": "Dovahkiin, ejderha ruhuna sahip olan ve ejderha çığlıklarını (Thoom) kullanabilen seçilmiş kişidir."
+    }
+  },
+  {
+    "id": "pop_85",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Aslan Kral (The Lion King)",
+      "frontText": "Aslan Kral çizgi filminde Simba'nın babası olan kral aslan kimdir?",
+      "backText": "Mufasa (Kötü amca Scar tarafından tuzağa düşürülür)."
+    },
+    "quiz": {
+      "questionText": "Disney klasiği Aslan Kral'da Scar'ın hain planıyla uçurumdan düşen Simba'nın babası kimdir?",
+      "options": [
+        { "id": "o1", "text": "Mufasa", "isCorrect": true },
+        { "id": "o2", "text": "Scar", "isCorrect": false },
+        { "id": "o3", "text": "Rafiki", "isCorrect": false },
+        { "id": "o4", "text": "Kovul", "isCorrect": false }
+      ],
+      "explanation": "Mufasa Gurur Kayalığı'nın adil kralıdır; trajik ölümü sinema tarihinin duygusal sahnelerindendir."
+    }
+  },
+  {
+    "id": "pop_86",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Aslan Kral Sloganı",
+      "frontText": "Timon ve Pumbaa'nın 'Endişelenme, sorun yok' anlamına gelen ünlü şarkısı / felsefesi nedir?",
+      "backText": "Hakuna Matata."
+    },
+    "quiz": {
+      "questionText": "Swahili dilinde 'Problem yok / Kafana takma' anlamına gelen neşeli Aslan Kral felsefesi nedir?",
+      "options": [
+        { "id": "o1", "text": "Hakuna Matata", "isCorrect": true },
+        { "id": "o2", "text": "Ovo Je Balkan", "isCorrect": false },
+        { "id": "o3", "text": "Aloha", "isCorrect": false },
+        { "id": "o4", "text": "Carpe Diem", "isCorrect": false }
+      ],
+      "explanation": "Hakuna Matata, Timon ve Pumbaa'nın Simba'ya kaygı duymadan yaşamayı öğrettiği neşeli şarkıdır."
+    }
+  },
+  {
+    "id": "pop_87",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Internet Fenomenleri - Meme Kültürü",
+      "frontText": "İnternet dünyasında Doge akımına ilham olan Shiba Inu cinsi ünlü köpeğin adı nedir?",
+      "backText": "Kabosu (Doge meme'i ve Dogecoin kripto parasının yüzüdür)."
+    },
+    "quiz": {
+      "questionText": "İnternette 'Doge' olarak bilinen komik bakışlı Japon Shiba Inu köpeğin gerçek adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Kabosu", "isCorrect": true },
+        { "id": "o2", "text": "Hachiko", "isCorrect": false },
+        { "id": "o3", "text": "Cheems", "isCorrect": false },
+        { "id": "o4", "text": "Snoopy", "isCorrect": false }
+      ],
+      "explanation": "Kabosu adlı dişi Shiba Inu, sahiplerinin çektiği bir fotoğrafla küresel internet meme'ine dönüşmüştür."
+    }
+  },
+  {
+    "id": "pop_88",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon - Rick and Morty",
+      "frontText": "Rick Sanchez'in boyutlar arası yolculuk yaparken kullandığı tabancaya ne ad verilir?",
+      "backText": "Portal Silahı (Portal Gun)."
+    },
+    "quiz": {
+      "questionText": "Çılgın bilim insanı Rick Sanchez'in yeşil boyut kapıları açtığı cihazın adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Portal Gun", "isCorrect": true },
+        { "id": "o2", "text": "Ray Gun", "isCorrect": false },
+        { "id": "o3", "text": "Gravity Gun", "isCorrect": false },
+        { "id": "o4", "text": "Laser Blaster", "isCorrect": false }
+      ],
+      "explanation": "Portal Gun, Rick'in sınırsız sayıda paralel evrene ve boyuta kolayca geçmesini sağlar."
+    }
+  },
+  {
+    "id": "pop_89",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Truman Show",
+      "frontText": "Truman Burbank'ın tüm hayatının bir TV şovu olduğunu anladığı filmin yönetmeni kimdir?",
+      "backText": "Peter Weir (Jim Carrey başroldedir)."
+    },
+    "quiz": {
+      "questionText": "The Truman Show filminde Truman'ın her gün komşularına söylediği ikonik vedalaşma repliği nedir?",
+      "options": [
+        { "id": "o1", "text": "In case I don't see ya, good afternoon, good evening, and good night!", "isCorrect": true },
+        { "id": "o2", "text": "I'll be back!", "isCorrect": false },
+        { "id": "o3", "text": "May the Force be with you!", "isCorrect": false },
+        { "id": "o4", "text": "Show me the money!", "isCorrect": false }
+      ],
+      "explanation": "Jim Carrey her sabah neşeyle 'Görüşemezsek tünaydın, iyi akşamlar ve iyi geceler!' der."
+    }
+  },
+  {
+    "id": "pop_90",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon - Peaky Blinders",
+      "frontText": "Peaky Blinders dizisinde Thomas Shelby karakterini canlandıran usta aktör kimdir?",
+      "backText": "Cillian Murphy."
+    },
+    "quiz": {
+      "questionText": "Birmingham çetesini yöneten karizmatik Tommy Shelby karakterine kim hayat vermiştir?",
+      "options": [
+        { "id": "o1", "text": "Cillian Murphy", "isCorrect": true },
+        { "id": "o2", "text": "Tom Hardy", "isCorrect": false },
+        { "id": "o3", "text": "Paul Anderson", "isCorrect": false },
+        { "id": "o4", "text": "Joe Cole", "isCorrect": false }
+      ],
+      "explanation": "Cillian Murphy, kasketlerinin ucunda jilet taşıyan Peaky Blinders çetesinin zeki lideridir."
+    }
+  },
+  {
+    "id": "pop_91",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Müzik - Heavy Metal'in Doğuşu",
+      "frontText": "Heavy Metal müziğin öncüsü ve kurucusu kabul edilen İngiliz grup hangisidir?",
+      "backText": "Black Sabbath (Ozzy Osbourne vokalindedir)."
+    },
+    "quiz": {
+      "questionText": "1970 yapımı ilk albümleriyle Heavy Metal türünü başlatan efsanevi grup hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Black Sabbath", "isCorrect": true },
+        { "id": "o2", "text": "Iron Maiden", "isCorrect": false },
+        { "id": "o3", "text": "Judas Priest", "isCorrect": false },
+        { "id": "o4", "text": "Motorhead", "isCorrect": false }
+      ],
+      "explanation": "Tony Iommi'nin karanlık gitar riff'leri ve Ozzy'nin sesiyle Black Sabbath metal müziği doğurmuştur."
+    }
+  },
+  {
+    "id": "pop_92",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Cyberpunk 2077",
+      "frontText": "Cyberpunk 2077 oyununda Johnny Silverhand karakterini canlandıran ünlü oyuncu kimdir?",
+      "backText": "Keanu Reeves."
+    },
+    "quiz": {
+      "questionText": "Night City'de terörist rockçı Johnny Silverhand karakterine görünüşü ve sesiyle yön veren kimdir?",
+      "options": [
+        { "id": "o1", "text": "Keanu Reeves", "isCorrect": true },
+        { "id": "o2", "text": "Mads Mikkelsen", "isCorrect": false },
+        { "id": "o3", "text": "Norman Reedus", "isCorrect": false },
+        { "id": "o4", "text": "Idris Elba", "isCorrect": false }
+      ],
+      "explanation": "Keanu Reeves E3 fuarında 'Wake up Samurai, we have a city to burn' diyerek duyuru yapmıştır."
+    }
+  },
+  {
+    "id": "pop_93",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Dark Souls / Elden Ring",
+      "frontText": "Zorluğuyla meşhur 'Souls' türünün yaratıcısı olan Japon oyun geliştiricisi kimdir?",
+      "backText": "Hidetaka Miyazaki (FromSoftware)."
+    },
+    "quiz": {
+      "questionText": "Demon's Souls, Dark Souls, Bloodborne ve Elden Ring oyunlarının efsanevi yönetmeni kimdir?",
+      "options": [
+        { "id": "o1", "text": "Hidetaka Miyazaki", "isCorrect": true },
+        { "id": "o2", "text": "Hideo Kojima", "isCorrect": false },
+        { "id": "o3", "text": "Shinji Mikami", "isCorrect": false },
+        { "id": "o4", "text": "Eiji Aonuma", "isCorrect": false }
+      ],
+      "explanation": "Miyazaki, zorlu dövüş mekanikleri ve gizemli hikaye anlatımıyla Soulslike türünü yaratmıştır."
+    }
+  },
+  {
+    "id": "pop_94",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Çizgi Roman - Thor'un Çekiçi",
+      "frontText": "İskandinav mitolojisinden esinlenen Thor'un efsanevi çekicinin adı nedir?",
+      "backText": "Mjolnir (Sadece layık olanlar kaldırabilir)."
+    },
+    "quiz": {
+      "questionText": "Marvel evreninde Thor'un çağırdığında eline gelen efsanevi çekicinin adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Mjolnir", "isCorrect": true },
+        { "id": "o2", "text": "Stormbreaker", "isCorrect": false },
+        { "id": "o3", "text": "Gungnir", "isCorrect": false },
+        { "id": "o4", "text": "Aegis", "isCorrect": false }
+      ],
+      "explanation": "Mjolnir çekicini ancak kalbi ve ruhu 'layık' olan kahramanlar kaldırabilir (Örn: Captain America)."
+    }
+  },
+  {
+    "id": "pop_95",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Galaksinin Koruyucuları",
+      "frontText": "Guardians of the Galaxy ekibindeki konuşan ağaç insansı karakter kimdir?",
+      "backText": "Groot ('I am Groot' der)."
+    },
+    "quiz": {
+      "questionText": "Kelime dağarcığı sadece 'I am Groot' cümlesinden oluşan sevilen Marvel karakteri kimdir?",
+      "options": [
+        { "id": "o1", "text": "Groot", "isCorrect": true },
+        { "id": "o2", "text": "Rocket Raccoon", "isCorrect": false },
+        { "id": "o3", "text": "Drax", "isCorrect": false },
+        { "id": "o4", "text": "Star-Lord", "isCorrect": false }
+      ],
+      "explanation": "Vin Diesel'in seslendirdiği Groot kendisini feda edip küllerinden Baby Groot olarak yeniden doğmuştur."
+    }
+  },
+  {
+    "id": "pop_96",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Karayip Korsanları Kraken",
+      "frontText": "Davy Jones'un denizin altından çağırdığı dev ahtapot benzeri canavar nedir?",
+      "backText": "Kraken."
+    },
+    "quiz": {
+      "questionText": "Karayip Korsanları 2 filminde gemileri deniz tabanına çeken efsanevi dev yaratık hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Kraken", "isCorrect": true },
+        { "id": "o2", "text": "Leviathan", "isCorrect": false },
+        { "id": "o3", "text": "Megalodon", "isCorrect": false },
+        { "id": "o4", "text": "Siren", "isCorrect": false }
+      ],
+      "explanation": "Kraken, Davy Jones'un emriyle Siyah İnci dahil tüm gemileri parçalayan dev kalamar/ahtapottur."
+    }
+  },
+  {
+    "id": "pop_97",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Televizyon - Sherlock Holmes Adresi",
+      "frontText": "Sherlock Holmes ve Dr. Watson'ın Londra'daki ünlü ev adresi neresidir?",
+      "backText": "221B Baker Street."
+    },
+    "quiz": {
+      "questionText": "Tüm Sherlock Holmes uyarlamalarında geçen dedektifin meşhur ev adresi neresidir?",
+      "options": [
+        { "id": "o1", "text": "221B Baker Street", "isCorrect": true },
+        { "id": "o2", "text": "10 Downing Street", "isCorrect": false },
+        { "id": "o3", "text": "4 Privet Drive", "isCorrect": false },
+        { "id": "o4", "text": "12 Grimmauld Place", "isCorrect": false }
+      ],
+      "explanation": "221B Baker Street bugün Londra'da müze olarak hizmet veren efsanevi kurgusal adrestir."
+    }
+  },
+  {
+    "id": "pop_98",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Yıldız Savaşları Yoda",
+      "frontText": "Jedi Üstadı Yoda'nın konuşma tarzının en belirgin özelliği nedir?",
+      "backText": "Cümledeki ögelerin yerini değiştirerek nesne ve yüklemi devrik kullanması (Örn: 'Patience you must have')."
+    },
+    "quiz": {
+      "questionText": "Star Wars evreninin 900 yaşındaki usta Jedi'ı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Yoda", "isCorrect": true },
+        { "id": "o2", "text": "Obi-Wan Kenobi", "isCorrect": false },
+        { "id": "o3", "text": "Mace Windu", "isCorrect": false },
+        { "id": "o4", "text": "Qui-Gon Jinn", "isCorrect": false }
+      ],
+      "explanation": "Üstad Yoda, yeşil görünümü ve bilge devrik cümleleriyle Star Wars sembolüdür."
+    }
+  },
+  {
+    "id": "pop_99",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Video Oyunları - Silent Hill",
+      "frontText": "Silent Hill korku oyunu serisinin piramit kafalı ürkütücü canavarının adı nedir?",
+      "backText": "Pyramid Head (Piramit Kafa)."
+    },
+    "quiz": {
+      "questionText": "Devasa bir bıçak taşıyan ve kafasında paslı piramit olan Silent Hill ikonu canavar nedir?",
+      "options": [
+        { "id": "o1", "text": "Pyramid Head", "isCorrect": true },
+        { "id": "o2", "text": "Nemesis", "isCorrect": false },
+        { "id": "o3", "text": "Mr. X", "isCorrect": false },
+        { "id": "o4", "text": "Clicker", "isCorrect": false }
+      ],
+      "explanation": "Pyramid Head, suçluluk duygusunu temsil eden psikolojik korku simgesidir."
+    }
+  },
+  {
+    "id": "pop_100",
+    "categoryId": "pop_culture",
+    "card": {
+      "title": "Sinema - Geleceğe Dönüş Zaman Yakıtı",
+      "frontText": "Doc Brown 1885 yılında (3. filmde) DeLorean'ı 88 mil hıza ulaştırmak için ne kullanmıştır?",
+      "backText": "Buharlı Tren (Steam Train)."
+    },
+    "quiz": {
+      "questionText": "Geleceğe Dönüş 3 filminde benzin bulunmadığı için DeLorean'ı arkadan iterek hızlandıran araç nedir?",
+      "options": [
+        { "id": "o1", "text": "Buharlı Tren", "isCorrect": true },
+        { "id": "o2", "text": "At Arabası", "isCorrect": false },
+        { "id": "o3", "text": "Mancınık", "isCorrect": false },
+        { "id": "o4", "text": "Rüzgar Gülü", "isCorrect": false }
+      ],
+      "explanation": "Vahşi Batı'da benzin olmadığı için Doc ve Marty tren lokomotifini fırınlayarak DeLorean'ı iterler."
+    }
+  }
+]

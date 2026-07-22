@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "prod_1",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Pomodoro Tekniği",
+      "frontText": "Klasik Pomodoro tekniği çalışma ve ara süreleri nasıldır?",
+      "backText": "25 dakika odaklanarak çalışma + 5 dakika kısa mola."
+    },
+    "quiz": {
+      "questionText": "Klasik Pomodoro Tekniği'nde bir çalışma seansı kaç dakikadır?",
+      "options": [
+        { "id": "o1", "text": "20 Dakika", "isCorrect": false },
+        { "id": "o2", "text": "25 Dakika", "isCorrect": true },
+        { "id": "o3", "text": "45 Dakika", "isCorrect": false },
+        { "id": "o4", "text": "60 Dakika", "isCorrect": false }
+      ],
+      "explanation": "Pomodoro Tekniği, 25 dakikalık çalışma ve ardından 5 dakikalık kısa molalardan oluşan bir zaman yönetim metodudur."
+    }
+  },
+  {
+    "id": "prod_2",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Önceliklendirme - Eisenhower Matrisi",
+      "frontText": "Eisenhower Matrisi görevleri hangi iki kritere göre ayırır?",
+      "backText": "Aciliyet (Urgent) ve Önem (Important)."
+    },
+    "quiz": {
+      "questionText": "Eisenhower Matrisi'nde 'Acil Değil ama Önemli' olan görevler için ne yapılmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Hemen yapılmalı", "isCorrect": false },
+        { "id": "o2", "text": "Planlanmalı (Takvime eklenmeli)", "isCorrect": true },
+        { "id": "o3", "text": "Başkasına devredilmeli", "isCorrect": false },
+        { "id": "o4", "text": "Elenmeli / Silinmeli", "isCorrect": false }
+      ],
+      "explanation": "Acil olmayan ama önemli işler uzun vadeli başarının anahtarıdır ve zamanı planlanarak takvime işlenmelidir."
+    }
+  },
+  {
+    "id": "prod_3",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Erteleme İle Mücadele - Ye O Kurbağayı (Eat That Frog)",
+      "frontText": "Brian Tracy'nin 'Ye O Kurbağayı' felsefesi neyi öğütler?",
+      "backText": "Günün en zor, en sevimsiz ama en önemli görevini sabah ilk iş olarak yapmayı."
+    },
+    "quiz": {
+      "questionText": "'Eat That Frog' (Ye O Kurbağayı) yaklaşımına göre günün başında ilk yapılması gereken iş hangisidir?",
+      "options": [
+        { "id": "o1", "text": "En kolay ve hızlı bitecek işler", "isCorrect": false },
+        { "id": "o2", "text": "Günün en zor ve en önemli ana görevi", "isCorrect": true },
+        { "id": "o3", "text": "E-postaları yanıtlamak", "isCorrect": false },
+        { "id": "o4", "text": "Masa düzenlemesi yapmak", "isCorrect": false }
+      ],
+      "explanation": "Günün en zor görevini (kurbağayı) sabah ilk iş aradan çıkarmak, zihinsel rahatlama ve gün boyu yüksek motivasyon sağlar."
+    }
+  },
+  {
+    "id": "prod_4",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - 2 Dakika Kuralı",
+      "frontText": "David Allen'ın GTD metodundaki 2 Dakika Kuralı nedir?",
+      "backText": "Yapılması 2 dakikadan az sürecek bir işi ertelemeden O ANDA yapmayı söyler."
+    },
+    "quiz": {
+      "questionText": "Karşınıza çıkan bir işin tamamlanması 2 dakikadan az sürecekse 2 Dakika Kuralı'na göre ne yapılmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Hemen o an yapılmalıdır", "isCorrect": true },
+        { "id": "o2", "text": "Yapılacaklar listesine yazılmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Hafta sonuna ertelenmelidir", "isCorrect": false },
+        { "id": "o4", "text": "Başkasına devredilmelidir", "isCorrect": false }
+      ],
+      "explanation": "Bir işi yapılacaklar listesine eklemek ve hatırlamak 2 dakikadan fazla enerji harcatır, bu yüzden hemen yapmak en verimlisidir."
+    }
+  },
+  {
+    "id": "prod_5",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Odaklanma - Derin Çalışma (Deep Work)",
+      "frontText": "Cal Newport'un tanımladığı 'Deep Work' kavramı ne anlama gelir?",
+      "backText": "Sıfır dikkat dağıtıcı ile karmaşık görevlere %100 odaklanarak yapılan yüksek verimli çalışma."
+    },
+    "quiz": {
+      "questionText": "Cal Newport'a göre dikkat dağıtıcılardan uzak zihinsel kapasiteyi zorlayan odaklanmış çalışma biçimine ne denir?",
+      "options": [
+        { "id": "o1", "text": "Deep Work (Derin Çalışma)", "isCorrect": true },
+        { "id": "o2", "text": "Shallow Work (Yüzeysel Çalışma)", "isCorrect": false },
+        { "id": "o3", "text": "Multitasking (Çoklu Görev)", "isCorrect": false },
+        { "id": "o4", "text": "Time Blocking", "isCorrect": false }
+      ],
+      "explanation": "Deep Work, bildirimlerin ve kesintilerin olmadığı derin odaklanma durumudur; kaliteli üretim sağlar."
+    }
+  },
+  {
+    "id": "prod_6",
+    "categoryId": "productivity",
+    "card": {
+      "title": "İş Yönetimi - Pareto İlkesi (80/20 Kuralı)",
+      "frontText": "Pareto İlkesi verimlilikte neyi ifade eder?",
+      "backText": "Sonuçların %80'inin, çabaların / girdi işlerin %20'sinden elde edildiğini."
+    },
+    "quiz": {
+      "questionText": "80/20 kuralı (Pareto İlkesi) verimlilik açısından bize neyi öğretir?",
+      "options": [
+        { "id": "o1", "text": "En büyük etkiyi (%80) yaratan kritik azınlık işlere (%20) odaklanmayı", "isCorrect": true },
+        { "id": "o2", "text": "Günün %80'inde dinlenmeyi", "isCorrect": false },
+        { "id": "o3", "text": "Her işe eşit zaman ayırmayı", "isCorrect": false },
+        { "id": "o4", "text": "Tüm işleri %80 oranında tamamlamayı", "isCorrect": false }
+      ],
+      "explanation": "Pareto ilkesine göre yüksek katma değer üreten kilit %20'lik görevleri tespit edip onlara öncelik vermeliyiz."
+    }
+  },
+  {
+    "id": "prod_7",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Alışkanlıklar - Atomik Alışkanlıklar (Atomic Habits)",
+      "frontText": "James Clear'ın ifade ettiği %1 İyileşme kuralı ne sağlar?",
+      "backText": "Her gün %1 gelişmek, bileşik etkiyle 1 yılda yaklaşık 37 kat daha iyi hale gelmenizi sağlar."
+    },
+    "quiz": {
+      "questionText": "'Atomic Habits' kitabına göre uzun vadeli büyük başarıların temel anahtarı nedir?",
+      "options": [
+        { "id": "o1", "text": "Her gün küçük ve sürekli %1'lik gelişimler sağlamak", "isCorrect": true },
+        { "id": "o2", "text": "Bir günde radikal ve devasa değişiklikler yapmak", "isCorrect": false },
+        { "id": "o3", "text": "Sadece motivasyona güvenmek", "isCorrect": false },
+        { "id": "o4", "text": "Sonuçlara odaklanıp süreçleri önemsememek", "isCorrect": false }
+      ],
+      "explanation": "Küçük alışkanlıklar zaman içinde katlanarak devasa farklar üretir; odak nokta hedefler değil sistemler olmalıdır."
+    }
+  },
+  {
+    "id": "prod_8",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Zaman Bloklama (Time Blocking)",
+      "frontText": "Zaman Bloklama (Time Blocking) yöntemi nasıl uygulanır?",
+      "backText": "Günü saat saat bölerek her zaman dilimine belirli tek bir görev/kategori atayarak."
+    },
+    "quiz": {
+      "questionText": "Elon Musk ve Bill Gates gibi isimlerin kullandığı, günün her saat dilimini önceden belirli bir göreve atama metoduna ne denir?",
+      "options": [
+        { "id": "o1", "text": "Time Blocking (Zaman Bloklama)", "isCorrect": true },
+        { "id": "o2", "text": "Kanban", "isCorrect": false },
+        { "id": "o3", "text": "Getting Things Done", "isCorrect": false },
+        { "id": "o4", "text": "Mind Mapping", "isCorrect": false }
+      ],
+      "explanation": "Time Blocking, takviminizdeki boş zamanları kategorize edip ne zaman ne yapacağınızı netleştirir."
+    }
+  },
+  {
+    "id": "prod_9",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Öğrenme Teknikleri - Feynman Tekniği",
+      "frontText": "Feynman Tekniği bir konuyu derinlemesine öğrenmek için neyi tavsiye eder?",
+      "backText": "Konuyu 12 yaşındaki bir çocuğun anlayabileceği sadelikte karmaşık terim kullanmadan anlatmayı."
+    },
+    "quiz": {
+      "questionText": "Feynman Öğrenme Tekniği'nin çekirdek adımı aşağıdakilerden hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Konuyu hiç bilmeyen bir çocuğa anlatır gibi basitçe açıklamak", "isCorrect": true },
+        { "id": "o2", "text": "Metni tekrar tekrar yüksek sesle okumak", "isCorrect": false },
+        { "id": "o3", "text": "Tüm kitabı kelimesi kelimesine ezberlemek", "isCorrect": false },
+        { "id": "o4", "text": "Sadece altını kırmızı kalemle çizmek", "isCorrect": false }
+      ],
+      "explanation": "Bir konuyu basitçe anlatamıyorsanız onu yeterince anlamamışsınız demektir. Feynman yöntemi bilgi açıklarını buldurur."
+    }
+  },
+  {
+    "id": "prod_10",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zihinsel Yapı - Parkinson Yasası",
+      "frontText": "Parkinson Yasası iş ve zaman ilişkisi hakkında ne der?",
+      "backText": "'Bir iş, kendisine ayrılan sürenin tamamını dolduracak şekilde esner/uzar.'"
+    },
+    "quiz": {
+      "questionText": "Bir göreve 1 hafta süre verirseniz 1 hafta, 2 saat süre verirseniz 2 saat süreceğini belirten psikolojik ilke nedir?",
+      "options": [
+        { "id": "o1", "text": "Parkinson Yasası", "isCorrect": true },
+        { "id": "o2", "text": "Murphy Yasası", "isCorrect": false },
+        { "id": "o3", "text": "Goodhart Yasası", "isCorrect": false },
+        { "id": "o4", "text": "Hick Yasası", "isCorrect": false }
+      ],
+      "explanation": "Parkinson Yasası'na göre sıkı ve net teslim tarihleri (deadline) belirlemek işlerin uzamasını engeller."
+    }
+  },
+  {
+    "id": "prod_11",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Proje Yönetimi - Kanban Metodu",
+      "frontText": "Kanban panosundaki 3 temel sütun hangisidir?",
+      "backText": "To Do (Yapılacaklar), In Progress (Yapılıyor), Done (Tamamlandı)."
+    },
+    "quiz": {
+      "questionText": "Japonca 'Görsel Kart' anlamına gelen ve iş akışını sütunlarla görselleştiren metod hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Kanban", "isCorrect": true },
+        { "id": "o2", "text": "Scrum", "isCorrect": false },
+        { "id": "o3", "text": "Waterfall", "isCorrect": false },
+        { "id": "o4", "text": "Kaizen", "isCorrect": false }
+      ],
+      "explanation": "Kanban, iş süreçlerini görsel kartlarla takip ederek darboğazları tespit etmeyi ve tamamlamayı kolaylaştırır."
+    }
+  },
+  {
+    "id": "prod_12",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Alışkanlıklar - Alışkanlık Zinciri (Don't Break the Chain)",
+      "frontText": "Jerry Seinfeld'in 'Zinciri Bozma' metodunun ana fikri nedir?",
+      "backText": "Hedeflenen eylemi her gün yapıp takvime bir çarpı atarak kesintisiz bir zincir oluşturmak."
+    },
+    "quiz": {
+      "questionText": "Jerry Seinfeld'in her gün takvime 'X' atarak sürdürdüğü verimlilik tekniğinin adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Zinciri Bozma (Don't Break the Chain)", "isCorrect": true },
+        { "id": "o2", "text": "Pomodoro", "isCorrect": false },
+        { "id": "o3", "text": "Time Boxing", "isCorrect": false },
+        { "id": "o4", "text": "5S Metodu", "isCorrect": false }
+      ],
+      "explanation": "Görsel olarak üst üste gelen çarpılar motivasyonu korur ve alışkanlığın sürdürülebilirliğini sağlar."
+    }
+  },
+  {
+    "id": "prod_13",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zihin Düzenleme - İkinci Beyin (Second Brain)",
+      "frontText": "Tiago Forte'un 'BUILD A SECOND BRAIN' yaklaşımı neyi amaçlar?",
+      "backText": "Dijital not alma araçlarıyla zihindeki bilgi yükünü dışarı aktarıp düzenlemeyi."
+    },
+    "quiz": {
+      "questionText": "Zihni bilgiyi tutma baskısından kurtarıp fikir üretmeye odaklamak için dijital not sistemleri kurma konseptine ne denir?",
+      "options": [
+        { "id": "o1", "text": "Building a Second Brain (İkinci Beyin)", "isCorrect": true },
+        { "id": "o2", "text": "Digital Detox", "isCorrect": false },
+        { "id": "o3", "text": "Mind Mapping", "isCorrect": false },
+        { "id": "o4", "text": "Speed Reading", "isCorrect": false }
+      ],
+      "explanation": "Beyin fikir üretmek içindir, depolamak için değil. Bilgiyi Notion/Obsidian gibi sistemlerde depolamak 'İkinci Beyin'dir."
+    }
+  },
+  {
+    "id": "prod_14",
+    "categoryId": "productivity",
+    "card": {
+      "title": "İş Organizasyonu - CODE Metodu",
+      "frontText": "İkinci Beyin oluştururken kullanılan CODE kısaltması neleri temsil eder?",
+      "backText": "Capture (Yakala), Organize (Düzenle), Distill (Özetle), Express (Üret/İfade Et)."
+    },
+    "quiz": {
+      "questionText": "Bilgi yönetimindeki CODE metodunda 'Distill' (Özetle/Süzme) adımı neyi ifade eder?",
+      "options": [
+        { "id": "o1", "text": "Notun sadece ana fikrini ve özünü öne çıkarmayı", "isCorrect": true },
+        { "id": "o2", "text": "Notu tamamen silmeyi", "isCorrect": false },
+        { "id": "o3", "text": "Notu başkasına e-posta atmayı", "isCorrect": false },
+        { "id": "o4", "text": "Klasörleme yapmayı", "isCorrect": false }
+      ],
+      "explanation": "Distill, uzun notlar içerisinden gelecekte hızla erişilebilecek kilit cümleleri vurgulamaktır."
+    }
+  },
+  {
+    "id": "prod_15",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Kişisel Gelişim - SMART Hedefler",
+      "frontText": "SMART hedef belirleme kriterindeki 'S' harfi neyi temsil eder?",
+      "backText": "Specific (Belirgin / Net olması)."
+    },
+    "quiz": {
+      "questionText": "SMART hedef ilkelerine göre verilen bir hedefin ölçülebilir olmasını ifade eden harf hangisidir?",
+      "options": [
+        { "id": "o1", "text": "M - Measurable", "isCorrect": true },
+        { "id": "o2", "text": "S - Specific", "isCorrect": false },
+        { "id": "o3", "text": "A - Achievable", "isCorrect": false },
+        { "id": "o4", "text": "T - Time-bound", "isCorrect": false }
+      ],
+      "explanation": "M (Measurable), hedefin ilerleyişinin sayısal olarak ölçülebilir olmasını şart koşar."
+    }
+  },
+  {
+    "id": "prod_16",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Zaman Hırsızları (Time Wasters)",
+      "frontText": "Günlük çalışmada en büyük 'Zaman Hırsızı' olarak görülen tutum nedir?",
+      "backText": "Sürekli bildirim kontrolü ve bildirimlerle bölünen 'Multitasking' (Çoklu görev)."
+    },
+    "quiz": {
+      "questionText": "Araştırmalara göre insan beyninin aynı anda birden fazla karmaşık işi yapmaya çalışmasına verilen ad nedir?",
+      "options": [
+        { "id": "o1", "text": "Multitasking (Çoklu Görev Yanılsaması)", "isCorrect": true },
+        { "id": "o2", "text": "Hyperfocus", "isCorrect": false },
+        { "id": "o3", "text": "Single-tasking", "isCorrect": false },
+        { "id": "o4", "text": "Task Switching", "isCorrect": false }
+      ],
+      "explanation": "Beyin aynı anda iki işi yapmaz, işler arasında hızlıca geçiş yapar. Bu durum dikkat dağınıklığı ve veri kaybı yaratır."
+    }
+  },
+  {
+    "id": "prod_17",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Psikoloji - Akış Durumu (Flow State)",
+      "frontText": "Mihaly Csikszentmihalyi'nin 'Akış' (Flow) teorisi nedir?",
+      "backText": "Zorluk ile beceri dengelendiğinde kişinin zamanı unutup işe tamamen gömüldüğü odak durumu."
+    },
+    "quiz": {
+      "questionText": "Akış (Flow) durumuna girebilmek için yapılması gereken görev ile kişinin becerisi arasındaki denge nasıl olmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Görevin zorluğu ile kişinin beceri seviyesi dengeli olmalıdır", "isCorrect": true },
+        { "id": "o2", "text": "Görev imkansız derecede zor olmalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Görev aşırı kolay ve sıkıcı olmalıdır", "isCorrect": false },
+        { "id": "o4", "text": "Becerinin hiçbir önemi yoktur", "isCorrect": false }
+      ],
+      "explanation": "Görev çok kolaysa sıkıntı, çok zorsa kaygı doğar. Beceri ile zorluk dengelendiğinde 'Akış' gerçekleşir."
+    }
+  },
+  {
+    "id": "prod_18",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Sürekli İyileşme - Kaizen Felsefesi",
+      "frontText": "Japon yönetim felsefesi olan Kaizen ne anlama gelir?",
+      "backText": "'Sürekli İyileştirme' (Süreçlerde adım adım küçük ama kesintisiz gelişim)."
+    },
+    "quiz": {
+      "questionText": "Japonların üretim ve kişisel gelişimde kullandığı, 'Her gün küçük bir adımla sürekli iyileşme' felsefesi nedir?",
+      "options": [
+        { "id": "o1", "text": "Kaizen", "isCorrect": true },
+        { "id": "o2", "text": "Ikigai", "isCorrect": false },
+        { "id": "o3", "text": "Kanban", "isCorrect": false },
+        { "id": "o4", "text": "Wabi-Sabi", "isCorrect": false }
+      ],
+      "explanation": "Kaizen kelimesi 'Kai' (değişim) ve 'Zen' (daha iyi) kelimelerinin birleşiminden oluşur."
+    }
+  },
+  {
+    "id": "prod_19",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Yaşam Amacı - Ikigai",
+      "frontText": "Japon kültüründeki 'Ikigai' kavramı neyi temsil eder?",
+      "backText": "'Var olma nedeni' veya 'Sabah yataktan kalkma sebebi' (Tutku, misyon, meslek ve uzlaşının kesişimi)."
+    },
+    "quiz": {
+      "questionText": "Sevdiğiniz, iyi olduğunuz, dünyanın ihtiyacı olan ve para kazanabileceğiniz işlerin kesişim noktasına ne denir?",
+      "options": [
+        { "id": "o1", "text": "Ikigai", "isCorrect": true },
+        { "id": "o2", "text": "Kaizen", "isCorrect": false },
+        { "id": "o3", "text": "Pomodoro", "isCorrect": false },
+        { "id": "o4", "text": "Kintsugi", "isCorrect": false }
+      ],
+      "explanation": "Ikigai, kişisel tatmin ve uzun ömürlü motivasyon getiren hayat amacını bulma felsefesidir."
+    }
+  },
+  {
+    "id": "prod_20",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zihin Düzenleme - Zettelkasten Metodu",
+      "frontText": "Niklas Luhmann'ın geliştirdiği Zettelkasten sistemi nedir?",
+      "backText": "Notları numaralandırıp birbirine bağlantılar (links) vererek ağ yapısında bilgi kütüphanesi oluşturmak."
+    },
+    "quiz": {
+      "questionText": "Sosyolog Luhmann'ın binlerce makale yazmasını sağlayan, notlar arasında bağlantı kurma merkezli yöntemin adı nedir?",
+      "options": [
+        { "id": "o1", "text": "Zettelkasten", "isCorrect": true },
+        { "id": "o2", "text": "Cornell Metodu", "isCorrect": false },
+        { "id": "o3", "text": "Mind Mapping", "isCorrect": false },
+        { "id": "o4", "text": "Outline Metodu", "isCorrect": false }
+      ],
+      "explanation": "Zettelkasten (Fiş Kutusu), atomik notların birbirine atıfta bulunarak organik fikir ağları kurmasını sağlar."
+    }
+  },
+  {
+    "id": "prod_21",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Not Alma - Cornell Metodu",
+      "frontText": "Cornell Not Alma Sistemi sayfayı kaç ana bölüme ayırır?",
+      "backText": "3 Bölüm: Ana Notlar, İpuçları/Anahtar Kelimeler (Sol) ve Özet (Alt)."
+    },
+    "quiz": {
+      "questionText": "Sayfanın altına tek cümlelik veya kısa bir 'Özet' alanı ekleyen geleneksel not alma düzeni hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Cornell Metodu", "isCorrect": true },
+        { "id": "o2", "text": "Zettelkasten", "isCorrect": false },
+        { "id": "o3", "text": "Zihin Haritası", "isCorrect": false },
+        { "id": "o4", "text": "Flow Metodu", "isCorrect": false }
+      ],
+      "explanation": "Cornell tekniği dersten sonra hızlı tekrar yapmayı kolaylaştıran ipucu ve özet sütunlarına sahiptir."
+    }
+  },
+  {
+    "id": "prod_22",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Görsel Düşünme - Zihin Haritası (Mind Map)",
+      "frontText": "Tony Buzan tarafından popülerleştirilen Zihin Haritası nasıl çizilir?",
+      "backText": "Merkeze ana kavram konulur, dallar halinde ilişkili fikirler ve görseller dışa doğru yayılır."
+    },
+    "quiz": {
+      "questionText": "Merkezdeki ana fikirden dışarıya doğru dallanan ağaç yapısındaki görsel düşünme aracına ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Mind Map (Zihin Haritası)", "isCorrect": true },
+        { "id": "o2", "text": "Gantt Şeması", "isCorrect": false },
+        { "id": "o3", "text": "Akış Şeması (Flowchart)", "isCorrect": false },
+        { "id": "o4", "text": "Histogram", "isCorrect": false }
+      ],
+      "explanation": "Zihin Haritaları, beynin sağ ve sol lobunu aynı anda çalıştırarak akılda kalıcılığı artırır."
+    }
+  },
+  {
+    "id": "prod_23",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Zaman Engelleme (Timeboxing)",
+      "frontText": "Timeboxing ile Time Blocking arasındaki temel fark nedir?",
+      "backText": "Timeboxing'de göreve katı bir bitiş süresi konur ve süre dolunca iş yarım kalsa bile durulur."
+    },
+    "quiz": {
+      "questionText": "Bir göreve kesin bir süre sınırı koyup süre bittiğinde çalışmayı durdurma disiplinine ne denir?",
+      "options": [
+        { "id": "o1", "text": "Timeboxing", "isCorrect": true },
+        { "id": "o2", "text": "Pomodoro", "isCorrect": false },
+        { "id": "o3", "text": "Batching", "isCorrect": false },
+        { "id": "o4", "text": "Task Auditing", "isCorrect": false }
+      ],
+      "explanation": "Timeboxing mükemmeliyetçiliği kırar ve kısıtlı sürede maksimum çıktıyı almaya zorlar."
+    }
+  },
+  {
+    "id": "prod_24",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Görev Birleştirme - Batching (Toplu İşleme)",
+      "frontText": "Task Batching (Görev Gruplama) ne anlama gelir?",
+      "backText": "E-postaları yanıtlamak gibi benzer küçük işleri gün içine yaymak yerine tek bir zaman diliminde topluca yapmak."
+    },
+    "quiz": {
+      "questionText": "Benzer nitelikteki küçük işleri (fatura ödeme, e-posta yanıtlama vb.) tek seferde topluca halletme tekniği nedir?",
+      "options": [
+        { "id": "o1", "text": "Task Batching (Gruplama)", "isCorrect": true },
+        { "id": "o2", "text": "Multitasking", "isCorrect": false },
+        { "id": "o3", "text": "Delegation", "isCorrect": false },
+        { "id": "o4", "text": "Procrastination", "isCorrect": false }
+      ],
+      "explanation": "Batching, zihinsel bağlam değiştirme (context switching) maliyetini en aza indirerek zaman kazandırır."
+    }
+  },
+  {
+    "id": "prod_25",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Erteleme Psikolojisi - Zeigarnik Etkisi",
+      "frontText": "Zeigarnik Etkisi insan zihninde nasıl çalışır?",
+      "backText": "Zihin, bitirilmemiş/yarım kalmış işleri tamamlanmış işlere göre daha çok hatırlar ve rahatsızlık duyar."
+    },
+    "quiz": {
+      "questionText": "Tamamlanmamış işlerin zihni sürekli meşgul etmesi ve hatırlanması durumunu açıklayan psikolojik kavram nedir?",
+      "options": [
+        { "id": "o1", "text": "Zeigarnik Etkisi", "isCorrect": true },
+        { "id": "o2", "text": "Dunning-Kruger Etkisi", "isCorrect": false },
+        { "id": "o3", "text": "Hawthorne Etkisi", "isCorrect": false },
+        { "id": "o4", "text": "Pygmalion Etkisi", "isCorrect": false }
+      ],
+      "explanation": "Bir işe başlamak Zeigarnik etkisini tetikler; zihin işi tamamlayana kadar arka planda onu düşünmeye devam eder."
+    }
+  },
+  {
+    "id": "prod_26",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Alışkanlıklar - Alışkanlık İstifleme (Habit Stacking)",
+      "frontText": "Habit Stacking (Alışkanlık İstifleme) tekniği nasıl uygulanır?",
+      "backText": "Yeni kurulacak alışkanlığı, hali hazırda her gün yapılan mevcut bir alışkanlığın arkasına ekleyerek."
+    },
+    "quiz": {
+      "questionText": "'Kahvemi demledikten sonra 5 sayfa kitap okuyacağım' şeklindeki alışkanlık kazanma yöntemine ne verilir?",
+      "options": [
+        { "id": "o1", "text": "Habit Stacking (Alışkanlık İstifleme)", "isCorrect": true },
+        { "id": "o2", "text": "Habit Tracking", "isCorrect": false },
+        { "id": "o3", "text": "Prompting", "isCorrect": false },
+        { "id": "o4", "text": "Fogg Model", "isCorrect": false }
+      ],
+      "explanation": "Mevcut alışkanlık güçlü bir tetikleyicidir; yeni eylemi ona bağlamak adaptasyonu kolaylaştırır."
+    }
+  },
+  {
+    "id": "prod_27",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Düzen / Temizlik - 5S Metodu",
+      "frontText": "Japon kaynaklı 5S metodunun temel gayesi nedir?",
+      "backText": "Çalışma alanını düzenlemek, temiz tutmak ve israfı önleyerek verim artırmaktır."
+    },
+    "quiz": {
+      "questionText": "Aşağıdakilerden hangisi çalışma alanlarında düzeni sağlayan 5S adımlarından biri DEĞİLDİR?",
+      "options": [
+        { "id": "o1", "text": "Snooze (Ertelemek)", "isCorrect": true },
+        { "id": "o2", "text": "Seiri (Ayıkla)", "isCorrect": false },
+        { "id": "o3", "text": "Seiton (Düzenle)", "isCorrect": false },
+        { "id": "o4", "text": "Seiso (Temizle)", "isCorrect": false }
+      ],
+      "explanation": "5S adımları Seiri, Seiton, Seiso, Seiketsu ve Shitsuke'dir. Ertelemek bu sistemde yoktur."
+    }
+  },
+  {
+    "id": "prod_28",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Verim Ölçümü - OKR Metodu",
+      "frontText": "Google ve Intel gibi şirketlerin kullandığı OKR ne anlama gelir?",
+      "backText": "Objectives and Key Results (Hedefler ve Anahtar Sonuçlar)."
+    },
+    "quiz": {
+      "questionText": "Hedefleri netleştirip bunlara ulaşmayı ölçülebilir anahtar sonuçlarla takip eden sistem hangisidir?",
+      "options": [
+        { "id": "o1", "text": "OKR", "isCorrect": true },
+        { "id": "o2", "text": "KPI", "isCorrect": false },
+        { "id": "o3", "text": "SWOT", "isCorrect": false },
+        { "id": "o4", "text": "Pestel", "isCorrect": false }
+      ],
+      "explanation": "OKR, 'Nereye gitmek istiyorum?' (Objective) ve 'Oraya ulaştığımı nasıl ölçeceğim?' (Key Results) sorularına odaklanır."
+    }
+  },
+  {
+    "id": "prod_29",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Performans Göstergesi - KPI",
+      "frontText": "KPI ifadesinin açılımı ve anlamı nedir?",
+      "backText": "Key Performance Indicator (Temel Performans Göstergesi)."
+    },
+    "quiz": {
+      "questionText": "Bir organizasyonun veya bireyin başarısını sayısal olarak değerlendiren göstergelere ne denir?",
+      "options": [
+        { "id": "o1", "text": "KPI", "isCorrect": true },
+        { "id": "o2", "text": "ROI", "isCorrect": false },
+        { "id": "o3", "text": "B2B", "isCorrect": false },
+        { "id": "o4", "text": "CRM", "isCorrect": false }
+      ],
+      "explanation": "KPI'lar belirli hedeflere ne kadar yaklaşıldığını somut metriklerle izlemeyi sağlar."
+    }
+  },
+  {
+    "id": "prod_30",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Pomodoro Uzun Mola",
+      "frontText": "Kaç Pomodoro (çalışma seansı) sonrasında uzun mola (15-30 dk) verilmelidir?",
+      "backText": "4 Pomodoro seansından sonra."
+    },
+    "quiz": {
+      "questionText": "Klasik Pomodoro tekniğinde kaç tane 25 dakikalık çalışma tamamlandıktan sonra uzun mola verilir?",
+      "options": [
+        { "id": "o1", "text": "4 Seans", "isCorrect": true },
+        { "id": "o2", "text": "2 Seans", "isCorrect": false },
+        { "id": "o3", "text": "6 Seans", "isCorrect": false },
+        { "id": "o4", "text": "1 Seans", "isCorrect": false }
+      ],
+      "explanation": "4 kısa çalışma periyodu bittiğinde zihnin tazelenmesi için 15 ile 30 dakika arasında uzun mola verilir."
+    }
+  },
+  {
+    "id": "prod_31",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Erteleme İle Mücadele - 5 Saniye Kuralı",
+      "frontText": "Mel Robbins'in '5 Second Rule' (5 Saniye Kuralı) nasıl çalışır?",
+      "backText": "Bir işi yapma isteği geldiğinde içinden 5-4-3-2-1 diye geriye sayıp hemen harekete geçerek."
+    },
+    "quiz": {
+      "questionText": "Mel Robbins'e göre beynin tereddüt edip bahaneler üretmesini engellemek için ne yapılmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Geriden 5'ten 1'e kadar sayıp hemen fiziksel eyleme geçmek", "isCorrect": true },
+        { "id": "o2", "text": "5 dakika derin nefes almak", "isCorrect": false },
+        { "id": "o3", "text": "İşi 5 gün sonraya ertelemek", "isCorrect": false },
+        { "id": "o4", "text": "5 farklı kişiye danışmak", "isCorrect": false }
+      ],
+      "explanation": "5 saniye kuralı, prefrontal korteksi devreye sokarak beynin erteleme mekanizmasını (sabotajını) kırar."
+    }
+  },
+  {
+    "id": "prod_32",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Alışkanlıklar - Cue, Craving, Response, Reward",
+      "frontText": "Alışkanlık döngüsünün 4 temel bileşeni sırasıyla nedir?",
+      "backText": "İşaret (Cue), İstek (Craving), Tepki/Eylem (Response), Ödül (Reward)."
+    },
+    "quiz": {
+      "questionText": "Alışkanlık döngüsünde eylemin gerçekleşmesini sağlayan ilk tetikleyici unsur nedir?",
+      "options": [
+        { "id": "o1", "text": "Cue (İşaret / Tetikleyici)", "isCorrect": true },
+        { "id": "o2", "text": "Reward (Ödül)", "isCorrect": false },
+        { "id": "o3", "text": "Response (Tepki)", "isCorrect": false },
+        { "id": "o4", "text": "Craving (İstek)", "isCorrect": false }
+      ],
+      "explanation": "İşaret (örneğin telefon bildirimi), beyni isteğe yönlendirir, ardından eylem yapılır ve ödül alınır."
+    }
+  },
+  {
+    "id": "prod_33",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Süreç Yönetimi - GTD (Getting Things Done)",
+      "frontText": "David Allen'ın GTD metodunun ilk adımı nedir?",
+      "backText": "Capture (Yakala) - Aklınıza gelen her fikri ve görevi hemen bir yere kaydetmek."
+    },
+    "quiz": {
+      "questionText": "Getting Things Done (GTD) metoduna göre zihni boşaltmak için yapılacak ilk hamle nedir?",
+      "options": [
+        { "id": "o1", "text": "Zihindeki tüm görevleri dış bir sisteme kaydetmek (Capture)", "isCorrect": true },
+        { "id": "o2", "text": "Hemen en zor işi yapmaya başlamak", "isCorrect": false },
+        { "id": "o3", "text": "Takvimde saat bloklamak", "isCorrect": false },
+        { "id": "o4", "text": "Görsel kartlar hazırlamak", "isCorrect": false }
+      ],
+      "explanation": "GTD yöntemi, akıldaki her şeyi güvenilir bir kayıt ortamına yazarak zihinsel rahatlama sağlamayı hedefler."
+    }
+  },
+  {
+    "id": "prod_34",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Odaklanma - Pomodoro Tekniğinin Mucidi",
+      "frontText": "Pomodoro Tekniği'ni 1980'lerin sonunda geliştiren kişi kimdir?",
+      "backText": "Francesco Cirillo (Domates şeklindeki mutfak zamanlayıcısından esinlenmiştir)."
+    },
+    "quiz": {
+      "questionText": "İtalyanca 'Domates' anlamına gelen Pomodoro tekniğinin mucidi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Francesco Cirillo", "isCorrect": true },
+        { "id": "o2", "text": "David Allen", "isCorrect": false },
+        { "id": "o3", "text": "Vilfredo Pareto", "isCorrect": false },
+        { "id": "o4", "text": "Cal Newport", "isCorrect": false }
+      ],
+      "explanation": "Cirillo, üniversite yıllarında domates biçimli mutfak saatini kullanarak bu tekniği keşfetmiştir."
+    }
+  },
+  {
+    "id": "prod_35",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Enerji Yönetimi - Ultradien Ritimler",
+      "frontText": "İnsan beyninin yüksek odaklanma gösterebildiği Ultradien Ritim süresi yaklaşık ne kadardır?",
+      "backText": "90 ila 120 dakika (Ardından zihinsel dinlenme ihtiyacı doğar)."
+    },
+    "quiz": {
+      "questionText": "Vücudumuzun doğal odaklanma ve dinlenme dalgası olan Ultradien Ritim döngüsü ortalama kaç dakikadır?",
+      "options": [
+        { "id": "o1", "text": "90 - 120 Dakika", "isCorrect": true },
+        { "id": "o2", "text": "25 - 30 Dakika", "isCorrect": false },
+        { "id": "o3", "text": "4 Saat", "isCorrect": false },
+        { "id": "o4", "text": "10 Dakika", "isCorrect": false }
+      ],
+      "explanation": "Beyin yaklaşık 90 dakika yüksek performansla çalıştıktan sonra biyolojik olarak mola talep eder."
+    }
+  },
+  {
+    "id": "prod_36",
+    "categoryId": "productivity",
+    "card": {
+      "title": "İş Süreçleri - 80/20 İlkesinin Ismi",
+      "frontText": "80/20 Kuralı adını hangi İtalyan ekonomistten almıştır?",
+      "backText": "Vilfredo Pareto."
+    },
+    "quiz": {
+      "questionText": "İtalya'daki toprakların %80'inin nüfusun %20'sine ait olduğunu fark ederek 80/20 kuralını bulan kişi kimdir?",
+      "options": [
+        { "id": "o1", "text": "Vilfredo Pareto", "isCorrect": true },
+        { "id": "o2", "text": "Leonardo Fibonacci", "isCorrect": false },
+        { "id": "o3", "text": "Enrico Fermi", "isCorrect": false },
+        { "id": "o4", "text": "Galileo Galilei", "isCorrect": false }
+      ],
+      "explanation": "Pareto'nun mikroekonomik gözlemi bugün kişisel verimlilikten iş dünyasına kadar geniş kabul görmüştür."
+    }
+  },
+  {
+    "id": "prod_37",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Kişisel Gelişim - 10.000 Saat Kuralı",
+      "frontText": "Malcolm Gladwell'in popülerleştirdiği 10.000 Saat Kuralı neyi ileri sürer?",
+      "backText": "Bir alanda dünya çapında uzman/usta olmak için yaklaşık 10.000 saat adanmış pratik gerektiğini."
+    },
+    "quiz": {
+      "questionText": "'Outliers' kitabında geçen ve bir alanda üstün ustalık kazanmak için gereken tahmini pratik süresi nedir?",
+      "options": [
+        { "id": "o1", "text": "10.000 Saat", "isCorrect": true },
+        { "id": "o2", "text": "1.000 Saat", "isCorrect": false },
+        { "id": "o3", "text": "500 Saat", "isCorrect": false },
+        { "id": "o4", "text": "50.000 Saat", "isCorrect": false }
+      ],
+      "explanation": "Malcolm Gladwell, Anders Ericsson'ın araştırmalarına dayanarak ustalaşmanın bilinçli pratik süresine bağlı olduğunu savunur."
+    }
+  },
+  {
+    "id": "prod_38",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Öğrenme - Bilinçli Pratik (Deliberate Practice)",
+      "frontText": "Deliberate Practice (Bilinçli Pratik) sıradan tekrardan nasıl ayrılır?",
+      "backText": "Konfor alanından çıkarak, spesifik zayıflıklara odaklanıp anlık geri bildirimle çalışarak."
+    },
+    "quiz": {
+      "questionText": "Sadece tekrar yapmak yerine zayıf olunan noktaları hedef alıp geri bildirimle yapılan geliştirmeye ne denir?",
+      "options": [
+        { "id": "o1", "text": "Deliberate Practice (Bilinçli Pratik)", "isCorrect": true },
+        { "id": "o2", "text": "Rote Learning (Ezberci Öğrenme)", "isCorrect": false },
+        { "id": "o3", "text": "Passive Review (Pasif Tekrar)", "isCorrect": false },
+        { "id": "o4", "text": "Cramming (Son Gece Çalışma)", "isCorrect": false }
+      ],
+      "explanation": "Bilinçli pratik gelişim alanlarına odaklanır, konfor alanını zorlar ve uzmanlaşmayı hızlandırır."
+    }
+  },
+  {
+    "id": "prod_39",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Karar Verme - Hick Yasası",
+      "frontText": "Hick Yasası (Hick's Law) karar verme süresi hakkında ne der?",
+      "backText": "Seçenek sayısı arttıkça karar verme süresi ve zihinsel yorgunluk artar."
+    },
+    "quiz": {
+      "questionText": "Önümüzdeki seçeneklerin sayısı arttıkça karar vermemizin zorlaşması ve gecikmesini açıklayan yasa nedir?",
+      "options": [
+        { "id": "o1", "text": "Hick Yasası", "isCorrect": true },
+        { "id": "o2", "text": "Moore Yasası", "isCorrect": false },
+        { "id": "o3", "text": "Fitts Yasası", "isCorrect": false },
+        { "id": "o4", "text": "Metcalfe Yasası", "isCorrect": false }
+      ],
+      "explanation": "Seçenek bolluğu karar felcine (analysis paralysis) yol açar; verimlilik için seçenekler sadeleştirilmelidir."
+    }
+  },
+  {
+    "id": "prod_40",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zihinsel Durum - Karar Yorgunluğu (Decision Fatigue)",
+      "frontText": "Karar Yorgunluğu (Decision Fatigue) nedir?",
+      "backText": "Gün içinde üst üste karar verdikçe beynin kaliteli karar verme yetisinin zayıflaması."
+    },
+    "quiz": {
+      "questionText": "Steve Jobs ve Mark Zuckerberg gibi liderlerin her gün aynı tip kıyafeti giymelerinin temel nedeni nedir?",
+      "options": [
+        { "id": "o1", "text": "Karar yorgunluğunu önleyip zihinsel enerjiyi korumak", "isCorrect": true },
+        { "id": "o2", "text": "Alışveriş yapmayı sevmemek", "isCorrect": false },
+        { "id": "o3", "text": "Para tasarrufu sağlamak", "isCorrect": false },
+        { "id": "o4", "text": "Sadece stil yaratmak", "isCorrect": false }
+      ],
+      "explanation": "Önemsiz seçimleri (ne giyeceğim, ne yiyeceğim) otomatikleştirmek, önemli kararlar için zihinsel enerjiyi saklar."
+    }
+  },
+  {
+    "id": "prod_41",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Gelişim Modeli - Dunning-Kruger Etkisi",
+      "frontText": "Dunning-Kruger etkisi bilgi seviyesi ile özgüven arasında nasıl bir ilişki kurar?",
+      "backText": "Bir konuda az bilgisi olanlar aşırı özgüvenli olurken, uzmanlaştıkça karmaşıklık fark edilip özgüven dengelenir."
+    },
+    "quiz": {
+      "questionText": "Bir konuda henüz başlangıç seviyesinde olan birinin kendisini uzman sanma eğilimine ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Dunning-Kruger Etkisi", "isCorrect": true },
+        { "id": "o2", "text": "Imposter Sendromu", "isCorrect": false },
+        { "id": "o3", "text": "Halo Etkisi", "isCorrect": false },
+        { "id": "o4", "text": "Barnum Etkisi", "isCorrect": false }
+      ],
+      "explanation": "Cahil cesareti olarak da bilinen bu durumda, bilgi eksikliği kişinin kendi yetersizliğini görmesini engeller."
+    }
+  },
+  {
+    "id": "prod_42",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Psikoloji - Imposter Sendromu",
+      "frontText": "Imposter (Sahtekar) Sendromu yaşayan başarılı kişilerin temel düşüncesi nedir?",
+      "backText": "Kazanımları şansa bağlayıp, yetersiz olduklarını ve yakında 'sahtekarlıklarının' ortaya çıkacağını düşünmek."
+    },
+    "quiz": {
+      "questionText": "Gerçekte başarılı ve yetkin olmasına rağmen kendisini yetersiz görüp 'yakında yakalanacağım' korkusu yaşamaya ne denir?",
+      "options": [
+        { "id": "o1", "text": "Imposter (Sahtekar) Sendromu", "isCorrect": true },
+        { "id": "o2", "text": "Dunning-Kruger Etkisi", "isCorrect": false },
+        { "id": "o3", "text": "Narsisizm", "isCorrect": false },
+        { "id": "o4", "text": "Tükenmişlik Sendromu", "isCorrect": false }
+      ],
+      "explanation": "High-achiever (yüksek başarılı) bireylerde sık görülen bu psikolojik durum özsaygıyı haksız yere zedeler."
+    }
+  },
+  {
+    "id": "prod_43",
+    "categoryId": "productivity",
+    "card": {
+      "title": "İş Hukuku / Yaşam - Burnout (Tükenmişlik)",
+      "frontText": "Tükenmişlik Sendromu'nun (Burnout) ana semptomları nelerdir?",
+      "backText": "Kronik zihinsel/fiziksel yorgunluk, işe karşı duyarsızlaşma ve üretkenlik kaybı."
+    },
+    "quiz": {
+      "questionText": "Dünya Sağlık Örgütü tarafından mesleki bir fenomene dönüştüğü kabul edilen duygusal ve fiziksel tükenme haline ne denir?",
+      "options": [
+        { "id": "o1", "text": "Burnout (Tükenmişlik)", "isCorrect": true },
+        { "id": "o2", "text": "Boredom (Sıkıntı)", "isCorrect": false },
+        { "id": "o3", "text": "Anksiyete", "isCorrect": false },
+        { "id": "o4", "text": "Procrastination", "isCorrect": false }
+      ],
+      "explanation": "Uzun süreli stres ve dinlenme eksikliği sonucu oluşan Burnout, profesyonel performansı sıfırlar."
+    }
+  },
+  {
+    "id": "prod_44",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Alışkanlıklar - 21 Gün Mitosu",
+      "frontText": "Bir alışkanlığın yerleşmesi için bilimsel olarak ortalama kaç gün gerekir?",
+      "backText": "Ortalama 66 gün (İşe ve kişiye göre 18 ila 254 gün arası değişir)."
+    },
+    "quiz": {
+      "questionText": "Phillippa Lally'nin araştırmasına göre yeni bir alışkanlığın otomatikleşmesi ortalama kaç gün sürer?",
+      "options": [
+        { "id": "o1", "text": "66 Gün", "isCorrect": true },
+        { "id": "o2", "text": "21 Gün", "isCorrect": false },
+        { "id": "o3", "text": "7 Gün", "isCorrect": false },
+        { "id": "o4", "text": "365 Gün", "isCorrect": false }
+      ],
+      "explanation": "Yaygın bilinen 21 gün kuralı bir şehir efsanesidir; beyinde nöral yolların oluşması ortalama 66 günü bulur."
+    }
+  },
+  {
+    "id": "prod_45",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Odağı Koruma - Dijital Detoks",
+      "frontText": "Dijital Detoks (Digital Detox) uygulaması ne sağlar?",
+      "backText": "Belirli süreler boyunca ekranlardan ve sosyal medyadan uzak durarak dopamin dengesini ve odağı tazelemek."
+    },
+    "quiz": {
+      "questionText": "Dopamin reseptörlerini dinlendirmek ve zihinsel berraklık kazanmak için teknolojik cihazlara ara vermeye ne denir?",
+      "options": [
+        { "id": "o1", "text": "Digital Detox", "isCorrect": true },
+        { "id": "o2", "text": "Time Shifting", "isCorrect": false },
+        { "id": "o3", "text": "Context Switching", "isCorrect": false },
+        { "id": "o4", "text": "Data Cleaning", "isCorrect": false }
+      ],
+      "explanation": "Dijital detoks uyarıcı yoğunluğunu düşürerek derin odaklanma kapasitesini yeniden artırır."
+    }
+  },
+  {
+    "id": "prod_46",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Teknoloji / Çalışma - Pomodoro İsmindeki Saatin Rengi",
+      "frontText": "Cirillo'nun kullandığı domates saatin rengi neydi?",
+      "backText": "Kırmızı."
+    },
+    "quiz": {
+      "questionText": "Pomodoro tekniğine adını veren orijinal domates zamanlayıcısının rengi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Kırmızı", "isCorrect": true },
+        { "id": "o2", "text": "Yeşil", "isCorrect": false },
+        { "id": "o3", "text": "Sarı", "isCorrect": false },
+        { "id": "o4", "text": "Mavi", "isCorrect": false }
+      ],
+      "explanation": "Cirillo evindeki kırmızı domates şeklindeki mutfak saatiyle 25 dakikalık dilimleri ölçmüştür."
+    }
+  },
+  {
+    "id": "prod_47",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Not Alma - Spaced Repetition (Aralıklı Tekrar)",
+      "frontText": "Aralıklı Tekrar (Spaced Repetition) sistemi neye dayanır?",
+      "backText": "Bilgiyi unutma eğrisi (Forgetting Curve) yaklaşırken artan zaman aralıklarıyla tekrar etmeye."
+    },
+    "quiz": {
+      "questionText": "Hermann Ebbinghaus'un Unutma Eğrisi'ne dayanarak bilgileri 1 gün, 3 gün, 1 hafta gibi aralıklarla gözden geçirme tekniği nedir?",
+      "options": [
+        { "id": "o1", "text": "Spaced Repetition (Aralıklı Tekrar)", "isCorrect": true },
+        { "id": "o2", "text": "Cramming (Sıkıştırma)", "isCorrect": false },
+        { "id": "o3", "text": "Active Recall", "isCorrect": false },
+        { "id": "o4", "text": "Speed Reading", "isCorrect": false }
+      ],
+      "explanation": "Aralıklı tekrar, bilgiyi kısa süreli bellekten uzun süreli belleğe aktarmanın en bilimsel yoludur."
+    }
+  },
+  {
+    "id": "prod_48",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Öğrenme - Aktif Hatırlama (Active Recall)",
+      "frontText": "Active Recall yöntemi nasıl uygulanır?",
+      "backText": "Notları pasifçe okumak yerine, kapatıp zihinden soru sorarak bilgiyi çağırmaya çalışarak."
+    },
+    "quiz": {
+      "questionText": "Sınava çalışırken ders notunu tekrar okumak yerine kendinize testler/sorular sorarak bilgiyi zorla çağırma tekniği nedir?",
+      "options": [
+        { "id": "o1", "text": "Active Recall (Aktif Hatırlama)", "isCorrect": true },
+        { "id": "o2", "text": "Passive Reading (Pasif Okuma)", "isCorrect": false },
+        { "id": "o3", "text": "Highlighting (Altını Çizme)", "isCorrect": false },
+        { "id": "o4", "text": "Mind Mapping", "isCorrect": false }
+      ],
+      "explanation": "Beyin bilgiyi içeri alırken değil, dışarı çağırmaya çalışırken (Retrieval) nöral bağları güçlendirir."
+    }
+  },
+  {
+    "id": "prod_49",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Metodoloji - PARA Metodu",
+      "frontText": "Tiago Forte'un PARA bilgi düzenleme sistemi hangi 4 klasörden oluşur?",
+      "backText": "Projects (Projeler), Areas (Alanlar), Resources (Kaynaklar), Archives (Arşiv)."
+    },
+    "quiz": {
+      "questionText": "PARA metodunda son teslim tarihi olan ve aktif yürütülen çalışmalara ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Projects (Projeler)", "isCorrect": true },
+        { "id": "o2", "text": "Areas (Alanlar)", "isCorrect": false },
+        { "id": "o3", "text": "Resources (Kaynaklar)", "isCorrect": false },
+        { "id": "o4", "text": "Archives (Arşiv)", "isCorrect": false }
+      ],
+      "explanation": "Projects net bir hedefi ve bitiş tarihi olan işlerdir; en aktif klasördür."
+    }
+  },
+  {
+    "id": "prod_50",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Batık Maliyet Yanılsaması",
+      "frontText": "Sunk Cost Fallacy (Batık Maliyet Yanılsaması) nedir?",
+      "backText": "Geçmişte harcanan emek/para boşa gitmesin diye zararda olan bir işi ısrarla sürdürme hatası."
+    },
+    "quiz": {
+      "questionText": "'Bunca zaman harcadım, artık vazgeçemem' diyerek yürümeyen bir projeye devam etme hatasına ne denir?",
+      "options": [
+        { "id": "o1", "text": "Batık Maliyet Yanılsaması (Sunk Cost Fallacy)", "isCorrect": true },
+        { "id": "o2", "text": "Fırsat Maliyeti", "isCorrect": false },
+        { "id": "o3", "text": "Planlama Yanılsaması", "isCorrect": false },
+        { "id": "o4", "text": "Oynaklık Yanılsaması", "isCorrect": false }
+      ],
+      "explanation": "Geçmişte harcanan zaman geri getirilemez; kararlar gelecekteki faydaya göre verilmelidir."
+    }
+  },
+  {
+    "id": "prod_51",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Psikoloji - Planlama Yanılsaması (Planning Fallacy)",
+      "frontText": "Planlama Yanılsaması ne anlama gelir?",
+      "backText": "Bir işin ne kadar süreceğini tahmin ederken aşırı iyimser davranıp süreyi eksik hesaplama eğilimi."
+    },
+    "quiz": {
+      "questionText": "Görünürde 2 saatlik bir görevin 5 saat sürmesine yol açan ve zamanı hep iyimser tahmin etme meylimize ne denir?",
+      "options": [
+        { "id": "o1", "text": "Planning Fallacy (Planlama Yanılsaması)", "isCorrect": true },
+        { "id": "o2", "text": "Parkinson Yasası", "isCorrect": false },
+        { "id": "o3", "text": "Murphy Yasası", "isCorrect": false },
+        { "id": "o4", "text": "Pareto İlkesi", "isCorrect": false }
+      ],
+      "explanation": "Kişiler aksilikleri hesaba katmayarak projelerin hep ideal senaryoda biteceğini varsayar."
+    }
+  },
+  {
+    "id": "prod_52",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Fırsat Maliyeti (Opportunity Cost)",
+      "frontText": "Ekonomide ve zaman yönetiminde Fırsat Maliyeti ne demektir?",
+      "backText": "Bir seçeneği tercih ettiğinizde kaçırdığınız diğer en iyi seçeneğin değeri."
+    },
+    "quiz": {
+      "questionText": "Bir saatinizi sosyal medyada geçirdiğinizde o saatte okuyabileceğiniz kitaptan mahrum kalmanız hangi kavramla açıklanır?",
+      "options": [
+        { "id": "o1", "text": "Fırsat Maliyeti (Opportunity Cost)", "isCorrect": true },
+        { "id": "o2", "text": "Batık Maliyet", "isCorrect": false },
+        { "id": "o3", "text": "Marjinal Fayda", "isCorrect": false },
+        { "id": "o4", "text": "Sabit Gider", "isCorrect": false }
+      ],
+      "explanation": "Zaman sınırlı bir kaynaktır; her 'Evet' dediğiniz eylem, başka bir eyleme 'Hayır' demektir."
+    }
+  },
+  {
+    "id": "prod_53",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Kişisel Gelişim - 5 Kişi Teorisi",
+      "frontText": "Jim Rohn'un ünlü 5 Kişi Teorisi nedir?",
+      "backText": "'En çok vakit geçirdiğiniz 5 kişinin ortalamasısınız.'"
+    },
+    "quiz": {
+      "questionText": "'En çok zaman geçirdiğiniz 5 kişinin ortalamasısınız' sözü hangi kişisel gelişim düşünürüne aittir?",
+      "options": [
+        { "id": "o1", "text": "Jim Rohn", "isCorrect": true },
+        { "id": "o2", "text": "Tony Robbins", "isCorrect": false },
+        { "id": "o3", "text": "Robin Sharma", "isCorrect": false },
+        { "id": "o4", "text": "Stephen Covey", "isCorrect": false }
+      ],
+      "explanation": "Çevrenizdeki insanların alışkanlıkları, zihniyeti ve hırsları doğrudan sizin standartlarınızı belirler."
+    }
+  },
+  {
+    "id": "prod_54",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Liderlik / Verimlilik - 7 Alışkanlık",
+      "frontText": "Stephen Covey'in 'Etkili İnsanların 7 Alışkanlığı' kitabındaki 1. Alışkanlık nedir?",
+      "backText": "Be Proactive (Proaktif Ol / Sorumluluk Al)."
+    },
+    "quiz": {
+      "questionText": "Stephen Covey'e göre reaktif olmak (şartlara mağdur olmak) yerine proaktif olup ipleri ele almak kaçıncı alışkanlıktır?",
+      "options": [
+        { "id": "o1", "text": "1. Alışkanlık", "isCorrect": true },
+        { "id": "o2", "text": "3. Alışkanlık", "isCorrect": false },
+        { "id": "o3", "text": "7. Alışkanlık", "isCorrect": false },
+        { "id": "o4", "text": "5. Alışkanlık", "isCorrect": false }
+      ],
+      "explanation": "Proaktif olmak, olaylara tepki vermek yerine hayatın kontrolünü üstlenmektir."
+    }
+  },
+  {
+    "id": "prod_55",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Kişisel Gelişim - Testereyi Bilemek",
+      "frontText": "Stephen Covey'in 'Testereyi Bilemek' (Sharpen the Saw) kuralı neyi ifade eder?",
+      "backText": "Bedenen, zihnen ve ruhen kendini sürekli yenilemeyi ve dinlenmeye zaman ayırmayı."
+    },
+    "quiz": {
+      "questionText": "Ağaç keserken durup baltayı/testereyi bileyerek daha hızlı kesmeyi simgeleyen öz-yenilenme alışkanlığı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Sharpen the Saw (Testereyi Bilemek)", "isCorrect": true },
+        { "id": "o2", "text": "Eat That Frog", "isCorrect": false },
+        { "id": "o3", "text": "Think Win-Win", "isCorrect": false },
+        { "id": "o4", "text": "Synergize", "isCorrect": false }
+      ],
+      "explanation": "Sadece çalışıp kendini yenilemeyen insan körelir; dinlenmek ve gelişmek üretim aracını (kendinizi) bilemektir."
+    }
+  },
+  {
+    "id": "prod_56",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Erteleme İle Mücadele - Mikro Adımlar",
+      "frontText": "Aşırı büyük bir görevin yarattığı kaygıyı yenmek için ne yapılmalıdır?",
+      "backText": "Görevi saçma derecede küçük mikro adımlara (Chunking) bölmek."
+    },
+    "quiz": {
+      "questionText": "Büyük projeler karşısında oluşan felç hissini aşmak için işi parçalara bölme işlemine ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Chunking (Parçalara Bölme)", "isCorrect": true },
+        { "id": "o2", "text": "Time Blocking", "isCorrect": false },
+        { "id": "o3", "text": "Delegation", "isCorrect": false },
+        { "id": "o4", "text": "Outsourcing", "isCorrect": false }
+      ],
+      "explanation": "'Bir fil nasıl yenir? Lokma lokma.' Küçük adımlar direnci kırar."
+    }
+  },
+  {
+    "id": "prod_57",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Sabah Rutinleri - 5 AM Club (Saat 5 Kulübü)",
+      "frontText": "Robin Sharma'nın '5 AM Club' metodundaki 20/20/20 kuralı ilk 1 saati nasıl böler?",
+      "backText": "20 dk Hareket/Egzersiz + 20 dk Yansıtma/Meditasyon + 20 dk Öğrenme/Gelişim."
+    },
+    "quiz": {
+      "questionText": "Robin Sharma'nın 5 AM Club felsefesine göre sabahın ilk 20 dakikası neye ayrılmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Yoğun fiziksel hareket / Egzersiz", "isCorrect": true },
+        { "id": "o2", "text": "Sosyal medya kontrolü", "isCorrect": false },
+        { "id": "o3", "text": "E-posta okumak", "isCorrect": false },
+        { "id": "o4", "text": "Kahve içip televizyon izlemek", "isCorrect": false }
+      ],
+      "explanation": "Sabah ilk 20 dakikadaki egzersiz kortizolü düşürür, dopamin ve serotonin salgılatarak güne dinç başlatır."
+    }
+  },
+  {
+    "id": "prod_58",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Odaklanma - Pomodoro Tekniğinde Kesintiler",
+      "frontText": "25 dakikalık bir Pomodoro sırasında acil olmayan bir fikir akla gelirse ne yapılmalıdır?",
+      "backText": "Araya girmeden kenardaki bir 'Araya Girenler' listesine yazılıp seansa devam edilmelidir."
+    },
+    "quiz": {
+      "questionText": "Pomodoro seansı esnasında aklınıza yapmanız gereken başka bir iş gelirse en doğru yaklaşım nedir?",
+      "options": [
+        { "id": "o1", "text": "Hemen bir kağıda not edip mevcut çalışmaya devam etmek", "isCorrect": true },
+        { "id": "o2", "text": "Pomodoro'yu iptal edip yeni işe geçmek", "isCorrect": false },
+        { "id": "o3", "text": "Aynı anda ikisini yapmaya çalışmak", "isCorrect": false },
+        { "id": "o4", "text": "Süreyi durdurup 10 dakika ara vermek", "isCorrect": false }
+      ],
+      "explanation": "Dikkati dağıtmamak için parlak fikirler veya hatırlamalar bir liste kağıdına yazılıp mola zamanına ertelenir."
+    }
+  },
+  {
+    "id": "prod_59",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Çalışma Alanı - Minimalizm ve Masa Düzeni",
+      "frontText": "Temiz ve sade bir çalışma masası zihni nasıl etkiler?",
+      "backText": "Görsel uyaran sayısını azaltarak bilişsel yükü düşürür ve odaklanma süresini artırır."
+    },
+    "quiz": {
+      "questionText": "Çalışma masasında sadece o an yapılan işle ilgili nesnelerin durmasının bilimsel yararı nedir?",
+      "options": [
+        { "id": "o1", "text": "Bilişsel yükü azaltıp dikkatin dağılmasını önlemek", "isCorrect": true },
+        { "id": "o2", "text": "Odanın daha büyük görünmesini sağlamak", "isCorrect": false },
+        { "id": "o3", "text": "Uykuyu getirmek", "isCorrect": false },
+        { "id": "o4", "text": "Sadece estetik durması", "isCorrect": false }
+      ],
+      "explanation": "Göz hizasındaki her ekstra nesne beyinde arka planda işlenen bir dikkat dağınıklığı kaynağıdır."
+    }
+  },
+  {
+    "id": "prod_60",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Süreç Yönetimi - PDCA Döngüsü (Deming Döngüsü)",
+      "frontText": "Kalite ve verimlilikteki PDCA adımları nelerdir?",
+      "backText": "Plan (Planla) -> Do (Uygula) -> Check (Kontrol Et) -> Act (Önlem Al)."
+    },
+    "quiz": {
+      "questionText": "Sürekli kalite geliştirme döngüsü olan PDCA'deki 'Check' adımı neyi temsil eder?",
+      "options": [
+        { "id": "o1", "text": "Uygulama sonuçlarını kontrol edip ölçmeyi", "isCorrect": true },
+        { "id": "o2", "text": "Yeni plan yapmayı", "isCorrect": false },
+        { "id": "o3", "text": "Projeyi hemen bitirmeyi", "isCorrect": false },
+        { "id": "o4", "text": "Bütçe onaylamayı", "isCorrect": false }
+      ],
+      "explanation": "Check adımı, yapılan uygulamanın hedeflenen planla ne kadar örtüştüğünü test etmektir."
+    }
+  },
+  {
+    "id": "prod_61",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Erteleme İle Mücadele - Tembellik vs Erteleme",
+      "frontText": "Tembellik ile Erteleme (Procrastination) arasındaki fark nedir?",
+      "backText": "Tembellikte hiçbir şey yapmama isteği vardır; ertelemede ise kişi işi yapmak ister ancak duygusal kaygı nedeniyle kaçar."
+    },
+    "quiz": {
+      "questionText": "Psikolojiye göre 'Erteleme' (Procrastination) aslında bir zaman yönetimi sorunu değil, ne sorunudur?",
+      "options": [
+        { "id": "o1", "text": "Duygu düzenleme (Emotion Regulation) sorunu", "isCorrect": true },
+        { "id": "o2", "text": "Zeka eksikliği", "isCorrect": false },
+        { "id": "o3", "text": "Fiziksel güçsüzlük", "isCorrect": false },
+        { "id": "o4", "text": "Hafıza bozukluğu", "isCorrect": false }
+      ],
+      "explanation": "İnsanlar işin kendisinden değil, o işin hissettirdiği başarısızlık veya stres duygusundan kaçtıkları için ertelerler."
+    }
+  },
+  {
+    "id": "prod_62",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zihinsel Yapı - Sabit Zihniyet vs Gelişim Zihniyeti",
+      "frontText": "Carol Dweck'in 'Gelişim Zihniyeti' (Growth Mindset) tanımı nedir?",
+      "backText": "Yetenek ve zekanın çaba, strateji ve öğrenmeyle geliştirilebileceğine inanmak."
+    },
+    "quiz": {
+      "questionText": "Carol Dweck'e göre 'Başarısızlık bir son değil, öğrenme fırsatıdır' diye düşünen yapı hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Growth Mindset (Gelişim Zihniyeti)", "isCorrect": true },
+        { "id": "o2", "text": "Fixed Mindset (Sabit Zihniyet)", "isCorrect": false },
+        { "id": "o3", "text": "Dogmatik Zihniyet", "isCorrect": false },
+        { "id": "o4", "text": "Pasif Zihniyet", "isCorrect": false }
+      ],
+      "explanation": "Gelişim zihniyetindeki bireyler zekayı sabit görmez; zorlukları gelişim için birer sıçrama tahtası kabul eder."
+    }
+  },
+  {
+    "id": "prod_63",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Üç Liste Tekniği (Ivy Lee Metodu)",
+      "frontText": "100 yıllık Ivy Lee Metodu her günün sonunda ne yapılmasını ister?",
+      "backText": "Yarın yapılacak en önemli 6 görevi yazıp önem sırasına dizmeyi."
+    },
+    "quiz": {
+      "questionText": "Ivy Lee metoduna göre bir sonraki gün için listeye en fazla kaç kritik görev yazılmalıdır?",
+      "options": [
+        { "id": "o1", "text": "6 Görev", "isCorrect": true },
+        { "id": "o2", "text": "20 Görev", "isCorrect": false },
+        { "id": "o3", "text": "1 Görev", "isCorrect": false },
+        { "id": "o4", "text": "Sınırsız sayıda", "isCorrect": false }
+      ],
+      "explanation": "Her akşam yazılan en önemli 6 madde ertesi gün sırayla bitirilir; liste odaklanmayı maksimuma çıkarır."
+    }
+  },
+  {
+    "id": "prod_64",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Bilişsel Performans - Dopamin Orucu",
+      "frontText": "Dopamin Orucu (Dopamine Fasting) fikrinin mantığı nedir?",
+      "backText": "Yüksek stimülasyonlu hızlı zevk kaynaklarını kesip beynin doğal odak seviyesini sıfırlamak."
+    },
+    "quiz": {
+      "questionText": "Aşırı sosyal medya, bildirim ve şeker gibi anlık haz veren uyaranlara ara vererek odak gücünü kazanma pratiği nedir?",
+      "options": [
+        { "id": "o1", "text": "Dopamin Orucu (Dopamine Fasting)", "isCorrect": true },
+        { "id": "o2", "text": "Aralıklı Oruç", "isCorrect": false },
+        { "id": "o3", "text": "Ketojenik Diyet", "isCorrect": false },
+        { "id": "o4", "text": "Uyku Hijyeni", "isCorrect": false }
+      ],
+      "explanation": "Dopamin seviyesi dengelendiğinde önceden 'sıkıcı' gelen kitap okuma veya kod yazma gibi işler tekrar cazip hale gelir."
+    }
+  },
+  {
+    "id": "prod_65",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Sağlık ve Verim - Sirkadiyen Ritim",
+      "frontText": "Sirkadiyen Ritim (Circadian Rhythm) nedir?",
+      "backText": "Vücudun 24 saatlik biyolojik saati (Uyku, hormon, vücut sıcaklığı döngüsü)."
+    },
+    "quiz": {
+      "questionText": "Vücudumuzun hava karardığında melatonin hormonu salgılayarak uykuya hazırlanmasını sağlayan biyolojik saate ne denir?",
+      "options": [
+        { "id": "o1", "text": "Sirkadiyen Ritim", "isCorrect": true },
+        { "id": "o2", "text": "Ultradien Ritim", "isCorrect": false },
+        { "id": "o3", "text": "Infradien Ritim", "isCorrect": false },
+        { "id": "o4", "text": "Kalp Ritmi", "isCorrect": false }
+      ],
+      "explanation": "Sirkadiyen ritme uygun yaşamak (sabah ışık almak, gece mavi ışıktan kaçınmak) enerji seviyesini doğrudan belirler."
+    }
+  },
+  {
+    "id": "prod_66",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Uyku ve Verimlilik - Power Nap (Güç Uykusu)",
+      "frontText": "Gün ortasında yapılan ideal 'Power Nap' süresi kaç dakikadır?",
+      "backText": "15 ila 20 dakika (Derin uyku evresine geçmeden zihni tazelemek için)."
+    },
+    "quiz": {
+      "questionText": "Öğleden sonra sersemlik hissi yaşamadan zihinsel tazelenme sağlayan ideal şekerleme (Power Nap) süresi ne kadardır?",
+      "options": [
+        { "id": "o1", "text": "15 - 20 Dakika", "isCorrect": true },
+        { "id": "o2", "text": "60 Dakika", "isCorrect": false },
+        { "id": "o3", "text": "90 Dakika", "isCorrect": false },
+        { "id": "o4", "text": "5 Dakika", "isCorrect": false }
+      ],
+      "explanation": "20 dakikayı aşan uykularda vücut derin uykuya geçer ve uyanıldığında sersemlik (sleep inertia) yaşanır."
+    }
+  },
+  {
+    "id": "prod_67",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Kişisel Gelişim - Mükemmeliyetçilik Tuzağı",
+      "frontText": "Mükemmeliyetçilik verimliliği nasıl olumsuz etkiler?",
+      "backText": "Hata yapma korkusuyla işe başlamayı veya işi bitirip teslim etmeyi engelleyerek ertelemeye yol açar."
+    },
+    "quiz": {
+      "questionText": "Silicon Valley'deki 'Done is better than perfect' (Bitiş, mükemmel olmasından iyidir) ilkesi neyi savunur?",
+      "options": [
+        { "id": "o1", "text": "İşi mükemmel yapmaya çalışıp takılmak yerine bitirip geliştirmeyi", "isCorrect": true },
+        { "id": "o2", "text": "Kalitesiz iş yapmayı", "isCorrect": false },
+        { "id": "o3", "text": "Hiç plan yapmamayı", "isCorrect": false },
+        { "id": "o4", "text": "Müşteriyi önemsememeyi", "isCorrect": false }
+      ],
+      "explanation": "Mükemmeliyetçilik çoğu zaman gizlenmiş bir erteleme biçimidir. Tamamlanmış ortalama bir iş, hiç bitmemiş mükemmel hayalden iyidir."
+    }
+  },
+  {
+    "id": "prod_68",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Alışkanlıklar - Süreç mi Sonuç mu?",
+      "frontText": "Atomik Alışkanlıklar kitabına göre hedeflere ulaşmada neye odaklanmalıyız?",
+      "backText": "Hedefin kendisine değil, hedefi üreten günlük sistemlere/süreçlere."
+    },
+    "quiz": {
+      "questionText": "'Kazananlar da kaybedenler de aynı hedeflere sahiptir' diyen James Clear neye odaklanmamızı önerir?",
+      "options": [
+        { "id": "o1", "text": "Günlük alışkanlıklara ve sistemlere", "isCorrect": true },
+        { "id": "o2", "text": "Sadece kupaya/ödüle", "isCorrect": false },
+        { "id": "o3", "text": "Rakipleri izlemeye", "isCorrect": false },
+        { "id": "o4", "text": "Sonuçları hayal etmeye", "isCorrect": false }
+      ],
+      "explanation": "Siz sisteme odaklanırsanız sonuçlar zaten sistemin doğal bir yan ürünü olarak gelir."
+    }
+  },
+  {
+    "id": "prod_69",
+    "categoryId": "productivity",
+    "card": {
+      "title": "İş Yönetimi - Pareto İlk kez Nerede Kullanıldı?",
+      "frontText": "Vilfredo Pareto 80/20 gözlemini ilk ne üzerinde fark etmiştir?",
+      "backText": "Kendi bahçesindeki bezelye tanelerinin %80'inin, kabukların %20'sinden çıktığını görerek."
+    },
+    "quiz": {
+      "questionText": "Vilfredo Pareto'nun meşhur 80/20 oranını ilk fark ettiği doğa gözlemi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Bahçesindeki bezelyeler", "isCorrect": true },
+        { "id": "o2", "text": "Arı kovanları", "isCorrect": false },
+        { "id": "o3", "text": "Ağaç dalları", "isCorrect": false },
+        { "id": "o4", "text": "Nehir akıntıları", "isCorrect": false }
+      ],
+      "explanation": "Bezelye kabukları üzerine yaptığı basit bir gözlem, daha sonra ekonomideki servet dağılımını incelemesine yol açmıştır."
+    }
+  },
+  {
+    "id": "prod_70",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Pomodoro Kelimesinin Kökeni",
+      "frontText": "'Pomodoro' kelimesi hangi dilden gelir ve anlamı nedir?",
+      "backText": "İtalyanca 'Domates' demektir."
+    },
+    "quiz": {
+      "questionText": "Pomodoro kelimesi hangi dile aittir?",
+      "options": [
+        { "id": "o1", "text": "İtalyanca", "isCorrect": true },
+        { "id": "o2", "text": "İspanyolca", "isCorrect": false },
+        { "id": "o3", "text": "Fransızca", "isCorrect": false },
+        { "id": "o4", "text": "Portekizce", "isCorrect": false }
+      ],
+      "explanation": "İtalyanca bir kelime olan Pomodoro, domates anlamına gelmektedir."
+    }
+  },
+  {
+    "id": "prod_71",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Görev Analizi - 80/20 İlkesini İşe Uygulama",
+      "frontText": "İş hayatında Pareto İlkesi'ni uygulamak için ilk adım nedir?",
+      "backText": "En çok gelir/değer getiren müşteri veya görevleri listeleyip enerjinin büyük kısmını oraya vermek."
+    },
+    "quiz": {
+      "questionText": "Şirketinizin cirosunun %80'ini sağlayan %20'lik kilit müşterileri belirlemek hangi ilkenin uygulamasıdır?",
+      "options": [
+        { "id": "o1", "text": "Pareto İlkesi", "isCorrect": true },
+        { "id": "o2", "text": "Eisenhower Matrisi", "isCorrect": false },
+        { "id": "o3", "text": "Kaizen", "isCorrect": false },
+        { "id": "o4", "text": "5S Metodu", "isCorrect": false }
+      ],
+      "explanation": "İş süreçlerinde yüksek getiri sağlayan %20'lik bölüme odaklanmak şirket verimini katlar."
+    }
+  },
+  {
+    "id": "prod_72",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Eisenhower Matrisi Çeyrekleri",
+      "frontText": "Eisenhower Matrisi'nde 'Acil ve Önemli' (Kutu 1) işlere ne yapılır?",
+      "backText": "Hemen O An Yapılır (DO)."
+    },
+    "quiz": {
+      "questionText": "Eisenhower Matrisi'nde 1. Çeyrekte (Acil ve Önemli) yer alan kriz niteliğindeki işler için aksiyon ne olmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Hemen yapılmalıdır", "isCorrect": true },
+        { "id": "o2", "text": "Ertelenmelidir", "isCorrect": false },
+        { "id": "o3", "text": "Başkasına devredilmelidir", "isCorrect": false },
+        { "id": "o4", "text": "Silinmelidir", "isCorrect": false }
+      ],
+      "explanation": "Hem acil hem önemli olan işler yangın gibidir; hemen müdahale edilip çözülmelidir."
+    }
+  },
+  {
+    "id": "prod_73",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Eisenhower Matrisi 3. Çeyrek",
+      "frontText": "Eisenhower Matrisi'nde 'Acil ama Önemli Değil' işlere ne yapılmalıdır?",
+      "backText": "Başkasına Devredilmelidir (Delegate)."
+    },
+    "quiz": {
+      "questionText": "Sizin yapmanız zorunlu olmayan ama acil bitmesi gereken işler (örn: e-posta, sıradan telefon) için ne önerilir?",
+      "options": [
+        { "id": "o1", "text": "Delegasyon (Başkasına devretmek)", "isCorrect": true },
+        { "id": "o2", "text": "Kendi zamanını harcamak", "isCorrect": false },
+        { "id": "o3", "text": "Yok saymak", "isCorrect": false },
+        { "id": "o4", "text": "Gece çalışmak", "isCorrect": false }
+      ],
+      "explanation": "Acil olan ama yüksek uzmanlık istemeyen işler başkalarına devredilerek ana odak korunur."
+    }
+  },
+  {
+    "id": "prod_74",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Eisenhower Matrisi 4. Çeyrek",
+      "frontText": "Eisenhower Matrisi'nde 'Acil Değil ve Önemli Değil' işlere ne yapılır?",
+      "backText": "Elenir / Silinir (Eliminate)."
+    },
+    "quiz": {
+      "questionText": "Eisenhower matrisinde hem acil olmayan hem de önemsiz olan zaman tuzakları ne yapılmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Hayattan çıkarılmalı / Elenmeli", "isCorrect": true },
+        { "id": "o2", "text": "Takvime eklenmeli", "isCorrect": false },
+        { "id": "o3", "text": "Hemen yapılmalı", "isCorrect": false },
+        { "id": "o4", "text": "Raporlanmalı", "isCorrect": false }
+      ],
+      "explanation": "Gereksiz sosyal medya gezintileri veya boş aktiviteler elenerek verimlilik kazanılır."
+    }
+  },
+  {
+    "id": "prod_75",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Odaklanma - Pomodoro İle Çalışırken Telefon",
+      "frontText": "Pomodoro seansı esnasında telefon uyarısı gelirse ideal davranış nedir?",
+      "backText": "Telefonu 'Rahatsız Etme' modunda ve görüş alanının dışında tutmak."
+    },
+    "quiz": {
+      "questionText": "Araştırmalara göre telefon sessizde bile olsa masada yüzü dönük durması odaklanmayı nasıl etkiler?",
+      "options": [
+        { "id": "o1", "text": "Beyin telefonun varlığını işlediği için çalışma belleği kapasitesi düşer", "isCorrect": true },
+        { "id": "o2", "text": "Hiçbir etkisi olmaz", "isCorrect": false },
+        { "id": "o3", "text": "Verimliliği artırır", "isCorrect": false },
+        { "id": "o4", "text": "Sadece motivasyon verir", "isCorrect": false }
+      ],
+      "explanation": "Masada duran telefon görünmez bir çekim yaratarak beynin işleme gücünden (working memory) çalar."
+    }
+  },
+  {
+    "id": "prod_76",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Odaklanma - Beyin Dalgaları ve Alpha Müzik",
+      "frontText": "Çalışırken dinlenen Binaural Beats veya Alpha dalga müziklerinin faydası nedir?",
+      "backText": "Beyni 8-12 Hz Alpha frekansına sokarak sakin ve odaklanmış bir zihin durumu yaratması."
+    },
+    "quiz": {
+      "questionText": "Odaklanma ve öğrenmeyi kolaylaştıran sakin zihinsel durumu temsil eden beyin dalgası hangisidir?",
+      "options": [
+        { "id": "o1", "text": "Alpha Dalgaları (8-12 Hz)", "isCorrect": true },
+        { "id": "o2", "text": "Delta Dalgaları", "isCorrect": false },
+        { "id": "o3", "text": "Gamma Dalgaları", "isCorrect": false },
+        { "id": "o4", "text": "Theta Dalgaları", "isCorrect": false }
+      ],
+      "explanation": "Alpha dalgaları rahat ama uyanık kalmayı sağlayarak çalışma derinliğini yükseltir."
+    }
+  },
+  {
+    "id": "prod_77",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Not Alma - Beyin Fırtınası (Brainstorming)",
+      "frontText": "Alex Osborn'un geliştirdiği Beyin Fırtınası oturumunun en temel kuralı nedir?",
+      "backText": "Fikir üretme aşamasında ASLA eleştiri veya yargılama yapmamak."
+    },
+    "quiz": {
+      "questionText": "Beyin Fırtınası (Brainstorming) yapılırken yaratıcılığı öldürmemek için en çok kaçınılması gereken şey nedir?",
+      "options": [
+        { "id": "o1", "text": "Fikirleri erken aşamada eleştirmek veya yargılamak", "isCorrect": true },
+        { "id": "o2", "text": "Çok fazla fikir üretmek", "isCorrect": false },
+        { "id": "o3", "text": "Not almak", "isCorrect": false },
+        { "id": "o4", "text": "Hızlı konuşmak", "isCorrect": false }
+      ],
+      "explanation": "İlk aşamada nicelik (fikir sayısı) önemlidir; nitelik ve eleştiri süzgeci ikinci aşamada uygulanır."
+    }
+  },
+  {
+    "id": "prod_78",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Park Etme Etkisi (Parking Lot)",
+      "frontText": "Toplantı veya çalışmada 'Parking Lot' (Otopark) kağıdı ne işe yarar?",
+      "backText": "O anki konuyla ilgisiz ama önemli olan fikirleri sonradan ele almak üzere kenara kaydetmeye."
+    },
+    "quiz": {
+      "questionText": "Toplantılarda ana gündemi dağıtacak fikirleri unutmamak üzere kenara not etme alanına ne ad verilir?",
+      "options": [
+        { "id": "o1", "text": "Parking Lot (Otopark)", "isCorrect": true },
+        { "id": "o2", "text": "Backlog", "isCorrect": false },
+        { "id": "o3", "text": "Trash Can", "isCorrect": false },
+        { "id": "o4", "text": "Idea Box", "isCorrect": false }
+      ],
+      "explanation": "Otopark alanı gündemin dağılmasını önlerken değerli fikirlerin de kaybolmasını engeller."
+    }
+  },
+  {
+    "id": "prod_79",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Alışkanlıklar - Kimlik Temelli Alışkanlıklar",
+      "frontText": "James Clear'a göre kalıcı değişim yaratmak için neye odaklanmalıyız?",
+      "backText": "Ne elde etmek istediğimize (Sonuç) değil, dönüşmek istediğimiz kişiye (Kimlik)."
+    },
+    "quiz": {
+      "questionText": "'Kitap okumak istiyorum' demek yerine 'Ben bir okurum' diyerek alışkanlık kazanma yaklaşımı nedir?",
+      "options": [
+        { "id": "o1", "text": "Identity-based Habits (Kimlik Temelli Alışkanlıklar)", "isCorrect": true },
+        { "id": "o2", "text": "Outcome-based Habits (Sonuç Temelli)", "isCorrect": false },
+        { "id": "o3", "text": "Process-based Habits (Süreç Temelli)", "isCorrect": false },
+        { "id": "o4", "text": "Reward-based Habits", "isCorrect": false }
+      ],
+      "explanation": "Gerçek davranış değişimi kimlik değişimidir. Kendinizi o kişi olarak gördükçe eylemler otomatikleşir."
+    }
+  },
+  {
+    "id": "prod_80",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Proje Yönetimi - Agil (Çevik) Metodoloji",
+      "frontText": "Agile (Çevik) proje yönetiminin ana felsefesi nedir?",
+      "backText": "Uzun ve rijit planlar yerine esnek, küçük parçalar halinde sürekli geri bildirimle ilerlemek."
+    },
+    "quiz": {
+      "questionText": "Yazılım ve proje dünyasında katı planlar yerine değişime hızlı uyum sağlamayı savunan yaklaşım nedir?",
+      "options": [
+        { "id": "o1", "text": "Agile (Çevik)", "isCorrect": true },
+        { "id": "o2", "text": "Waterfall (Şelale)", "isCorrect": false },
+        { "id": "o3", "text": "Six Sigma", "isCorrect": false },
+        { "id": "o4", "text": "PRINCE2", "isCorrect": false }
+      ],
+      "explanation": "Agile yaklaşımı müşteri geri bildirimlerine göre projenin yönünü hızla esnetme imkanı sunar."
+    }
+  },
+  {
+    "id": "prod_81",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Proje Yönetimi - Scrum ve Sprint",
+      "frontText": "Scrum metodunda 1 ila 4 hafta arasında değişen kısa çalışma dönemlerine ne denir?",
+      "backText": "Sprint."
+    },
+    "quiz": {
+      "questionText": "Scrum proje yönetiminde belirlenmiş hedefleri tamamlamak için koşulan sabit süreli çalışma aralığına ne denir?",
+      "options": [
+        { "id": "o1", "text": "Sprint", "isCorrect": true },
+        { "id": "o2", "text": "Maraton", "isCorrect": false },
+        { "id": "o3", "text": "Milestone", "isCorrect": false },
+        { "id": "o4", "text": "Backlog", "isCorrect": false }
+      ],
+      "explanation": "Sprint'ler hedeflerin küçük zaman dilimlerinde teslim edilmesini ve odağın korunmasını sağlar."
+    }
+  },
+  {
+    "id": "prod_82",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Proje Yönetimi - Daily Stand-up",
+      "frontText": "Scrum takımlarının her sabah yaptığı 15 dakikalık kısa toplantıya ne denir?",
+      "backText": "Daily Stand-up (Ayağıküstü Günlük Toplantı)."
+    },
+    "quiz": {
+      "questionText": "Toplantının uzamasını önlemek için ayakta yapılan ve 'Dün ne yaptım, bugün ne yapacağım, engel var mı?' sorularına yanıt aranan toplantı nedir?",
+      "options": [
+        { "id": "o1", "text": "Daily Stand-up", "isCorrect": true },
+        { "id": "o2", "text": "Retrospective", "isCorrect": false },
+        { "id": "o3", "text": "Sprint Planning", "isCorrect": false },
+        { "id": "o4", "text": "Brainstorming", "isCorrect": false }
+      ],
+      "explanation": "Ayakta durmak kişileri kısa ve öz konuşmaya zorlayarak zaman kaybını önler."
+    }
+  },
+  {
+    "id": "prod_83",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Geriye Doğru Planlama (Backward Design)",
+      "frontText": "Backward Design (Geriye Doğru Planlama) nasıl yapılır?",
+      "backText": "Ulaşılmak istenen son hedeften başlayıp bugüne doğru adım adım geriye gelerek plan kurmak."
+    },
+    "quiz": {
+      "questionText": "Sınav gününden veya teslim tarihinden geriye doğru adımları gün gün hesaplayarak yapılan planlamaya ne denir?",
+      "options": [
+        { "id": "o1", "text": "Geriye Doğru Planlama (Backward Planning)", "isCorrect": true },
+        { "id": "o2", "text": "İleriye Doğru Planlama", "isCorrect": false },
+        { "id": "o3", "text": "Rastgele Planlama", "isCorrect": false },
+        { "id": "o4", "text": "Kritik Yol Analizi", "isCorrect": false }
+      ],
+      "explanation": "Son hedeften başlamak, teslim tarihine yetişmek için hangi gün neyin bitmesi gerektiğini net gösterir."
+    }
+  },
+  {
+    "id": "prod_84",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Kişisel Analiz - SWOT Analizi",
+      "frontText": "SWOT kelimesinin açılımındaki 'W' harfi neyi temsil eder?",
+      "backText": "Weaknesses (Zayıf Yönler)."
+    },
+    "quiz": {
+      "questionText": "SWOT analizinde kişinin veya kurumun dış çevreden gelen fırsatlarını ifade eden harf hangisidir?",
+      "options": [
+        { "id": "o1", "text": "O - Opportunities (Fırsatlar)", "isCorrect": true },
+        { "id": "o2", "text": "S - Strengths", "isCorrect": false },
+        { "id": "o3", "text": "W - Weaknesses", "isCorrect": false },
+        { "id": "o4", "text": "T - Threats", "isCorrect": false }
+      ],
+      "explanation": "SWOT: Strengths (Güçlü), Weaknesses (Zayıf), Opportunities (Fırsat) ve Threats (Tehdit) kelimelerinin baş harfleridir."
+    }
+  },
+  {
+    "id": "prod_85",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zihin Düzenleme - Zihinsel Boşaltım (Brain Dump)",
+      "frontText": "Brain Dump (Beyin Boşaltımı) tekniği ne zaman uygulanır?",
+      "backText": "Zihin çok dolu ve karmaşık hissettirdiğinde, akla gelen her şeyi kağıda kural koymadan dökerek."
+    },
+    "quiz": {
+      "questionText": "Stresli ve kaygılı anlarda zihindeki tüm düşünceleri sıralama gözetmeksizin kağıda aktarma eylemine ne denir?",
+      "options": [
+        { "id": "o1", "text": "Brain Dump (Beyin Boşaltımı)", "isCorrect": true },
+        { "id": "o2", "text": "Time Blocking", "isCorrect": false },
+        { "id": "o3", "text": "Goal Setting", "isCorrect": false },
+        { "id": "o4", "text": "Journaling", "isCorrect": false }
+      ],
+      "explanation": "Brain Dump zihinsel stresi azaltır; karmakarışık düşüncelerin somutlaşmasını sağlar."
+    }
+  },
+  {
+    "id": "prod_86",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Kişisel Gelişim - Pomodoro Mola Esnasında Ne Yapılmamalı?",
+      "frontText": "Pomodoro'nun 5 dakikalık molasında ne yapılmamalıdır?",
+      "backText": "Sosyal medyaya bakmak veya haber okumak gibi zihni yoran dijital eylemler yapılmamalıdır."
+    },
+    "quiz": {
+      "questionText": "Pomodoro molasında zihnin tam dinlenebilmesi için aşağıdakilerden hangisi önerilir?",
+      "options": [
+        { "id": "o1", "text": "Ayağa kalkıp esnemek, su içmek ve uzağa bakmak", "isCorrect": true },
+        { "id": "o2", "text": "Sosyal medyada Reels/Shorts videoları izlemek", "isCorrect": false },
+        { "id": "o3", "text": "Hemen zor başka bir makale okumak", "isCorrect": false },
+        { "id": "o4", "text": "Ekrandan ayrılmadan oyun oynamak", "isCorrect": false }
+      ],
+      "explanation": "Ekran karşısında kalmak zihni dinlendirmez. Mola zamanı gözleri ve zihni serbest bırakmaktır."
+    }
+  },
+  {
+    "id": "prod_87",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Kişisel Gelişim - 80/20 İlkesi ve Zaman",
+      "frontText": "Zaman yönetiminde 80/20 ilkesi bize ne söyler?",
+      "backText": "Harcadığınız zamanın %20'si, gün içindeki toplam başarınızın %80'ini oluşturur."
+    },
+    "quiz": {
+      "questionText": "Gününüzün en verimli geçen 2 saatinin tüm günün çıktısını belirlemesi hangi kavramla örtüşür?",
+      "options": [
+        { "id": "o1", "text": "80/20 Pareto İlkesi", "isCorrect": true },
+        { "id": "o2", "text": "Parkinson Yasası", "isCorrect": false },
+        { "id": "o3", "text": "Zeigarnik Etkisi", "isCorrect": false },
+        { "id": "o4", "text": "Hick Yasası", "isCorrect": false }
+      ],
+      "explanation": "Tüm saatler eşit verimde değildir. En yüksek odaklı %20'lik zaman dilimi günün kaderini çizer."
+    }
+  },
+  {
+    "id": "prod_88",
+    "categoryId": "productivity",
+    "card": {
+      "title": "İş Süreçleri - Poka-Yoke (Hata Önleme)",
+      "frontText": "Japon imalat sistemindeki Poka-Yoke ne anlama gelir?",
+      "backText": "Süreçleri insanların hata yapmasını imkansız kılacak şekilde tasarlamak (Hata Geçirmezlik)."
+    },
+    "quiz": {
+      "questionText": "SIM kartların veya USB kablolarının sadece tek yönde takılabilmesi hangi tasarım/verimlilik ilkesidir?",
+      "options": [
+        { "id": "o1", "text": "Poka-Yoke (Hata Önleme)", "isCorrect": true },
+        { "id": "o2", "text": "Kaizen", "isCorrect": false },
+        { "id": "o3", "text": "Kanban", "isCorrect": false },
+        { "id": "o4", "text": "Just in Time", "isCorrect": false }
+      ],
+      "explanation": "Poka-Yoke, insan dalgınlığına karşı sistemi fiziksel veya mantıksal olarak hata yapmaz kılmaktır."
+    }
+  },
+  {
+    "id": "prod_89",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Lojistik / Üretim - Just in Time (JIT)",
+      "frontText": "Just in Time (Tam Zamanında Üretim) sisteminin hedefi nedir?",
+      "backText": "Depo ve stok maliyetini sıfırlayarak ihtiyaç duyulan malzemeyi tam ihtiyaç anında getirmek."
+    },
+    "quiz": {
+      "questionText": "Toyota tarafından geliştirilen ve fazla stok biriktirmeyi israf kabul eden üretim felsefesi nedir?",
+      "options": [
+        { "id": "o1", "text": "Just in Time (Tam Zamanında)", "isCorrect": true },
+        { "id": "o2", "text": "Push System (İtme Sistemi)", "isCorrect": false },
+        { "id": "o3", "text": "Batch Production", "isCorrect": false },
+        { "id": "o4", "text": "Safety Stocking", "isCorrect": false }
+      ],
+      "explanation": "JIT sistemi ısrafı keser ve finansal kaynakların depoda atıl kalmasını önler."
+    }
+  },
+  {
+    "id": "prod_90",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Verim Katlayıcı - Pomodoro Süresini Özelleştirme",
+      "frontText": "Pomodoro illa 25 dakika olmak zorunda mıdır?",
+      "backText": "Hayır, yapılan işe göre 50 dk çalışma + 10 dk mola (50/10) gibi varyasyonlar uygulanabilir."
+    },
+    "quiz": {
+      "questionText": "Özellikle yazılım geliştirme ve derin okumalarda tercih edilen alternatif Pomodoro ritmi hangisidir?",
+      "options": [
+        { "id": "o1", "text": "50 dakika çalışma + 10 dakika mola", "isCorrect": true },
+        { "id": "o2", "text": "5 dakika çalışma + 25 dakika mola", "isCorrect": false },
+        { "id": "o3", "text": "120 dakika kesintisiz çalışma", "isCorrect": false },
+        { "id": "o4", "text": "10 dakika çalışma + 10 dakika mola", "isCorrect": false }
+      ],
+      "explanation": "Derin odaklanma gerektiren işlerde 25 dakika kısa gelebilir; bu yüzden 50/10 ritmi yaygındır."
+    }
+  },
+  {
+    "id": "prod_91",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Görsel Düşünme - Zihin Haritası Kim Tarafından Bulundu?",
+      "frontText": "Zihin haritalama (Mind Mapping) tekniğini kim geliştirmiştir?",
+      "backText": "Tony Buzan."
+    },
+    "quiz": {
+      "questionText": "1970'li yıllarda Zihin Haritası (Mind Map) metodunu kitaplarıyla dünyaya yayan İngiliz yazar kimdir?",
+      "options": [
+        { "id": "o1", "text": "Tony Buzan", "isCorrect": true },
+        { "id": "o2", "text": "Edward de Bono", "isCorrect": false },
+        { "id": "o3", "text": "Robert Dilts", "isCorrect": false },
+        { "id": "o4", "text": "Richard Bandler", "isCorrect": false }
+      ],
+      "explanation": "Tony Buzan, nörolojik araştırmalara dayanarak beyin dostu görsel not alma olan Zihin Haritalarını kurmuştur."
+    }
+  },
+  {
+    "id": "prod_92",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Düşünme Becerileri - 6 Şapkalı Düşünme Tekniği",
+      "frontText": "Edward de Bono'nun 'Six Thinking Hats' tekniğindeki Kırmızı Şapka neyi temsil eder?",
+      "backText": "Duyguları, sezgileri ve mantık aramadan hisleri ifade etmeyi."
+    },
+    "quiz": {
+      "questionText": "6 Şapkalı Düşünme Tekniği'nde riski, tehlikeleri ve olumsuz yanları temsil eden şapka ne renktir?",
+      "options": [
+        { "id": "o1", "text": "Siyah Şapka (Karamsar/Eleştirel)", "isCorrect": true },
+        { "id": "o2", "text": "Sarı Şapka", "isCorrect": false },
+        { "id": "o3", "text": "Yeşil Şapka", "isCorrect": false },
+        { "id": "o4", "text": "Beyaz Şapka", "isCorrect": false }
+      ],
+      "explanation": "Siyah şapka şeytanın avukatlığını yapar; zayıf noktaları ve olası riskleri görmemizi sağlar."
+    }
+  },
+  {
+    "id": "prod_93",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Düşünme Becerileri - Yeşil Şapka",
+      "frontText": "6 Şapkalı Düşünme Tekniği'nde Yeşil Şapka neyi temsil eder?",
+      "backText": "Yaratıcılığı, yeni fikirleri ve alternatif çözümleri."
+    },
+    "quiz": {
+      "questionText": "Edward de Bono sisteminde yeni fikirlerin, inovasyonun ve 'Başka nasıl yapabiliriz?' sorusunun rengi nedir?",
+      "options": [
+        { "id": "o1", "text": "Yeşil Şapka", "isCorrect": true },
+        { "id": "o2", "text": "Mavi Şapka", "isCorrect": false },
+        { "id": "o3", "text": "Kırmızı Şapka", "isCorrect": false },
+        { "id": "o4", "text": "Siyah Şapka", "isCorrect": false }
+      ],
+      "explanation": "Yeşil şapka takıldığında sadece yaratıcı ve sıra dışı çözümler üretmeye odaklanılır."
+    }
+  },
+  {
+    "id": "prod_94",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Düşünme Becerileri - Mavi Şapka",
+      "frontText": "6 Şapkalı Düşünme Tekniği'nde Mavi Şapka kimin şapkasıdır?",
+      "backText": "Süreci ve diğer şapkaları yöneten Liderin / Orkestra Şefinin şapkasıdır."
+    },
+    "quiz": {
+      "questionText": "Toplantının genel akışını, hangi şapkanın ne zaman giyileceğini kontrol eden Mavi Şapka neyi simgeler?",
+      "options": [
+        { "id": "o1", "text": "Süreç Yönetimi ve Kontrolü", "isCorrect": true },
+        { "id": "o2", "text": "Sadece tarafsız verileri", "isCorrect": false },
+        { "id": "o3", "text": "Duygusal tepkileri", "isCorrect": false },
+        { "id": "o4", "text": "Neşeyi ve pozitifliği", "isCorrect": false }
+      ],
+      "explanation": "Mavi şapka, düşünme sürecinin kendisini yönetir ve sonuçları özetler."
+    }
+  },
+  {
+    "id": "prod_95",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Erteleme İle Mücadele - Temptation Bundling",
+      "frontText": "Temptation Bundling (Cazibe Paketi) tekniği nasıl uygulanır?",
+      "backText": "Yapmak zorunda olduğunuz sıkıcı bir işi, yapmayı çok sevdiğiniz bir eylemle eşleştirerek."
+    },
+    "quiz": {
+      "questionText": "'Sadece spor salonunda yürüyüş yaparken en sevdiğim podcast'i dinleyeceğim' kuralı hangi tekniktir?",
+      "options": [
+        { "id": "o1", "text": "Temptation Bundling (Cazibe Paketi)", "isCorrect": true },
+        { "id": "o2", "text": "Time Blocking", "isCorrect": false },
+        { "id": "o3", "text": "Feynman Tekniği", "isCorrect": false },
+        { "id": "o4", "text": "Zeigarnik Yöntemi", "isCorrect": false }
+      ],
+      "explanation": "Sevilen eylemi (ödülü), yapılması gereken zorunlu eyleme bağlayarak motivasyon yaratılır."
+    }
+  },
+  {
+    "id": "prod_96",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Ultra Erken Uyanma",
+      "frontText": "Erken uyanmanın tek başına verimlilik getirmediği durum nedir?",
+      "backText": "Yeterli uyku süresi (7-8 saat) alınmadığında oluşan uyku borusu (sleep debt)."
+    },
+    "quiz": {
+      "questionText": "Erken uyanıp yüksek verim almanın biyolojik ön koşulu nedir?",
+      "options": [
+        { "id": "o1", "text": "Erken yatıp kaliteli 7-8 saat uykuyu almış olmak", "isCorrect": true },
+        { "id": "o2", "text": "Sürekli kahve içmek", "isCorrect": false },
+        { "id": "o3", "text": "Günde 4 saat uyumaya alışmak", "isCorrect": false },
+        { "id": "o4", "text": "Gece geç saatlere kadar çalışmak", "isCorrect": false }
+      ],
+      "explanation": "Uyku süresinden çalarak erken kalkmak bilişsel performansı düşürür; asıl mesele erken uyumaktır."
+    }
+  },
+  {
+    "id": "prod_97",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Not Alma - Zettelkasten Literatür Notu",
+      "frontText": "Zettelkasten sisteminde başkasından okunan bilginin kendi cümlelerinizle yazıldığı not tipine ne denir?",
+      "backText": "Literatür Notu (Literature Note) veya Kalıcı Not (Permanent Note)."
+    },
+    "quiz": {
+      "questionText": "Zettelkasten yönteminde kopyala-yapıştır yapmak yerine bilginin kendi kelimelerinizle özümsenip yazılması neyi sağlar?",
+      "options": [
+        { "id": "o1", "text": "Bilginin gerçekten anlaşılmasını ve kalıcı hafızaya geçmesini", "isCorrect": true },
+        { "id": "o2", "text": "Not alma süresini kısaltmayı", "isCorrect": false },
+        { "id": "o3", "text": "Daha az kağıt harcamayı", "isCorrect": false },
+        { "id": "o4", "text": "Kitabın aynısını basmayı", "isCorrect": false }
+      ],
+      "explanation": "Kendi cümlelerinizle ifade etmediğiniz bilgi henüz sizin değildir; sindirilmemiş bilgidir."
+    }
+  },
+  {
+    "id": "prod_98",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Zaman Yönetimi - Pomodoro ve Kesintileri İstatistikleme",
+      "frontText": "Pomodoro tekniğinde kesintileri kaydetmenin amacı nedir?",
+      "backText": "Günün sonunda dikkati neyin dağıttığını analiz edip o faktörü ortadan kaldırmak."
+    },
+    "quiz": {
+      "questionText": "Pomodoro takibinde bölünme nedenlerini (içsel/dışsal) kaydetmenin ana yararı nedir?",
+      "options": [
+        { "id": "o1", "text": "Dikkat hırsızlarını tespit edip çalışma ortamını iyileştirmek", "isCorrect": true },
+        { "id": "o2", "text": "Kendini cezalandırmak", "isCorrect": false },
+        { "id": "o3", "text": "Süreyi uzatmak", "isCorrect": false },
+        { "id": "o4", "text": "Molaları iptal etmek", "isCorrect": false }
+      ],
+      "explanation": "Neyin dikkatinizi böldüğünü (arkadaş, e-posta, sosyal medya) fark etmeden onu engelleyemezsiniz."
+    }
+  },
+  {
+    "id": "prod_99",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Alışkanlıklar - 2 Dakika Alışkanlık Kuralı",
+      "frontText": "James Clear'ın Alışkanlıklardaki 2 Dakika Kuralı nedir?",
+      "backText": "Yeni bir alışkanlığa başlarken, o eylemi yapması 2 dakikadan az sürecek bir versiyona küçültmek."
+    },
+    "quiz": {
+      "questionText": "'Her gece kitap okuma' alışkanlığı kazanmak isteyen biri 2 Dakika Kuralı'na göre ilk adımda ne yapmalıdır?",
+      "options": [
+        { "id": "o1", "text": "Her gece sadece 1 sayfa okuyup kitabı kapatmak", "isCorrect": true },
+        { "id": "o2", "text": "Her gece 50 sayfa okumaya zorlamak", "isCorrect": false },
+        { "id": "o3", "text": "Haftada bir gün 3 saat okumak", "isCorrect": false },
+        { "id": "o4", "text": "Sesli kitap dinlemek", "isCorrect": false }
+      ],
+      "explanation": "Amaç önce o eylemin kapısını açmaktır (başlama eşiğini düşürmek). Sürdürmek ustalaşmaktan önce gelir."
+    }
+  },
+  {
+    "id": "prod_100",
+    "categoryId": "productivity",
+    "card": {
+      "title": "Verimlilik Özeti - En İyi Verimlilik Yöntemi",
+      "frontText": "Dünyadaki en iyi verimlilik yöntemi hangisidir?",
+      "backText": "Kendi yaşam tarzınıza, kişiliğinize uyan ve SÜREKLİ uygulayabildiğiniz yöntemdir."
+    },
+    "quiz": {
+      "questionText": "Kişisel verimlilik sistemleri kurarken unutulmaması gereken en temel gerçek nedir?",
+      "options": [
+        { "id": "o1", "text": "En iyi sistem, sürdürülebilir şekilde kişiselleştirdiğiniz sistemdir", "isCorrect": true },
+        { "id": "o2", "text": "Herkes harfiyen aynı metodu uygulamalıdır", "isCorrect": false },
+        { "id": "o3", "text": "Teknoloji kullanmadan verimli olunamaz", "isCorrect": false },
+        { "id": "o4", "text": "Günde 16 saat çalışmak tek yoldur", "isCorrect": false }
+      ],
+      "explanation": "Araçlar veya metotlar sadece araçtır; önemli olan sizin kendi ritminize uygun sürdürülebilir bir düzen kurmanızdır."
+    }
+  }
+]

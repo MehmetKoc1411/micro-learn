@@ -6,6 +6,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { LearnScreen } from './src/screens/LearnScreen';
+import { QuizSetupScreen } from './src/screens/QuizSetupScreen';
 import { QuizScreen } from './src/screens/QuizScreen';
 import { ProfileScreen } from './src/screens/ProfileScreen';
 import { COLORS, SPACING } from './src/constants/theme';
@@ -42,6 +43,11 @@ export default function App() {
             name="Learn"
             component={LearnScreen}
             options={{ title: '🎓 MicroLearn - Öğren' }}
+          />
+          <Stack.Screen
+            name="QuizSetup"
+            component={QuizSetupScreen}
+            options={{ title: '⚙️ Yarışma Ayarları' }}
           />
           <Stack.Screen
             name="Quiz"
