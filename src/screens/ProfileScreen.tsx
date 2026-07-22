@@ -4,10 +4,9 @@ import {
   StyleSheet,
   Text,
   View,
-  SafeAreaView,
   ScrollView,
-  FlatList,
 } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { COLORS, SPACING, FONT_SIZE } from '../constants/theme';
 import { getUserProfile } from '../services/storageService';
 import { UserProfile, Badge } from '../types';
@@ -25,12 +24,10 @@ export const ProfileScreen = () => {
 
   const currentXP = profile?.xp || 0;
   const currentLevel = profile?.level || 1;
-  // Sonraki seviye için gereken XP (Her seviye 100 XP)
-  const xpForNextLevel = currentLevel * 100;
   const progressPercent = Math.min((currentXP % 100) / 100, 1) * 100;
 
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView style={styles.container} edges={['left', 'right', 'bottom']}>
       <ScrollView contentContainerStyle={styles.content}>
         {/* Kullanıcı Kartı ve Seviye Durumu */}
         <View style={styles.profileHeader}>

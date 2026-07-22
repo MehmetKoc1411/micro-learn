@@ -5,16 +5,17 @@ import {
   Text,
   View,
   TouchableOpacity,
-  SafeAreaView,
 } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { COLORS, SPACING, FONT_SIZE } from '../constants/theme';
-import { MOCK_QUESTIONS } from '../data/mockData';
+import { getQuestionsByCategory } from '../services/questionService';
 import { addXP } from '../services/storageService';
 import { Question, QuizOption } from '../types';
 
-const QUESTION_TIME_LIMIT = 10; // Soru başına 10 saniye
+const QUESTION_TIME_LIMIT = 10;
 
 export const QuizScreen = ({ navigation }: any) => {
+  const [questions, setQuestions] = useState<Question[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedOptionId, setSelectedOptionId] = useState<string | null>(null);
   const [timeLeft, setTimeLeft] = useState(QUESTION_TIME_LIMIT);
@@ -22,11 +23,15 @@ export const QuizScreen = ({ navigation }: any) => {
   const [score, setScore] = useState(0);
   const [isAnswered, setIsAnswered] = useState(false);
 
-  const currentQuestion: Question = MOCK_QUESTIONS[currentQuestionIndex];
+  // Sayfa açıldığında rastgele 10 soru çek
+  useEffect(() => {
+    const fetchedQuestions = getQuestionsByCategory('all', 10);
+    setQuestions(fetchedQuestions);
+  }, []);
 
   // Zamanlayıcı (Timer) Mantığı
   useEffect(() => {
-    if (isAnswered) return;
+    if (isAnswered || questions.length === 0) return;
 
     if (timeLeft === 0) {
       handleTimeOut();
@@ -38,11 +43,11 @@ export const QuizScreen = ({ navigation }: any) => {
     }, 1000);
 
     return () => clearInterval(timer);
-  }, [timeLeft, isAnswered]);
+  }, [timeLeft, isAnswered, questions]);
 
   const handleTimeOut = () => {
     setIsAnswered(true);
-    setCombo(1); // Süre biterse combo sıfırlanır
+    setCombo(1);
   };
 
   const handleOptionSelect = async (option: QuizOption) => {
@@ -54,27 +59,38 @@ export const QuizScreen = ({ navigation }: any) => {
     if (option.isCorrect) {
       const earnedXP = 20 * combo;
       setScore((prev) => prev + earnedXP);
-      setCombo((prev) => prev + 1); // Doğru bildikçe çarpan artar
+      setCombo((prev) => prev + 1);
       await addXP(earnedXP);
     } else {
-      setCombo(1); // Yanlışta çarpan sıfırlanır
+      setCombo(1);
     }
   };
 
   const handleNextQuestion = () => {
-    if (currentQuestionIndex < MOCK_QUESTIONS.length - 1) {
+    if (currentQuestionIndex < questions.length - 1) {
       setCurrentQuestionIndex((prev) => prev + 1);
       setSelectedOptionId(null);
       setIsAnswered(false);
       setTimeLeft(QUESTION_TIME_LIMIT);
     } else {
-      // Yarışma bittiğinde kart öğrenme ekranına dön
       navigation.navigate('Learn');
     }
   };
 
+  if (questions.length === 0) {
+    return (
+      <SafeAreaView style={styles.container} edges={['left', 'right', 'bottom']}>
+        <View style={styles.emptyContainer}>
+          <Text style={styles.emptyText}>Yarışma için soru bulunamadı.</Text>
+        </View>
+      </SafeAreaView>
+    );
+  }
+
+  const currentQuestion = questions[currentQuestionIndex];
+
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView style={styles.container} edges={['left', 'right', 'bottom']}>
       {/* Üst Bilgi Barı */}
       <View style={styles.header}>
         <View style={styles.timerBadge}>
@@ -95,7 +111,7 @@ export const QuizScreen = ({ navigation }: any) => {
       {/* Soru Kartı */}
       <View style={styles.questionCard}>
         <Text style={styles.questionCounter}>
-          Soru {currentQuestionIndex + 1} / {MOCK_QUESTIONS.length}
+          Soru {currentQuestionIndex + 1} / {questions.length}
         </Text>
         <Text style={styles.questionText}>{currentQuestion.questionText}</Text>
       </View>
@@ -109,14 +125,19 @@ export const QuizScreen = ({ navigation }: any) => {
             style={[
               styles.optionButton,
               isAnswered && option.isCorrect && styles.correctOption,
-              isAnswered && option.id === selectedOptionId && !option.isCorrect && styles.wrongOption,
+              isAnswered &&
+                option.id === selectedOptionId &&
+                !option.isCorrect &&
+                styles.wrongOption,
             ]}
             onPress={() => handleOptionSelect(option)}
           >
             <Text
               style={[
                 styles.optionText,
-                isAnswered && (option.isCorrect || option.id === selectedOptionId) && styles.whiteText,
+                isAnswered &&
+                  (option.isCorrect || option.id === selectedOptionId) &&
+                  styles.whiteText,
               ]}
             >
               {option.text}
@@ -133,7 +154,7 @@ export const QuizScreen = ({ navigation }: any) => {
 
           <TouchableOpacity style={styles.nextButton} onPress={handleNextQuestion}>
             <Text style={styles.nextButtonText}>
-              {currentQuestionIndex < MOCK_QUESTIONS.length - 1
+              {currentQuestionIndex < questions.length - 1
                 ? 'Sonraki Soru ➔'
                 : 'Yarışmayı Tamamla 🎉'}
             </Text>
@@ -257,5 +278,14 @@ const styles = StyleSheet.create({
   nextButtonText: {
     color: '#FFFFFF',
     fontWeight: 'bold',
+  },
+  emptyContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  emptyText: {
+    fontSize: FONT_SIZE.md,
+    color: COLORS.textSecondary,
   },
 });

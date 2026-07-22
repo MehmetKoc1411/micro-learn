@@ -5,24 +5,28 @@ import {
   Text,
   View,
   TouchableOpacity,
-  SafeAreaView,
   ScrollView,
 } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { COLORS, SPACING, FONT_SIZE } from '../constants/theme';
-import { MOCK_CARDS, CATEGORIES } from '../data/mockData';
+import { CATEGORIES } from '../data/mockData';
+import { getCardsByCategory } from '../services/questionService';
 import { FlipCard } from '../components/FlipCard';
 import { getUserProfile, addXP } from '../services/storageService';
-import { UserProfile, Category } from '../types';
+import { UserProfile, Category, FlashCard } from '../types';
 
 export const LearnScreen = ({ navigation }: any) => {
   const [selectedCategory, setSelectedCategory] = useState<Category | 'all'>('all');
+  const [cards, setCards] = useState<FlashCard[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [userProfile, setUserProfile] = useState<UserProfile | null>(null);
 
-  // Kategoriye göre filtrelenmiş kartlar
-  const filteredCards = MOCK_CARDS.filter((card) =>
-    selectedCategory === 'all' ? true : card.categoryId === selectedCategory
-  );
+  // Kategori değiştiğinde kartları servisten çek
+  useEffect(() => {
+    const fetchedCards = getCardsByCategory(selectedCategory);
+    setCards(fetchedCards);
+    setCurrentIndex(0);
+  }, [selectedCategory]);
 
   const loadProfile = async () => {
     const profile = await getUserProfile();
@@ -33,10 +37,8 @@ export const LearnScreen = ({ navigation }: any) => {
     loadProfile();
   }, []);
 
-  // Kategori değiştiğinde indeksi sıfırla
   const handleCategorySelect = (catId: Category | 'all') => {
     setSelectedCategory(catId);
-    setCurrentIndex(0);
   };
 
   const handleLearned = async () => {
@@ -50,17 +52,17 @@ export const LearnScreen = ({ navigation }: any) => {
   };
 
   const nextCard = () => {
-    if (currentIndex < filteredCards.length - 1) {
+    if (currentIndex < cards.length - 1) {
       setCurrentIndex((prev) => prev + 1);
     } else {
-      setCurrentIndex(0);
+      setCurrentIndex(0); // Başa dön
     }
   };
 
-  const currentCard = filteredCards[currentIndex];
+  const currentCard = cards[currentIndex];
 
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView style={styles.container} edges={['left', 'right', 'bottom']}>
       {/* Üst Header: Level ve XP Bilgisi */}
       <View style={styles.header}>
         <View style={styles.statBox}>
@@ -70,8 +72,8 @@ export const LearnScreen = ({ navigation }: any) => {
 
         <View style={styles.progressBox}>
           <Text style={styles.cardCounter}>
-            {filteredCards.length > 0
-              ? `Kart ${currentIndex + 1} / ${filteredCards.length}`
+            {cards.length > 0
+              ? `Kart ${currentIndex + 1} / ${cards.length}`
               : 'Kart Yok'}
           </Text>
         </View>
@@ -84,7 +86,11 @@ export const LearnScreen = ({ navigation }: any) => {
 
       {/* Kategori Seçim Çipleri (Horizontal Scroll) */}
       <View style={styles.categoryBar}>
-        <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.categoryScroll}>
+        <ScrollView
+          horizontal
+          showsHorizontalScrollIndicator={false}
+          contentContainerStyle={styles.categoryScroll}
+        >
           {CATEGORIES.map((cat) => {
             const isSelected = selectedCategory === cat.id;
             return (
@@ -94,7 +100,12 @@ export const LearnScreen = ({ navigation }: any) => {
                 onPress={() => handleCategorySelect(cat.id)}
               >
                 <Text style={styles.categoryIcon}>{cat.icon}</Text>
-                <Text style={[styles.categoryText, isSelected && styles.selectedCategoryText]}>
+                <Text
+                  style={[
+                    styles.categoryText,
+                    isSelected && styles.selectedCategoryText,
+                  ]}
+                >
                   {cat.name}
                 </Text>
               </TouchableOpacity>
