@@ -1,11 +1,13 @@
 // App.tsx
 import React from 'react';
+import { TouchableOpacity, Text } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { LearnScreen } from './src/screens/LearnScreen';
 import { QuizScreen } from './src/screens/QuizScreen';
-import { COLORS } from './src/constants/theme';
+import { ProfileScreen } from './src/screens/ProfileScreen';
+import { COLORS, SPACING } from './src/constants/theme';
 
 const Stack = createNativeStackNavigator();
 
@@ -15,7 +17,7 @@ export default function App() {
       <StatusBar style="dark" />
       <Stack.Navigator
         initialRouteName="Learn"
-        screenOptions={{
+        screenOptions={({ navigation }) => ({
           headerStyle: {
             backgroundColor: COLORS.background,
           },
@@ -24,7 +26,15 @@ export default function App() {
             fontWeight: 'bold',
           },
           headerShadowVisible: false,
-        }}
+          headerRight: () => (
+            <TouchableOpacity
+              onPress={() => navigation.navigate('Profile')}
+              style={{ marginRight: SPACING.xs }}
+            >
+              <Text style={{ fontSize: 22 }}>👤</Text>
+            </TouchableOpacity>
+          ),
+        })}
       >
         <Stack.Screen
           name="Learn"
@@ -35,6 +45,11 @@ export default function App() {
           name="Quiz"
           component={QuizScreen}
           options={{ title: '⚡ Zamana Karşı Yarışma' }}
+        />
+        <Stack.Screen
+          name="Profile"
+          component={ProfileScreen}
+          options={{ title: '🏆 Profil ve Başarılar' }}
         />
       </Stack.Navigator>
     </NavigationContainer>
