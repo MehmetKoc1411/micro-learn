@@ -9,80 +9,90 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { COLORS, SPACING, FONT_SIZE } from '../constants/theme';
 import { getUserProfile } from '../services/storageService';
-import { UserProfile, Badge } from '../types';
+import { UserProfile } from '../types';
 
 export const ProfileScreen = () => {
   const [profile, setProfile] = useState<UserProfile | null>(null);
 
   useEffect(() => {
-    const loadProfileData = async () => {
+    const loadProfile = async () => {
       const data = await getUserProfile();
       setProfile(data);
     };
-    loadProfileData();
+    loadProfile();
   }, []);
 
-  const currentXP = profile?.xp || 0;
-  const currentLevel = profile?.level || 1;
-  const progressPercent = Math.min((currentXP % 100) / 100, 1) * 100;
+  const nextLevelXP = (profile?.level || 1) * 100;
+  const currentXPInLevel = (profile?.xp || 0) % 100;
+  const progressPercent = (currentXPInLevel / 100) * 100;
 
   return (
     <SafeAreaView style={styles.container} edges={['left', 'right', 'bottom']}>
       <ScrollView contentContainerStyle={styles.content}>
-        {/* Kullanıcı Kartı ve Seviye Durumu */}
+        {/* Profil Başlığı */}
         <View style={styles.profileHeader}>
-          <View style={styles.avatarCircle}>
+          <View style={styles.avatarBox}>
             <Text style={styles.avatarEmoji}>🎓</Text>
           </View>
           <Text style={styles.userName}>Bilgi Avcısı</Text>
-          <Text style={styles.userLevel}>Seviye {currentLevel} Öğrenci</Text>
+          <Text style={styles.userLevelText}>
+            Seviye {profile?.level || 1} Öğrenci
+          </Text>
 
-          {/* XP İlerleme Çubuğu */}
-          <View style={styles.progressContainer}>
-            <View style={styles.progressTextRow}>
-              <Text style={styles.progressLabel}>Seviye İlerlemesi</Text>
-              <Text style={styles.progressValue}>
-                {currentXP % 100} / 100 XP
+          {/* Seviye İlerleme Barı */}
+          <View style={styles.levelProgressContainer}>
+            <View style={styles.levelProgressHeader}>
+              <Text style={styles.levelProgressLabel}>Seviye İlerlemesi</Text>
+
+              <Text style={styles.levelProgressValue}>
+                {currentXPInLevel} / 100 XP
               </Text>
             </View>
             <View style={styles.progressBarBackground}>
               <View
-                style={[styles.progressBarFill, { width: `${progressPercent}%` }]}
+                style={[
+                  styles.progressBarFill,
+                  { width: `${progressPercent}%` },
+                ]}
               />
             </View>
           </View>
         </View>
 
-        {/* İstatistik Özet Kartları */}
-        <View style={styles.statsRow}>
+        {/* İstatistik Izgarası */}
+        <View style={styles.statsGrid}>
           <View style={styles.statCard}>
             <Text style={styles.statEmoji}>🔥</Text>
-            <Text style={styles.statNumber}>{currentXP}</Text>
-            <Text style={styles.statTitle}>Toplam XP</Text>
+            <Text style={styles.statNumber}>{profile?.xp || 0}</Text>
+            <Text style={styles.statLabel}>Toplam XP</Text>
           </View>
 
           <View style={styles.statCard}>
             <Text style={styles.statEmoji}>🃏</Text>
-            <Text style={styles.statNumber}>{profile?.completedCardsCount || 0}</Text>
-            <Text style={styles.statTitle}>Tamamlanan Kart</Text>
+            <Text style={styles.statNumber}>
+              {profile?.completedCardsCount || 0}
+            </Text>
+            <Text style={styles.statLabel}>Tamamlanan Kart</Text>
           </View>
 
           <View style={styles.statCard}>
             <Text style={styles.statEmoji}>⚡</Text>
             <Text style={styles.statNumber}>{profile?.streak || 1} Gün</Text>
-            <Text style={styles.statTitle}>Öğrenme Serisi</Text>
+            <Text style={styles.statLabel}>Öğrenme Serisi</Text>
           </View>
         </View>
 
-        {/* Kazanılan Rozetler Bölümü */}
+        {/* Başarı Rozetleri */}
         <Text style={styles.sectionTitle}>🏆 Başarı Rozetleri</Text>
         <View style={styles.badgesContainer}>
-          {profile?.badges.map((badge: Badge) => (
+          {profile?.badges.map((badge) => (
             <View key={badge.id} style={styles.badgeCard}>
               <Text style={styles.badgeIcon}>{badge.icon}</Text>
               <View style={styles.badgeInfo}>
                 <Text style={styles.badgeTitle}>{badge.title}</Text>
-                <Text style={styles.badgeDescription}>{badge.description}</Text>
+                <Text style={styles.badgeDescription}>
+                  {badge.description}
+                </Text>
               </View>
             </View>
           ))}
@@ -108,7 +118,7 @@ const styles = StyleSheet.create({
     marginBottom: SPACING.md,
     elevation: 2,
   },
-  avatarCircle: {
+  avatarBox: {
     width: 80,
     height: 80,
     borderRadius: 40,
@@ -125,33 +135,33 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: COLORS.textPrimary,
   },
-  userLevel: {
-    fontSize: FONT_SIZE.sm,
+  userLevelText: {
+    fontSize: FONT_SIZE.xs,
     color: COLORS.primary,
     fontWeight: '600',
     marginBottom: SPACING.md,
   },
-  progressContainer: {
+  levelProgressContainer: {
     width: '100%',
   },
-  progressTextRow: {
+  levelProgressHeader: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    marginBottom: SPACING.xs,
+    marginBottom: 6,
   },
-  progressLabel: {
+  levelProgressLabel: {
     fontSize: FONT_SIZE.xs,
     color: COLORS.textSecondary,
     fontWeight: '600',
   },
-  progressValue: {
+  levelProgressValue: {
     fontSize: FONT_SIZE.xs,
     color: COLORS.primary,
     fontWeight: 'bold',
   },
   progressBarBackground: {
     height: 10,
-    backgroundColor: '#EDF2F7',
+    backgroundColor: '#E2E8F0',
     borderRadius: 5,
     overflow: 'hidden',
   },
@@ -160,11 +170,10 @@ const styles = StyleSheet.create({
     backgroundColor: COLORS.primary,
     borderRadius: 5,
   },
-  statsRow: {
+  statsGrid: {
     flexDirection: 'row',
-    justifyContent: 'space-between',
     gap: 10,
-    marginBottom: SPACING.md,
+    marginBottom: SPACING.lg,
   },
   statCard: {
     flex: 1,
@@ -172,10 +181,10 @@ const styles = StyleSheet.create({
     borderRadius: 16,
     padding: SPACING.md,
     alignItems: 'center',
-    elevation: 2,
+    elevation: 1,
   },
   statEmoji: {
-    fontSize: FONT_SIZE.lg,
+    fontSize: 24,
     marginBottom: 4,
   },
   statNumber: {
@@ -183,11 +192,11 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: COLORS.textPrimary,
   },
-  statTitle: {
-    fontSize: FONT_SIZE.xs - 1,
+  statLabel: {
+    fontSize: FONT_SIZE.xs - 2,
     color: COLORS.textSecondary,
-    marginTop: 2,
     textAlign: 'center',
+    marginTop: 2,
   },
   sectionTitle: {
     fontSize: FONT_SIZE.md,
@@ -202,7 +211,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     backgroundColor: '#FFFFFF',
-    borderRadius: 12,
+    borderRadius: 16,
     padding: SPACING.md,
     elevation: 1,
   },

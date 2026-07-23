@@ -36,10 +36,10 @@ export const QuizSetupScreen = ({ navigation }: any) => {
           </Text>
         </View>
 
-        {/* Kategori Seçimi */}
+        {/* Kategori Seçimi (Favoriler kategorisi filtrelenir) */}
         <Text style={styles.sectionTitle}>1. Kategori Seç</Text>
         <View style={styles.categoryGrid}>
-          {CATEGORIES.map((cat) => {
+          {CATEGORIES.filter((cat) => cat.id !== 'favorites').map((cat) => {
             const isSelected = selectedCategory === cat.id;
             return (
               <TouchableOpacity
@@ -48,7 +48,7 @@ export const QuizSetupScreen = ({ navigation }: any) => {
                   styles.categoryCard,
                   isSelected && styles.selectedCategoryCard,
                 ]}
-                onPress={() => setSelectedCategory(cat.id)}
+                onPress={() => setSelectedCategory(cat.id as Category | 'all')}
               >
                 <Text style={styles.categoryIcon}>{cat.icon}</Text>
                 <Text

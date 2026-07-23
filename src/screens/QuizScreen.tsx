@@ -15,7 +15,6 @@ import { Question, QuizOption, Category } from '../types';
 const QUESTION_TIME_LIMIT = 10;
 
 export const QuizScreen = ({ route, navigation }: any) => {
-  // Navigation'dan gelen parametreler (Varsayılan: 'all' ve 10 soru)
   const category: Category | 'all' = route.params?.category || 'all';
   const limit: number = route.params?.limit || 10;
 
@@ -24,16 +23,17 @@ export const QuizScreen = ({ route, navigation }: any) => {
   const [selectedOptionId, setSelectedOptionId] = useState<string | null>(null);
   const [timeLeft, setTimeLeft] = useState(QUESTION_TIME_LIMIT);
   const [combo, setCombo] = useState(1);
+  const [maxCombo, setMaxCombo] = useState(1);
   const [score, setScore] = useState(0);
+  const [correctCount, setCorrectCount] = useState(0);
+  const [wrongCount, setWrongCount] = useState(0);
   const [isAnswered, setIsAnswered] = useState(false);
 
-  // Sayfa açıldığında seçilen kategori ve limite göre soruları çek
   useEffect(() => {
     const fetchedQuestions = getQuestionsByCategory(category, limit);
     setQuestions(fetchedQuestions);
   }, [category, limit]);
 
-  // Zamanlayıcı (Timer) Mantığı
   useEffect(() => {
     if (isAnswered || questions.length === 0) return;
 
@@ -51,6 +51,7 @@ export const QuizScreen = ({ route, navigation }: any) => {
 
   const handleTimeOut = () => {
     setIsAnswered(true);
+    setWrongCount((prev) => prev + 1);
     setCombo(1);
   };
 
@@ -63,9 +64,15 @@ export const QuizScreen = ({ route, navigation }: any) => {
     if (option.isCorrect) {
       const earnedXP = 20 * combo;
       setScore((prev) => prev + earnedXP);
-      setCombo((prev) => prev + 1);
+      setCorrectCount((prev) => prev + 1);
+      setCombo((prev) => {
+        const nextCombo = prev + 1;
+        if (nextCombo > maxCombo) setMaxCombo(nextCombo);
+        return nextCombo;
+      });
       await addXP(earnedXP);
     } else {
+      setWrongCount((prev) => prev + 1);
       setCombo(1);
     }
   };
@@ -77,7 +84,13 @@ export const QuizScreen = ({ route, navigation }: any) => {
       setIsAnswered(false);
       setTimeLeft(QUESTION_TIME_LIMIT);
     } else {
-      navigation.navigate('Learn');
+      navigation.navigate('QuizResult', {
+        totalQuestions: questions.length,
+        correctCount,
+        wrongCount,
+        score,
+        maxCombo,
+      });
     }
   };
 
@@ -166,7 +179,7 @@ export const QuizScreen = ({ route, navigation }: any) => {
             <Text style={styles.nextButtonText}>
               {currentQuestionIndex < questions.length - 1
                 ? 'Sonraki Soru ➔'
-                : 'Yarışmayı Tamamla 🎉'}
+                : 'Sonuçları Gör 🎉'}
             </Text>
           </TouchableOpacity>
         </View>

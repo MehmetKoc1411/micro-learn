@@ -60,6 +60,7 @@ export interface UserProfile {
   xp: number;
   level: number;
   streak: number;
+  lastLoginDate?: string; // YYYY-MM-DD formatında tarih takibi
   completedCardsCount: number;
   correctAnswersCount: number;
   badges: Badge[];

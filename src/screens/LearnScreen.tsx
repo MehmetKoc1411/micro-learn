@@ -11,23 +11,31 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { COLORS, SPACING, FONT_SIZE } from '../constants/theme';
 import { CATEGORIES } from '../data/mockData';
 import { getCardsByCategory } from '../services/questionService';
+import {
+  getUserProfile,
+  addXP,
+  getFavoriteCardIds,
+  toggleFavoriteCard,
+} from '../services/storageService';
 import { FlipCard } from '../components/FlipCard';
-import { getUserProfile, addXP } from '../services/storageService';
 import { UserProfile, Category, FlashCard } from '../types';
 
 export const LearnScreen = ({ navigation }: any) => {
-  const [selectedCategory, setSelectedCategory] = useState<Category | 'all'>('all');
+  const [selectedCategory, setSelectedCategory] = useState<
+    Category | 'all' | 'favorites'
+  >('all');
   const [cards, setCards] = useState<FlashCard[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [userProfile, setUserProfile] = useState<UserProfile | null>(null);
+  const [favoriteIds, setFavoriteIds] = useState<string[]>([]);
 
-  // Kategori değiştiğinde kartları servisten çek
-  useEffect(() => {
-    const fetchedCards = getCardsByCategory(selectedCategory);
-    setCards(fetchedCards);
-    setCurrentIndex(0);
-  }, [selectedCategory]);
+  // Favori ID listesini yükle
+  const loadFavorites = async () => {
+    const ids = await getFavoriteCardIds();
+    setFavoriteIds(ids);
+  };
 
+  // Profil verisini yükle
   const loadProfile = async () => {
     const profile = await getUserProfile();
     setUserProfile(profile);
@@ -35,10 +43,29 @@ export const LearnScreen = ({ navigation }: any) => {
 
   useEffect(() => {
     loadProfile();
+    loadFavorites();
   }, []);
 
-  const handleCategorySelect = (catId: Category | 'all') => {
+  // Kategori veya Favoriler değiştiğinde kartları getir
+  useEffect(() => {
+    if (selectedCategory === 'favorites') {
+      const allCards = getCardsByCategory('all');
+      const favCards = allCards.filter((c) => favoriteIds.includes(c.id));
+      setCards(favCards);
+    } else {
+      const fetchedCards = getCardsByCategory(selectedCategory);
+      setCards(fetchedCards);
+    }
+    setCurrentIndex(0);
+  }, [selectedCategory, favoriteIds]);
+
+  const handleCategorySelect = (catId: Category | 'all' | 'favorites') => {
     setSelectedCategory(catId);
+  };
+
+  const handleToggleFavorite = async (cardId: string) => {
+    const updatedIds = await toggleFavoriteCard(cardId);
+    setFavoriteIds(updatedIds);
   };
 
   const handleLearned = async () => {
@@ -60,22 +87,35 @@ export const LearnScreen = ({ navigation }: any) => {
   };
 
   const currentCard = cards[currentIndex];
+  const progressPercent =
+    cards.length > 0 ? ((currentIndex + 1) / cards.length) * 100 : 0;
 
   return (
     <SafeAreaView style={styles.container} edges={['left', 'right', 'bottom']}>
-      {/* Üst Header: Level ve XP Bilgisi */}
+      {/* Üst Header: Level, XP ve İnce Kart İlerleme Barı */}
       <View style={styles.header}>
         <View style={styles.statBox}>
           <Text style={styles.statLabel}>Seviye</Text>
           <Text style={styles.statValue}>⭐ {userProfile?.level || 1}</Text>
         </View>
 
+        {/* Orta Kart İlerleme Alanı */}
         <View style={styles.progressBox}>
           <Text style={styles.cardCounter}>
             {cards.length > 0
               ? `Kart ${currentIndex + 1} / ${cards.length}`
               : 'Kart Yok'}
           </Text>
+
+          {/* İnce İlerleme Çubuğu */}
+          <View style={styles.cardProgressBarBackground}>
+            <View
+              style={[
+                styles.cardProgressBarFill,
+                { width: `${progressPercent}%` },
+              ]}
+            />
+          </View>
         </View>
 
         <View style={styles.statBox}>
@@ -96,7 +136,10 @@ export const LearnScreen = ({ navigation }: any) => {
             return (
               <TouchableOpacity
                 key={cat.id}
-                style={[styles.categoryChip, isSelected && styles.selectedCategoryChip]}
+                style={[
+                  styles.categoryChip,
+                  isSelected && styles.selectedCategoryChip,
+                ]}
                 onPress={() => handleCategorySelect(cat.id)}
               >
                 <Text style={styles.categoryIcon}>{cat.icon}</Text>
@@ -120,17 +163,23 @@ export const LearnScreen = ({ navigation }: any) => {
           <FlipCard
             key={currentCard.id || currentIndex}
             card={currentCard}
+            isFavorite={favoriteIds.includes(currentCard.id)}
+            onToggleFavorite={() => handleToggleFavorite(currentCard.id)}
             onLearned={handleLearned}
             onRepeat={handleRepeat}
           />
         ) : (
           <View style={styles.emptyContainer}>
-            <Text style={styles.emptyText}>Bu kategoride henüz kart bulunmuyor.</Text>
+            <Text style={styles.emptyText}>
+              {selectedCategory === 'favorites'
+                ? 'Henüz favorilere eklenmiş bir kart yok.'
+                : 'Bu kategoride henüz kart bulunmuyor.'}
+            </Text>
           </View>
         )}
       </View>
 
-      {/* Alt Gezinme Butonu (Quiz Ayarlar Ekranına Yönlendirir) */}
+      {/* Alt Gezinme Butonu */}
       <View style={styles.footer}>
         <TouchableOpacity
           style={styles.quizNavButton}
@@ -158,7 +207,7 @@ const styles = StyleSheet.create({
   },
   statBox: {
     backgroundColor: '#FFFFFF',
-    paddingHorizontal: SPACING.sm + 4,
+    paddingHorizontal: SPACING.sm + 2,
     paddingVertical: SPACING.xs,
     borderRadius: 12,
     alignItems: 'center',
@@ -178,11 +227,27 @@ const styles = StyleSheet.create({
   },
   progressBox: {
     alignItems: 'center',
+    justifyContent: 'center',
+    flex: 1,
+    paddingHorizontal: SPACING.sm,
   },
   cardCounter: {
-    fontSize: FONT_SIZE.sm,
+    fontSize: FONT_SIZE.xs + 1,
     fontWeight: 'bold',
     color: COLORS.textSecondary,
+    marginBottom: 4,
+  },
+  cardProgressBarBackground: {
+    height: 6,
+    width: '85%',
+    backgroundColor: '#E2E8F0',
+    borderRadius: 3,
+    overflow: 'hidden',
+  },
+  cardProgressBarFill: {
+    height: '100%',
+    backgroundColor: COLORS.primary,
+    borderRadius: 3,
   },
   categoryBar: {
     marginVertical: SPACING.xs,
@@ -230,6 +295,7 @@ const styles = StyleSheet.create({
   emptyText: {
     fontSize: FONT_SIZE.md,
     color: COLORS.textSecondary,
+    textAlign: 'center',
   },
   footer: {
     padding: SPACING.md,

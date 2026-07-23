@@ -8,6 +8,7 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { LearnScreen } from './src/screens/LearnScreen';
 import { QuizSetupScreen } from './src/screens/QuizSetupScreen';
 import { QuizScreen } from './src/screens/QuizScreen';
+import { QuizResultScreen } from './src/screens/QuizResultScreen';
 import { ProfileScreen } from './src/screens/ProfileScreen';
 import { COLORS, SPACING } from './src/constants/theme';
 
@@ -53,6 +54,11 @@ export default function App() {
             name="Quiz"
             component={QuizScreen}
             options={{ title: '⚡ Zamana Karşı Yarışma' }}
+          />
+          <Stack.Screen
+            name="QuizResult"
+            component={QuizResultScreen}
+            options={{ title: '📊 Test Sonucu', headerLeft: () => null }}
           />
           <Stack.Screen
             name="Profile"

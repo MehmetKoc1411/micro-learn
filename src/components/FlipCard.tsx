@@ -1,35 +1,44 @@
 // src/components/FlipCard.tsx
-import React, { useRef, useState } from 'react';
+import React, { useRef, useState, useEffect } from 'react';
 import {
   StyleSheet,
   Text,
   View,
   TouchableOpacity,
   Animated,
+  Dimensions,
 } from 'react-native';
+import * as Speech from 'expo-speech';
 import { COLORS, SPACING, FONT_SIZE } from '../constants/theme';
 import { FlashCard } from '../types';
 
+const { width } = Dimensions.get('window');
+const CARD_WIDTH = width - SPACING.md * 2;
+const CARD_HEIGHT = 380;
+
 interface FlipCardProps {
   card: FlashCard;
-  onLearned?: () => void;
-  onRepeat?: () => void;
+  isFavorite?: boolean;
+  onToggleFavorite?: () => void;
+  onLearned: () => void;
+  onRepeat: () => void;
 }
 
-export const FlipCard = ({ card, onLearned, onRepeat }: FlipCardProps) => {
-  const animatedValue = useRef(new Animated.Value(0)).current;
+export const FlipCard: React.FC<FlipCardProps> = ({
+  card,
+  isFavorite = false,
+  onToggleFavorite,
+  onLearned,
+  onRepeat,
+}) => {
   const [isFlipped, setIsFlipped] = useState(false);
+  const animatedValue = useRef(new Animated.Value(0)).current;
 
-  // Kartın dönme derecesini hesaplama
-  const frontInterpolate = animatedValue.interpolate({
-    inputRange: [0, 180],
-    outputRange: ['0deg', '180deg'],
-  });
-
-  const backInterpolate = animatedValue.interpolate({
-    inputRange: [0, 180],
-    outputRange: ['180deg', '360deg'],
-  });
+  useEffect(() => {
+    setIsFlipped(false);
+    animatedValue.setValue(0);
+    Speech.stop();
+  }, [card]);
 
   const flipCard = () => {
     if (isFlipped) {
@@ -51,6 +60,16 @@ export const FlipCard = ({ card, onLearned, onRepeat }: FlipCardProps) => {
     }
   };
 
+  const frontInterpolate = animatedValue.interpolate({
+    inputRange: [0, 180],
+    outputRange: ['0deg', '180deg'],
+  });
+
+  const backInterpolate = animatedValue.interpolate({
+    inputRange: [0, 180],
+    outputRange: ['180deg', '360deg'],
+  });
+
   const frontAnimatedStyle = {
     transform: [{ rotateY: frontInterpolate }],
   };
@@ -59,20 +78,77 @@ export const FlipCard = ({ card, onLearned, onRepeat }: FlipCardProps) => {
     transform: [{ rotateY: backInterpolate }],
   };
 
+  const handleFavoritePress = (e: any) => {
+    e.stopPropagation();
+    if (onToggleFavorite) {
+      onToggleFavorite();
+    }
+  };
+
+  const handleSpeakPress = (e: any) => {
+    e.stopPropagation();
+    Speech.stop();
+
+    const textToSpeak = isFlipped ? card?.backText : card?.frontText;
+    if (!textToSpeak) return;
+
+    // Metinde Türkçe karakter veya Türkçe soru ekleri var mı kontrol et
+    const hasTurkishChar = /[çğışöüÇĞİŞÖÜ]/i.test(textToSpeak);
+    const hasTurkishWords = /(nedir|demektir|hangisidir|karşılığı|anlamı|örneğin|fırsat)/i.test(textToSpeak);
+
+    // Eğer Türkçe kelimeler içeriyorsa Türkçe okut, tamamen İngilizce ise en-US okut
+    const language = (hasTurkishChar || hasTurkishWords) ? 'tr-TR' : 'en-US';
+
+    Speech.speak(textToSpeak, {
+      language,
+      pitch: 1.0,
+      rate: 0.9,
+    });
+  };
+
   return (
     <View style={styles.container}>
-      <TouchableOpacity activeOpacity={1} onPress={flipCard} style={styles.cardContainer}>
-        {/* Ön Yüz */}
-        <Animated.View style={[styles.card, styles.cardFront, frontAnimatedStyle]}>
-          <View style={styles.badge}>
-            <Text style={styles.badgeText}>{card.title}</Text>
+      <TouchableOpacity activeOpacity={0.9} onPress={flipCard}>
+        {/* ÖN YÜZ */}
+        <Animated.View
+          pointerEvents={isFlipped ? 'none' : 'auto'}
+          style={[styles.card, styles.cardFront, frontAnimatedStyle]}
+        >
+          <View style={styles.cardHeaderRow}>
+            <View style={styles.badge}>
+              <Text style={styles.badgeText} numberOfLines={1} ellipsizeMode="tail">
+                {card?.title || 'Başlık'}
+              </Text>
+            </View>
+
+            <View style={styles.headerRightButtons}>
+              <TouchableOpacity
+                onPress={handleSpeakPress}
+                style={styles.iconButton}
+                activeOpacity={0.6}
+                hitSlop={{ top: 15, bottom: 15, left: 15, right: 15 }}
+              >
+                <Text style={styles.iconText}>🔊</Text>
+              </TouchableOpacity>
+
+              <TouchableOpacity
+                onPress={handleFavoritePress}
+                style={styles.iconButton}
+                activeOpacity={0.6}
+                hitSlop={{ top: 15, bottom: 15, left: 15, right: 15 }}
+              >
+                <Text style={styles.iconText}>{isFavorite ? '⭐' : '☆'}</Text>
+              </TouchableOpacity>
+            </View>
           </View>
-          <Text style={styles.frontText}>{card.frontText}</Text>
-          <Text style={styles.hintText}>💡 Cevabı/Açıklamayı görmek için dokunun</Text>
+
+          <Text style={styles.frontText}>{card?.frontText || ''}</Text>
+          <Text style={styles.hintText}>💡 Cevabı görmek için karta dokun</Text>
         </Animated.View>
 
-        {/* Arka Yüz */}
+        {/* ARKA YÜZ */}
         <Animated.View
+          pointerEvents={isFlipped ? 'auto' : 'none'}
           style={[
             styles.card,
             styles.cardBack,
@@ -80,27 +156,47 @@ export const FlipCard = ({ card, onLearned, onRepeat }: FlipCardProps) => {
             { position: 'absolute', top: 0 },
           ]}
         >
-          <Text style={styles.backTitle}>Çözüm / Detay</Text>
-          <Text style={styles.backText}>{card.backText}</Text>
+          <View style={styles.cardHeaderRow}>
+            <Text style={styles.backTitle}>Çözüm / Detay</Text>
 
-          {/* Öğrendim / Tekrar Et Butonları */}
+            <View style={styles.headerRightButtons}>
+              <TouchableOpacity
+                onPress={handleSpeakPress}
+                style={styles.iconButton}
+                activeOpacity={0.6}
+                hitSlop={{ top: 15, bottom: 15, left: 15, right: 15 }}
+              >
+                <Text style={styles.iconText}>🔊</Text>
+              </TouchableOpacity>
+
+              <TouchableOpacity
+                onPress={handleFavoritePress}
+                style={styles.iconButton}
+                activeOpacity={0.6}
+                hitSlop={{ top: 15, bottom: 15, left: 15, right: 15 }}
+              >
+                <Text style={styles.iconText}>{isFavorite ? '⭐' : '☆'}</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+
+          <Text style={styles.backText}>{card?.backText || ''}</Text>
+
+          {/* Öğrenme Aksiyon Butonları */}
           <View style={styles.actionRow}>
-            {onRepeat && (
-              <TouchableOpacity
-                style={[styles.actionButton, styles.repeatButton]}
-                onPress={onRepeat}
-              >
-                <Text style={styles.actionButtonText}>🔄 Tekrar Et</Text>
-              </TouchableOpacity>
-            )}
-            {onLearned && (
-              <TouchableOpacity
-                style={[styles.actionButton, styles.learnedButton]}
-                onPress={onLearned}
-              >
-                <Text style={styles.actionButtonText}>✓ Öğrendim (+10 XP)</Text>
-              </TouchableOpacity>
-            )}
+            <TouchableOpacity
+              style={[styles.actionButton, styles.repeatButton]}
+              onPress={onRepeat}
+            >
+              <Text style={styles.actionText}>🔁 Tekrar Et</Text>
+            </TouchableOpacity>
+
+            <TouchableOpacity
+              style={[styles.actionButton, styles.learnedButton]}
+              onPress={onLearned}
+            >
+              <Text style={styles.actionText}>✅ Öğrendim (+10 XP)</Text>
+            </TouchableOpacity>
           </View>
         </Animated.View>
       </TouchableOpacity>
@@ -110,46 +206,61 @@ export const FlipCard = ({ card, onLearned, onRepeat }: FlipCardProps) => {
 
 const styles = StyleSheet.create({
   container: {
+    width: CARD_WIDTH,
+    height: CARD_HEIGHT,
     alignItems: 'center',
     justifyContent: 'center',
-    marginVertical: SPACING.md,
-  },
-  cardContainer: {
-    width: 320,
-    height: 420,
   },
   card: {
-    width: '100%',
-    height: '100%',
-    borderRadius: 20,
+    width: CARD_WIDTH,
+    height: CARD_HEIGHT,
+    backgroundColor: '#FFFFFF',
+    borderRadius: 24,
     padding: SPACING.lg,
     justifyContent: 'space-between',
     alignItems: 'center',
-    backfaceVisibility: 'hidden', // Dönünce ters yüzünün görünmemesi için hayati kural
-    elevation: 8,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 6 },
-    shadowOpacity: 0.15,
-    shadowRadius: 10,
-  },
-  cardFront: {
-    backgroundColor: COLORS.cardFront,
+    backfaceVisibility: 'hidden',
     borderWidth: 2,
     borderColor: COLORS.primary,
+    elevation: 4,
+  },
+  cardFront: {
+    backgroundColor: '#FFFFFF',
   },
   cardBack: {
-    backgroundColor: COLORS.cardBack,
+    backgroundColor: '#F8F9FA',
+  },
+  cardHeaderRow: {
+    width: '100%',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
   },
   badge: {
+    flex: 1,
+    marginRight: SPACING.xs,
     backgroundColor: '#F0EDFF',
-    paddingHorizontal: SPACING.md,
+    paddingHorizontal: SPACING.sm,
     paddingVertical: SPACING.xs,
     borderRadius: 12,
   },
   badgeText: {
     color: COLORS.primary,
-    fontWeight: 'bold',
     fontSize: FONT_SIZE.xs,
+    fontWeight: 'bold',
+  },
+  headerRightButtons: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 4,
+  },
+  iconButton: {
+    padding: 4,
+    zIndex: 999,
+    elevation: 5,
+  },
+  iconText: {
+    fontSize: 20,
   },
   frontText: {
     fontSize: FONT_SIZE.lg,
@@ -164,14 +275,14 @@ const styles = StyleSheet.create({
     fontStyle: 'italic',
   },
   backTitle: {
-    fontSize: FONT_SIZE.sm,
+    fontSize: FONT_SIZE.xs,
     fontWeight: 'bold',
-    color: COLORS.secondary,
-    letterSpacing: 1,
+    color: COLORS.primary,
+    textTransform: 'uppercase',
   },
   backText: {
     fontSize: FONT_SIZE.md,
-    color: COLORS.textLight,
+    color: COLORS.textPrimary,
     textAlign: 'center',
     lineHeight: 24,
   },
@@ -183,18 +294,18 @@ const styles = StyleSheet.create({
   actionButton: {
     flex: 1,
     paddingVertical: 12,
-    borderRadius: 10,
+    borderRadius: 12,
     alignItems: 'center',
   },
   repeatButton: {
-    backgroundColor: COLORS.warning,
+    backgroundColor: '#FFEAA7',
   },
   learnedButton: {
     backgroundColor: COLORS.success,
   },
-  actionButtonText: {
-    color: '#FFFFFF',
+  actionText: {
     fontWeight: 'bold',
     fontSize: FONT_SIZE.xs,
+    color: COLORS.textPrimary,
   },
 });

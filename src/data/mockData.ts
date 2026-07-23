@@ -2,12 +2,13 @@
 import { Category, Badge } from '../types';
 
 export interface CategoryItem {
-  id: Category | 'all';
+  id: Category | 'all' | 'favorites';
   name: string;
   icon: string;
 }
 
 export const CATEGORIES: CategoryItem[] = [
+  { id: 'favorites', name: 'Favoriler', icon: '⭐' },
   { id: 'all', name: 'Tümü', icon: '🌐' },
   { id: 'programming', name: 'Yazılım', icon: '💻' },
   { id: 'general_knowledge', name: 'Genel Kültür', icon: '🧠' },
